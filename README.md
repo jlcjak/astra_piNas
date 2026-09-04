@@ -40,7 +40,11 @@ Top and bottom placement views:
 | --- | --- |
 | ![Top component placement](docs/placement_top.png) | ![Bottom component placement](docs/placement_bottom.png) |
 
-All six copper layers, viewed from the top in stackup order. Click a layer name for the full-resolution vector drawing.
+All six copper layers, viewed from the top in stackup order:
+
+[![Overview of all six PCB copper layers](docs/images/layout-overview.png)](docs/images/layout-overview.png)
+
+Individual layers are shown below. Click a layer name for the full-resolution vector drawing.
 
 | Layer | Copper view |
 | --- | --- |

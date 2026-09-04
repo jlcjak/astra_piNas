@@ -1,0 +1,69 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C500767",
+      "name": "DIODES PI7C9X2G404SLBFDEX",
+      "model": "PI7C9X2G404SLBFDEX",
+      "brand": "Diodes Incorporated",
+      "package": "LQFP-128-EP(14x14)",
+      "category": "Interface - Specialized",
+      "stock": 2780,
+      "type": "Extended",
+      "price": 7.8075,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 7.8075
+        },
+        {
+          "qty": 10,
+          "price": 6.4412
+        },
+        {
+          "qty": 30,
+          "price": 5.6079
+        },
+        {
+          "qty": 100,
+          "price": 4.9093
+        },
+        {
+          "qty": 102,
+          "price": 4.9093
+        },
+        {
+          "qty": 104,
+          "price": 4.9093
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "-40\u2103~+85\u2103 5Gbps PCIe LQFP-128-EP(14x14) Interface - Specialized ROHS",
+      "url": "https://www.lcsc.com/product-detail/interface-specialized_diodes-incorporated-pi7c9x2g404slbfdex_C500767.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2003261708_Diodes-Incorporated-PI7C9X2G404SLBFDEX_C500767.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Data Rate",
+          "value": "5Gbps"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "3.3V"
+        },
+        {
+          "name": "Features",
+          "value": "Non-volatile configuration storage\u3001Link status monitoring"
+        },
+        {
+          "name": "Interface",
+          "value": "PCIe\u3001JTAG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "total": 53,
+  "results": [
+    {
+      "lcsc": "C2923823",
+      "name": "RLT URB4812S-6WR3",
+      "model": "URB4812S-6WR3",
+      "brand": "rlt",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 8,
+      "type": "Extended",
+      "price": 5.5933,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.5933
+        },
+        {
+          "qty": 10,
+          "price": 4.8054
+        },
+        {
+          "qty": 30,
+          "price": 4.3261
+        },
+        {
+          "qty": 100,
+          "price": 3.9233
+        },
+        {
+          "qty": 102,
+          "price": 3.9233
+        },
+        {
+          "qty": 104,
+          "price": 3.9233
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 10,
+      "description": "-40\u2103~+105\u2103 1 100mVp-p 12V 12mm 18V~72V 22mm 500kHz 500mA 6W 83% 9.5mm Short Circuit Protection\u3001Over Current Protection SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_rlt-urb4812s-6wr3_C2923823.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2111222130_rlt-URB4812S-6WR3_C2923823.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "500mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "6W"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "83%"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~72V"
+        },
+        {
+          "name": "Frequency",
+          "value": "500kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "100mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C18212315",
+      "name": "YLPTEC URB4812S-6WR3",
+      "model": "URB4812S-6WR3",
+      "brand": "YLPTEC",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 172,
+      "type": "Extended",
+      "price": 6.0904,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.0904
+        },
+        {
+          "qty": 10,
+          "price": 5.2635
+        },
+        {
+          "qty": 22,
+          "price": 4.7712
+        },
+        {
+          "qty": 110,
+          "price": 4.2741
+        },
+        {
+          "qty": 440,
+          "price": 4.0451
+        },
+        {
+          "qty": 880,
+          "price": 3.9411
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 22,
+      "description": "-40\u2103~+105\u2103 1 1.5kV 12V 12mm 18V~75V 22mm 300kHz 470uF 500mA 50mVp-p 6W 86% 9.5mm Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_ylptec-urb4812s-6wr3_C18212315.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251757_YLPTEC-URB4812S-6WR3_C18212315.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "500mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "6W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "86%"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "470uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "300kHz"
+        },
+        {
+          "name": "Height",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection"
+        },
+        {
+          "name": "Width",
+          "value": "12mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "50mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C20198637",
+      "name": "HI-LINK URB4812S-3WR3",
+      "model": "URB4812S-3WR3",
+      "brand": "HI-LINK",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 140,
+      "type": "Extended",
+      "price": 3.7202,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.7202
+        },
+        {
+          "qty": 10,
+          "price": 3.1971
+        },
+        {
+          "qty": 27,
+          "price": 2.8868
+        },
+        {
+          "qty": 99,
+          "price": 2.5733
+        },
+        {
+          "qty": 504,
+          "price": 2.4287
+        },
+        {
+          "qty": 999,
+          "price": 2.3621
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 9,
+      "description": "-40\u2103~+85\u2103 1 1.5kV 100mVp-p 12V 12mm 18V~75V 22mm 250mA 300kHz 3W 4mA 680uF 80% 9.5mm Regulated type Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_hi-link-urb4812s-3wr3_C20198637.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "250mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "3W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Voltage Regulation",
+          "value": "Regulated type"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "80%"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "680uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "300kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "100mVp-p"
+        },
+        {
+          "name": "Quiescent Supply Current",
+          "value": "4mA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C52192004",
+      "name": "EVISUN URB4812S-6WR3",
+      "model": "URB4812S-6WR3",
+      "brand": "EVISUN",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 133,
+      "type": "Extended",
+      "price": 5.5201,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.5201
+        },
+        {
+          "qty": 10,
+          "price": 4.7371
+        },
+        {
+          "qty": 27,
+          "price": 4.2709
+        },
+        {
+          "qty": 99,
+          "price": 3.7998
+        },
+        {
+          "qty": 504,
+          "price": 3.5837
+        },
+        {
+          "qty": 999,
+          "price": 3.4846
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 9,
+      "description": "-40\u2103~+105\u2103 1 1.6kV 12V 12mm 18V~75V 22mm 330kHz 330uF 500mA 50mVp-p 6W 86% 9.5mm Plastic encapsulated type Regulated type SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "500mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "6W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.6kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Voltage Regulation",
+          "value": "Regulated type"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "86%"
+        },
+        {
+          "name": "Type",
+          "value": "Plastic encapsulated type"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "330uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "330kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "50mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C54308262",
+      "name": "LZTEC URB4812S-6WR3",
+      "model": "URB4812S-6WR3",
+      "brand": "LZTEC",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 10,
+      "type": "Extended",
+      "price": 5.8272,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.8272
+        },
+        {
+          "qty": 10,
+          "price": 5.0003
+        },
+        {
+          "qty": 32,
+          "price": 4.5081
+        },
+        {
+          "qty": 96,
+          "price": 4.011
+        },
+        {
+          "qty": 496,
+          "price": 3.7819
+        },
+        {
+          "qty": 992,
+          "price": 3.6779
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 16,
+      "description": "SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "500mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "6W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "85%"
+        },
+        {
+          "name": "Type",
+          "value": "Molded type"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "470uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "270kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "50mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C42389626",
+      "name": "YLPTEC URB4812S-10WR3",
+      "model": "URB4812S-10WR3",
+      "brand": "YLPTEC",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 180,
+      "type": "Extended",
+      "price": 9.1948,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 9.1948
+        },
+        {
+          "qty": 10,
+          "price": 7.9959
+        },
+        {
+          "qty": 22,
+          "price": 7.2649
+        },
+        {
+          "qty": 110,
+          "price": 6.6508
+        },
+        {
+          "qty": 112,
+          "price": 6.6508
+        },
+        {
+          "qty": 114,
+          "price": 6.6508
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 22,
+      "description": "SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "833mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "10W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV\u30011.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "86%"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "48V\u300148V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "330uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "300kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "75mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C53454427",
+      "name": "EVISUN URB4812S-10WR3",
+      "model": "URB4812S-10WR3",
+      "brand": "EVISUN",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 34,
+      "type": "Extended",
+      "price": 6.5533,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.5533
+        },
+        {
+          "qty": 10,
+          "price": 5.655
+        },
+        {
+          "qty": 27,
+          "price": 5.1059
+        },
+        {
+          "qty": 99,
+          "price": 4.6462
+        },
+        {
+          "qty": 101,
+          "price": 4.6462
+        },
+        {
+          "qty": 103,
+          "price": 4.6462
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 9,
+      "description": "SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "1.111A"
+        },
+        {
+          "name": "Output Power",
+          "value": "10W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Voltage Regulation",
+          "value": "Regulated type"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "85%"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "680uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "300kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "9V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "75mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C54308267",
+      "name": "LZTEC URB4812S-10WR3",
+      "model": "URB4812S-10WR3",
+      "brand": "LZTEC",
+      "package": "SIP,22x9.5mm",
+      "category": "Isolated Power Modules",
+      "stock": 5,
+      "type": "Extended",
+      "price": 5.4617,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.4617
+        },
+        {
+          "qty": 10,
+          "price": 4.7128
+        },
+        {
+          "qty": 32,
+          "price": 4.2547
+        },
+        {
+          "qty": 96,
+          "price": 3.8729
+        },
+        {
+          "qty": 98,
+          "price": 3.8729
+        },
+        {
+          "qty": 100,
+          "price": 3.8729
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 16,
+      "description": "SIP,22x9.5mm Isolated Power Modules ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "833mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "10W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "85%"
+        },
+        {
+          "name": "Type",
+          "value": "Molded type"
+        },
+        {
+          "name": "Length",
+          "value": "22mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "470uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "270kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Width",
+          "value": "9.5mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "50mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C5369743",
+      "name": "YLPTEC URB4812YMD-6WR3",
+      "model": "URB4812YMD-6WR3",
+      "brand": "YLPTEC",
+      "package": "DIP,25.4x25.4mm",
+      "category": "Isolated Power Modules",
+      "stock": 40,
+      "type": "Extended",
+      "price": 6.7678,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.7678
+        },
+        {
+          "qty": 10,
+          "price": 5.8694
+        },
+        {
+          "qty": 40,
+          "price": 5.3203
+        },
+        {
+          "qty": 80,
+          "price": 4.8622
+        },
+        {
+          "qty": 82,
+          "price": 4.8622
+        },
+        {
+          "qty": 84,
+          "price": 4.8622
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 40,
+      "description": "-40\u2103~+85\u2103 1.5kV 11mm 12V 18V~75V 2 25.4mm 25.4mm 250kHz 500mA 50mVp-p 680uF 6W 87% Regulated type Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection\u3001Overvoltage protection DIP,25.4x25.4mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_ylptec-urb4812ymd-6wr3_C5369743.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2405211603_YLPTEC-URB4812YMD-6WR3_C5369743.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "500mA"
+        },
+        {
+          "name": "Output Power",
+          "value": "6W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "2"
+        },
+        {
+          "name": "Voltage Regulation",
+          "value": "Regulated type"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "87%"
+        },
+        {
+          "name": "Length",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "680uF"
+        },
+        {
+          "name": "Frequency",
+          "value": "250kHz"
+        },
+        {
+          "name": "Height",
+          "value": "11mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection\u3001Overvoltage protection"
+        },
+        {
+          "name": "Width",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "50mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C20199274",
+      "name": "HI-LINK URB4812LD-30WR3",
+      "model": "URB4812LD-30WR3",
+      "brand": "HI-LINK",
+      "package": "Plugin,50.8x25.4mm",
+      "category": "Isolated Power Modules",
+      "stock": 18,
+      "type": "Extended",
+      "price": 11.8005,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 11.8005
+        },
+        {
+          "qty": 10,
+          "price": 10.2004
+        },
+        {
+          "qty": 60,
+          "price": 9.2257
+        },
+        {
+          "qty": 120,
+          "price": 8.4069
+        },
+        {
+          "qty": 122,
+          "price": 8.4069
+        },
+        {
+          "qty": 124,
+          "price": 8.4069
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 60,
+      "description": "-40\u2103~+80\u2103 1 1.5kV 11.8mm 12V 2.5A 25.4mm 30W 50.8mm 75V 88% \u63d2\u4ef6,50.8x25.4mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_hi-link-urb4812ld-30wr3_C20199274.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2401041410_HI-LINK-URB4812LD-30WR3_C20199274.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Regulation",
+          "value": "Regulated type"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "2.5A"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "88%"
+        },
+        {
+          "name": "Type",
+          "value": "Plastic encapsulated type"
+        },
+        {
+          "name": "Output Power",
+          "value": "30W"
+        },
+        {
+          "name": "Length",
+          "value": "50.8mm"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "75V"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Height",
+          "value": "11.8mm"
+        },
+        {
+          "name": "Width",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

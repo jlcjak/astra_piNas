@@ -1,0 +1,28 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C52976238",
+      "name": "XHHD 303HZ20004",
+      "model": "303HZ20004",
+      "brand": "XHHD",
+      "package": "-",
+      "category": "Female-Female Hex Standoff",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0197,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0197
+        }
+      ],
+      "min_qty": 455,
+      "reel_qty": 500,
+      "description": "-",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

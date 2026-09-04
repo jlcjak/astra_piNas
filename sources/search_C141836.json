@@ -1,0 +1,101 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C141836",
+      "name": "TI TLV62569DBVR",
+      "model": "TLV62569DBVR",
+      "brand": "Texas Instruments",
+      "package": "SOT-23-5",
+      "category": "DC-DC Converters",
+      "stock": 128286,
+      "type": "Extended",
+      "price": 0.0785,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0785
+        },
+        {
+          "qty": 50,
+          "price": 0.0626
+        },
+        {
+          "qty": 150,
+          "price": 0.0545
+        },
+        {
+          "qty": 500,
+          "price": 0.0476
+        },
+        {
+          "qty": 3000,
+          "price": 0.0457
+        },
+        {
+          "qty": 6000,
+          "price": 0.0441
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103@(TJ) 1 1.5MHz 2.5V~5.5V 2A 600mV~5.5V Adjustable Buck Buck Built-in Yes SOT-23-5 DC-DC Converters ROHS",
+      "url": "https://www.lcsc.com/product-detail/dc-dc-converters_texas-instruments-tlv62569dbvr_C141836.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809251629_Texas-Instruments-TLV62569DBVR_C141836.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103@(TJ)"
+        },
+        {
+          "name": "Function",
+          "value": "Step-down type"
+        },
+        {
+          "name": "Synchronous Rectifier",
+          "value": "Yes"
+        },
+        {
+          "name": "Frequency - Switching",
+          "value": "1.5MHz"
+        },
+        {
+          "name": "Output Type",
+          "value": "Adjustable"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "2.5V~5.5V"
+        },
+        {
+          "name": "Output Current",
+          "value": "2A"
+        },
+        {
+          "name": "Quiescent Current",
+          "value": "35uA"
+        },
+        {
+          "name": "Features",
+          "value": "Overcurrent Protection\u3001Light load efficient mode\u3001Operating status indication"
+        },
+        {
+          "name": "Switch tube (built-in/external)",
+          "value": "Built-in"
+        },
+        {
+          "name": "Topology",
+          "value": "Buck"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "600mV~5.5V"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

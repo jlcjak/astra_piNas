@@ -1,0 +1,65 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C16772",
+      "name": "Samsung Electro-Mechanics CL05B224KO5NNNC",
+      "model": "CL05B224KO5NNNC",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0402",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 3179975,
+      "type": "Basic",
+      "price": 0.0058,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0058
+        },
+        {
+          "qty": 500,
+          "price": 0.0046
+        },
+        {
+          "qty": 1500,
+          "price": 0.004
+        },
+        {
+          "qty": 10000,
+          "price": 0.0036
+        },
+        {
+          "qty": 20000,
+          "price": 0.0032
+        },
+        {
+          "qty": 50000,
+          "price": 0.0031
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 10000,
+      "description": "16V 220nF X7R \u00b110% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl05b224ko5nnnc_C16772.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B224KO5NNNC_C16772.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "16V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "220nF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    }
+  ]
+}

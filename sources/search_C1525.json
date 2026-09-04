@@ -1,0 +1,225 @@
+{
+  "total": 20,
+  "results": [
+    {
+      "lcsc": "C1525",
+      "name": "Samsung Electro-Mechanics CL05B104KO5NNNC",
+      "model": "CL05B104KO5NNNC",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0402",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 35502711,
+      "type": "Basic",
+      "price": 0.0051,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0051
+        },
+        {
+          "qty": 1000,
+          "price": 0.0038
+        },
+        {
+          "qty": 3000,
+          "price": 0.0033
+        },
+        {
+          "qty": 10000,
+          "price": 0.0029
+        },
+        {
+          "qty": 50000,
+          "price": 0.0027
+        },
+        {
+          "qty": 100000,
+          "price": 0.0026
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 10000,
+      "description": "100nF 16V X7R \u00b110% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl05b104ko5nnnc_C1525.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "16V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "100nF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3186512",
+      "name": "TI UC1525BJ",
+      "model": "UC1525BJ",
+      "brand": "Texas Instruments",
+      "package": "DIP-16",
+      "category": "AC-DC Controllers and Regulators",
+      "stock": 3,
+      "type": "Extended",
+      "price": 25.0452,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 25.0452
+        },
+        {
+          "qty": 10,
+          "price": 24.2362
+        },
+        {
+          "qty": 12,
+          "price": 24.2362
+        },
+        {
+          "qty": 14,
+          "price": 24.2362
+        },
+        {
+          "qty": 16,
+          "price": 24.2362
+        },
+        {
+          "qty": 18,
+          "price": 24.2362
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 25,
+      "description": "-55\u2103~+125\u2103 100Hz~400kHz 14mA 2 8V~35V Boost\u3001Flyback\u3001Forward\u3001Push-Pull\u3001Full-Bridge\u3001Half-Bridge Cycle-by-cycle current limiting\u3001Frequency synchronization External Yes DIP-16 AC-DC Controllers and Regulators ROHS",
+      "url": "https://www.lcsc.com/product-detail/dc-dc-converters_texas-instruments-uc1525bj_C3186512.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302212109_Texas-Instruments-UC1525BJ_C3186512.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Synchronous Rectifier",
+          "value": "Yes"
+        },
+        {
+          "name": "Frequency - Switching",
+          "value": "100Hz~400kHz"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "8V~35V"
+        },
+        {
+          "name": "Quiescent Current",
+          "value": "14mA"
+        },
+        {
+          "name": "Features",
+          "value": "Cycle-by-cycle current limiting\u3001Frequency synchronization"
+        },
+        {
+          "name": "Switch tube (built-in/external)",
+          "value": "External"
+        },
+        {
+          "name": "Topology",
+          "value": "Boost\u3001Flyback\u3001Forward\u3001Push-Pull\u3001Full-Bridge\u3001Half-Bridge"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C22427536",
+      "name": "TI UC1525AJ",
+      "model": "UC1525AJ",
+      "brand": "Texas Instruments",
+      "package": "DIP-16",
+      "category": "DC-DC Converters",
+      "stock": 5,
+      "type": "Extended",
+      "price": 36.5256,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 36.5256
+        },
+        {
+          "qty": 3,
+          "price": 36.5256
+        },
+        {
+          "qty": 5,
+          "price": 36.5256
+        },
+        {
+          "qty": 25,
+          "price": 35.0863
+        },
+        {
+          "qty": 27,
+          "price": 35.0863
+        },
+        {
+          "qty": 29,
+          "price": 35.0863
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 25,
+      "description": "-55\u2103~+125\u2103 100Hz~400kHz 2 20mA 500mA 8V~35V External Push-Pull DIP-16 DC-DC Converters ROHS",
+      "url": "https://www.lcsc.com/product-detail/dc-dc-converters_texas-instruments-uc1525aj_C22427536.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Frequency - Switching",
+          "value": "100Hz~400kHz"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "8V~35V"
+        },
+        {
+          "name": "Output Current",
+          "value": "500mA"
+        },
+        {
+          "name": "Quiescent Current",
+          "value": "20mA"
+        },
+        {
+          "name": "Features",
+          "value": "Cycle-by-cycle current limiting\u3001Frequency synchronization"
+        },
+        {
+          "name": "Switch tube (built-in/external)",
+          "value": "External"
+        },
+        {
+          "name": "Topology",
+          "value": "Push-Pull"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "2"
+        }
+      ]
+    }
+  ]
+}

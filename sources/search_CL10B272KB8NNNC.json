@@ -1,0 +1,65 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C84713",
+      "name": "Samsung Electro-Mechanics CL10B272KB8NNNC",
+      "model": "CL10B272KB8NNNC",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0603",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 34416,
+      "type": "Extended",
+      "price": 0.0373,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0373
+        },
+        {
+          "qty": 200,
+          "price": 0.0309
+        },
+        {
+          "qty": 600,
+          "price": 0.0273
+        },
+        {
+          "qty": 4000,
+          "price": 0.0244
+        },
+        {
+          "qty": 8000,
+          "price": 0.0226
+        },
+        {
+          "qty": 20000,
+          "price": 0.0217
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 4000,
+      "description": "2.7nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl10b272kb8nnnc_C84713.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B272KB8NNNC_C84713.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "50V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "2.7nF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    }
+  ]
+}

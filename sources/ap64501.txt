@@ -1,0 +1,1564 @@
+                                                                                                                                                        AP64501
+               3.8V TO 40V INPUT, 5A LOW IQ SYNCHRONOUS BUCK WITH PROGRAMMABLE SOFT-START TIME
+
+
+Description                                                                            Pin Assignments
+The AP64501 is a 5A, synchronous buck converter with a wide input-
+voltage range of 3.8V to 40V. The device fully integrates a 45mΩ high-                                               TOP VIEW
+side power MOSFET and a 20mΩ low-side power MOSFET to provide
+high-efficiency step-down DC-DC conversion.
+                                                                                             BST      1                                                   8      SW
+The AP64501 device is easily used by minimizing the external
+component count due to its adoption of peak current mode control.
+                                                                                              VIN     2                                                   7      GND
+The AP64501 design is optimized for electromagnetic interference                                                      EXPOSED PAD
+(EMI) reduction. The device has a proprietary gate driver scheme to                                                        9
+resist switching node ringing without sacrificing MOSFET turn-on and                          EN      3                                                   6      COMP
+turn-off times, which reduces high-frequency radiated EMI noise
+caused by MOSFET switching. The AP64501 also features frequency
+spread spectrum (FSS) with a switching frequency jitter of ±6%, which                          SS     4                                                   5      FB
+reduces EMI by not allowing emitted energy to stay in any one
+frequency for a significant period of time.
+                                                                                                                        SO-8EP
+The device is available in the SO-8EP package.
+                                                                                       Applications
+Features
+                                                                                       •    5V, 12V, and 24V distributed power bus supplies
+•        VIN 3.8V to 40V                                                               •    Power tools and laser printers
+•        5A Continuous Output Current                                                  •    White goods and small home appliances
+•        0.8V ± 1% Reference Voltage                                                   •    Home audio
+•        25µA Low Quiescent Current (Pulse Frequency Modulation)                       •    Network systems
+•        570kHz Switching Frequency                                                    •    Consumer electronics
+•        Programmable Soft-Start Time                                                  •    General-purpose point of load
+•        Up to 85% Efficiency at 5mA Light Load
+•        Proprietary Gate Driver Design for Best EMI Reduction
+•        Frequency Spread Spectrum (FSS) to Reduce EMI
+•        Low-Dropout (LDO) Mode
+•        Precision Enable Threshold to Adjust UVLO
+•        Protection Circuitry
+         o    Undervoltage Lockout (UVLO)
+         o    Output Overvoltage Protection (OVP)
+         o    Cycle-by-Cycle Peak Current Limit
+         o    Thermal Shutdown
+•        Totally Lead-Free & Fully RoHS Compliant (Notes 1 & 2)
+•        Halogen and Antimony Free. “Green” Device (Note 3)
+•        An automotive-compliant part is available under separate
+         datasheet (AP64501Q)
+
+
+Notes:       1. No purposely added lead. Fully EU Directive 2002/95/EC (RoHS), 2011/65/EU (RoHS 2) & 2015/863/EU (RoHS 3) compliant.
+             2. See https://www.diodes.com/quality/lead-free/ for more information about Diodes Incorporated’s definitions of Halogen- and Antimony-free, "Green" and
+                Lead-free.
+             3. Halogen- and Antimony-free "Green” products are defined as those which contain <900ppm bromine, <900ppm chlorine (<1500ppm total Br + Cl) and
+                <1000ppm antimony compounds.
+
+
+
+
+AP64501                                                                    1 of 26                                                                      December 2024
+Document number: DS41980 Rev. 5 - 2                                    www.diodes.com                              © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                           AP64501
+
+
+Typical Application Circuit
+
+                               INPUT
+                                                  VIN                      BST
+                                                                                            C3
+                                                                                           100nF     L
+                                                                                                   3.6μH                             OUTPUT
+                                                                                                                                                         VOUT
+                                                   EN                      SW                                                                             5V
+                                                                                                              C4                  R1
+                                                                                                             OPEN               115kΩ
+                              C1                        AP64501            FB
+                                                                                                                                                 C2
+                             10µF                                                                                                             3 x 22µF
+                                                                                                                                  R2
+                                                                                                                                22.1kΩ
+
+                                                   SS                     COMP
+                                       Css                                                  R5
+                                      10nF                   GND                          15.8kΩ       C6
+                                                                                            C5        33pF
+                                                                                           2.7nF    (Optional)
+
+
+
+
+                                                                   Figure 1. Typical Application Circuit
+
+
+                                             VIN = 12V, VOUT = 5V, L = 3.6μH                               VIN = 12V, VOUT = 3.3V, L = 3.3μH
+                                             VIN = 24V, VOUT = 5V, L = 3.6μH                               VIN = 24V, VOUT = 3.3V, L = 3.3μH
+
+                            100
+
+                            90
+
+                            80
+
+                            70
+
+
+
+
+           Efficiency (%)
+                            60
+
+                            50
+
+                            40
+
+                            30
+
+                            20
+
+                            10
+
+                              0
+                              0.001                     0.010                        0.100                           1.000                                 10.000
+
+                                                                                   IOUT (A)
+
+                                                                    Figure 2. Efficiency vs. Output Current
+
+
+
+
+AP64501                                                                      2 of 26                                                                       December 2024
+Document number: DS41980 Rev. 5 - 2                                      www.diodes.com                             © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                            AP64501
+
+
+Pin Descriptions
+
+ Pin Name      Pin Number                                                           Function
+
+                             High-Side Gate Drive Boost Input. BST supplies the drive for the high-side n-channel power MOSFET. A 100nF
+    BST             1
+                             capacitor is recommended from BST to SW to power the high-side driver.
+                             Power Input. VIN supplies the power to the IC as well as the step-down converter power MOSFETs. Drive VIN with a
+     VIN            2        3.8V to 40V power source. Bypass VIN to GND with a suitably large capacitor to eliminate noise due to the switching
+                             of the IC. See Input Capacitor section for more details.
+
+                             Enable Input. EN is a digital input that turns the regulator on or off. Drive EN high to turn on the regulator and low to
+     EN             3        turn it off. Connect to VIN or leave floating for automatic startup. The EN has a precision threshold of 1.18V for
+                             programing the UVLO. See Enable section for more details.
+
+                             Soft-start. Place a ceramic capacitor from this pin to ground to program soft-start time. An internal 4μA current source
+     SS             4
+                             pulls the SS pin to VCC. See Programming Soft-Start Time section for more details.
+
+                             Feedback sensing terminal for the output voltage. Connect this pin to the resistive divider of the output.
+     FB             5
+                             See Setting the Output Voltage section for more details.
+
+                             Compensation. Connect an external RC network to the COMP pin to adjust the loop response. See External Loop
+   COMP             6
+                             Compensation Design section for more details.
+
+    GND             7        Power Ground.
+
+                             Power Switching Output. SW is the switching node that supplies power to the output. Connect the output LC filter from
+     SW             8
+                             SW to the output load.
+
+ EXPOSED                     Heat dissipation path of the die. The exposed thermal pad must be electrically connected to GND and must be
+                    9
+   PAD                       connected to the ground plane of the PCB for proper operation and optimized thermal performance.
+
+
+
+
+AP64501                                                            3 of 26                                                                  December 2024
+Document number: DS41980 Rev. 5 - 2                            www.diodes.com                          © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                            AP64501
+
+
+Functional Block Diagram
+
+                         I1         I2
+                       1.5μA       4μA
+                                                                                         VCC                              VCC
+                                                                                                                                                          VIN
+                                                                                                                        Regulator
+
+              20k
+     EN                                  +               ON        Internal   0.8V
+                                 1.18V                            Reference
+                                         –
+                                                                                     RT = 0.089V/A                              +
+                                                                                                                          CSA
+                                                                                                                                -
+     FB                                +           OVP
+                                 0.88V -                                                                                                                  BST
+                     Iss                                                                 +       OCP
+                    4μA                                                              Ref -
+                                         -                                                       OVP
+                                  0.8V   +
+     SS                                  +
+                                              Error
+                                             Amplifier
+
+ COMP                                                                                    -              Control
+                                                                               VSUM                                                                       SW
+                                                                                         +               Logic
+                                                                                          PWM
+                                                                      +                 Comparator
+
+                                                                                      Thermal    TSD
+                                 SE = 1.87V/T                                        Shutdown
+                     570kHz
+                    Oscillator   CLK
+                                                                                                                                                          GND
+
+
+
+
+                                                         Figure 3. Functional Block Diagram
+
+
+
+
+AP64501                                                            4 of 26                                                                  December 2024
+Document number: DS41980 Rev. 5 - 2                            www.diodes.com                          © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                           AP64501
+
+
+Absolute Maximum Ratings (Note 4) (@TA = +25°C, unless otherwise specified.)
+
+           Symbol                                         Parameter                                                  Rating                                    Unit
+                                                                                                                -0.3 to +42.0 (DC)
+              VIN                                     Supply Pin Voltage                                                                                         V
+                                                                                                            -0.3 to +45.0 (400ms)
+             VBST                                   Bootstrap Pin Voltage                                  VSW - 0.3 to VSW + 6.0                                V
+              VEN                                Enable/UVLO Pin Voltage                                          -0.3 to +42.0                                  V
+              VSS                                   Soft-Start Pin Voltage                                         -0.3 to +6.0                                  V
+              VFB                                   Feedback Pin Voltage                                           -0.3 to +6.0                                  V
+            VCOMP                                Compensation Pin Voltage                                          -0.3 to +6.0                                  V
+                                                                                                           -0.3 to VIN + 0.3 (DC)
+              VSW                                     Switch Pin Voltage                                                                                         V
+                                                                                                          -2.5 to VIN + 2.0 (20ns)
+              TST                                   Storage Temperature                                            -65 to +150                                  °C
+               TJ                                   Junction Temperature                                              +160                                      °C
+               TL                                     Lead Temperature                                                +260                                      °C
+ESD Susceptibility (Note 5)
+             HBM                                     Human Body Model                                                 2000                                       V
+             CDM                                   Charged Device Model                                                500                                       V
+Notes:    4. Stresses greater than the Absolute Maximum Ratings specified above can cause permanent damage to the device. These are stress ratings only;
+             functional operation of the device at these or any other conditions exceeding those indicated in this specification is not implied. Device reliability can
+             be affected by exposure to absolute maximum rating conditions for extended periods of time.
+          5. Semiconductor devices are ESD sensitive and can be damaged by exposure to ESD events. Suitable ESD precautions should be taken when
+             handling and transporting these devices.
+
+
+
+
+Thermal Resistance (Note 6)
+
+           Symbol                                        Parameter                                                   Rating                                    Unit
+             θJA                                     Junction to Ambient                               SO-8EP                        45                        °C/W
+              θJC                                      Junction to Case                                SO-8EP                         5                        °C/W
+Note:     6. Test condition for SO-8EP: Device mounted on FR-4 substrate, four-layer PC board, 2oz copper, with minimum recommended pad layout.
+
+
+
+
+Recommended Operating Conditions (Note 7) (@TA = +25°C, unless otherwise specified.)
+
+           Symbol                                    Parameter                                           Min                        Max                        Unit
+             VIN                                    Supply Voltage                                       3.8                         40                          V
+            VOUT                                    Output Voltage                                       0.8                         39                          V
+             TA                          Operating Ambient Temperature Range                             -40                        +85                         °C
+               TJ                        Operating Junction Temperature Range                             -40                      +125                         °C
+Note:     7. The device function is not guaranteed outside of the recommended operating conditions.
+
+
+
+
+AP64501                                                                    5 of 26                                                                         December 2024
+Document number: DS41980 Rev. 5 - 2                                    www.diodes.com                                 © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                           AP64501
+
+
+Electrical Characteristics (@TA = +25°C, VIN = 12V, unless otherwise specified. Min/Max limits apply across the recommended
+ambient temperature range, -40°C to +85°C, and input-voltage range, 3.8V to 40V, unless otherwise specified.)
+
+
+    Symbol                                     Parameter                                    Test Conditions                Min           Typ            Max           Unit
+        ISHDN          Shutdown Supply Current                                        VEN = 0V                              —               1             3            μA
+                                                                                      VEN = Floating,
+          IQ           Quiescent Supply Current                                       R2 = OPEN, No Load,                   —               25           —             μA
+                                                                                      VBST - VSW = 5V
+                       VIN Undervoltage Rising Threshold                              —                                     —             3.5           3.7            V
+        UVLO
+                       VIN Undervoltage Hysteresis                                    —                                     —             400           —              mV
+    RDS(ON)1           High-Side Power MOSFET On-Resistance (Note 8)                  —                                     —               45           —            mΩ
+    RDS(ON)2           Low-Side Power MOSFET On-Resistance (Note 8)                   —                                     —               20           —            mΩ
+   IPEAK_LIMIT         HS Peak Current Limit (Note 8)                                 —                                     6.8             8           9.2             A
+  IVALLEY_LIMIT        LS Valley Current Limit (Note 8)                               —                                     —               9            —              A
+        IPFMPK         PFM Peak Current Limit                                         —                                     —             950            —             mA
+         IZC           Zero Cross Current Threshold                                   —                                     —               0            —             mA
+         fSW           Oscillator Frequency                                           —                                    510            570           630           kHz
+    tON_MIN            Minimum On-Time                                                —                                     —             100            —             ns
+         VFB           Feedback Voltage                                               CCM                                  792            800           808            mV
+        VEN_H          EN Logic High Threshold                                        —                                     —            1.18           1.25            V
+        VEN_L          EN Logic Low Threshold                                         —                                    1.03          1.09            —              V
+                                                                                      VEN = 1.5V                            —               5.5          —             μA
+         IEN           EN Input Current
+                                                                                      VEN = 1V                               1              1.5           2            μA
+         tSS           Soft-Start Time                                                CSS = 10nF                            —               4            —             ms
+         TSD           Thermal Shutdown (Note 8)                                      —                                     —             160            —             °C
+         THys          Thermal Shutdown Hysteresis (Note 8)                           —                                     —               25           —             °C
+Note:          8. Compliance to the datasheet limits is assured by one or more methods: production test, characterization, and/or design.
+
+
+
+
+AP64501                                                                       6 of 26                                                                      December 2024
+Document number: DS41980 Rev. 5 - 2                                       www.diodes.com                              © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                                            AP64501
+
+
+Typical Performance Characteristics (AP64501 at TA = +25°C, VIN = 12V, VOUT = 5V, CSS = 10nF, unless otherwise
+specified.)
+
+
+
+                                VOUT = 5V, L = 3.6μH               VOUT = 3.3V, L = 3.3μH                                  VOUT = 5V, L = 3.6μH               VOUT = 3.3V, L = 3.3μH
+
+                        100                                                                                         100
+                         95                                                                                          95
+                         90                                                                                          90
+
+
+
+
+       Efficiency (%)                                                                              Efficiency (%)
+                         85                                                                                          85
+                         80                                                                                          80
+                         75                                                                                          75
+                         70                                                                                          70
+                         65                                                                                          65
+                         60                                                                                          60
+                         55                                                                                          55
+                         50                                                                                          50
+                          0.001              0.010         0.100            1.000      10.000                         0.001           0.010           0.100           1.000          10.000
+                                                       IOUT (A)                                                                                    IOUT (A)
+
+                                Figure 4. Efficiency vs. Output Current, VIN = 12V                                         Figure 5. Efficiency vs. Output Current, VIN = 24V
+
+
+                                IOUT = 0A                  IOUT = 1A                IOUT = 2A                                               VIN = 12V                  VIN = 24V
+                                IOUT = 3A                  IOUT = 4A                IOUT = 5A                       5.050
+                        5.050                                                                                       5.025
+                        5.025                                                                                       5.000
+                        5.000                                                                                       4.975
+
+
+                                                                                                  VOUT (V)
+                        4.975                                                                                       4.950
+
+       VOUT (V)
+                        4.950                                                                                       4.925
+                        4.925                                                                                       4.900
+                        4.900
+                        4.875                                                                                       4.875
+                        4.850                                                                                       4.850
+                        4.825                                                                                       4.825
+                        4.800                                                                                       4.800
+                                5       10      15    20      25       30      35    40    45                            0.00 0.75 1.50 2.25 3.00 3.75 4.50 5.25 6.00
+                                                            VIN (V)                                                                                  IOUT (A)
+
+                                                 Figure 6. Line Regulation                                                              Figure 7. Load Regulation
+
+
+                        0.802
+                                                                                                                                 High-Side MOSFET                  Low-Side MOSFET
+                        0.801
+                                                                                                                    100
+                        0.800
+                                                                                                                     90
+                        0.799                                                                                        80
+                        0.798
+
+
+                                                                                                    RDS(ON) (mΩ)
+                                                                                                                     70
+      VFB (V)           0.797                                                                                        60
+                        0.796                                                                                        50
+                                                                                                                     40
+                        0.795
+                                                                                                                     30
+                        0.794
+                                                                                                                     20
+                        0.793                                                                                        10
+                        0.792                                                                                         0
+                                -50    -25      0     25      50      75      100   125   150                             -50   -25     0       25      50       75     100      125     150
+                                                     Temperature (°C)                                                                          Temperature (°C)
+
+
+                                      Figure 8. Feedback Voltage vs. Temperature                                            Figure 9. Power MOSFET RDS(ON) vs. Temperature
+
+
+
+
+AP64501                                                                                  7 of 26                                                                            December 2024
+Document number: DS41980 Rev. 5 - 2                                                  www.diodes.com                                    © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                              AP64501
+
+
+Typical Performance Characteristics (AP64501 at TA = +25°C, VIN = 12V, VOUT = 5V, CSS = 10nF, unless otherwise
+specified.) (continued)
+
+
+                31                                                                                   2.0
+                30                                                                                   1.8
+                29                                                                                   1.6
+                28                                                                                   1.4
+
+
+                                                                                     ISHDN (μA)
+                27                                                                                   1.2
+      IQ (μA)   26                                                                                   1.0
+                25                                                                                   0.8
+                24                                                                                   0.6
+                23                                                                                   0.4
+                22                                                                                   0.2
+                21                                                                                   0.0
+                     -50    -25     0     25          50   75   100   125      150                         -50   -25      0      25         50    75      100      125     150
+                                         Temperature (°C)                                                                       Temperature (°C)
+
+
+                                    Figure 10. IQ vs. Temperature                                                      Figure 11. ISHDN vs. Temperature
+
+
+                                                                                                     750
+                                  VIN Rising POR            VIN Falling UVLO
+                                                                                                     675
+                3.8
+                                                                                                     600
+                3.7
+                3.6                                                                                  525
+                                                                                                     450
+                                                                                         fsw (kHz)
+                3.5
+                3.4                                                                                  375
+      VIN (V)
+                3.3                                                                                  300
+                3.2
+                                                                                                     225
+                3.1
+                                                                                                     150
+                  3
+                2.9                                                                                   75
+                2.8                                                                                    0
+                      -50   -25      0     25         50   75   100   125      150                     0.001            0.010          0.100            1.000          10.000
+                                          Temperature (°C)                                                                            IOUT (A)
+
+
+                 Figure 12. VIN Power-On Reset and UVLO vs. Temperature                                                    Figure 13. fsw vs. Load
+
+
+
+     VOUT (50mV/div)                                                                 VOUT (20mV/div)
+
+
+
+
+                                                                                     IL (2A/div)
+
+     IL (500mA/div)
+
+
+
+
+                                                                                     VSW (10V/div)
+     VSW (10V/div)
+
+
+                                           10μs/div                                                                               2μs/div
+
+
+                      Figure 14. Output Voltage Ripple, IOUT = 50mA                                         Figure 15. Output Voltage Ripple, IOUT = 5A
+
+
+
+
+AP64501                                                                    8 of 26                                                                            December 2024
+Document number: DS41980 Rev. 5 - 2                                    www.diodes.com                                    © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                AP64501
+
+
+Typical Performance Characteristics (AP64501 at TA = +25°C, VIN = 12V, VOUT = 5V, CSS = 10nF, unless otherwise
+specified.) (continued)
+
+
+
+
+    VOUT (200mV/div)                                                  VOUT (200mV/div)
+
+
+
+
+    IOUT (500mA/div)                                                  IOUT (2A/div)
+
+
+
+
+                                      1ms/div                                                       1ms/div
+
+
+        Figure 16. Load Transient, IOUT = 50mA to 500mA to 50mA              Figure 17. Load Transient, IOUT = 3A to 5A to 3A
+
+
+
+
+     VOUT (500mV/div)
+
+
+
+
+     IOUT (2A/div)
+
+
+
+
+                                      1ms/div
+
+
+          Figure 18. Load Transient, IOUT = 50mA to 5A to 50mA
+
+
+
+
+AP64501                                                       9 of 26                                                           December 2024
+Document number: DS41980 Rev. 5 - 2                       www.diodes.com                   © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                        AP64501
+
+
+Typical Performance Characteristics (AP64501 at TA = +25°C, VIN = 12V, VOUT = 5V, CSS = 10nF, unless otherwise
+specified.) (continued)
+
+
+
+
+                                                                           VEN (5V/div)
+     VEN (5V/div)
+                                                                           VOUT (2V/div)
+
+
+
+     VOUT (2V/div)                                                         IL (5A/div)
+
+     IL (5A/div)
+
+                                                                           VSW (10V/div)
+
+
+     VSW (10V/div)
+
+                                      2ms/div                                                              50μs/div
+
+
+                   Figure 19. Startup Using EN, IOUT = 5A                                Figure 20. Shutdown Using EN, IOUT = 5A
+
+
+
+     VOUT (2V/div)
+
+
+
+                                                                           VOUT (2V/div)
+
+     IL (5A/div)
+
+
+                                                                           IL (5A/div)
+
+     VSW (10V/div)
+
+
+                                                                           VSW (10V/div)
+
+                                      5ms/div                                                               5ms/div
+
+
+               Figure 21. Output Short Protection, IOUT = 5A                         Figure 22. Output Short Recovery, IOUT = 5A
+
+
+
+
+AP64501                                                           10 of 26                                                              December 2024
+Document number: DS41980 Rev. 5 - 2                            www.diodes.com                      © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                             AP64501
+
+
+Application Information
+
+1         Pulse Width Modulation (PWM) Operation
+
+The AP64501 device is a 3.8V-to-40V input, 5A output, EMI friendly, fully integrated synchronous buck converter. Refer to the block diagram in
+Figure 3. The device employs fixed-frequency peak current mode control. The internal 570kHz clock’s rising edge initiates turning on the integrated
+high-side power MOSFET, Q1, for each cycle. When Q1 is on, the inductor current rises linearly and the device charges the output capacitor. The
+current across Q1 is sensed and converted to a voltage with a ratio of R T via the CSA block. The CSA output is combined with an internal slope
+compensation, SE, resulting in VSUM. When VSUM rises higher than the COMP node, the device turns off Q1 and turns on the low-side power
+MOSFET, Q2. The inductor current decreases when Q2 is on. On the rising edge of next clock cycle, Q2 turns off and Q1 turns on. This sequence
+repeats every clock cycle.
+
+The error amplifier generates the COMP voltage by comparing the voltage on the FB pin with an internal 0.8V reference. An increase in load current
+causes the feedback voltage to drop. The error amplifier thus raises the COMP voltage until the average inductor current matches the increased
+load current. This feedback loop regulates the output voltage. The internal slope compensation circuitry prevents subharmonic oscillation when the
+duty cycle is greater than 50% for peak current mode control.
+
+The peak current mode control simplifies the AP64501 footprint.
+
+2         Pulse Frequency Modulation (PFM) Operation
+
+In heavy load conditions, the AP64501 operates in forced PWM mode. As the load current decreases, the internal COMP node voltage also
+decreases. At a certain limit, if the load current is low enough, the COMP node voltage is clamped and is prevented from decreasing any further.
+The voltage at which COMP is clamped corresponds to the 950mA PFM peak inductor current limit. As the load current approaches zero, the
+AP64501 enters PFM mode to increase the converter power efficiency at light load conditions. When the inductor current decreases to 0mA, zero
+cross detection circuitry on the low-side power MOSFET, Q2, forces it off. The buck converter does not sink current from the output when the output
+load is light and while the device is in PFM. Because the AP64501 works in PFM during light load conditions, it can achieve power efficiency of up
+to 85% at a 5mA load condition.
+
+The quiescent current of AP64501 is 25μA typical under a no-load, non-switching condition.
+
+3         Enable
+
+When disabled, the device shutdown supply current is only 1μA. When applying a voltage greater than the EN logic high threshold (typical 1.18V,
+rising), the AP64501 enables all functions and the device initiates the soft-start phase. The EN pin is a high-voltage pin and can be directly connected
+to VIN to automatically start up the device as VIN increases. An internal 1.5µA pullup current source connected from the internal LDO-regulated
+VCC to the EN pin guarantees that if EN is left floating, the device still automatically enables once the voltage reaches the EN logic high threshold.
+The AP64501 has a programmable soft-start time to prevent output voltage overshoot and inrush current. When the EN voltage falls below its logic
+low threshold (typical 1.09V, falling), the internal SS voltage discharges to ground and device operation disables.
+
+The EN pin can also be used to program the undervoltage lockout thresholds. See Adjusting Undervoltage Lockout (UVLO) section for more details.
+
+Alternatively, a small ceramic capacitor can be added from EN to GND. This delays the triggering of EN, which delays the startup of the output
+voltage. This is useful when sequencing multiple power rails to minimize input inrush current. The amount of capacitance is calculated by:
+
+
+                                                             𝐂𝐝 [𝐧𝐅] = 𝟏. 𝟐𝟕 ∙ 𝐭 𝐝 [𝐦𝐬]                                                                  Eq. 1
+
+
+Where:
+•   Cd is the time delay capacitance in nF
+•   td is the delay time in ms
+
+
+
+
+AP64501                                                            11 of 26                                                                  December 2024
+Document number: DS41980 Rev. 5 - 2                             www.diodes.com                          © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                           AP64501
+
+
+Application Information (continued)
+
+4         Electromagnetic Interference (EMI) Reduction with Ringing-Free Switching Node and Frequency Spread Spectrum (FSS)
+
+In some applications, the system must meet EMI standards. In relation to high frequency radiation EMI noise, the switching node’s (SW’s) ringing
+amplitude is especially critical. To dampen high frequency radiated EMI noise, the AP64501 device implements a proprietary, multi-level gate driver
+scheme that achieves a ringing-free switching node without sacrificing the switching node’s rise and fall slew rates as well as the converter’s power
+efficiency.
+
+To further improve EMI reduction, the AP64501 device also implements FSS with a switching frequency jitter of ±6%. FSS reduces conducted and
+radiated interference at a particular frequency by spreading the switching noise over a wider frequency band and by not allowing emitted energy to
+stay in any one frequency for a significant period of time.
+
+5         Adjusting Undervoltage Lockout (UVLO)
+
+Undervoltage lockout is implemented to prevent the IC from insufficient input voltages. The AP64501 device has a UVLO comparator that monitors
+the input voltage and the internal bandgap reference. The AP64501 disables if the input voltage falls below 3.1V. In this UVLO event, both the high-
+side and low-side power MOSFETs turn off.
+
+Some applications may desire higher VIN UVLO threshold voltages than is provided by the default setup. A 4µA hysteresis pullup current source on
+the EN pin along with an external resistive divider (R3 and R4) configures the VIN UVLO threshold voltages as shown in Figure 23.
+
+                                                                     I1             I2
+                                         VIN                       1.5μA           4μA
+
+                                             R3
+                                                           20kΩ
+                                                    EN                                   +               ON
+                                                                                1.18V
+                                                                                         –
+                                             R4
+
+
+
+                                                           Figure 23. Programming UVLO
+
+The resistive divider resistor values are calculated by:
+
+                                                                   𝟎. 𝟗𝟐𝟒 ∙ 𝐕𝐎𝐍 − 𝐕𝐎𝐅𝐅
+                                                            𝐑𝟑 =                                                                                       Eq. 2
+                                                                         𝟒. 𝟏𝛍𝐀
+
+                                                                       𝟏. 𝟎𝟗 ∙ 𝐑𝟑
+                                                       𝐑𝟒 =                                                                                            Eq. 3
+                                                              𝐕𝐎𝐅𝐅 − 𝟏. 𝟎𝟗𝐕 + 𝟓. 𝟓𝛍𝐀 ∙ 𝐑𝟑
+
+Where:
+•   VON is the rising edge VIN voltage to enable the regulator and is greater than 3.7V
+•   VOFF is the falling edge VIN voltage to disable the regulator and is greater than 3.3V
+
+6         Output Overvoltage Protection (OVP)
+
+The AP64501 implements output OVP circuitry to minimize output voltage overshoots during decreasing load transients. The high-side power
+MOSFET turns off, and the low-side power MOSFET turns on when the output voltage exceeds its target by 10% to prevent the output voltage from
+continuing to increase. Once the output voltage decreases within 5% of its regulation, the low-side MOSFET turns off to exit OVP state.
+
+
+
+
+AP64501                                                           12 of 26                                                                 December 2024
+Document number: DS41980 Rev. 5 - 2                            www.diodes.com                         © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                             AP64501
+
+
+Application Information (continued)
+
+7         Overcurrent Protection (OCP)
+
+The AP64501 has cycle-by-cycle peak current limit protection by sensing the current through the internal high-side power MOSFET, Q1. While Q1
+is on, the internal sensing circuitry monitors its conduction current. Once the current through Q1 exceeds the peak current limit, Q1 immediately
+turns off. If Q1 consistently hits the peak current limit for 512 cycles, the buck converter enters hiccup mode and shuts down. After 8192 cycles of
+down time, the buck converter restarts powering up. Hiccup mode reduces the power dissipation in the overcurrent condition.
+
+8         Thermal Shutdown (TSD)
+
+If the junction temperature of the device reaches the thermal shutdown limit of +160°C, the AP64501 shuts down both its high-side and low-side
+power MOSFETs. When the junction temperature reduces to the required level (+135°C typical), the device initiates a normal power-up cycle with
+soft-start.
+
+9         Power Derating Characteristics
+
+To prevent the regulator from exceeding the maximum recommended operating junction temperature, some thermal analysis is required. The
+regulator’s temperature rise is given by:
+
+
+                                                                    𝐓𝐑𝐈𝐒𝐄 = 𝐏𝐃 ∙ (𝛉𝐉𝐀 )                                                                  Eq. 4
+
+
+Where:
+•   PD is the power dissipated by the regulator
+•   θJA is the thermal resistance from the junction of the die to the ambient temperature
+
+The junction temperature, TJ, is given by:
+
+
+                                                                     𝐓𝐉 = 𝐓𝐀 + 𝐓𝐑𝐈𝐒𝐄                                                                     Eq. 5
+
+
+Where:
+•   TA is the ambient temperature of the environment
+
+For the SO-8EP package, the θJA is 45°C/W. The actual junction temperature should not exceed the maximum recommended operating junction
+temperature of +125°C when considering the thermal design. Figure 24 shows a typical derating curve versus ambient temperature.
+
+
+                                                   VOUT = 1.2V                 VOUT = 1.5V                 VOUT = 1.8V
+
+                                                   VOUT = 2.5V                 VOUT = 3.3V                 VOUT = 5V
+                                  7.50
+                                  6.75
+                                  6.00
+                                  5.25
+                                  4.50
+
+                       IOUT (A)
+                                  3.75
+                                  3.00
+                                  2.25
+                                  1.50
+                                  0.75
+                                  0.00
+                                         0       20         40        60         80        100       120         140            160
+                                                                     Ambient Temperature (°C)
+
+                                         Figure 24. Output Current Derating Curve vs. Ambient Temperature, VIN = 12V
+
+AP64501                                                               13 of 26                                                               December 2024
+Document number: DS41980 Rev. 5 - 2                                www.diodes.com                       © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                           AP64501
+
+
+Application Information (continued)
+
+10        Setting the Output Voltage
+
+The AP64501 has adjustable output voltages starting from 0.8V using an external resistive divider. An optional external capacitor, C4 in Figure 1, of
+10pF to 220pF improves the transient response. The resistor values of the feedback network are selected based on a design trade-off between
+efficiency and output voltage accuracy. There is less current consumption in the feedback network for high resistor values, which improves efficiency
+at light loads. However, values too high cause the device to be more susceptible to noise affecting its output voltage accuracy. R1 can be determined
+by the following equation:
+
+                                                                       𝐕𝐎𝐔𝐓
+                                                            𝐑𝟏 = 𝐑𝟐 ∙ (       − 𝟏)                                                                     Eq. 6
+                                                                        𝟎. 𝟖𝐕
+
+Table 1 shows a list of recommended component selections for common output voltages for AP64501 referencing Figure 1.
+
+                                                   Table 1. Recommended Components Selections
+                                                                     AP64501
+                                                                                                                                                    C6
+  Output Voltage          R1           R2            L         C1           C2           C3          C4             R5              C5
+                                                                                                                                                   (pF)
+       (V)               (kΩ)         (kΩ)         (µH)       (µF)         (µF)         (nF)        (pF)           (kΩ)            (nF)
+                                                                                                                                                (Optional)
+         1.2            11.0          22.1          1.5        10         3 x 22        100        OPEN           3.74              2.7             150
+         1.5            19.6          22.1          2.2        10         3 x 22        100        OPEN           4.75              2.7             120
+         1.8            27.4          22.1          2.2        10         3 x 22        100        OPEN           5.62              2.7             100
+         2.5            47.5          22.1          3.3        10         3 x 22        100        OPEN           7.87              2.7              68
+         3.3            69.8          22.1          3.3        10         3 x 22        100        OPEN           10.50             2.7              56
+         5.0            115.8         22.1          3.6        10         3 x 22        100        OPEN           15.80             2.7              33
+        12.0            309.0         22.1         10.0        10         3 x 22        100        OPEN           37.40             2.7              15
+
+11        Programming Soft-Start Time
+
+The AP64501 features a programmable soft-start time to prevent inrush current during the startup sequence. Connect an external soft-start capacitor,
+Css, from the SS pin to ground.
+
+The SS pin sources an internal 4µA current to charge Css when the EN pin exceeds the device’s turn-on threshold. The AP64501 uses the lower
+voltage between the SS pin voltage and the internal 0.8V reference voltage as the input reference voltage for the error amplifier to regulate the
+output. Soft-start finishes when the SS pin voltage exceeds the 0.8V internal reference. The Css capacitance required for a given soft-start time is
+calculated by:
+
+
+                                                             𝐂𝐬𝐬 [𝐧𝐅] = 𝟓. 𝟑 ∙ 𝐭 𝐬𝐬 [𝐦𝐬]                                                               Eq. 7
+
+
+Where:
+•   Css is the capacitance in nF and is at least 10nF
+•   tss is the soft-start time in ms and is at least 4ms
+
+
+
+
+AP64501                                                           14 of 26                                                                 December 2024
+Document number: DS41980 Rev. 5 - 2                            www.diodes.com                         © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                             AP64501
+
+
+Application Information (continued)
+
+12        Inductor
+
+Calculating the inductor value is a critical factor in designing a buck converter. For most designs, the following equation can be used to calculate the
+inductor value:
+
+                                                                𝐕𝐎𝐔𝐓 ∙ (𝐕𝐈𝐍 − 𝐕𝐎𝐔𝐓)
+                                                           𝐋=                                                                                            Eq. 8
+                                                                   𝐕𝐈𝐍 ∙ ∆𝐈𝐋 ∙ 𝐟𝐬𝐰
+
+Where:
+•   ∆IL is the inductor current ripple
+•   fSW is the buck converter switching frequency
+
+For AP64501, choose ∆IL to be 30% to 50% of the maximum load current of 5A.
+
+The inductor peak current is calculated by:
+
+                                                                                     ∆𝐈𝐋
+                                                                𝐈𝐋𝐏𝐄𝐀𝐊 = 𝐈𝐋𝐎𝐀𝐃 +                                                                         Eq. 9
+                                                                                      𝟐
+
+Peak current determines the required saturation current rating, which influences the size of the inductor. Saturating the inductor decreases the
+converter efficiency while increasing the temperatures of the inductor and the internal power MOSFETs. Therefore, choosing an inductor with the
+appropriate saturation current rating is important. For most applications, it is recommended to select an inductor of approximately 1µH to 10µH with
+a DC current rating of at least 35% higher than the maximum load current. For highest efficiency, the inductor’s DC resistance should be less than
+10mΩ. Use a larger inductance for improved efficiency under light load conditions.
+
+13        Input Capacitor
+
+The input capacitor reduces both the surge current drawn from the input supply as well as the switching noise from the device. The input capacitor
+must sustain the ripple current produced during the on-time of Q1. It must have a low ESR to minimize power dissipation due to the RMS input
+current.
+
+The RMS current rating of the input capacitor is a critical parameter and must be higher than the RMS input current. As a rule of thumb, select an
+input capacitor with an RMS current rating greater than half of the maximum load current.
+
+Due to large dI/dt through the input capacitor, electrolytic or ceramic capacitors with low ESR should be used. If using a tantalum capacitor, it must
+be surge protected or else capacitor failure could occur. Using a ceramic capacitor greater than 10µF is sufficient for most applications.
+
+
+
+
+AP64501                                                            15 of 26                                                                  December 2024
+Document number: DS41980 Rev. 5 - 2                             www.diodes.com                          © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                             AP64501
+
+
+Application Information (continued)
+
+14        Output Capacitor
+
+The output capacitor keeps the output voltage ripple small, ensures feedback loop stability, and reduces both the overshoots and undershoots of
+the output voltage during load transients. During the first few microseconds of an increasing load transient, the converter recognizes the change
+from steady-state and enters 100% duty cycle to supply more current to the load. However, the inductor limits the change to increasing current
+depending on its inductance. Therefore, the output capacitor supplies the difference in current to the load during this time. Likewise, during the first
+few microseconds of a decreasing load transient, the converter recognizes the change from steady-state and sets the on-time to minimum to reduce
+the current supplied to the load. However, the inductor limits the change in decreasing current as well. Therefore, the output capacitor absorbs the
+excess current from the inductor during this time.
+
+The effective output capacitance, COUT, requirements can be calculated from the equations below.
+
+The ESR of the output capacitor dominates the output voltage ripple. The amount of ripple can be calculated by:
+
+                                                                                          𝟏
+                                                𝐕𝐎𝐔𝐓𝐑𝐢𝐩𝐩𝐥𝐞 = ∆𝐈𝐋 ∙ (𝐄𝐒𝐑 +                         )                                                    Eq. 10
+                                                                                   𝟖 ∙ 𝐟𝐬𝐰 ∙ 𝐂𝐎𝐔𝐓
+
+An output capacitor with large capacitance and low ESR is the best option. For most applications, a 22µF to 68µF ceramic capacitor is sufficient. To
+meet the load transient requirements, the calculated COUT should satisfy the following inequality:
+
+                                                               𝟐                       𝟐
+                                                          𝐋 ∙ 𝐈𝐓𝐫𝐚𝐧𝐬              𝐋 ∙ 𝐈𝐓𝐫𝐚𝐧𝐬
+                                  𝐂𝐎𝐔𝐓 > 𝐦𝐚𝐱 (                         ,                            )                                                  Eq. 11
+                                                     ∆𝐕𝐎𝐯𝐞𝐫𝐬𝐡𝐨𝐨𝐭 ∙ 𝐕𝐎𝐔𝐓 ∆𝐕𝐔𝐧𝐝𝐞𝐫𝐬𝐡𝐨𝐨𝐭 ∙ (𝐕𝐈𝐍 − 𝐕𝐎𝐔𝐓)
+
+Where:
+•   ITrans is the load transient
+•   ∆VOvershoot is the maximum output overshoot voltage
+•   ∆VUndershoot is the maximum output undershoot voltage
+
+15        Bootstrap Capacitor and Low-Dropout (LDO) Operation
+
+To ensure proper operation, a ceramic capacitor must be connected between the BST and SW pins. A 100nF ceramic capacitor is sufficient. If the
+bootstrap capacitor voltage falls below 2.3V, the boot undervoltage protection circuit turns Q2 on for 300ns to refresh the bootstrap capacitor and
+raise its voltage back above 2.55V. The bootstrap capacitor threshold voltage is always maintained to ensure enough driving capability for Q1. This
+operation may arise during long periods of no switching such as in PFM with light load conditions. Another event that requires the refreshing of the
+bootstrap capacitor is when the input voltage drops close to the output voltage. Under this condition, the regulator enters low-dropout mode by
+holding Q1 on for multiple clock cycles. To prevent the bootstrap capacitor from discharging, Q2 is forced to refresh. The effective duty cycle is
+approximately 100% so that it acts as an LDO to maintain the output voltage regulation.
+
+
+
+
+AP64501                                                            16 of 26                                                                  December 2024
+Document number: DS41980 Rev. 5 - 2                             www.diodes.com                          © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                          AP64501
+
+
+Application Information (continued)
+
+16        External Loop Compensation Design
+
+When the COMP pin is not connected to GND, the COMP pin is active for external loop compensation. The regulator uses a constant frequency,
+peak current mode control architecture to achieve a fast loop response. The inductor is not considered as a state variable since its peak current is
+constant. Thus, the system becomes a single-order system. For loop stabilization, it is simpler to design a Type II compensator for current mode
+control than it is to design a Type III compensator for voltage mode control. Peak current mode control has an inherent input-voltage feed-forward
+function to achieve good line regulation. Figure 25 shows the small signal model of the synchronous buck regulator.
+
+
+                                                                                         L                                     o
+                      in                                          ++            L
+                                                                   ––
+
+                                                  1:D
+                                                                                                                   Rc
+                  +
+             in                                                                                     RT                             Ro
+                  –
+                                                                                                                  COUT
+
+
+
+
+                                                   Fm                         Ti(S)                                                       K(S)
+
+
+
+                                      SE           +           He(S)
+                                                                                                                        Tv(S)
+                                                                               comp
+                                                                                                  -Av(S)
+
+                                                 Figure 25. Small Signal Model of Buck Regulator
+
+Where:
+•   Tv(S) is the voltage loop
+•   Ti(S) is the current loop
+•   K(S) is the voltage sense gain
+•   -Av(S) is the feedback compensation gain
+•   He(S) is the current sampling function
+•   Fm is the PWM comparator gain
+•   Vin is the DC input voltage
+•   D is the duty cycle
+•   Rc is the ESR of the output capacitor, COUT
+•   Ro is the output load resistance
+•   v̂in is the AC small-signal input voltage
+•   î in is the AC small-signal input current
+•   d̂ is the modulation of the duty cycle
+•   î L is the AC small signal of the inductor current
+•   v̂o is the AC small signal of output voltage
+•   v̂comp is the AC small signal voltage of the compensation network
+
+
+
+
+AP64501                                                          17 of 26                                                                 December 2024
+Document number: DS41980 Rev. 5 - 2                           www.diodes.com                         © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                            AP64501
+
+
+Application Information (continued)
+
+16        External Loop Compensation Design (continued)
+
+                                                                                                           VOUT
+                                                                  SE
+
+                                                                                                           R1         C4
+                                                         VSUM     +       RT
+                                               +
+                                                                                               FB
+                                               –                                            –
+                                    PWM                                                gm     VREF
+                                  Comparator                                                +
+                                                                        R5      Error
+                                                                 C6            Amplifier                   R2
+                                                                        C5
+
+
+
+
+                                                         Figure 26. Type ll Compensator
+
+Figure 26 shows a Type ll compensator. Its transfer function is expressed in the following equation:
+
+                                                                                                𝐒           𝐒
+                                                               𝐠𝐦 ∙ 𝐑𝟓          (𝟏 + ) (𝟏 + )
+                                                                                    𝛚𝐳𝟏      𝛚𝐳𝟐
+                                      𝐀𝐯 (𝐒) ∙ 𝐊(𝐒) =                                                                                               Eq. 12
+                                                      𝐒 ∙ (𝐂𝟓 + 𝐂𝟔) ∙ (𝐑𝟏 + 𝐑𝟐) (𝟏 + 𝐒 ) (𝟏 + 𝐒 )
+                                                                                               𝛚𝐩𝟏        𝛚𝐩𝟐
+
+
+Where the poles and zeroes are:
+
+
+                                                                            𝟏
+                                                                  𝛚𝐳𝟏 =                                                                               Eq. 13
+                                                                          𝐑𝟓 ∙ 𝐂𝟓
+
+                                                                               𝟏
+                                                                  𝛚𝐳𝟐 =                                                                               Eq. 14
+                                                                             𝐑𝟏 ∙ 𝐂𝟒
+
+                                                                         𝐂𝟓 + 𝐂𝟔
+                                                               𝛚𝐩𝟏 =                                                                                  Eq. 15
+                                                                        𝐑𝟓 ∙ 𝐂𝟓 ∙ 𝐂𝟔
+
+                                                                        𝐑𝟏 + 𝐑𝟐
+                                                               𝛚𝐩𝟐 =                                                                                  Eq. 16
+                                                                       𝐑𝟏 ∙ 𝐑𝟐 ∙ 𝐂𝟒
+
+The goal of loop compensation design is to achieve:
+•   High DC gain
+•   Gain margin less than -10dB
+•   Phase margin greater than 45°
+•   Loop bandwidth crossover frequency (fc) less than 10% of fsw
+
+
+
+
+AP64501                                                          18 of 26                                                                   December 2024
+Document number: DS41980 Rev. 5 - 2                           www.diodes.com                           © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                        AP64501
+
+
+Application Information (continued)
+
+16        External Loop Compensation Design (continued)
+
+The loop gain at the crossover frequency has unity gain. Therefore, the compensator resistance, R5, is determined by:
+
+                                        𝟐𝛑 ∙ 𝐟𝐜 ∙ 𝐕𝐎𝐔𝐓 ∙ 𝐂𝐎 ∙ 𝐑𝐓              𝛀
+                                 𝐑𝟓 =                            = 𝟒. 𝟔𝟕𝐱𝟏𝟎𝟑 [ ] ∙ 𝐟𝐜 ∙ 𝐕𝐎𝐔𝐓 ∙ 𝐂𝐎𝐔𝐓                                            Eq. 17
+                                                 𝐠 𝐦 ∙ 𝐕𝐅𝐁                    𝐀
+
+Where:
+•   gm is 0.15mS
+•   RT is 0.089V/A
+•   VFB is 0.8V
+•   fc is the desired crossover frequency
+
+Be aware that most ceramic capacitors will degrade with voltage stress or temperature extremes. Refer to its datasheet and use its worst case
+capacitance value for calculations.
+
+The compensation capacitors C5 and C6 are then equal to:
+
+
+                                                                     𝐕𝐎𝐔𝐓 ∙ 𝐂𝐎𝐔𝐓
+                                                              𝐂𝟓 =                                                                                Eq. 18
+                                                                      𝐈𝐎𝐔𝐓 ∙ 𝐑𝟓
+
+                                                                𝐑 𝐂 ∙ 𝐂𝐎   𝟏
+                                                      𝐂𝟔 = 𝐦𝐚𝐱 (         ,        )                                                               Eq. 19
+                                                                  𝐑𝟓 𝛑 ∙ 𝐟𝐬𝐰 ∙ 𝐑𝟓
+
+Where:
+•   IOUT is the output load current
+
+The inclusion of C6 can increase gain margin and can decrease phase margin. In most cases, C6 is optional and may be omitted.
+
+The zero, z2, is optional as it can increase both the phase margin and gain bandwidth and can decrease gain margin. If used, place this zero at
+around two to five times fC. Thus, C4 is in the approximate range of:
+
+                                                                    𝟏             𝟏
+                                                      𝐂𝟒 = [                ,             ]                                                       Eq. 20
+                                                               𝟏𝟎𝛑 ∙ 𝐟𝐂 ∙ 𝐑𝟏 𝟒𝛑 ∙ 𝐟𝐂 ∙ 𝐑𝟏
+
+
+
+
+AP64501                                                         19 of 26                                                                December 2024
+Document number: DS41980 Rev. 5 - 2                          www.diodes.com                        © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                              AP64501
+
+
+Application Information (continued)
+
+16        External Loop Compensation Design (continued)
+
+The following is an example of how to choose component values for external loop compensation. Actual component values used in the application
+circuit may vary slightly from the calculated first-order approximation equations.
+
+Let the following conditions be defined:
+•     VIN = 12V
+•     VOUT = 5V
+•     IOUT = 5A
+•     fsw = 570kHz
+•     fc = 15kHz
+•     R1 = 115kΩ
+•     R2 = 22.1kΩ
+•     L = 3.6µH
+•     C2 = 3 × 22µF (effectively, COUT ≈ 45µF)
+•     RC ≈ 1mΩ
+
+
+                     INPUT
+             VIN
+             12V                         VIN                    BST
+                                                                                C3
+                                                                               100nF     L
+                                                                                       3.6μH                                  OUTPUT
+                                                                                                                                                  VOUT
+                                         EN                     SW                                                                                 5V
+                                                                                                                           R1
+                                                                                                    C4
+                                                                                                                         115kΩ
+                    C1                           AP64501         FB
+                                                                                                                                          C2
+                   10µF                                                                                                                3 x 22µF
+                                                                                                                           R2
+                                                                                                                         22.1kΩ
+
+                                          SS                   COMP
+                            Css
+                                                                              R5
+                           10nF                     GND
+                                                                                               C6
+                                                                               C5
+
+
+
+
+                                        Figure 27. Example Circuit for Loop Compensation Calculations
+
+The calculations of the main component values involved in the external loop compensation, R5 and C5, are required. If the optional C4 and C6
+capacitors are used, their calculations are also required.
+
+
+
+
+AP64501                                                       20 of 26                                                                        December 2024
+Document number: DS41980 Rev. 5 - 2                        www.diodes.com                                © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                           AP64501
+
+
+Application Information (continued)
+
+16        External Loop Compensation Design (continued)
+
+From Eq. 17, the value of R5 is calculated as:
+
+                                                                   𝛀
+                                                   𝐑𝟓 = 𝟒. 𝟔𝟕𝐱𝟏𝟎𝟑 [ ] ∙ 𝐟𝐜 ∙ 𝐕𝐎𝐔𝐓 ∙ 𝐂𝐎𝐔𝐓
+                                                                   𝐀
+                                                                𝟑
+                                                                   𝛀
+                                                      = 𝟒. 𝟔𝟕𝐱𝟏𝟎 [ ] ∙ 𝟏𝟓𝐤𝐇𝐳 ∙ 𝟓𝐕 ∙ 𝟒𝟓𝛍𝐅
+                                                                   𝐀
+                                                      ≈ 𝟏𝟓. 𝟕𝟔𝐤𝛀
+
+Choose a standard resistor value for R5 close to its calculated value. For example, choose R5 to be 15.8k.
+
+From Eq. 18, C5 is calculated as:
+
+                                                          𝐕𝐎𝐔𝐓 ∙ 𝐂𝐎𝐔𝐓
+                                                   𝐂𝟓 =
+                                                            𝐈𝐎𝐔𝐓 ∙ 𝐑𝟓
+                                                           𝟓𝐕 ∙ 𝟒𝟓𝛍𝐅
+                                                        =
+                                                          𝟓𝐀 ∙ 𝟏𝟓. 𝟖𝐤𝛀
+                                                        ≈ 𝟐. 𝟖𝐧𝐅
+
+Choose a standard capacitor value for C5 close to its calculated value. For example, choose C5 to be 2.7nF.
+
+From Eq. 19, C6 is calculated as:
+
+                                                              𝐑𝐂 ∙ 𝐂𝐎𝐔𝐓          𝟏
+                                                    𝐂𝟔 = 𝐦𝐚𝐱 (           ,              )
+                                                                  𝐑𝟓       𝛑 ∙ 𝐟𝐬𝐰 ∙ 𝐑𝟓
+                                                              𝟏𝐦𝛀 ∙ 𝟒𝟓𝛍𝐅                 𝟏
+                                                      = 𝐦𝐚𝐱 (              ,                 )
+                                                                𝟏𝟓. 𝟖𝐤𝛀 𝛑 ∙ 𝟓𝟕𝟎𝐤𝐇𝐳 ∙ 𝟏𝟓. 𝟖𝐤𝛀
+                                                      ≈ 𝐦𝐚𝐱(𝟐. 𝟖𝐩𝐅, 𝟑𝟓. 𝟑𝐩𝐅)
+                                                      = 𝟑𝟓. 𝟑𝐩𝐅
+
+C6 is optional. If used, choose a standard capacitor value for C6 close to its calculated value. For example, choose C6 to be 33pF.
+
+From Eq. 20, the approximate range of C4 is calculated as:
+
+                                                                 𝟏            𝟏
+                                                    𝐂𝟒 = [               ,            ]
+                                                           𝟏𝟎𝛑 ∙ 𝐟𝐂 ∙ 𝐑𝟏 𝟒𝛑 ∙ 𝐟𝐂 ∙ 𝐑𝟏
+                                                                      𝟏                 𝟏
+                                                        =[                         ,              ]
+                                                           𝟏𝟎𝛑 ∙ 𝟏𝟓𝐤𝐇𝐳 ∙ 𝟏𝟏𝟓𝐤𝛀 𝟒𝛑 ∙ 𝟏𝟓𝐤𝐇𝐳 ∙ 𝟏𝟏𝟓𝐤𝛀
+                                                        = [𝟏𝟖. 𝟓𝐩𝐅, 𝟒𝟔. 𝟏𝐩𝐅]
+
+C4 is optional. If used, choose a standard capacitor value for C4 that is close to its calculated range. For example, choose C4 to be 47pF.
+
+
+
+
+AP64501                                                          21 of 26                                                                  December 2024
+Document number: DS41980 Rev. 5 - 2                           www.diodes.com                          © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                                      AP64501
+
+
+Application Information (continued)
+
+16                 External Loop Compensation Design (continued)
+
+
+                                  INPUT
+                     VIN
+                     12V                               VIN                     BST
+                                                                                                   C3
+                                                                                                  100nF        L
+                                                                                                             3.6μH                                    OUTPUT
+                                                                                                                                                                          VOUT
+                                                       EN                      SW                                                                                          5V
+                                                                                                                           C4                      R1
+                                                                                                                          47pF                   115kΩ
+                                 C1                             AP64501        FB
+                                                                                                                                                                  C2
+                                10µF                                                                                                                           3 x 22µF
+                                                                                                                                                   R2
+                                                                                                                                                 22.1kΩ
+
+                                                       SS                     COMP
+                                         Css                                                    R5
+                                        10nF                       GND                        15.8kΩ
+                                                                                                                    C6
+                                                                                                  C5               33pF
+                                                                                                 2.7nF
+
+
+
+
+                                           Figure 28. Example Circuit with Calculated Component Values for Loop Compensation
+
+The first-order calculated loop response has the following characteristics:
+•    Bandwidth is around 13.8kHz
+•    Phase margin is around 101.1°
+•    Gain margin is around -23.9dB
+
+
+                   100                                                                                250
+                    80                                                                                200
+                    60                                                                                150
+                    40                                                                                100
+
+
+
+       Gain (dB)                                                                          Phase (°)
+                    20                                                                                 50
+                     0                                                                                   0
+                    -20                                                                                -50
+                    -40                                                                               -100
+                    -60                                                                               -150
+                    -80                                                                               -200
+                   -100                                                                               -250
+                          100          1,000      10,000        100,000   1,000,000                          100             1,000           10,000          100,000         1,000,000
+                                               Frequency (Hz)                                                                           Frequency (Hz)
+
+
+                                   Figure 29. Closed-Loop Bandwidth                                                   Figure 30. Closed-Loop Phase Margin
+
+
+
+
+AP64501                                                                      22 of 26                                                                                 December 2024
+Document number: DS41980 Rev. 5 - 2                                       www.diodes.com                                         © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                        AP64501
+
+
+Layout
+
+PCB Layout
+1.   The AP64501 works at 5A load current so heat dissipation is a major concern in the layout of the PCB. 2oz copper for both the top and bottom
+     layers is recommended.
+2.   Place the input capacitors as closely across VIN and GND as possible.
+3.   Place the inductor as close to SW as possible.
+4.   Place the output capacitors as close to GND as possible.
+5.   Place the feedback components as close to FB as possible.
+6.   If using four or more layers, use at least the 2nd and 3rd layers as GND to maximize thermal performance.
+7.   Add as many vias as possible around both the GND pin and under the GND plane for heat dissipation to all the GND layers.
+8.   Add as many vias as possible around both the VIN pin and under the VIN plane for heat dissipation to all the VIN layers.
+9.   See Figure 31 for more details.
+
+
+
+       GND                                                                                                    VOUT
+
+
+                                                            C2
+
+                                                                                                                  L
+
+
+                                      C3
+
+          C1                  BST                                                            SW
+                                                                                                                 SW
+
+                              VIN                                                           GND              C5
+        VIN
+                                                        EXPOSED PAD
+
+
+                               EN                                                          COMP
+                                                                                                             R5
+
+                               SS                                                            FB
+
+
+
+
+                                    Css                                         R2                     R1
+                                                     Figure 31. Recommended PCB Layout
+
+
+
+
+AP64501                                                         23 of 26                                                                December 2024
+Document number: DS41980 Rev. 5 - 2                          www.diodes.com                        © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                 AP64501
+
+
+Ordering Information
+
+                                                         AP64501 XX - X
+
+
+
+
+                                                 Package                       Packing
+
+                                             SP: SO-8EP                     13: Tape & Reel
+
+                                                                                                         Packing
+ Orderable Part Number                 Package              Package Code
+                                                                                          Qty.                              Carrier
+      AP64501SP-13                     SO-8EP                      SP                     4000                           Tape and Reel
+
+
+
+
+Marking Information
+
+                                                                   SO-8EP
+
+
+                                                       (Top View)
+
+                                                  8     7      6        5
+
+                                      Logo
+                                                                               YY : Year : 19,
+                                                                                           24, 20,
+                                                                                               25, 21~
+                                                                                                   26~
+                         Part Number                  AP64501                  WW : Week : 01~52; 52
+                                                                                      represents 52 and 53 week
+                                                      YY WW X X E
+                                                                               X X : Internal Code
+                                                                               E : SO-8EP
+                                                  1     2      3        4
+
+
+
+
+AP64501                                                        24 of 26                                                          December 2024
+Document number: DS41980 Rev. 5 - 2                         www.diodes.com                  © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                                                                     AP64501
+
+
+Package Outline Dimensions
+Please see http://www.diodes.com/package-outlines.html for the latest version.
+
+                                                                                                         SO-8EP
+
+                                                                                                                                                                      SO-8EP
+                                                       E XP OS E D P AD
+                                                                                                                                                            Dim     Min   Max    Typ
+                                                                                                 F
+                                                                                                                                                             A      1.40  1.50   1.45
+                                                                                                                                                            A1      0.00  0.13     -
+                                                  E1                                                        H
+                                                                                                                                                             b      0.30  0.50   0.40
+                                                                                                                                                             C      0.15  0.25   0.20
+                 1
+                                                                                                                                                             D      4.85  4.95   4.90
+                                                                                                                                                             E      3.80  3.90   3.85
+                                                                                                                                                            E0      3.85  3.95   3.90
+                                              b                                                                                                             E1      5.90  6.10   6.00
+                                                                                                 E
+                 9 °(
+                        All s id                                                                                Q                                            e        -     -    1.27
+                                e)
+                                                                                       N
+                                                                             7°                                     C                                        F      2.75  3.35   3.05
+                                                                                               45°
+
+                                                                4°±3°                                                                                        H      2.11  2.71   2.41
+                                                                                                                        Gauge Plane                          L      0.62  0.82   0.72
+                                                                                                                        Seating Plane
+             1                                                                                                                                               N        -     -    0.35
+          0.
+                                                  A
+      R                                                                                                         L
+                                     e   A1                                                                                                                  Q      0.60  0.70   0.65
+                                                                                                E0
+                                     D                                                                                                                        All Dimensions in mm
+
+
+
+
+Suggested Pad Layout
+Please see http://www.diodes.com/package-outlines.html for the latest version.
+
+                                                                                                         SO-8EP
+
+
+                                                                             X2
+
+
+
+                                                                                                                                                           Value
+                                                                                                                                        Dimensions
+                                                                                                                                                         (in mm)
+                                                                                                                                           C               1.270
+                                                                                                                                           X               0.802
+                                                                                  Y1
+                                                  Y2                                                                                       X1              3.502
+                                                                        X1                                                                 X2              4.612
+                                                                                                                                           Y               1.505
+                                                                                                                                           Y1              2.613
+                                                                                                                                           Y2              6.500
+                                                                                                     Y
+
+
+                                                                             C             X
+
+
+
+
+Mechanical Data
+SO-8EP
+•    Moisture Sensitivity: Level 1 per J-STD-020
+•    Terminals: Finish - Matte Tin Plated Leads, Solderable per MIL-STD-202, Method 208
+•    Weight: 0.077 grams (Approximate)
+
+
+
+
+AP64501                                                                                       25 of 26                                                                               December 2024
+Document number: DS41980 Rev. 5 - 2                                                        www.diodes.com                                       © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+                                                                                                                                               AP64501
+
+
+
+                                                                 IMPORTANT NOTICE
+
+1.      DIODES INCORPORATED (Diodes) AND ITS SUBSIDIARIES MAKE NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH
+REGARDS TO ANY INFORMATION CONTAINED IN THIS DOCUMENT, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY
+RIGHTS (AND THEIR EQUIVALENTS UNDER THE LAWS OF ANY JURISDICTION).
+
+2.         The Information contained herein is for informational purpose only and is provided only to illustrate the operation of Diodes’ products
+described herein and application examples. Diodes does not assume any liability arising out of the application or use of this document or any product
+described herein. This document is intended for skilled and technically trained engineering customers and users who design with Diodes’ products.
+Diodes’ products may be used to facilitate safety-related applications; however, in all instances customers and users are responsible for (a) selecting
+the appropriate Diodes products for their applications, (b) evaluating the suitability of Diodes’ products for their intended applications, (c) ensuring
+their applications, which incorporate Diodes’ products, comply the applicable legal and regulatory requirements as well as safety and functional-
+safety related standards, and (d) ensuring they design with appropriate safeguards (including testing, validation, quality control techniques,
+redundancy, malfunction prevention, and appropriate treatment for aging degradation) to minimize the risks associated with their applications.
+
+3.         Diodes assumes no liability for any application-related information, support, assistance or feedback that may be provided by Diodes from
+time to time. Any customer or user of this document or products described herein will assume all risks and liabilities associated with such use, and
+will hold Diodes and all companies whose products are represented herein or on Diodes’ websites, harmless against all damages and liabilities.
+
+4.        Products described herein may be covered by one or more United States, international or foreign patents and pending patent applications.
+Product names and markings noted herein may also be covered by one or more United States, international or foreign trademarks and trademark
+applications. Diodes does not convey any license under any of its intellectual property rights or the rights of any third parties (including third parties
+whose products and services may be described in this document or on Diodes’ website) under this document.
+
+5.         Diodes’    products      are      provided    subject     to    Diodes’      Standard      Terms       and     Conditions     of    Sale
+(https://www.diodes.com/about/company/terms-and-conditions/terms-and-conditions-of-sales/) or other applicable terms. This document does not
+alter or expand the applicable warranties provided by Diodes. Diodes does not warrant or accept any liability whatsoever in respect of any products
+purchased through unauthorized sales channel.
+
+6.        Diodes’ products and technology may not be used for or incorporated into any products or systems whose manufacture, use or sale is
+prohibited under any applicable laws and regulations. Should customers or users use Diodes’ products in contravention of any applicable laws or
+regulations, or for any unintended or unauthorized application, customers and users will (a) be solely responsible for any damages, losses or
+penalties arising in connection therewith or as a result thereof, and (b) indemnify and hold Diodes and its representatives and agents harmless
+against any and all claims, damages, expenses, and attorney fees arising out of, directly or indirectly, any claim relating to any noncompliance with
+the applicable laws and regulations, as well as any unintended or unauthorized application.
+
+7.         While efforts have been made to ensure the information contained in this document is accurate, complete and current, it may contain
+technical inaccuracies, omissions and typographical errors. Diodes does not warrant that information contained in this document is error-free and
+Diodes is under no obligation to update or otherwise correct this information. Notwithstanding the foregoing, Diodes reserves the right to make
+modifications, enhancements, improvements, corrections or other changes without further notice to this document and any product described herein.
+This document is written in English but may be translated into multiple languages for reference. Only the English version of this document is the final
+and determinative format released by Diodes.
+
+8.        Any unauthorized copying, modification, distribution, transmission, display or other use of this document (or any portion hereof) is
+prohibited. Diodes assumes no responsibility for any losses incurred by the customers or users or any third parties arising from any such unauthorized
+use.
+
+9. This Notice may be periodically updated with the most recent version available at https://www.diodes.com/about/company/terms-and-
+conditions/important-notice
+
+
+The Diodes logo is a registered trademark of Diodes Incorporated in the United States and other countries.
+All other trademarks are the property of their respective owners.
+© 2024 Diodes Incorporated. All Rights Reserved.
+
+www.diodes.com
+
+
+
+
+AP64501                                                             26 of 26                                                                   December 2024
+Document number: DS41980 Rev. 5 - 2                              www.diodes.com                           © 2024 Copyright Diodes Incorporated. All Rights Reserved.
+

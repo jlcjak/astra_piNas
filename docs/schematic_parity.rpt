@@ -1,0 +1,24 @@
+** Drc report for astra_piNas.kicad_pcb **
+** Created on 2026-09-05T02:19:11 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 2 Footprint errors **
+[net_conflict]: No pad found for pin 9 in schematic
+    Local override; warning
+    @(3.0000 mm, 3.0000 mm): Footprint U7
+[net_conflict]: No pad found for pin 10 in schematic
+    Local override; warning
+    @(3.0000 mm, 3.0000 mm): Footprint U7
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

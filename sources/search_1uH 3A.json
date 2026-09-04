@@ -1,0 +1,325 @@
+{
+  "total": 139,
+  "results": [
+    {
+      "lcsc": "C88211",
+      "name": "TDK VLS252010HBX-1R0M-1",
+      "model": "VLS252010HBX-1R0M-1",
+      "brand": "TDK",
+      "package": "1008",
+      "category": "Power Inductors",
+      "stock": 7726,
+      "type": "Extended",
+      "price": 0.0571,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0571
+        },
+        {
+          "qty": 100,
+          "price": 0.045
+        },
+        {
+          "qty": 300,
+          "price": 0.039
+        },
+        {
+          "qty": 2000,
+          "price": 0.0345
+        },
+        {
+          "qty": 4000,
+          "price": 0.0308
+        },
+        {
+          "qty": 10000,
+          "price": 0.029
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "1uH 3.57A 3A 54m\u03a9 \u00b120% 1008 Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-inductors_tdk-vls252010hbx-1r0m-1_C88211.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810241910_TDK-VLS252010HBX-1R0M-1_C88211.pdf",
+      "attributes": [
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "3.57A"
+        },
+        {
+          "name": "Inductance",
+          "value": "1uH"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Current Rating",
+          "value": "3A"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "54m\u03a9"
+        }
+      ]
+    },
+    {
+      "lcsc": "C96890",
+      "name": "Sunlord SWPA4026S1R0NT",
+      "model": "SWPA4026S1R0NT",
+      "brand": "Sunlord",
+      "package": "SMD,4x4mm",
+      "category": "Power Inductors",
+      "stock": 2399,
+      "type": "Extended",
+      "price": 0.0897,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0897
+        },
+        {
+          "qty": 50,
+          "price": 0.0722
+        },
+        {
+          "qty": 150,
+          "price": 0.0634
+        },
+        {
+          "qty": 500,
+          "price": 0.0567
+        },
+        {
+          "qty": 2500,
+          "price": 0.0457
+        },
+        {
+          "qty": 5000,
+          "price": 0.0431
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2500,
+      "description": "1uH 3.3A 31m\u03a9 3A \u00b130% SMD,4x4mm Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-inductors_sunlord-swpa4026s1r0nt_C96890.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-SWPA4026S1R0NT_C96890.pdf",
+      "attributes": [
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "3.3A"
+        },
+        {
+          "name": "Inductance",
+          "value": "1uH"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b130%"
+        },
+        {
+          "name": "Current Rating",
+          "value": "3A"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "31m\u03a9"
+        }
+      ]
+    },
+    {
+      "lcsc": "C97016",
+      "name": "Sunlord WPN201610U1R0MT",
+      "model": "WPN201610U1R0MT",
+      "brand": "Sunlord",
+      "package": "0806",
+      "category": "Power Inductors",
+      "stock": 2149,
+      "type": "Extended",
+      "price": 0.0465,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0465
+        },
+        {
+          "qty": 100,
+          "price": 0.0374
+        },
+        {
+          "qty": 300,
+          "price": 0.0329
+        },
+        {
+          "qty": 2000,
+          "price": 0.0296
+        },
+        {
+          "qty": 4000,
+          "price": 0.0269
+        },
+        {
+          "qty": 10000,
+          "price": 0.0256
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "1uH 2.6A 3A 50m\u03a9 \u00b120% 0806 Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-inductors_sunlord-wpn201610u1r0mt_C97016.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN201610U1R0MT_C97016.pdf",
+      "attributes": [
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "3A"
+        },
+        {
+          "name": "Inductance",
+          "value": "1uH"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Current Rating",
+          "value": "2.6A"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "50m\u03a9"
+        }
+      ]
+    },
+    {
+      "lcsc": "C98348",
+      "name": "Sunlord WPN252012H1R0MT",
+      "model": "WPN252012H1R0MT",
+      "brand": "Sunlord",
+      "package": "1008",
+      "category": "Power Inductors",
+      "stock": 49684,
+      "type": "Extended",
+      "price": 0.0478,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0478
+        },
+        {
+          "qty": 100,
+          "price": 0.04
+        },
+        {
+          "qty": 300,
+          "price": 0.0361
+        },
+        {
+          "qty": 2000,
+          "price": 0.0321
+        },
+        {
+          "qty": 4000,
+          "price": 0.0298
+        },
+        {
+          "qty": 10000,
+          "price": 0.0285
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "1uH 3A 4.2A 54m\u03a9 \u00b120% 1008 Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-inductors_sunlord-wpn252012h1r0mt_C98348.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN252012H1R0MT_C98348.pdf",
+      "attributes": [
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "4.2A"
+        },
+        {
+          "name": "Inductance",
+          "value": "1uH"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Current Rating",
+          "value": "3A"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "54m\u03a9"
+        }
+      ]
+    },
+    {
+      "lcsc": "C108289",
+      "name": "Chilisin MHCD252012A-1R0M-A8S",
+      "model": "MHCD252012A-1R0M-A8S",
+      "brand": "Chilisin Elec",
+      "package": "SMD",
+      "category": "Power Inductors",
+      "stock": 17,
+      "type": "Extended",
+      "price": 0.0428,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0428
+        },
+        {
+          "qty": 200,
+          "price": 0.0345
+        },
+        {
+          "qty": 600,
+          "price": 0.0299
+        },
+        {
+          "qty": 3000,
+          "price": 0.0238
+        },
+        {
+          "qty": 9000,
+          "price": 0.0215
+        },
+        {
+          "qty": 21000,
+          "price": 0.0202
+        }
+      ],
+      "min_qty": 260,
+      "reel_qty": 3000,
+      "description": "1uH 3A 45m\u03a9 4A \u00b120% SMD Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-inductors_chilisin-elec-mhcd252012a-1r0m-a8s_C108289.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Chilisin-Elec-MHCD252012A-1R0M-A8S_C108289.pdf",
+      "attributes": [
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "4A"
+        },
+        {
+          "name": "Inductance",
+          "value": "1uH"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Current Rating",
+          "value": "3A"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "45m\u03a9"
+        }
+      ]
+    }
+  ]
+}

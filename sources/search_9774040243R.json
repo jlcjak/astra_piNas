@@ -1,0 +1,48 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C7464053",
+      "name": "Wurth 9774040243R",
+      "model": "9774040243R",
+      "brand": "Wurth Elektronik",
+      "package": "-",
+      "category": "Patch round nut",
+      "stock": 613,
+      "type": "Extended",
+      "price": 0.913,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.913
+        },
+        {
+          "qty": 10,
+          "price": 0.7425
+        },
+        {
+          "qty": 30,
+          "price": 0.658
+        },
+        {
+          "qty": 100,
+          "price": 0.5735
+        },
+        {
+          "qty": 500,
+          "price": 0.5231
+        },
+        {
+          "qty": 1000,
+          "price": 0.4972
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 600,
+      "description": "- Patch round nut ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

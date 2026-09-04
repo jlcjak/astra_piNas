@@ -1,0 +1,11 @@
+# Preserve CAD and reference assets exactly; avoid binary/text misdetection.
+*.pdf binary
+*.png binary
+*.step binary
+*.STEP binary
+*.stp binary
+*.wrl binary
+*.csv -text
+*.kicad_pcb -text
+*.kicad_sch -text
+*.kicad_pro -text

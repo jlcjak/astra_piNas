@@ -1,0 +1,441 @@
+{
+  "total": 734,
+  "results": [
+    {
+      "lcsc": "C8545",
+      "name": "JSCJ 2N7002",
+      "model": "2N7002",
+      "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+      "package": "SOT-23",
+      "category": "MOSFETs",
+      "stock": 2260427,
+      "type": "Basic",
+      "price": 0.0176,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0176
+        },
+        {
+          "qty": 500,
+          "price": 0.0141
+        },
+        {
+          "qty": 3000,
+          "price": 0.0125
+        },
+        {
+          "qty": 6000,
+          "price": 0.0113
+        },
+        {
+          "qty": 24000,
+          "price": 0.0109
+        },
+        {
+          "qty": 51000,
+          "price": 0.0105
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 N-channel 115mA 2.5V 225mW 25pF 50pF 5pF 5\u03a9@10V 60V N-Channel \u00b120V SOT-23 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_jiangsu-changjing-electronics-technology-co-ltd-2n7002_C8545.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--2N7002_C8545.pdf",
+      "attributes": [
+        {
+          "name": "Vgs",
+          "value": "\u00b120V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "5pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "115mA"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "60V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "25pF"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "5\u03a9@10V"
+        },
+        {
+          "name": "Type",
+          "value": "N-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "50pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 N-channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "2.5V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "225mW"
+        }
+      ]
+    },
+    {
+      "lcsc": "C12778",
+      "name": "LRC L2N7002WT1G",
+      "model": "L2N7002WT1G",
+      "brand": "LRC",
+      "package": "SOT-323",
+      "category": "MOSFETs",
+      "stock": 61395,
+      "type": "Extended",
+      "price": 0.0205,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0205
+        },
+        {
+          "qty": 500,
+          "price": 0.0166
+        },
+        {
+          "qty": 3000,
+          "price": 0.0141
+        },
+        {
+          "qty": 6000,
+          "price": 0.0128
+        },
+        {
+          "qty": 24000,
+          "price": 0.0117
+        },
+        {
+          "qty": 51000,
+          "price": 0.0111
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 N-channel 115mA 2.5V 225mW 25pF 50pF 5pF 60V 7.5\u03a9@10V N-Channel SOT-323 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_lrc-l2n7002wt1g_C12778.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1810251916_LRC-L2N7002WT1G_C12778.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "N-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "50pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 N-channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "2.5V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "5pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "115mA"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "60V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "25pF"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "225mW"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "7.5\u03a9@10V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C12779",
+      "name": "LRC L2N7002LT1G",
+      "model": "L2N7002LT1G",
+      "brand": "LRC",
+      "package": "SOT-23",
+      "category": "MOSFETs",
+      "stock": 1220749,
+      "type": "Extended",
+      "price": 0.0152,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0152
+        },
+        {
+          "qty": 500,
+          "price": 0.0121
+        },
+        {
+          "qty": 3000,
+          "price": 0.0103
+        },
+        {
+          "qty": 6000,
+          "price": 0.0093
+        },
+        {
+          "qty": 24000,
+          "price": 0.0084
+        },
+        {
+          "qty": 51000,
+          "price": 0.0079
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 N-channel 1.4\u03a9@10V 10pF 115mA 17pF 2.5pF 225mW 2V 60V N-Channel SOT-23 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_lrc-l2n7002lt1g_C12779.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809271814_LRC-L2N7002LT1G_C12779.pdf",
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "N-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "17pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 N-channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "2V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "2.5pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "115mA"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "60V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "10pF"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "225mW"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "1.4\u03a9@10V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C16338",
+      "name": "onsemi 2N7002LT1G",
+      "model": "2N7002LT1G",
+      "brand": "onsemi",
+      "package": "SOT-23",
+      "category": "MOSFETs",
+      "stock": 286569,
+      "type": "Extended",
+      "price": 0.0324,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0324
+        },
+        {
+          "qty": 200,
+          "price": 0.0251
+        },
+        {
+          "qty": 600,
+          "price": 0.0218
+        },
+        {
+          "qty": 3000,
+          "price": 0.0182
+        },
+        {
+          "qty": 9000,
+          "price": 0.0173
+        },
+        {
+          "qty": 21000,
+          "price": 0.0166
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 N-channel 115mA 2.5V 225mW 25pF 50pF 5pF 60V 7.5\u03a9@10V N-Channel SOT-23 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_onsemi-2n7002lt1g_C16338.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2410122030_onsemi-2N7002LT1G_C16338.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "N-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "50pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 N-channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "2.5V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "5pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "115mA"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "60V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "25pF"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "225mW"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "7.5\u03a9@10V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C40106",
+      "name": "JSCJ 2N7002T",
+      "model": "2N7002T",
+      "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+      "package": "SOT-523",
+      "category": "MOSFETs",
+      "stock": 27595,
+      "type": "Extended",
+      "price": 0.0329,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0329
+        },
+        {
+          "qty": 200,
+          "price": 0.0265
+        },
+        {
+          "qty": 600,
+          "price": 0.023
+        },
+        {
+          "qty": 3000,
+          "price": 0.0184
+        },
+        {
+          "qty": 9000,
+          "price": 0.0166
+        },
+        {
+          "qty": 21000,
+          "price": 0.0156
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 N-channel 115mA 150mW 2.5V 25pF 50pF 5pF 5\u03a9@10V 60V N-Channel SOT-523 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_jiangsu-changjing-electronics-technology-co-ltd-2n7002t_C40106.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809211023_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--2N7002T_C40106.pdf",
+      "attributes": [
+        {
+          "name": "Vgs",
+          "value": "\u00b120V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "5pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "115mA"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "60V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "25pF"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "5\u03a9@10V"
+        },
+        {
+          "name": "Type",
+          "value": "N-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "50pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 N-channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "2.5V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "150mW"
+        }
+      ]
+    }
+  ]
+}

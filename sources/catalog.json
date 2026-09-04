@@ -1,0 +1,3838 @@
+{
+  "C7435219": {
+    "lcsc": "C7435219",
+    "name": "Amphenol 10164227-1004A1RLF",
+    "model": "10164227-1004A1RLF",
+    "brand": "Amphenol ICC",
+    "package": "SMD,P=0.4mm",
+    "category": "Board-to-Board and Backplane Connector",
+    "stock": 1268,
+    "type": "Extended",
+    "price": 3.4619,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 3.4619
+      },
+      {
+        "qty": 10,
+        "price": 2.9908
+      },
+      {
+        "qty": 30,
+        "price": 2.6967
+      },
+      {
+        "qty": 100,
+        "price": 2.3962
+      },
+      {
+        "qty": 500,
+        "price": 2.2597
+      },
+      {
+        "qty": 1000,
+        "price": 2.2013
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "0.4mm 100P 2 300mA 30V Copper alloy Gold Surface Mount,Vertical SMD,P=0.4mm Board-to-Board and Backplane Connector ROHS",
+    "url": "https://www.lcsc.com/product-detail/C7435219.html",
+    "datasheet": null,
+    "attributes": [
+      {
+        "name": "Number of Rows",
+        "value": "2"
+      },
+      {
+        "name": "Voltage Rating",
+        "value": "30V"
+      },
+      {
+        "name": "Contact Plating",
+        "value": "Gold"
+      },
+      {
+        "name": "Contact Material",
+        "value": "Copper alloy"
+      },
+      {
+        "name": "Current Rating",
+        "value": "300mA"
+      },
+      {
+        "name": "Number of Pins",
+        "value": "100P"
+      },
+      {
+        "name": "Pitch",
+        "value": "0.4mm"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Surface Mount,Vertical"
+      }
+    ],
+    "lcsc_stock": 1174,
+    "checked_utc": "2026-09-04T21:32:37.241261+00:00"
+  },
+  "C500767": {
+    "lcsc": "C500767",
+    "name": "DIODES PI7C9X2G404SLBFDEX",
+    "model": "PI7C9X2G404SLBFDEX",
+    "brand": "Diodes Incorporated",
+    "package": "LQFP-128-EP(14x14)",
+    "category": "Interface - Specialized",
+    "stock": 2780,
+    "type": "Extended",
+    "price": 7.8075,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 7.8075
+      },
+      {
+        "qty": 10,
+        "price": 6.4412
+      },
+      {
+        "qty": 30,
+        "price": 5.6079
+      },
+      {
+        "qty": 100,
+        "price": 4.9093
+      },
+      {
+        "qty": 102,
+        "price": 4.9093
+      },
+      {
+        "qty": 104,
+        "price": 4.9093
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "-40\u2103~+85\u2103 5Gbps PCIe LQFP-128-EP(14x14) Interface - Specialized ROHS",
+    "url": "https://www.lcsc.com/product-detail/C500767.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2003261708_Diodes-Incorporated-PI7C9X2G404SLBFDEX_C500767.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+85\u2103"
+      },
+      {
+        "name": "Data Rate",
+        "value": "5Gbps"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "3.3V"
+      },
+      {
+        "name": "Features",
+        "value": "Non-volatile configuration storage\u3001Link status monitoring"
+      },
+      {
+        "name": "Interface",
+        "value": "PCIe\u3001JTAG"
+      }
+    ],
+    "lcsc_stock": 2750,
+    "checked_utc": "2026-09-04T21:32:37.276258+00:00"
+  },
+  "C590854": {
+    "lcsc": "C590854",
+    "name": "TE Connectivity 1-2199230-5",
+    "model": "1-2199230-5",
+    "brand": "TE Connectivity",
+    "package": "SMD,P=0.5mm,Surface Mount\uff0cRight Angle",
+    "category": "Hard Disk Connector (SAS/SATA/M.2)",
+    "stock": 1342,
+    "type": "Extended",
+    "price": 2.0778,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 2.0778
+      },
+      {
+        "qty": 10,
+        "price": 1.8
+      },
+      {
+        "qty": 30,
+        "price": 1.6473
+      },
+      {
+        "qty": 100,
+        "price": 1.4735
+      },
+      {
+        "qty": 500,
+        "price": 1.2753
+      },
+      {
+        "qty": 1000,
+        "price": 1.2396
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "4.2mm 67P Female M.2-M Key Surface Mount, Right Angle With post SMD,P=0.5mm,\u5367\u8d34 Hard Disk Connector (SAS/SATA/M.2) ROHS",
+    "url": "https://www.lcsc.com/product-detail/C590854.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_TE-Connectivity-1-2199230-5_C590854.pdf",
+    "attributes": [
+      {
+        "name": "Number of Pins",
+        "value": "67P"
+      },
+      {
+        "name": "Connector Type",
+        "value": "Female"
+      },
+      {
+        "name": "Supplementary Features",
+        "value": "With column"
+      },
+      {
+        "name": "Height Above Board",
+        "value": "4.2mm"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Surface Mount, Right Angle"
+      },
+      {
+        "name": "Interface Form",
+        "value": "M.2-M Key"
+      }
+    ],
+    "lcsc_stock": 1169,
+    "checked_utc": "2026-09-04T21:32:37.254522+00:00"
+  },
+  "C19724762": {
+    "lcsc": "C19724762",
+    "name": "HANRUN(Zhongshan HanRun Elec) HR913180AE",
+    "model": "HR913180AE",
+    "brand": "HANRUN(Zhongshan HanRun Elec)",
+    "package": "Plugin",
+    "category": "Ethernet Connectors / Modular Connectors (RJ45 RJ11)",
+    "stock": 190,
+    "type": "Extended",
+    "price": 5.4016,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 5.4016
+      },
+      {
+        "qty": 10,
+        "price": 4.6169
+      },
+      {
+        "qty": 42,
+        "price": 4.1523
+      },
+      {
+        "qty": 84,
+        "price": 3.6812
+      },
+      {
+        "qty": 504,
+        "price": 3.4635
+      },
+      {
+        "qty": 1008,
+        "price": 3.366
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 42,
+    "description": "\u63d2\u4ef6 Ethernet Connectors / Modular Connectors (RJ45 RJ11) ROHS",
+    "url": "https://www.lcsc.com/product-detail/C19724762.html",
+    "datasheet": null,
+    "attributes": [],
+    "lcsc_stock": 169,
+    "checked_utc": "2026-09-04T21:32:37.227892+00:00"
+  },
+  "C2848082": {
+    "lcsc": "C2848082",
+    "name": "Winchen WC-PD60B120A",
+    "model": "WC-PD60B120A",
+    "brand": "Winchen",
+    "package": "-",
+    "category": "Ethernet Modules",
+    "stock": 15,
+    "type": "Extended",
+    "price": 19.4049,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 19.4049
+      },
+      {
+        "qty": 10,
+        "price": 17.7479
+      },
+      {
+        "qty": 12,
+        "price": 17.7479
+      },
+      {
+        "qty": 14,
+        "price": 17.7479
+      },
+      {
+        "qty": 16,
+        "price": 17.7479
+      },
+      {
+        "qty": 18,
+        "price": 17.7479
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 21,
+    "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+    "url": "https://www.lcsc.com/product-detail/C2848082.html",
+    "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2202221130_Winchen-WC-PD60B120A_C2848082.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+80\u2103"
+      },
+      {
+        "name": "Type",
+        "value": "Power over Ethernet Module"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "48V~57V"
+      },
+      {
+        "name": "Isolation",
+        "value": "Yes"
+      },
+      {
+        "name": "Features",
+        "value": "Short-Circuit  Protection\u3001Thermal Protection"
+      }
+    ],
+    "lcsc_stock": 15,
+    "checked_utc": "2026-09-04T21:32:37.304659+00:00"
+  },
+  "C165948": {
+    "lcsc": "C165948",
+    "name": "Korean Hroparts Elec TYPE-C-31-M-12",
+    "model": "TYPE-C-31-M-12",
+    "brand": "Korean Hroparts Elec",
+    "package": "SMD",
+    "category": "USB Connectors",
+    "stock": 299376,
+    "type": "Extended",
+    "price": 0.1856,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.1856
+      },
+      {
+        "qty": 50,
+        "price": 0.1466
+      },
+      {
+        "qty": 150,
+        "price": 0.1274
+      },
+      {
+        "qty": 1000,
+        "price": 0.1034
+      },
+      {
+        "qty": 2000,
+        "price": 0.0987
+      },
+      {
+        "qty": 5000,
+        "price": 0.0959
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "-30\u2103~+80\u2103 1 10,000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",
+    "url": "https://www.lcsc.com/product-detail/C165948.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-30\u2103~+80\u2103"
+      },
+      {
+        "name": "Number of Ports",
+        "value": "1"
+      },
+      {
+        "name": "Length",
+        "value": "7.35mm"
+      },
+      {
+        "name": "Current Rating-Power",
+        "value": "5A"
+      },
+      {
+        "name": "Voltage Rating",
+        "value": "20V"
+      },
+      {
+        "name": "Connector Type",
+        "value": "Type-C"
+      },
+      {
+        "name": "Number of Contacts",
+        "value": "16P"
+      },
+      {
+        "name": "Gender",
+        "value": "Female"
+      },
+      {
+        "name": "Connect-Disconnect Life",
+        "value": "10,000 cycles"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Surface Mount, Right Angle"
+      }
+    ],
+    "lcsc_stock": 284155,
+    "checked_utc": "2026-09-04T21:32:37.263211+00:00"
+  },
+  "C91145": {
+    "lcsc": "C91145",
+    "name": "Korean Hroparts Elec TF-01A",
+    "model": "TF-01A",
+    "brand": "Korean Hroparts Elec",
+    "package": "SMD",
+    "category": "SD Card / Memory Card Connector",
+    "stock": 215940,
+    "type": "Extended",
+    "price": 0.1917,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.1917
+      },
+      {
+        "qty": 50,
+        "price": 0.1528
+      },
+      {
+        "qty": 150,
+        "price": 0.1336
+      },
+      {
+        "qty": 1000,
+        "price": 0.1121
+      },
+      {
+        "qty": 2000,
+        "price": 0.1074
+      },
+      {
+        "qty": 5000,
+        "price": 0.1045
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "1.85mm Connector and Ejector MicroSD Card (TF Card) Push-Push With Locating Pins SMD SD Card / Memory Card Connector ROHS",
+    "url": "https://www.lcsc.com/product-detail/C91145.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1811082127_Korean-Hroparts-Elec-TF-01A_C91145.pdf",
+    "attributes": [
+      {
+        "name": "Connector Type",
+        "value": "Connector and Ejector"
+      },
+      {
+        "name": "Supplementary Features",
+        "value": "With Locating Pins"
+      },
+      {
+        "name": "Card Connection Mode",
+        "value": "Push-Push"
+      },
+      {
+        "name": "Height Above Board",
+        "value": "1.85mm"
+      },
+      {
+        "name": "Card Type",
+        "value": "MicroSD Card (TF Card)"
+      }
+    ],
+    "lcsc_stock": 213170,
+    "checked_utc": "2026-09-04T21:32:37.590375+00:00"
+  },
+  "C2846043": {
+    "lcsc": "C2846043",
+    "name": "WCH CH343P",
+    "model": "CH343P",
+    "brand": "WCH(Jiangsu Qin Heng)",
+    "package": "TQFN-16-EP(3x3)",
+    "category": "USB Converters",
+    "stock": 4883,
+    "type": "Extended",
+    "price": 1.1128,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 1.1128
+      },
+      {
+        "qty": 10,
+        "price": 0.9991
+      },
+      {
+        "qty": 30,
+        "price": 0.8919
+      },
+      {
+        "qty": 100,
+        "price": 0.8107
+      },
+      {
+        "qty": 500,
+        "price": 0.7652
+      },
+      {
+        "qty": 1000,
+        "price": 0.749
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-40\u2103~+85\u2103 3.3V\u30015V 3mA 6Mbps 90uA USB 2.0 USB to UART TQFN-16-EP(3x3) USB Converters ROHS",
+    "url": "https://www.lcsc.com/product-detail/C2846043.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2403131129_WCH-Jiangsu-Qin-Heng-CH343P_C2846043.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+85\u2103"
+      },
+      {
+        "name": "Data Rate",
+        "value": "6Mbps"
+      },
+      {
+        "name": "Applications Function",
+        "value": "USB to UART"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "3.3V\u30015V"
+      },
+      {
+        "name": "USB Protocol",
+        "value": "USB 2.0"
+      },
+      {
+        "name": "Current - Supply",
+        "value": "3mA"
+      },
+      {
+        "name": "Quiescent Supply Current",
+        "value": "90uA"
+      }
+    ],
+    "lcsc_stock": 4883,
+    "checked_utc": "2026-09-04T21:32:37.653872+00:00"
+  },
+  "C970725": {
+    "lcsc": "C970725",
+    "name": "WCH CH224K",
+    "model": "CH224K",
+    "brand": "WCH(Jiangsu Qin Heng)",
+    "package": "ESSOP-10-150mil-1mm",
+    "category": "USB PD",
+    "stock": 2894,
+    "type": "Extended",
+    "price": 0.489,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.489
+      },
+      {
+        "qty": 10,
+        "price": 0.3916
+      },
+      {
+        "qty": 30,
+        "price": 0.3444
+      },
+      {
+        "qty": 100,
+        "price": 0.2811
+      },
+      {
+        "qty": 500,
+        "price": 0.2697
+      },
+      {
+        "qty": 1000,
+        "price": 0.2632
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 100,
+    "description": "-40\u2103~+90\u2103 100W 4V~30V 5V\u30019V\u300112V\u300115V\u300120V PD 3.0 Power Receiver Controller ESSOP-10-150mil-1mm USB PD ROHS",
+    "url": "https://www.lcsc.com/product-detail/C970725.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2403131354_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+90\u2103"
+      },
+      {
+        "name": "Type",
+        "value": "Power Receiver Controller"
+      },
+      {
+        "name": "Output Power",
+        "value": "100W"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "4V~30V"
+      },
+      {
+        "name": "Features",
+        "value": "Overvoltage protection\u3001Thermal Protection"
+      },
+      {
+        "name": "Protocol",
+        "value": "PD 3.0"
+      },
+      {
+        "name": "Output Voltage",
+        "value": "5V\u30019V\u300112V\u300115V\u300120V"
+      }
+    ],
+    "lcsc_stock": 2894,
+    "checked_utc": "2026-09-04T21:32:37.631989+00:00"
+  },
+  "C2071517": {
+    "lcsc": "C2071517",
+    "name": "DIODES AP64501SP-13",
+    "model": "AP64501SP-13",
+    "brand": "Diodes Incorporated",
+    "package": "SOIC-8-EP",
+    "category": "DC-DC Converters",
+    "stock": 2461,
+    "type": "Extended",
+    "price": 4.2303,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 4.2303
+      },
+      {
+        "qty": 10,
+        "price": 3.7429
+      },
+      {
+        "qty": 30,
+        "price": 3.4391
+      },
+      {
+        "qty": 100,
+        "price": 3.1272
+      },
+      {
+        "qty": 500,
+        "price": 2.9859
+      },
+      {
+        "qty": 1000,
+        "price": 2.9242
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 4000,
+    "description": "-40\u2103~+85\u2103 1 25uA 3.8V~40V 570kHz 5A 800mV~39V Adjustable Buck Buck Built-in SOIC-8-EP DC-DC Converters ROHS",
+    "url": "https://www.lcsc.com/product-detail/C2071517.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2108041630_Diodes-Incorporated-AP64501SP-13_C2071517.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+85\u2103"
+      },
+      {
+        "name": "Function",
+        "value": "Step-down type"
+      },
+      {
+        "name": "Synchronous Rectifier",
+        "value": "Yes"
+      },
+      {
+        "name": "Frequency - Switching",
+        "value": "570kHz"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "3.8V~40V"
+      },
+      {
+        "name": "Output Type",
+        "value": "Adjustable"
+      },
+      {
+        "name": "Output Current",
+        "value": "5A"
+      },
+      {
+        "name": "Quiescent Current",
+        "value": "25uA"
+      },
+      {
+        "name": "Features",
+        "value": "Overcurrent Protection\u3001Light load efficient mode\u3001Adjustable soft-start\u3001Cycle-by-cycle current limiting\u3001Hiccup current limiting\u3001External compensation\u3001EMI optimization (spread spectrum)"
+      },
+      {
+        "name": "Switch tube (built-in/external)",
+        "value": "Built-in"
+      },
+      {
+        "name": "Topology",
+        "value": "Buck"
+      },
+      {
+        "name": "Output Voltage",
+        "value": "800mV~39V"
+      },
+      {
+        "name": "Number of Outputs",
+        "value": "1"
+      }
+    ],
+    "lcsc_stock": 1806,
+    "checked_utc": "2026-09-04T21:32:37.682590+00:00"
+  },
+  "C141836": {
+    "lcsc": "C141836",
+    "name": "TI TLV62569DBVR",
+    "model": "TLV62569DBVR",
+    "brand": "Texas Instruments",
+    "package": "SOT-23-5",
+    "category": "DC-DC Converters",
+    "stock": 128286,
+    "type": "Extended",
+    "price": 0.0785,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0785
+      },
+      {
+        "qty": 50,
+        "price": 0.0626
+      },
+      {
+        "qty": 150,
+        "price": 0.0545
+      },
+      {
+        "qty": 500,
+        "price": 0.0476
+      },
+      {
+        "qty": 3000,
+        "price": 0.0457
+      },
+      {
+        "qty": 6000,
+        "price": 0.0441
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "-40\u2103~+125\u2103@(TJ) 1 1.5MHz 2.5V~5.5V 2A 600mV~5.5V Adjustable Buck Buck Built-in Yes SOT-23-5 DC-DC Converters ROHS",
+    "url": "https://www.lcsc.com/product-detail/C141836.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809251629_Texas-Instruments-TLV62569DBVR_C141836.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+125\u2103@(TJ)"
+      },
+      {
+        "name": "Function",
+        "value": "Step-down type"
+      },
+      {
+        "name": "Synchronous Rectifier",
+        "value": "Yes"
+      },
+      {
+        "name": "Frequency - Switching",
+        "value": "1.5MHz"
+      },
+      {
+        "name": "Output Type",
+        "value": "Adjustable"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "2.5V~5.5V"
+      },
+      {
+        "name": "Output Current",
+        "value": "2A"
+      },
+      {
+        "name": "Quiescent Current",
+        "value": "35uA"
+      },
+      {
+        "name": "Features",
+        "value": "Overcurrent Protection\u3001Light load efficient mode\u3001Operating status indication"
+      },
+      {
+        "name": "Switch tube (built-in/external)",
+        "value": "Built-in"
+      },
+      {
+        "name": "Topology",
+        "value": "Buck"
+      },
+      {
+        "name": "Output Voltage",
+        "value": "600mV~5.5V"
+      },
+      {
+        "name": "Number of Outputs",
+        "value": "1"
+      }
+    ],
+    "lcsc_stock": 128295,
+    "checked_utc": "2026-09-04T21:32:37.690946+00:00"
+  },
+  "C250547": {
+    "lcsc": "C250547",
+    "name": "RICHTEK RT9742GGJ5",
+    "model": "RT9742GGJ5",
+    "brand": "Richtek Tech",
+    "package": "TSOT-23-5",
+    "category": "Power Distribution Switches",
+    "stock": 6439,
+    "type": "Extended",
+    "price": 0.1831,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.1831
+      },
+      {
+        "qty": 10,
+        "price": 0.1485
+      },
+      {
+        "qty": 30,
+        "price": 0.1337
+      },
+      {
+        "qty": 100,
+        "price": 0.1152
+      },
+      {
+        "qty": 500,
+        "price": 0.092
+      },
+      {
+        "qty": 1000,
+        "price": 0.087
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "-40\u2103~+85\u2103 1 1A 2.7V~6V 70m\u03a9 Active High High Side Switch Short-Circuit  Protection(SCP)\u3001Undervoltage Protection(UVP)\u3001Overcurrent Protection(OCP)\u3001Over Temperature Protection TSOT-23-5 Power Distribution Switches ROHS",
+    "url": "https://www.lcsc.com/product-detail/C250547.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1808151431_Richtek-Tech-RT9742GGJ5_C250547.pdf",
+    "attributes": [
+      {
+        "name": "Type",
+        "value": "High Side Switch"
+      },
+      {
+        "name": "Number of Channels",
+        "value": "1"
+      },
+      {
+        "name": "Voltage - Supply",
+        "value": "2.7V~6V"
+      },
+      {
+        "name": "Operating Temperature\t-",
+        "value": "-40\u2103~+85\u2103"
+      },
+      {
+        "name": "Maximum Continuous Current",
+        "value": "1A"
+      },
+      {
+        "name": "Features",
+        "value": "Output discharge function\u3001Soft-start\u3001Under-voltage lockout\u3001Reverse voltage protection\u3001Overcurrent Protection\u3001Over temperature protection\u3001Short-Circuit  Protection\u3001Reverse current blocking"
+      },
+      {
+        "name": "RDS(on)",
+        "value": "70m\u03a9"
+      },
+      {
+        "name": "Control Input Logic",
+        "value": "Active High"
+      }
+    ],
+    "lcsc_stock": 6085,
+    "checked_utc": "2026-09-04T21:32:37.703076+00:00"
+  },
+  "C7428653": {
+    "lcsc": "C7428653",
+    "name": "HOOYA DC-005D-2.0-PU-SP(UL)",
+    "model": "DC-005D-2.0-PU-SP(UL)",
+    "brand": "HOOYA",
+    "package": "Plugin",
+    "category": "DC Power Connectors",
+    "stock": 388,
+    "type": "Extended",
+    "price": 0.3263,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.3263
+      },
+      {
+        "qty": 50,
+        "price": 0.2566
+      },
+      {
+        "qty": 150,
+        "price": 0.2267
+      },
+      {
+        "qty": 500,
+        "price": 0.1878
+      },
+      {
+        "qty": 2500,
+        "price": 0.1713
+      },
+      {
+        "qty": 5000,
+        "price": 0.1614
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 500,
+    "description": "2mm 48V 5A 6.4mm DC Power Jack Plugin DC Power Connectors ROHS",
+    "url": "https://www.lcsc.com/product-detail/C7428653.html",
+    "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2307211818_HOOYA-DC-005D-2-0-PU-SP-UL_C7428653.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating (Max)",
+        "value": "48V"
+      },
+      {
+        "name": "Current Rating",
+        "value": "5A"
+      },
+      {
+        "name": "Connector Type",
+        "value": "DC Power Jack"
+      },
+      {
+        "name": "Outside Contact Diameter",
+        "value": "6.4mm"
+      },
+      {
+        "name": "Inside Contact Diameter",
+        "value": "2mm"
+      }
+    ],
+    "lcsc_stock": 385,
+    "checked_utc": "2026-09-04T21:32:37.959444+00:00"
+  },
+  "C123946": {
+    "lcsc": "C123946",
+    "name": "Jingdao Microelectronics SS54",
+    "model": "SS54",
+    "brand": "Shandong Jingdao Microelectronics",
+    "package": "SMA(DO-214AC)",
+    "category": "Schottky Diodes",
+    "stock": 47595,
+    "type": "Extended",
+    "price": 0.0501,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0501
+      },
+      {
+        "qty": 100,
+        "price": 0.0403
+      },
+      {
+        "qty": 300,
+        "price": 0.0353
+      },
+      {
+        "qty": 1000,
+        "price": 0.0317
+      },
+      {
+        "qty": 5000,
+        "price": 0.0282
+      },
+      {
+        "qty": 10000,
+        "price": 0.0267
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+150\u2103 1 Independent 150A 1mA@40V 40V 550mV@5A 5A SMA(DO-214AC) Schottky Diodes ROHS",
+    "url": "https://www.lcsc.com/product-detail/C123946.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Shandong-Jingdao-Microelectronics-SS54_C123946.pdf",
+    "attributes": [
+      {
+        "name": "Voltage - Forward(Vf@If)",
+        "value": "550mV@5A"
+      },
+      {
+        "name": "Non-Repetitive Peak Forward Surge Current",
+        "value": "150A"
+      },
+      {
+        "name": "Voltage - DC Reverse(Vr)",
+        "value": "40V"
+      },
+      {
+        "name": "Operating Junction Temperature Range",
+        "value": "-55\u2103~+150\u2103"
+      },
+      {
+        "name": "Diode Configuration",
+        "value": "1 Independent"
+      },
+      {
+        "name": "Current - Rectified",
+        "value": "5A"
+      },
+      {
+        "name": "Reverse Leakage Current (Ir)",
+        "value": "1mA@40V"
+      }
+    ],
+    "lcsc_stock": 46960,
+    "checked_utc": "2026-09-04T21:32:38.063087+00:00"
+  },
+  "C23186": {
+    "lcsc": "C23186",
+    "name": "UNI-ROYAL 0603WAF5101T5E",
+    "model": "0603WAF5101T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 24476139,
+    "type": "Basic",
+    "price": 0.0019,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0019
+      },
+      {
+        "qty": 1000,
+        "price": 0.0015
+      },
+      {
+        "qty": 5000,
+        "price": 0.0013
+      },
+      {
+        "qty": 10000,
+        "price": 0.0011
+      },
+      {
+        "qty": 50000,
+        "price": 0.001
+      },
+      {
+        "qty": 50200,
+        "price": 0.001
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 5.1k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23186.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "5.1k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 20146800,
+    "checked_utc": "2026-09-04T21:32:38.051660+00:00"
+  },
+  "C23138": {
+    "lcsc": "C23138",
+    "name": "UNI-ROYAL 0603WAF3300T5E",
+    "model": "0603WAF3300T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 4516878,
+    "type": "Basic",
+    "price": 0.0027,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0027
+      },
+      {
+        "qty": 1000,
+        "price": 0.0022
+      },
+      {
+        "qty": 5000,
+        "price": 0.0019
+      },
+      {
+        "qty": 10000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50000,
+        "price": 0.0014
+      },
+      {
+        "qty": 50200,
+        "price": 0.0014
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 330\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23138.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3300T5E_C23138.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "330\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 2435600,
+    "checked_utc": "2026-09-04T21:32:38.107244+00:00"
+  },
+  "C98220": {
+    "lcsc": "C98220",
+    "name": "YAGEO RC0603FR-0710KL",
+    "model": "RC0603FR-0710KL",
+    "brand": "YAGEO",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 16668193,
+    "type": "Extended",
+    "price": 0.0035,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0035
+      },
+      {
+        "qty": 1000,
+        "price": 0.0027
+      },
+      {
+        "qty": 5000,
+        "price": 0.0024
+      },
+      {
+        "qty": 10000,
+        "price": 0.002
+      },
+      {
+        "qty": 50000,
+        "price": 0.0019
+      },
+      {
+        "qty": 50200,
+        "price": 0.0019
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 10k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C98220.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0603FR-0710KL_C98220.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "10k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 11908000,
+    "checked_utc": "2026-09-04T21:32:38.110740+00:00"
+  },
+  "C25803": {
+    "lcsc": "C25803",
+    "name": "UNI-ROYAL 0603WAF1003T5E",
+    "model": "0603WAF1003T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 25331346,
+    "type": "Basic",
+    "price": 0.0041,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0041
+      },
+      {
+        "qty": 1000,
+        "price": 0.0032
+      },
+      {
+        "qty": 5000,
+        "price": 0.0028
+      },
+      {
+        "qty": 10000,
+        "price": 0.0023
+      },
+      {
+        "qty": 50000,
+        "price": 0.0021
+      },
+      {
+        "qty": 50200,
+        "price": 0.0021
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100k\u03a9 100mW 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C25803.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "100k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 17262200,
+    "checked_utc": "2026-09-04T21:32:38.095536+00:00"
+  },
+  "C22840": {
+    "lcsc": "C22840",
+    "name": "UNI-ROYAL 0603WAF1431T5E",
+    "model": "0603WAF1431T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 14975,
+    "type": "Extended",
+    "price": 0.0026,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0026
+      },
+      {
+        "qty": 1000,
+        "price": 0.002
+      },
+      {
+        "qty": 5000,
+        "price": 0.0017
+      },
+      {
+        "qty": 10000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50000,
+        "price": 0.0014
+      },
+      {
+        "qty": 50200,
+        "price": 0.0014
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 1.43k\u03a9 100mW 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C22840.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1431T5E_C22840.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "1.43k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 14900,
+    "checked_utc": "2026-09-04T21:32:38.347249+00:00"
+  },
+  "C23181": {
+    "lcsc": "C23181",
+    "name": "UNI-ROYAL 0603WAF4750T5E",
+    "model": "0603WAF4750T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 3390,
+    "type": "Extended",
+    "price": 0.0027,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0027
+      },
+      {
+        "qty": 1000,
+        "price": 0.0022
+      },
+      {
+        "qty": 5000,
+        "price": 0.0019
+      },
+      {
+        "qty": 10000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50000,
+        "price": 0.0014
+      },
+      {
+        "qty": 50200,
+        "price": 0.0014
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 475\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23181.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4750T5E_C23181.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "475\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 3300,
+    "checked_utc": "2026-09-04T21:32:38.457299+00:00"
+  },
+  "C23185": {
+    "lcsc": "C23185",
+    "name": "UNI-ROYAL 0603WAF499JT5E",
+    "model": "0603WAF499JT5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 2968127,
+    "type": "Basic",
+    "price": 0.0024,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0024
+      },
+      {
+        "qty": 1000,
+        "price": 0.002
+      },
+      {
+        "qty": 5000,
+        "price": 0.0017
+      },
+      {
+        "qty": 10000,
+        "price": 0.0015
+      },
+      {
+        "qty": 50000,
+        "price": 0.0014
+      },
+      {
+        "qty": 50200,
+        "price": 0.0014
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 49.9\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23185.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF499JT5E_C23185.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "49.9\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 2062400,
+    "checked_utc": "2026-09-04T21:32:38.508217+00:00"
+  },
+  "C23098": {
+    "lcsc": "C23098",
+    "name": "UNI-ROYAL 0603WAF6982T5E",
+    "model": "0603WAF6982T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 32149,
+    "type": "Extended",
+    "price": 0.0028,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0028
+      },
+      {
+        "qty": 1000,
+        "price": 0.0022
+      },
+      {
+        "qty": 5000,
+        "price": 0.0019
+      },
+      {
+        "qty": 10000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50000,
+        "price": 0.0014
+      },
+      {
+        "qty": 50200,
+        "price": 0.0014
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 69.8k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23098.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF6982T5E_C23098.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "69.8k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 32100,
+    "checked_utc": "2026-09-04T21:32:38.534037+00:00"
+  },
+  "C25961": {
+    "lcsc": "C25961",
+    "name": "UNI-ROYAL 0603WAF2212T5E",
+    "model": "0603WAF2212T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 56173,
+    "type": "Extended",
+    "price": 0.0061,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0061
+      },
+      {
+        "qty": 1000,
+        "price": 0.005
+      },
+      {
+        "qty": 5000,
+        "price": 0.0044
+      },
+      {
+        "qty": 10000,
+        "price": 0.004
+      },
+      {
+        "qty": 50000,
+        "price": 0.0037
+      },
+      {
+        "qty": 100000,
+        "price": 0.0035
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 22.1k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C25961.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF2212T5E_C25961.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "22.1k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 16200,
+    "checked_utc": "2026-09-04T21:32:38.495874+00:00"
+  },
+  "C22783": {
+    "lcsc": "C22783",
+    "name": "UNI-ROYAL 0603WAF1153T5E",
+    "model": "0603WAF1153T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 109490,
+    "type": "Extended",
+    "price": 0.0029,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0029
+      },
+      {
+        "qty": 1000,
+        "price": 0.0024
+      },
+      {
+        "qty": 5000,
+        "price": 0.0022
+      },
+      {
+        "qty": 10000,
+        "price": 0.002
+      },
+      {
+        "qty": 50000,
+        "price": 0.0018
+      },
+      {
+        "qty": 50200,
+        "price": 0.0018
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 115k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C22783.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1153T5E_C22783.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "115k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 95900,
+    "checked_utc": "2026-09-04T21:32:38.615274+00:00"
+  },
+  "C22880": {
+    "lcsc": "C22880",
+    "name": "UNI-ROYAL 0603WAF1582T5E",
+    "model": "0603WAF1582T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 41945,
+    "type": "Extended",
+    "price": 0.0025,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0025
+      },
+      {
+        "qty": 1000,
+        "price": 0.002
+      },
+      {
+        "qty": 5000,
+        "price": 0.0017
+      },
+      {
+        "qty": 10000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50000,
+        "price": 0.0014
+      },
+      {
+        "qty": 50200,
+        "price": 0.0014
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 15.8k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C22880.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1582T5E_C22880.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "15.8k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 41900,
+    "checked_utc": "2026-09-04T21:32:38.774034+00:00"
+  },
+  "C22855": {
+    "lcsc": "C22855",
+    "name": "UNI-ROYAL 0603WAF1052T5E",
+    "model": "0603WAF1052T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 152470,
+    "type": "Extended",
+    "price": 0.0032,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0032
+      },
+      {
+        "qty": 1000,
+        "price": 0.0026
+      },
+      {
+        "qty": 5000,
+        "price": 0.0023
+      },
+      {
+        "qty": 10000,
+        "price": 0.0018
+      },
+      {
+        "qty": 50000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50200,
+        "price": 0.0016
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 10.5k\u03a9 100mW 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C22855.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1052T5E_C22855.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "10.5k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 125200,
+    "checked_utc": "2026-09-04T21:32:38.845629+00:00"
+  },
+  "C25811": {
+    "lcsc": "C25811",
+    "name": "UNI-ROYAL 0603WAF2003T5E",
+    "model": "0603WAF2003T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 2434965,
+    "type": "Basic",
+    "price": 0.003,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.003
+      },
+      {
+        "qty": 1000,
+        "price": 0.0023
+      },
+      {
+        "qty": 5000,
+        "price": 0.002
+      },
+      {
+        "qty": 10000,
+        "price": 0.0018
+      },
+      {
+        "qty": 50000,
+        "price": 0.0015
+      },
+      {
+        "qty": 50200,
+        "price": 0.0015
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 200k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C25811.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF2003T5E_C25811.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "200k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 1621700,
+    "checked_utc": "2026-09-04T21:32:38.891275+00:00"
+  },
+  "C23024": {
+    "lcsc": "C23024",
+    "name": "UNI-ROYAL 0603WAF3003T5E",
+    "model": "0603WAF3003T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 765746,
+    "type": "Basic",
+    "price": 0.0062,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0062
+      },
+      {
+        "qty": 1000,
+        "price": 0.0052
+      },
+      {
+        "qty": 5000,
+        "price": 0.0046
+      },
+      {
+        "qty": 10000,
+        "price": 0.0038
+      },
+      {
+        "qty": 50000,
+        "price": 0.0035
+      },
+      {
+        "qty": 100000,
+        "price": 0.0034
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 300k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23024.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3003T5E_C23024.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "300k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 440700,
+    "checked_utc": "2026-09-04T21:32:38.978050+00:00"
+  },
+  "C1591": {
+    "lcsc": "C1591",
+    "name": "Samsung Electro-Mechanics CL10B104KB8NNNC",
+    "model": "CL10B104KB8NNNC",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0603",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 4671195,
+    "type": "Extended",
+    "price": 0.0107,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0107
+      },
+      {
+        "qty": 1000,
+        "price": 0.0081
+      },
+      {
+        "qty": 4000,
+        "price": 0.0069
+      },
+      {
+        "qty": 8000,
+        "price": 0.006
+      },
+      {
+        "qty": 48000,
+        "price": 0.0057
+      },
+      {
+        "qty": 100000,
+        "price": 0.0054
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 4000,
+    "description": "100nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C1591.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "50V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "100nF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 2493100,
+    "checked_utc": "2026-09-04T21:32:38.954077+00:00"
+  },
+  "C45783": {
+    "lcsc": "C45783",
+    "name": "Samsung Electro-Mechanics CL21A226MAQNNNE",
+    "model": "CL21A226MAQNNNE",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0805",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 5302129,
+    "type": "Basic",
+    "price": 0.2575,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.2575
+      },
+      {
+        "qty": 200,
+        "price": 0.2012
+      },
+      {
+        "qty": 600,
+        "price": 0.1736
+      },
+      {
+        "qty": 2000,
+        "price": 0.149
+      },
+      {
+        "qty": 10000,
+        "price": 0.1424
+      },
+      {
+        "qty": 20000,
+        "price": 0.1383
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 2000,
+    "description": "22uF 25V X5R \u00b120% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C45783.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "25V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b120%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "22uF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X5R"
+      }
+    ],
+    "lcsc_stock": 1788200,
+    "checked_utc": "2026-09-04T21:32:39.032809+00:00"
+  },
+  "C14860": {
+    "lcsc": "C14860",
+    "name": "Samsung Electro-Mechanics CL31B106KAHNNNE",
+    "model": "CL31B106KAHNNNE",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "1206",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 1102962,
+    "type": "Extended",
+    "price": 0.212,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.212
+      },
+      {
+        "qty": 200,
+        "price": 0.1628
+      },
+      {
+        "qty": 600,
+        "price": 0.1388
+      },
+      {
+        "qty": 2000,
+        "price": 0.1172
+      },
+      {
+        "qty": 10000,
+        "price": 0.1113
+      },
+      {
+        "qty": 20000,
+        "price": 0.1078
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 2000,
+    "description": "10uF 25V X7R \u00b110% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C14860.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL31B106KAHNNNE_C14860.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "25V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "10uF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 1052960,
+    "checked_utc": "2026-09-04T21:32:39.182945+00:00"
+  },
+  "C1589": {
+    "lcsc": "C1589",
+    "name": "Samsung Electro-Mechanics CL10B103KB8NNNC",
+    "model": "CL10B103KB8NNNC",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0603",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 3072826,
+    "type": "Extended",
+    "price": 0.0101,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0101
+      },
+      {
+        "qty": 500,
+        "price": 0.0078
+      },
+      {
+        "qty": 1500,
+        "price": 0.0068
+      },
+      {
+        "qty": 4000,
+        "price": 0.0051
+      },
+      {
+        "qty": 24000,
+        "price": 0.0047
+      },
+      {
+        "qty": 48000,
+        "price": 0.0045
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 4000,
+    "description": "10nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C1589.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "50V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "10nF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 2840150,
+    "checked_utc": "2026-09-04T21:32:39.313226+00:00"
+  },
+  "C84713": {
+    "lcsc": "C84713",
+    "name": "Samsung Electro-Mechanics CL10B272KB8NNNC",
+    "model": "CL10B272KB8NNNC",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0603",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 34416,
+    "type": "Extended",
+    "price": 0.0373,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0373
+      },
+      {
+        "qty": 200,
+        "price": 0.0309
+      },
+      {
+        "qty": 600,
+        "price": 0.0273
+      },
+      {
+        "qty": 4000,
+        "price": 0.0244
+      },
+      {
+        "qty": 8000,
+        "price": 0.0226
+      },
+      {
+        "qty": 20000,
+        "price": 0.0217
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 4000,
+    "description": "2.7nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C84713.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B272KB8NNNC_C84713.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "50V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "2.7nF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 34060,
+    "checked_utc": "2026-09-04T21:32:39.297779+00:00"
+  },
+  "C2847540": {
+    "lcsc": "C2847540",
+    "name": "KOHERelec MDA7050-3R3M",
+    "model": "MDA7050-3R3M",
+    "brand": "KOHERelec",
+    "package": "SMD,7.3x6.6mm",
+    "category": "Molding Power Inductors",
+    "stock": 742,
+    "type": "Extended",
+    "price": 1.0105,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 1.0105
+      },
+      {
+        "qty": 10,
+        "price": 0.8172
+      },
+      {
+        "qty": 30,
+        "price": 0.7197
+      },
+      {
+        "qty": 100,
+        "price": 0.6239
+      },
+      {
+        "qty": 500,
+        "price": 0.567
+      },
+      {
+        "qty": 800,
+        "price": 0.5378
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 800,
+    "description": "14m\u03a9 3.3uH 9.5A 9.5A Alloy integrated molding inductor \u00b120% SMD,7.3x6.6mm Molding Power Inductors ROHS",
+    "url": "https://www.lcsc.com/product-detail/C2847540.html",
+    "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308230917_KOHERelec-MDA7050-3R3M_C2847540.pdf",
+    "attributes": [
+      {
+        "name": "Inductance",
+        "value": "3.3uH"
+      },
+      {
+        "name": "Current - Saturation(Isat)",
+        "value": "9.5A"
+      },
+      {
+        "name": "Type",
+        "value": "Alloy molded inductor"
+      },
+      {
+        "name": "Current Rating",
+        "value": "9.5A"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b120%"
+      },
+      {
+        "name": "DC Resistance(DCR)",
+        "value": "14m\u03a9"
+      }
+    ],
+    "lcsc_stock": 742,
+    "checked_utc": "2026-09-04T21:32:39.326260+00:00"
+  },
+  "C88211": {
+    "lcsc": "C88211",
+    "name": "TDK VLS252010HBX-1R0M-1",
+    "model": "VLS252010HBX-1R0M-1",
+    "brand": "TDK",
+    "package": "1008",
+    "category": "Power Inductors",
+    "stock": 7726,
+    "type": "Extended",
+    "price": 0.0571,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0571
+      },
+      {
+        "qty": 100,
+        "price": 0.045
+      },
+      {
+        "qty": 300,
+        "price": 0.039
+      },
+      {
+        "qty": 2000,
+        "price": 0.0345
+      },
+      {
+        "qty": 4000,
+        "price": 0.0308
+      },
+      {
+        "qty": 10000,
+        "price": 0.029
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 2000,
+    "description": "1uH 3.57A 3A 54m\u03a9 \u00b120% 1008 Power Inductors ROHS",
+    "url": "https://www.lcsc.com/product-detail/C88211.html",
+    "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810241910_TDK-VLS252010HBX-1R0M-1_C88211.pdf",
+    "attributes": [
+      {
+        "name": "Current - Saturation(Isat)",
+        "value": "3.57A"
+      },
+      {
+        "name": "Inductance",
+        "value": "1uH"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b120%"
+      },
+      {
+        "name": "Current Rating",
+        "value": "3A"
+      },
+      {
+        "name": "DC Resistance(DCR)",
+        "value": "54m\u03a9"
+      }
+    ],
+    "lcsc_stock": 7680,
+    "checked_utc": "2026-09-04T21:32:39.371507+00:00"
+  },
+  "C7519": {
+    "lcsc": "C7519",
+    "name": "ST USBLC6-2SC6",
+    "model": "USBLC6-2SC6",
+    "brand": "STMicroelectronics",
+    "package": "SOT-23-6L",
+    "category": "ESD and Surge Protection (TVS/ESD)",
+    "stock": 33516,
+    "type": "Extended",
+    "price": 0.1825,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.1825
+      },
+      {
+        "qty": 50,
+        "price": 0.1424
+      },
+      {
+        "qty": 150,
+        "price": 0.1227
+      },
+      {
+        "qty": 500,
+        "price": 0.1052
+      },
+      {
+        "qty": 3000,
+        "price": 0.1004
+      },
+      {
+        "qty": 6000,
+        "price": 0.0975
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "-40\u2103~+125\u2103 150nA 17V 2 3.5pF 5.25V 5A 6V ESD IEC 61000-4-2 Unidirectional SOT-23-6L ESD and Surge Protection (TVS/ESD) ROHS",
+    "url": "https://www.lcsc.com/product-detail/C7519.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121836_STMicroelectronics-USBLC6-2SC6_C7519.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-40\u2103~+125\u2103"
+      },
+      {
+        "name": "Type",
+        "value": "ESD"
+      },
+      {
+        "name": "Junction Capacitance",
+        "value": "3.5pF"
+      },
+      {
+        "name": "Number of Channels",
+        "value": "2"
+      },
+      {
+        "name": "level of protection",
+        "value": "IEC 61000-4-2"
+      },
+      {
+        "name": "Clamping Voltage",
+        "value": "17V"
+      },
+      {
+        "name": "Polarity",
+        "value": "Unidirectional"
+      },
+      {
+        "name": "Peak Pulse Current (Ipp)",
+        "value": "5A"
+      },
+      {
+        "name": "Voltage - Breakdown",
+        "value": "6V"
+      },
+      {
+        "name": "Reverse Stand-Off Voltage (Vrwm)",
+        "value": "5.25V"
+      },
+      {
+        "name": "Reverse Leakage Current (Ir)",
+        "value": "150nA"
+      }
+    ],
+    "lcsc_stock": 29315,
+    "checked_utc": "2026-09-04T21:32:39.526801+00:00"
+  },
+  "C123820": {
+    "lcsc": "C123820",
+    "name": "MDD(Microdiode Semiconductor) SMBJ26A",
+    "model": "SMBJ26A",
+    "brand": "MDD(Microdiode Semiconductor)",
+    "package": "DO-214AA(SMB)",
+    "category": "ESD and Surge Protection (TVS/ESD)",
+    "stock": 25526,
+    "type": "Extended",
+    "price": 0.0597,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0597
+      },
+      {
+        "qty": 100,
+        "price": 0.0499
+      },
+      {
+        "qty": 300,
+        "price": 0.045
+      },
+      {
+        "qty": 3000,
+        "price": 0.0309
+      },
+      {
+        "qty": 6000,
+        "price": 0.028
+      },
+      {
+        "qty": 9000,
+        "price": 0.0265
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "-65\u2103~+150\u2103 14.3A 1uA 26V 31.9V 42.1V 600W@10/1000us TVS Unidirectional DO-214AA(SMB) ESD and Surge Protection (TVS/ESD) ROHS",
+    "url": "https://www.lcsc.com/product-detail/C123820.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2407291901_MDD-Microdiode-Semiconductor-SMBJ26A_C123820.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-65\u2103~+150\u2103"
+      },
+      {
+        "name": "Type",
+        "value": "TVS"
+      },
+      {
+        "name": "Peak Pulse Power Dissipation (Ppp)",
+        "value": "600W@10/1000us"
+      },
+      {
+        "name": "Number of Channels",
+        "value": "1"
+      },
+      {
+        "name": "Clamping Voltage",
+        "value": "42.1V"
+      },
+      {
+        "name": "Polarity",
+        "value": "Unidirectional"
+      },
+      {
+        "name": "Voltage - Breakdown",
+        "value": "31.9V"
+      },
+      {
+        "name": "Peak Pulse Current (Ipp)",
+        "value": "14.3A"
+      },
+      {
+        "name": "Reverse Stand-Off Voltage (Vrwm)",
+        "value": "26V"
+      },
+      {
+        "name": "Reverse Leakage Current (Ir)",
+        "value": "1uA"
+      }
+    ],
+    "lcsc_stock": 25520,
+    "checked_utc": "2026-09-04T21:32:39.584681+00:00"
+  },
+  "C15127": {
+    "lcsc": "C15127",
+    "name": "AOS AO3401A",
+    "model": "AO3401A",
+    "brand": "Alpha & Omega Semicon",
+    "package": "SOT-23",
+    "category": "MOSFETs",
+    "stock": 721054,
+    "type": "Basic",
+    "price": 0.0978,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0978
+      },
+      {
+        "qty": 50,
+        "price": 0.0793
+      },
+      {
+        "qty": 150,
+        "price": 0.0699
+      },
+      {
+        "qty": 500,
+        "price": 0.0621
+      },
+      {
+        "qty": 3000,
+        "price": 0.0593
+      },
+      {
+        "qty": 6000,
+        "price": 0.0576
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "1 P-Channel 14nC@10V 30V 47m\u03a9@10V\u300160m\u03a9@4.5V\u300185m\u03a9@2.5V 4A 55pF 645pF 80pF 900mV SOT-23 MOSFETs ROHS",
+    "url": "https://www.lcsc.com/product-detail/C15127.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2412061733_Alpha---Omega-Semicon-AO3401A_C15127.pdf",
+    "attributes": [
+      {
+        "name": "Input Capacitance(Ciss)",
+        "value": "645pF"
+      },
+      {
+        "name": "Number",
+        "value": "1 P-Channel"
+      },
+      {
+        "name": "Gate Threshold Voltage (Vgs(th))",
+        "value": "900mV"
+      },
+      {
+        "name": "Gate Charge(Qg)",
+        "value": "14nC@10V"
+      },
+      {
+        "name": "Reverse Transfer Capacitance (Crss@Vds)",
+        "value": "55pF"
+      },
+      {
+        "name": "Current - Continuous Drain(Id)",
+        "value": "4A"
+      },
+      {
+        "name": "Drain to Source Voltage",
+        "value": "30V"
+      },
+      {
+        "name": "Output Capacitance(Coss)",
+        "value": "80pF"
+      },
+      {
+        "name": "RDS(on)",
+        "value": "47m\u03a9@10V\u300160m\u03a9@4.5V\u300185m\u03a9@2.5V"
+      }
+    ],
+    "lcsc_stock": 244595,
+    "checked_utc": "2026-09-04T21:32:39.691958+00:00"
+  },
+  "C2103": {
+    "lcsc": "C2103",
+    "name": "JSCJ BZT52C10",
+    "model": "BZT52C10",
+    "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+    "package": "SOD-123",
+    "category": "Zener Diodes",
+    "stock": 89426,
+    "type": "Extended",
+    "price": 0.0215,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0215
+      },
+      {
+        "qty": 500,
+        "price": 0.0173
+      },
+      {
+        "qty": 3000,
+        "price": 0.0139
+      },
+      {
+        "qty": 6000,
+        "price": 0.0125
+      },
+      {
+        "qty": 24000,
+        "price": 0.0113
+      },
+      {
+        "qty": 51000,
+        "price": 0.0106
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "-55\u2103~+150\u2103 1 Independent 10V 150\u03a9 200nA 20\u03a9 500mW 9.4V~10.6V SOD-123 Zener Diodes ROHS",
+    "url": "https://www.lcsc.com/product-detail/C2103.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--BZT52C10_C2103.pdf",
+    "attributes": [
+      {
+        "name": "Operating Junction Temperature Range",
+        "value": "-55\u2103~+150\u2103"
+      },
+      {
+        "name": "Diode Configuration",
+        "value": "1 Independent"
+      },
+      {
+        "name": "Impedance(Zzk)",
+        "value": "150\u03a9"
+      },
+      {
+        "name": "Impedance(Zzt)",
+        "value": "20\u03a9"
+      },
+      {
+        "name": "Zener Voltage(Range)",
+        "value": "9.4V~10.6V"
+      },
+      {
+        "name": "Zener Voltage(Nom)",
+        "value": "10V"
+      },
+      {
+        "name": "Pd - Power Dissipation",
+        "value": "500mW"
+      },
+      {
+        "name": "Reverse Leakage Current (Ir)",
+        "value": "200nA"
+      }
+    ],
+    "lcsc_stock": 85600,
+    "checked_utc": "2026-09-04T21:32:39.704045+00:00"
+  },
+  "C21190": {
+    "lcsc": "C21190",
+    "name": "UNI-ROYAL 0603WAF1001T5E",
+    "model": "0603WAF1001T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 29761888,
+    "type": "Basic",
+    "price": 0.0033,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0033
+      },
+      {
+        "qty": 1000,
+        "price": 0.0026
+      },
+      {
+        "qty": 5000,
+        "price": 0.0023
+      },
+      {
+        "qty": 10000,
+        "price": 0.0019
+      },
+      {
+        "qty": 50000,
+        "price": 0.0017
+      },
+      {
+        "qty": 50200,
+        "price": 0.0017
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 1k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C21190.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "1k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 7369100,
+    "checked_utc": "2026-09-04T21:32:39.821155+00:00"
+  },
+  "C29936": {
+    "lcsc": "C29936",
+    "name": "Samsung Electro-Mechanics CL10B105KA8NNNC",
+    "model": "CL10B105KA8NNNC",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0603",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 1956419,
+    "type": "Extended",
+    "price": 0.0212,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0212
+      },
+      {
+        "qty": 100,
+        "price": 0.0163
+      },
+      {
+        "qty": 300,
+        "price": 0.0141
+      },
+      {
+        "qty": 1000,
+        "price": 0.0125
+      },
+      {
+        "qty": 4000,
+        "price": 0.0098
+      },
+      {
+        "qty": 8000,
+        "price": 0.0093
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 4000,
+    "description": "1uF 25V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C29936.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B105KA8NNNC_C29936.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "25V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "1uF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 1640030,
+    "checked_utc": "2026-09-04T21:32:39.785787+00:00"
+  },
+  "C23231": {
+    "lcsc": "C23231",
+    "name": "UNI-ROYAL 0603WAF6802T5E",
+    "model": "0603WAF6802T5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 1481923,
+    "type": "Basic",
+    "price": 0.0024,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0024
+      },
+      {
+        "qty": 1000,
+        "price": 0.002
+      },
+      {
+        "qty": 5000,
+        "price": 0.0018
+      },
+      {
+        "qty": 10000,
+        "price": 0.0017
+      },
+      {
+        "qty": 50000,
+        "price": 0.0016
+      },
+      {
+        "qty": 50200,
+        "price": 0.0016
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 68k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23231.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF6802T5E_C23231.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "68k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 1161500,
+    "checked_utc": "2026-09-04T21:32:39.942337+00:00"
+  },
+  "C23004": {
+    "lcsc": "C23004",
+    "name": "UNI-ROYAL 0603WAF332JT5E",
+    "model": "0603WAF332JT5E",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0603",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 30866,
+    "type": "Extended",
+    "price": 0.0042,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0042
+      },
+      {
+        "qty": 1000,
+        "price": 0.0033
+      },
+      {
+        "qty": 5000,
+        "price": 0.0028
+      },
+      {
+        "qty": 10000,
+        "price": 0.0026
+      },
+      {
+        "qty": 50000,
+        "price": 0.0023
+      },
+      {
+        "qty": 50200,
+        "price": 0.0023
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 100mW 33.2\u03a9 75V Thick Film Resistor \u00b11% \u00b1200ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C23004.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF332JT5E_C23004.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "33.2\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "100mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "75V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1200ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 30300,
+    "checked_utc": "2026-09-04T21:32:39.980917+00:00"
+  },
+  "C53444": {
+    "lcsc": "C53444",
+    "name": "onsemi MMBT3906LT1G",
+    "model": "MMBT3906LT1G",
+    "brand": "onsemi",
+    "package": "SOT-23",
+    "category": "Bipolar (BJT)",
+    "stock": 1089215,
+    "type": "Extended",
+    "price": 0.0189,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0189
+      },
+      {
+        "qty": 500,
+        "price": 0.0147
+      },
+      {
+        "qty": 3000,
+        "price": 0.0108
+      },
+      {
+        "qty": 6000,
+        "price": 0.0094
+      },
+      {
+        "qty": 24000,
+        "price": 0.0089
+      },
+      {
+        "qty": 51000,
+        "price": 0.0085
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "-55\u2103~+150\u2103 1 PNP 200mA 225mW 250MHz 250mV 40V 50nA 5V 60 PNP SOT-23 Bipolar (BJT) ROHS",
+    "url": "https://www.lcsc.com/product-detail/C53444.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1810301518_onsemi-MMBT3906LT1G_C53444.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+150\u2103"
+      },
+      {
+        "name": "Transition frequency(fT)",
+        "value": "250MHz"
+      },
+      {
+        "name": "Collector - Emitter Voltage VCEO",
+        "value": "40V"
+      },
+      {
+        "name": "Number",
+        "value": "1 PNP"
+      },
+      {
+        "name": "DC Current Gain",
+        "value": "60"
+      },
+      {
+        "name": "Current - Collector(Ic)",
+        "value": "200mA"
+      },
+      {
+        "name": "Vce Saturation(VCE(sat))",
+        "value": "250mV"
+      },
+      {
+        "name": "Emitter-Base Voltage(Vebo)",
+        "value": "5V"
+      },
+      {
+        "name": "Pd - Power Dissipation",
+        "value": "225mW"
+      },
+      {
+        "name": "type",
+        "value": "PNP"
+      },
+      {
+        "name": "Current - Collector Cutoff",
+        "value": "50nA"
+      }
+    ],
+    "lcsc_stock": 1085650,
+    "checked_utc": "2026-09-04T21:32:40.192534+00:00"
+  },
+  "C8545": {
+    "lcsc": "C8545",
+    "name": "JSCJ 2N7002",
+    "model": "2N7002",
+    "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+    "package": "SOT-23",
+    "category": "MOSFETs",
+    "stock": 2260427,
+    "type": "Basic",
+    "price": 0.0176,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0176
+      },
+      {
+        "qty": 500,
+        "price": 0.0141
+      },
+      {
+        "qty": 3000,
+        "price": 0.0125
+      },
+      {
+        "qty": 6000,
+        "price": 0.0113
+      },
+      {
+        "qty": 24000,
+        "price": 0.0109
+      },
+      {
+        "qty": 51000,
+        "price": 0.0105
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 3000,
+    "description": "1 N-channel 115mA 2.5V 225mW 25pF 50pF 5pF 5\u03a9@10V 60V N-Channel \u00b120V SOT-23 MOSFETs ROHS",
+    "url": "https://www.lcsc.com/product-detail/C8545.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--2N7002_C8545.pdf",
+    "attributes": [
+      {
+        "name": "Vgs",
+        "value": "\u00b120V"
+      },
+      {
+        "name": "Reverse Transfer Capacitance (Crss@Vds)",
+        "value": "5pF"
+      },
+      {
+        "name": "Current - Continuous Drain(Id)",
+        "value": "115mA"
+      },
+      {
+        "name": "Drain to Source Voltage",
+        "value": "60V"
+      },
+      {
+        "name": "Output Capacitance(Coss)",
+        "value": "25pF"
+      },
+      {
+        "name": "RDS(on)",
+        "value": "5\u03a9@10V"
+      },
+      {
+        "name": "Type",
+        "value": "N-Channel"
+      },
+      {
+        "name": "Input Capacitance(Ciss)",
+        "value": "50pF"
+      },
+      {
+        "name": "Number",
+        "value": "1 N-channel"
+      },
+      {
+        "name": "Gate Threshold Voltage (Vgs(th))",
+        "value": "2.5V"
+      },
+      {
+        "name": "Pd - Power Dissipation",
+        "value": "225mW"
+      }
+    ],
+    "lcsc_stock": 1740550,
+    "checked_utc": "2026-09-04T21:32:40.225072+00:00"
+  },
+  "C2074262": {
+    "lcsc": "C2074262",
+    "name": "ROHM ESR18EZPF1001",
+    "model": "ESR18EZPF1001",
+    "brand": "ROHM Semicon",
+    "package": "1206",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 11539,
+    "type": "Extended",
+    "price": 0.0288,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0288
+      },
+      {
+        "qty": 200,
+        "price": 0.0221
+      },
+      {
+        "qty": 600,
+        "price": 0.0184
+      },
+      {
+        "qty": 5000,
+        "price": 0.0162
+      },
+      {
+        "qty": 10000,
+        "price": 0.0143
+      },
+      {
+        "qty": 20000,
+        "price": 0.0132
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 5000,
+    "description": "-55\u2103~+155\u2103 1k\u03a9 200V 500mW Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 1206 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C2074262.html",
+    "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_ROHM-Semicon-ESR18EZPF1001_C2074262.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "1k\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "500mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "200V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 11480,
+    "checked_utc": "2026-09-04T21:32:40.354956+00:00"
+  },
+  "C48467": {
+    "lcsc": "C48467",
+    "name": "Littelfuse 0451005.MRL",
+    "model": "0451005.MRL",
+    "brand": "Littelfuse",
+    "package": "2410",
+    "category": "Disposable fuses",
+    "stock": 27817,
+    "type": "Extended",
+    "price": 0.254,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.254
+      },
+      {
+        "qty": 50,
+        "price": 0.2023
+      },
+      {
+        "qty": 150,
+        "price": 0.177
+      },
+      {
+        "qty": 1000,
+        "price": 0.1493
+      },
+      {
+        "qty": 2000,
+        "price": 0.1432
+      },
+      {
+        "qty": 5000,
+        "price": 0.1394
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "-55\u2103~+125\u2103 125V 125V 2.5mm 5.566 50A 5A 6.1mm Surface Mount Fuse 2410 Disposable fuses ROHS",
+    "url": "https://www.lcsc.com/product-detail/C48467.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809042025_Littelfuse-0451005-MRL_C48467.pdf",
+    "attributes": [
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+125\u2103"
+      },
+      {
+        "name": "Type",
+        "value": "Surface Mount Fuse"
+      },
+      {
+        "name": "Melting I2t",
+        "value": "5.566"
+      },
+      {
+        "name": "Length",
+        "value": "6.1mm"
+      },
+      {
+        "name": "Interrupt Rating",
+        "value": "50A"
+      },
+      {
+        "name": "Current Rating",
+        "value": "5A"
+      },
+      {
+        "name": "Voltage Rating (DC)",
+        "value": "125V"
+      },
+      {
+        "name": "Width",
+        "value": "2.5mm"
+      }
+    ],
+    "lcsc_stock": 27635,
+    "checked_utc": "2026-09-04T21:32:40.428725+00:00"
+  },
+  "C5301773": {
+    "lcsc": "C5301773",
+    "name": "YIYUAN SMTSOM225BTR",
+    "model": "SMTSOM225BTR",
+    "brand": "YIYUAN",
+    "package": "-",
+    "category": "Patch round nut",
+    "stock": 6504,
+    "type": "Extended",
+    "price": 0.0797,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0797
+      },
+      {
+        "qty": 50,
+        "price": 0.0748
+      },
+      {
+        "qty": 1000,
+        "price": 0.0624
+      },
+      {
+        "qty": 5000,
+        "price": 0.0598
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "2.5mm Copper M2 Tin plated - Patch round nut ROHS",
+    "url": "https://www.lcsc.com/product-detail/C5301773.html",
+    "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302021209_YIYUAN-SMTSOM225BTR_C5301773.pdf",
+    "attributes": [
+      {
+        "name": "surface treatment",
+        "value": "Tin plated"
+      },
+      {
+        "name": "material quality",
+        "value": "Copper"
+      },
+      {
+        "name": "length",
+        "value": "2.5mm"
+      },
+      {
+        "name": "specifications",
+        "value": "M2"
+      }
+    ],
+    "lcsc_stock": 6500,
+    "checked_utc": "2026-09-04T21:34:09.999921+00:00"
+  },
+  "C19626599": {
+    "lcsc": "C19626599",
+    "name": "YIYUAN SMTSOM240BTR",
+    "model": "SMTSOM240BTR",
+    "brand": "YIYUAN",
+    "package": "-",
+    "category": "Patch round nut",
+    "stock": 878,
+    "type": "Extended",
+    "price": 0.0722,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0722
+      },
+      {
+        "qty": 50,
+        "price": 0.0678
+      },
+      {
+        "qty": 1000,
+        "price": 0.0566
+      },
+      {
+        "qty": 5000,
+        "price": 0.0545
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 1000,
+    "description": "- Patch round nut ROHS",
+    "url": "https://www.lcsc.com/product-detail/C19626599.html",
+    "datasheet": "http://www.yiyuanswitches.com/productinfo/1033448.html",
+    "attributes": [],
+    "lcsc_stock": 875,
+    "checked_utc": "2026-09-04T21:34:10.001349+00:00"
+  },
+  "C1525": {
+    "lcsc": "C1525",
+    "name": "Samsung Electro-Mechanics CL05B104KO5NNNC",
+    "model": "CL05B104KO5NNNC",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0402",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 35502711,
+    "type": "Basic",
+    "price": 0.0051,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0051
+      },
+      {
+        "qty": 1000,
+        "price": 0.0038
+      },
+      {
+        "qty": 3000,
+        "price": 0.0033
+      },
+      {
+        "qty": 10000,
+        "price": 0.0029
+      },
+      {
+        "qty": 50000,
+        "price": 0.0027
+      },
+      {
+        "qty": 100000,
+        "price": 0.0026
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 10000,
+    "description": "100nF 16V X7R \u00b110% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C1525.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KO5NNNC_C1525.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "16V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "100nF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 7129300,
+    "checked_utc": "2026-09-04T21:46:20.728586+00:00"
+  },
+  "C25106": {
+    "lcsc": "C25106",
+    "name": "UNI-ROYAL 0402WGF332JTCE",
+    "model": "0402WGF332JTCE",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0402",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 27045,
+    "type": "Extended",
+    "price": 0.0041,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0041
+      },
+      {
+        "qty": 1000,
+        "price": 0.0033
+      },
+      {
+        "qty": 3000,
+        "price": 0.0028
+      },
+      {
+        "qty": 10000,
+        "price": 0.0026
+      },
+      {
+        "qty": 50000,
+        "price": 0.002
+      },
+      {
+        "qty": 50200,
+        "price": 0.002
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 10000,
+    "description": "-55\u2103~+155\u2103 33.2\u03a9 50V 62.5mW Thick Film Resistor \u00b11% \u00b1200ppm/\u2103 0402 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C25106.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF332JTCE_C25106.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "33.2\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "62.5mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "50V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1200ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 26200,
+    "checked_utc": "2026-09-04T21:46:21.111842+00:00"
+  },
+  "C25120": {
+    "lcsc": "C25120",
+    "name": "UNI-ROYAL 0402WGF499JTCE",
+    "model": "0402WGF499JTCE",
+    "brand": "UNI-ROYAL(Uniroyal Elec)",
+    "package": "0402",
+    "category": "Chip Resistor - Surface Mount",
+    "stock": 1887657,
+    "type": "Basic",
+    "price": 0.0029,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0029
+      },
+      {
+        "qty": 1000,
+        "price": 0.0023
+      },
+      {
+        "qty": 3000,
+        "price": 0.002
+      },
+      {
+        "qty": 10000,
+        "price": 0.0018
+      },
+      {
+        "qty": 50000,
+        "price": 0.0015
+      },
+      {
+        "qty": 50200,
+        "price": 0.0015
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 10000,
+    "description": "-55\u2103~+155\u2103 49.9\u03a9 50V 62.5mW Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0402 Chip Resistor - Surface Mount ROHS",
+    "url": "https://www.lcsc.com/product-detail/C25120.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF499JTCE_C25120.pdf",
+    "attributes": [
+      {
+        "name": "Resistance",
+        "value": "49.9\u03a9"
+      },
+      {
+        "name": "Operating Temperature",
+        "value": "-55\u2103~+155\u2103"
+      },
+      {
+        "name": "Power(Watts)",
+        "value": "62.5mW"
+      },
+      {
+        "name": "Type",
+        "value": "Thick Film Resistor"
+      },
+      {
+        "name": "Voltage-Supply(Max)",
+        "value": "50V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b11%"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "\u00b1100ppm/\u2103"
+      }
+    ],
+    "lcsc_stock": 1256000,
+    "checked_utc": "2026-09-04T21:46:21.494433+00:00"
+  },
+  "C16772": {
+    "lcsc": "C16772",
+    "name": "Samsung Electro-Mechanics CL05B224KO5NNNC",
+    "model": "CL05B224KO5NNNC",
+    "brand": "Samsung Electro-Mechanics",
+    "package": "0402",
+    "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+    "stock": 3179975,
+    "type": "Basic",
+    "price": 0.0058,
+    "price_breaks": [
+      {
+        "qty": 1,
+        "price": 0.0058
+      },
+      {
+        "qty": 500,
+        "price": 0.0046
+      },
+      {
+        "qty": 1500,
+        "price": 0.004
+      },
+      {
+        "qty": 10000,
+        "price": 0.0036
+      },
+      {
+        "qty": 20000,
+        "price": 0.0032
+      },
+      {
+        "qty": 50000,
+        "price": 0.0031
+      }
+    ],
+    "min_qty": 1,
+    "reel_qty": 10000,
+    "description": "16V 220nF X7R \u00b110% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+    "url": "https://www.lcsc.com/product-detail/C16772.html",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B224KO5NNNC_C16772.pdf",
+    "attributes": [
+      {
+        "name": "Voltage Rating",
+        "value": "16V"
+      },
+      {
+        "name": "Tolerance",
+        "value": "\u00b110%"
+      },
+      {
+        "name": "Capacitance",
+        "value": "220nF"
+      },
+      {
+        "name": "Temperature Coefficient",
+        "value": "X7R"
+      }
+    ],
+    "lcsc_stock": 2585850,
+    "checked_utc": "2026-09-04T22:11:29.445277+00:00"
+  }
+}

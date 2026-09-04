@@ -1,0 +1,129 @@
+{
+  "total": 2,
+  "results": [
+    {
+      "lcsc": "C5137477",
+      "name": "FOJAN FCC0603B103K500CT",
+      "model": "FCC0603B103K500CT",
+      "brand": "FOJAN",
+      "package": "0603",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 6185021,
+      "type": "Extended",
+      "price": 0.0092,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0092
+        },
+        {
+          "qty": 500,
+          "price": 0.0071
+        },
+        {
+          "qty": 1500,
+          "price": 0.0062
+        },
+        {
+          "qty": 4000,
+          "price": 0.0051
+        },
+        {
+          "qty": 24000,
+          "price": 0.0048
+        },
+        {
+          "qty": 48000,
+          "price": 0.0046
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 4000,
+      "description": "10nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_fojan-fcc0603b103k500ct_C5137477.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208181800_FOJAN-FCC0603B103K500CT_C5137477.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Voltage Rating",
+          "value": "50V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "10nF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C1589",
+      "name": "Samsung Electro-Mechanics CL10B103KB8NNNC",
+      "model": "CL10B103KB8NNNC",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0603",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 3072826,
+      "type": "Extended",
+      "price": 0.0101,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0101
+        },
+        {
+          "qty": 500,
+          "price": 0.0078
+        },
+        {
+          "qty": 1500,
+          "price": 0.0068
+        },
+        {
+          "qty": 4000,
+          "price": 0.0051
+        },
+        {
+          "qty": 24000,
+          "price": 0.0047
+        },
+        {
+          "qty": 48000,
+          "price": 0.0045
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 4000,
+      "description": "10nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl10b103kb8nnnc_C1589.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "50V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "10nF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    }
+  ]
+}

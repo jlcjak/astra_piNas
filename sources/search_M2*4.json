@@ -1,0 +1,304 @@
+{
+  "total": 189,
+  "results": [
+    {
+      "lcsc": "C9900097661",
+      "name": "JIALICHUANG SMT M2X4",
+      "model": "M2X4",
+      "brand": "JLCPCB Assembly",
+      "package": "Studs",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 400,
+      "reel_qty": 400,
+      "description": "\u87ba\u67f1 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900144890",
+      "name": "JIALICHUANG SMT M2*4",
+      "model": "M2*4",
+      "brand": "JLCPCB Assembly",
+      "package": "BD4.0-D3.0",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "BD4.0-D3.0 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900164369",
+      "name": "JIALICHUANG SMT M2x4",
+      "model": "M2x4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900246233",
+      "name": "JIALICHUANG SMT M2x4",
+      "model": "M2x4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900251030",
+      "name": "JIALICHUANG SMT M2*4",
+      "model": "M2*4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900279541",
+      "name": "JIALICHUANG SMT M2*4",
+      "model": "M2*4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900292717",
+      "name": "JIALICHUANG SMT M2*4",
+      "model": "M2*4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900292874",
+      "name": "JIALICHUANG SMT M2*4",
+      "model": "M2*4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C357533",
+      "name": "Shuntian PM2X4",
+      "model": "PM2X4",
+      "brand": "Shuntian",
+      "package": "-",
+      "category": "Cross slot pan head machine screw",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0019,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0019
+        },
+        {
+          "qty": 1000,
+          "price": 0.0018
+        },
+        {
+          "qty": 20000,
+          "price": 0.0015
+        },
+        {
+          "qty": 100000,
+          "price": 0.0014
+        }
+      ],
+      "min_qty": 4976,
+      "reel_qty": 10000,
+      "description": "-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001- 2mm 4mm Black PM2X4 - Cross slot pan head machine screw",
+      "url": "https://www.lcsc.com/product-detail/phillips-pan-head-machine-screws_shuntian-pm2x4_C357533.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "colour",
+          "value": "Black"
+        },
+        {
+          "name": "diameter",
+          "value": "2mm"
+        },
+        {
+          "name": "length",
+          "value": "4mm"
+        },
+        {
+          "name": "specifications",
+          "value": "PM2X4"
+        },
+        {
+          "name": "Tooth outer diameter",
+          "value": "-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-\u3001-"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900161356",
+      "name": "JIALICHUANG SMT PM2x4",
+      "model": "PM2x4",
+      "brand": "JLCPCB Assembly",
+      "package": "FL",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "FL New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

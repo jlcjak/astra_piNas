@@ -1,0 +1,159 @@
+                                                                           PCB SMD NUT CONNECTOR
+                                                                                                     电路板表贴螺母柱连接器
+下列条件适用于 SMD 产品系列内的所有零件：
+• 请参照技术手册中的建议设计电路板。
+
+• 必须根据回流焊/波峰焊技术规范选择合格的焊料，严格控制焊接温度、时间。 •焊
+
+接工艺会导致产品表面变色。
+• 爬锡现象会导致内孔堵塞，因此通孔产品不适用波峰焊，建议采用回流焊。 •所有
+
+产品应在出厂 12 个月内使用，超出有效期会影响可焊性。
+• 必须在密封、干燥环境下保存。
+
+• 零件与 PCB 的连接强度由产品、焊盘、焊接效果等因素综合决定
+
+• 必须控制最大锁附扭力，防止元件和 PCB 受到机械破坏。
+
+• 工作电流由 PCB、电缆接头、电缆横截面等因素综合决定。
+
+• 手册中如有标注参考电流，零件使用材料为黄铜 C3604(H59)
+
+
+Cautions and Warnings:
+The following conditions apply to all goods within the product series of yiyuan PCB SMD
+General:
+All recommendations according to the general technical specifications of the data-sheet have to be complied with.
+The responsibility for the applicability of customer specific products and use in a particular customer design is always within the authority of the
+customer. All technical specifications for standard products do also apply for customer specific products.
+Product Specific:
+Follow all instructions in the datasheet, especially:
+• The solder profile has to be complied with according to the technical reflow soldering specification, otherwise no warranty will be sustained.
+• Surface discoloration due to reflow processing is permitted.
+• Wave soldering is not applicable. Reflow soldering is recommended.
+• All products shall be used before the end of the period of 12 months based on the product date-code, if not a 100% solderability can't be ensured.
+• The maximum permissible torques must be complied with to prevent mechanical destruction of the elements and PCB.
+• Operating current depends on PCB, cable lug and cross section of the cableo
+• The connection strength between parts and PCB is determined by product, pad and welding effect
+• If the operating current is marked in the manual, the material used for the parts is brass C3604(H59)
+
+
+
+
+                             深圳市怡远科技有限公司                    info@yiyuanswitches.com           www.yiyuanswitches.com
+                                                                                                                                                                     PCB SMD NUT CONNECTOR
+                                                                                                                                                                                            电路板表贴螺母柱连接器
+
+
+
+
+                 Thread sizes 080, S1, S1.2, S1.4 and M1.6                                                           Therad/thru hole sizes M2, M2, M2. 5, M3, M3. 5, M4, 3. 6, 4. 2
+
+All dimensions are in milineters.
+                              Thru            1hread or
+                  Thread                                                                                                                                                                     Min.                                                          Rated       Tightening
+                                              Thru Hole                                                                                        Below is blind hole with 7mm thread depth                                             Hole Size   0D
+                              Hole                                                                                                                                                           Sheet      A    C                L
+                    Size x          Type      Code                          Length Code"H"±0.13 (Length code in millimeters)                            Length Code"H"±0.13                                                           In Sheet Min.Solder Current        Torque
+                              +0.10                                                                                                                                                         Thickne Max. Max.                 Nom
+                    Pitch                                                                                                                                   (Length code in                   ss
+                                                                                                                                                                                                                                     +0.08        Pad       (A)         (Kgf.cm)
+                              -0.08                                                                                                                                                                              Ref. ±0.13
+                                                                                                                                                              millimeters)
+                  M 1x0.25     —     SMTSO       M1       0.5 1       1.5       2 2.5 3   —      — —      — —     —         —          —— — —       —      — —      —     —     —   一 0.5          0.48 2.41 3.66 —           3.18      2.5           4.19        15       0.3
+
+                  M1.2x0.25    —     SMTSO      M1.2 0.5 1            1.5 2       2.5 3                                                 —                                                  0.5     0.48 2.41 3.66 —           3.18      2.5           4.19        15       0.6
+
+                  M1.4x0.3     —     SMTSO      M1.4 0.5 1            1.5 2       2.5 3                                                 —                                                  0.5     0.48 2.41 3.66 —           3.18      2.5           4.19        15       1
+
+
+
+
+  METRIC 公制尺寸
+                  M1.6x0.35    —     SMTSO      M1.6 0.5 1            1.5 2       2.5 3   —      — —      — —     —         —          —— — —       —      — —      —     —     — —        0.5     0.48 2.41 3.66 —           3.18      2.5           4.19        15       1.5
+                  M2x0.4       —     SMTSO      M2        0.5 1       1.5       2 2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10   11    12 13 15       18    20    25 30        1.53 1.53    3.6 —      5.56 —          3.73             6.2         30       1.5
+
+                  M2.5x0.45    —     SMTSO      M2.5 —        1       1.5 2       2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10   11 12       13 15    18    20    25 30        1.53 1.53 4.09 —        5.56 —          4.22             6.2         30       3
+
+                  M3x0.5       —     SMTSO      M3        —   1       1.5 2       2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10   11 12       13 15    18    20    25 30        1.53 1.53 4.09 —        5.56 —          4.22             6.2         30       5
+
+                  M3.5x0.6     —     SMTSO      M3.5 —        — —           2     2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10   11 12       13 15    18    20    25 30        1.53 1.53 5.28 —        7.14 —          5.41             7.77        40       6
+
+                  M4x0.7       —     SMTSO      M4        —   — —               2 2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10   11    12 13 15       18    20    25 30        1.53 1.53 6.22 —        8.74 —          6.35             9.37        50       8
+                      —        3.2   SMTSO       K        —   1       1.5 2       2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10                        —                        1.53 1.53 4.09 —        5.56 —          4.22             6.2         20       —
+
+                      —        3.6   SMTSO       L        —   — —           2     2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10                        —                        1.53 1.53 5.28 —        7.14 —          5.41             7.77        30       —
+
+                      —        4.2   SMTSO       M        —   — —           2     2.5 3   3.5 4    4.5 5      5.5 6     6.5 7      8    9 10 —      —      — —      —     —     — —          1.53 1.53 6.22 —        8.74 —          6.35             9.37        40       —
+*更多”L"尺寸未列在表中，请略我们确认！ MORE "L" SIZES ARE NOT LISTED IN THE TABLE, PLEASE CONTACT US FOR CONFIRMATIO
+                 Thread s i zes 0, S1, S1.2, S1.4 and M1.6                                             Therad/thru hole sizes M2, M. 5, M3, M3. 5, M4, 3. 6, 4. 2                                                      2, 4, 6, 8, 116 and 143
+
+
+All dimensions are in inches.
+
+                                                              Thread or                                                                                                                      R                           0H                    0D         Rated        Tightening
+                  Thread        Thru Hole                                                                                                      Min. Sheet  A               C                               L
+                                                Type          Thru Hole            Length Code"H"±.005 (Length code in 32nds of an inch)                                                                            Hole Size In              Min.Solder Current        Torque
+                      Size      +.004 -.003                                                                                                    Thickness Max.            Max.                            Nom.
+                                                                Code                                                                                                                                              Sheet +.003-.000            Pad          (A)         (Kgf.cm)
+                                                                                                                                                                                     Ref.        ±.005
+
+                  ,060-80            —        SMTSO               0             .062      .125         —          —         —            —          .020     .019        .095        .144         —       .125           .098                 .165           15           1.5
+                  (#0-80)
+
+
+
+
+  UNIFIED 英制尺寸
+                  .086-56            —        SMTSO               2             .062      .125         .187   .250          .312        .375        .060     .060        .142        —           .219      —             .147                 .244           30           1.5
+                  (#2-56)
+                  .112-40            —        SMTSO               4             .062      .125     .187       .250          .312        .375        .060     .060        .161        —           .219      —             .166                 .244           30            5
+                  (#4-40)
+                  ,060-80            —        SMTSO               6             .062      .125     .187          .250       .312        .375        .060     .060        .208        —           .281      —             .213                  .306          40            6
+                  (#6-32)
+                  .164-32            —        SMTSO               8             .062      .125     .187       .250          .312        .375        .060     .060        .245        —           .344      —             .250                  .369          50            8
+                  (#8-32)
+
+                       —             .116     SMTSO               9             .062      .125     .187       .250          .312        .375        .060     .060        .161        —           .219      —             .166                 .244           30           —
+
+                       —             .143     SMTSO               10            .062      .125     .187       .250          .312        .375        .060     .060        .208        —           .281      —             .213                 .306           40           —
+
+
+
+
+                                                           深圳市怡远科技有限公司                                                info@yiyuanswitches.com                                       www.yiyuanswitches.com
+                                                                                                             PCB SMD NUT CONNECTOR
+                                                                                                                            电路板表贴螺母柱连接器
+
+
+
+
+Classification Reflow Profile for SMT components:
+
+
+
+Classification Reflow Soldering Profile:                                    Package Classification Reflow Temperature:
+                                                                                  Time
+Profile Feature                                      Value                                                                         Volume mm3   Volume mm3   Volume
+                                                                            Properties
+                                                                                                                                   <350         350-2000     mm3 >2000
+Preheat Temperature Min〔)                    L min   150 °C
+                                                                            PB-Free Assembly I Package Thickness < 1.6 mm          260 °C       260 °C       260 °C
+Preheat Temperature Max                      Ts max 200 °C
+
+Preheat Time ts from Tsmi„ to Tsmax          ts      60-120 seconds         PB-Free Assembly I Package Thickness 1.6 mm - 2.5 mm   260 °C       250 °C       245 °C
+                                                                            PB-Free Assembly I Package Thickness > 2.5 mm          250 °C       245 °C       245 °C
+Ramp-up Rate (TL to Tp)                              3 °C/ second max.
+Liquidous Temperature                        TL      217 °C
+Time tL maintained above TL                  匕       60-150 seconds
+Peak package body temperature                        see table
+Time within 5°C of actual peak temperaure    tp      20 - 30 seconds
+Ramp-down Rate (TL to Tp)                            6 °C/ second max.
+
+Time 25°C to peak temperature                        8 minutes max.
+
+
+
+
+                                            深圳市怡远科技有限公司                  info@yiyuanswitches.com                  www.yiyuanswitches.com
+

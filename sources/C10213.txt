@@ -1,0 +1,582 @@
+                        Transient
+                          Voltage
+                     Suppressors
+                                                          SMBJ Series
+
+
+
+
+Circuit Protection                                                  Revision:DEC-16
+System                Please refer to http://www.ruilon.com.cn for current information.
+                         Transient Voltage Suppressors - SMBJ Series
+
+Features                                                                                                UNI
+
+• Very fast response time
+• Halogen free and RoHS compliant
+• Low incremental surge resistance
+• Optimized for LAN protection applications
+• Matte tin lead–free Plated                                                                                                                   BI
+• Halogen ree and RoHS compliant
+• Typical IR less than 1µA above 12V
+• For surface mounted applications to optimize board space
+• ESD protection of data lines in accordance with IEC 61000-4-2 (IEC801-2)
+• EFT protection of data lines in accordance with IEC 61000-4-4 (IEC801-4)
+• 600W peak pulse power capability with at 10/1000μs waveform,repetition                                                         BI
+                                                                                                         Cathode                              Anode
+rate (duty cycle): 0.01%
+• High temperature soldering : 260°C/ 40 seconds at terminals
+
+                                                                                                                                 UNI
+
+
+
+
+Description
+The SMBJ series is designed specifically to protect sensitive electronic equipment from voltage transients induced by lightning
+and other transient voltage events.
+
+
+ Mechanical Characteristics
+                                   Rating                                              Symbol                      Value                     Units
+Peak Pulse Power Dissipation at TA=25ºC by 10/1000µs
+                                                                                         PPPM                       600                      Watts
+Waveform (Fig.2)(Note 1), (Note 2)
+Power Dissipation on Infinite Heat Sink at TA=50°C                                        PD                         5.0                     Watts
+Peak Forward Surge Current, 8.3ms Single Half Sine Wave
+                                                                                         IFSM                       100                        A
+(Note 3)
+Maximum Instantaneous Forward Voltage at 25A for
+                                                                                          VF                      3.5/5.0                     V
+Unidirectional Only (Note 4)
+Operating junction and Storage Temperature Range.                                      TJ,TSTG                -55°C to 150°C                  °C
+
+Typical Thermal Resistance Junction to Lead                                              RθJL                        20                      °C/W
+
+Typical Thermal Resistance Junction to Ambient                                           RθJL                       100                      °C/W
+Notes:
+1. Non-repetitive current pulse, per Fig.4 and derated above TA=25ºC per Fig. 3.
+2. Mounted on 5.0x5.0mm copper pad to each terminal.
+3. Measured on 8.3ms single half sine wave or equivalent square wave for unidirectional device only, duty cycle=4 per minute maximum.
+4. VF< 3.5V for single die parts and VF< 5.0V for stacked-die parts
+
+
+
+
+             Circuit Protection                                                                                                         Revision:DEC-16
+             System                                              Please refer to http://www.ruilon.com.cn for current information. Page:1
+                   Transient Voltage Suppressors - SMBJ Series
+Electriacl Characteristics
+                                         Reverse                                          Maximum                 Reverse
+                        Device Marking                     Breakdown            Test                 Peak Pulse
+     Type Number                         Stand-Off                                        Clamping                Leakage
+                            Code                           Voltage@IT          Current                Current
+                                          Voltage                                        Voltage@IPP              @VRWM
+  UNI              BI    UNI      BI     VRWM(V)     VBR MIN.(V) VBR MAX.(V)   IT(mA)      VC(V)       IPP(A)      IR(µA)
+SMBJ5.0A   SMBJ5.0CA     KE      AE         5.0         6.40         7.25        10          9.2        65.3        800
+SMBJ6.0A   SMBJ6.0CA     KG      AG         6.0         6.67         7.67        10        10.3         58.3        800
+SMBJ6.5A   SMBJ6.5CA     KK      AK         6.5         7.22         8.30        10         11.2        53.6        500
+SMBJ7.0A   SMBJ7.0CA     KM      AM         7.0         7.78         8.95        10        12.0         50.0        200
+SMBJ7.5A   SMBJ7.5CA     KP      AP         7.5         8.33         9.58         1        12.9         46.6        100
+SMBJ8.0A   SMBJ8.0CA     KR      AR         8.0        8.89        10.23         1         13.6         44.1        50
+SMBJ8.5A   SMBJ8.5CA     KT      AT         8.5        9.44        10.82         1         14.4         41.7        20
+SMBJ9.0A   SMBJ9.0CA     KV      AV         9.0       10.00         11.50        1         15.4         39.0        10
+SMBJ10A    SMBJ10CA      KX      AX       10.0         11.10       12.80         1         17.0         35.3         5
+SMBJ11A    SMBJ11CA      KZ      AZ        11.0       12.20        14.00          1        18.2         33.0         1
+SMBJ12A    SMBJ12CA      LE      BE       12.0        13.30        15.30          1        19.9         30.2         1
+SMBJ13A    SMBJ13CA      LG      BG       13.0        14.40        16.50          1        21.5         27.9         1
+SMBJ14A    SMBJ14CA      LK      BK       14.0        15.60        17.90          1        23.2         25.8         1
+SMBJ15A    SMBJ15CA      LM      BM       15.0        16.70        19.20         1         24.4         24.6         1
+SMBJ16A    SMBJ16CA      LP      BP       16.0        17.80        20.50         1         26.0         23.1         1
+SMBJ17A    SMBJ17CA      LR      BR       17.0        18.90        21.70         1         27.6         21.7         1
+SMBJ18A    SMBJ18CA      LT      BT       18.0        20.00        23.30         1         29.2         20.5         1
+SMBJ20A    SMBJ20CA      LV      BV       20.0        22.20        25.50         1         32.4         18.5         1
+SMBJ22A    SMBJ22CA      LX      BX       22.0        24.40        28.00         1         35.5         16.9         1
+SMBJ24A    SMBJ24CA      LZ      BZ       24.0        26.70        30.70         1         38.9         15.2         1
+SMBJ26A    SMBJ26CA      ME      CE       26.0        28.90        33.20         1         42.1         14.2         1
+SMBJ28A    SMBJ28CA      MG      CG       28.0        31.10        35.80         1         45.4         13.2         1
+SMBJ30A    SMBJ30CA      MK      CK       30.0        33.30        38.30         1         48.4         12.4         1
+SMBJ33A    SMBJ33CA      MM      CM       33.0        36.70        42.20         1         53.3         11.3         1
+SMBJ36A    SMBJ36CA      MP      CP       36.0        40.00        46.00         1         58.1         10.3         1
+SMBJ40A    SMBJ40CA      MR      CR       40.0        44.40        51.10         1         64.5         9.3          1
+SMBJ43A    SMBJ43CA      MT      CT       43.0        47.80        54.90         1         69.4         8.6          1
+SMBJ45A    SMBJ45CA      MV      CV       45.0        50.00        57.50         1         72.7         8.3          1
+SMBJ48A    SMBJ48CA      MX      CX       48.0        53.30        61.30         1         77.4         7.7          1
+SMBJ51A    SMBJ51CA      MZ      CZ       51.0        56.70        65.20         1         82.4         7.3          1
+SMBJ54A    SMBJ54CA      NE      DE       54.0        60.00        69.00         1         87.1         6.9          1
+SMBJ58A    SMBJ58CA      NG      DG       58.0        64.40        74.10         1         93.6         6.4          1
+SMBJ60A    SMBJ60CA      NK      DK       60.0        66.70        76.70          1        96.8          6.2         1
+SMBJ64A    SMBJ64CA      NM      DM       64.0        71.10        81.80          1        103.0         5.8         1
+SMBJ70A    SMBJ70CA      NP      DP       70.0        77.80        89.50          1        113.0         5.3         1
+SMBJ75A    SMBJ75CA      NR      DR       75.0        83.30        95.80          1        121.0         4.9         1
+SMBJ78A    SMBJ78CA      NT      DT       78.0        86.70         99.70         1        126.0         4.7         1
+SMBJ85A    SMBJ85CA      NV      DV       85.0         94.40       108.20         1        137.0         4.4         1
+SMBJ90A    SMBJ90CA      NX      DX       90.0        100.00       115.50         1        146.0         4.1         1
+SMBJ100A   SMBJ100CA     NZ      DZ       100.0       111.00       128.00         1        162.0         3.7         1
+SMBJ110A   SMBJ110CA     PE      EE       110.0       122.00       140.50         1        177.0         3.4         1
+SMBJ120A   SMBJ120CA     PG      EG       120.0       133.00       153.00         1        193.0         3.1         1
+SMBJ130A   SMBJ130CA     PK      EK       130.0       144.00       165.50         1        209.0         2.9         1
+SMBJ150A   SMBJ150CA     PM      EM       150.0       167.00       192.60         1        243.0         2.5         1
+SMBJ160A   SMBJ160CA     PP      EP       160.0       178.00       197.00         1        259.0         2.3         1
+SMBJ170A   SMBJ170CA     PR      ER       170.0       189.00       209.00         1        275.0         2.2         1
+SMBJ180A   SMBJ180CA     PT      ET       180.0       201.00       222.00         1        292.0         2.1         1
+SMBJ190A   SMBJ190CA     PV      EV       190.0       209.00       243.20         1        308.0         2.0         1
+SMBJ200A   SMBJ200CA     PX      EX       200.0       220.00       247.00         1        324.0         1.9         1
+SMBJ210A   SMBJ210CA     PZ      EZ       210.0       231.00       268.80         1        340.0         1.8         1
+SMBJ220A   SMBJ220CA     QE      FE       220.0       242.00       281.60         1        356.0         1.7         1
+
+
+
+
+        Circuit Protection                                                                             Revision:DEC-16
+        System                                Please refer to http://www.ruilon.com.cn for current information. Page:2
+                                            Transient Voltage Suppressors - SMBJ Series
+ Electriacl Characteristics
+                                                                              Reverse                                                                                        Maximum                    Reverse
+                                                      Device Marking                                 Breakdown                                         Test                             Peak Pulse
+                            Type Number                                       Stand-Off                                                                                      Clamping                   Leakage
+                                                          Code                                       Voltage@IT                                       Current                            Current
+                                                                               Voltage                                                                                      Voltage@IPP                 @VRWM
+     UNI                              BI                UNI        BI         VRWM(V)         VBR MIN.(V) VBR MAX.(V)                                 IT(mA)                   VC(V)      IPP(A)         IR(µA)
+   SMBJ250A                        SMBJ250CA            QG         FG           250.0           279.0       309.0                                        1                      405.0       1.5             1
+   SMBJ300A                        SMBJ300CA            QK         FK           300.0           335.0       371.0                                        1                      486.0       1.3             1
+   SMBJ350A                        SMBJ350CA            QM         FM           350.0           391.0       432.0                                        1                      567.0       1.1             1
+   SMBJ400A                        SMBJ400CA            QP         FP           400.0           447.0       494.0                                        1                      648.0       0.9             1
+   SMBJ440A                        SMBJ440CA            QR         FR           440.0           492.0       543.0                                        1                      713.0       0.9             1
+For bidirectional type having VR of 10 volts and less, the IR limit is double.
+
+
+
+
+I-VI-V Curve
+     Curve      Characteristics
+             Characteristics
+
+
+                               Uni-directional                                                                                            Bi-directional
+                                                 I                                                                                                           IIpp
+                                                                                                                                                               pp
+
+
+
+
+                                                                                                                                                              IITT
+                                                                                                                                   Vc VBR
+                                                                                                                                   Vc V    VRR
+                                                                                                                                        BR V                 IIRR
+                              Vc VBR
+                              Vc V    VRR
+                                   BR V                                                                                                                                                         V
+                                                                                                                                                                                                V
+                                                                                 V
+                                                                                 V                                                                                   IIRR          VRRV
+                                                                                                                                                                                   V  VBR  Vc
+                                                                                                                                                                                        BR Vc
+                                                      IIRR V
+                                                           VFF                                                                                                       IITT
+                                                      IITT
+
+
+
+
+                                                                                                                                                                     IIpp
+                                                                                                                                                                       pp
+                                                     IIpp
+                                                       pp
+
+
+
+
+                                                                                                                                                                                                              P6KESeries
+                                                                                                                                                                                                                   Series
+     PP  PPM Peak Pulse Power Dissipation -- Max power dissipation
+         PPM
+            PPM Peak Pulse Power Dissipation -- Max power dissipation
+
+
+
+                                                                                                                                                                                                             P6KE
+     VRVR R Stand-off
+              Stand-offVoltage -- Maximum
+                           Voltage            voltage that
+                                      -- Maximum           can be
+                                                      voltage   thatapplied to the
+                                                                       can be   applied   to theoperation
+                                                                                   TVS without    TVS without operation
+     VV  BR
+         BR
+             Breakdown   Voltage  -- Maximum    voltage that flows   though  the TVS at a specified
+            BR Breakdown Voltage -- Maximum voltage that flows though the TVS at a specified
+                                                                                                    test current (ITT)   test current (IT)
+     VCVC CClamping
+              Clamping Voltage  -- Peak--voltage
+                           Voltage                measured across
+                                          Peak voltage     measured               theat a
+                                                                         suppressor
+                                                                     the across        TVS   at a Ippm
+                                                                                          speciﬁed        (peakIppm
+                                                                                                   specified    impulse   current)
+                                                                                                                       (peak   impulse current)
+     IRIRR Reverse
+             Reverse    Leakage
+                    Leakage          Current
+                              Current --  Current-- Current  measured at VR
+                                                    measured at VRR
+     VFVF F Forward
+              Forward    Voltage
+                      Voltage Drop Drop      for Uni-directional
+                                     for Uni-directional
+
+
+       Ratings and Characteristic Curves                         (TAA=25°C
+                                                                 (T  =25°C unless
+                                                                           unless otherwise
+                                                                                  otherwise noted)
+                                                                                            noted)
+
+
+
+       Figure 1 - TVS Transients Clamping Waveform                                                   Figure 2 - Peak Pulse Power Rating
+
+                                                       Voltage Transients
+                                                       Voltage Transients                                                               1000
+                                                                                                                                        1000
+
+
+
+
+                                                                                                          PPPM -Peak Pulse Power (kW)
+                                                                                                                                        100
+                                                                                                                                        100
+                                                      Voltage Across
+                                                      Voltage Across TVS
+                                                                     TVS
+
+
+
+
+       Voltage or Current
+                                                     Current Through
+                                                     Current Through TVS
+                                                                     TVS                                                                 10
+                                                                                                                                         10
+
+
+
+
+                                                                                                           PPM
+                                                                                                                                          11
+
+
+
+                                                                                                                                         0.1
+                                                                                                                                         0.1
+                                                                                                                                           0.000001
+                                                                                                                                           0.000001        0.00001
+                                                                                                                                                           0.00001                0.0001
+                                                                                                                                                                                  0.0001        0.001
+                                                                                                                                                                                                0.001
+                                                                                                                                                           ttdd-Pulse
+                                                                                                                                                               -Pulse Width
+                                                                                                                                                                      Width (Sec.)
+                                                                                                                                                                            (Sec.)
+                                                                                      Time
+                                                                                      Time
+
+
+
+
+                             Circuit Protection                                                                                                                                             Revision:DEC-16
+                             System                                                  Please refer to http://www.ruilon.com.cn for current information. Page:3
+                                                            Transient Voltage Suppressors - SMBJ Series
+
+Ratings and Characteristic Curves (TA=25°C unless otherwise noted)
+
+  Figure 3 - Pulse Derating Curve                                                                                                         Figure 4 - Pulse Waveform
+
+                                                    100                                                                                                                              150
+
+
+
+
+       Peak Pulse Power (PPP) or Current (IPP)
+                                                                                                                                                                                                  tr=10µsec                T J =25°C
+
+
+
+
+                                                                                                                                                IPPM - Peak Pulse Cur rent, % IRSM
+                                                                                                                                                                                                                           Pulse Width(td) is deﬁned
+                                                     80                                                                                                                                                                    as the point where the peak
+                                                                                                                                                                                                                           current decays to 50% of IPPM
+                                                                                                                                                                                                      Peak Value
+                                                                                                                                                                                     100              IPPM
+                                                     60
+                                                                                                                                                                                                              Half Value
+
+
+
+
+             Derating in Percentage %
+                                                     40                                                                                                                                                              ( )
+                                                                                                                                                                                                              IPPM IPPM
+                                                                                                                                                                                                                          2
+
+                                                                                                                                                                                        50                                10/1000µsec. Waveform
+                                                                                                                                                                                                                          as deﬁned by R.E.A
+                                                     20
+
+
+                                                     0                                                                                                                                           td
+                                                           0      25        50         75        100       125     150         175                                                       0
+                                                                                                                                                                                             0        1.0           2.0               3.0                  4.0
+                                                                           TA-Ambient temperature (ºC)                                                                                                        t-Time (ms)
+
+
+
+
+  Figure 5 - Typical Junction Capacitance                                                                                                 Figure 6 - Steady State Power Dissipation Derating Curve
+
+                                          10000                                                                                                                                         6
+
+
+
+
+                                                                                                                                               PM(AV), Steady State Power Dissipation
+                                                                                            Bi-directional V=0V
+                                                                                                                                                                                        5
+                                                   1000
+                                                                                                        Uni-directional V=0V
+                                                                                                                                                                                        4
+                                                                Uni-directional @VR
+
+
+       Cj (pF)                                      100                                                                                                                                 3
+
+
+
+
+                                                                                                                                                                 (W)
+                                                                                      Bi-directional @VR
+                                                                                                                                                                                        2
+                                                     10
+                                                            Tj=25C
+                                                                                                                                                                                        1
+                                                            f=1.0MHz
+                                                            Vsig=50mVp-p
+                                                      1                                                                                                                                 0
+                                                      1.0                10.0          100.0                             1000.0                                                              0   25     50     75         100      125       150           175
+                                                                 VBR - Reverse Breakdown Voltage (V)                                                                                                  TA - Ambient Temperature (ºC)
+
+
+
+
+  Figure 7 - Maximum Non-Repetitive Peak Forward
+             Surge Current Uni-Directional Only
+
+                                                     120
+
+
+
+
+           IFSM - Peak Forward Surge Current (A)
+                                                     100
+
+
+                                                      80
+
+
+                                                      60
+
+
+                                                      40
+
+
+                                                      20
+
+
+                                                      0
+                                                           1                                10                                 100
+                                                                       Number of Cycles at 60 Hz
+
+
+
+
+      Circuit Protection                                                                                                                                                                                                              Revision:DEC-16
+      System                                                                                                               Please refer to http://www.ruilon.com.cn for current information. Page:4
+                         Transient Voltage Suppressors - SMBJ Series
+
+ Soldering Parameters
+                                                                                                                                  tp
+                                                                                             TP
+              Reflow Condition               Lead-free assembly
+                                                                                                                       Ramp-up                   Critical Z one
+                - Temperature Min (T                                                                                                               TL to TP
+                                                   150°C                                     TL
+                s(min))
+                                                                                                                                       tL
+
+
+
+
+                                                                       Temperature (T)
+   Pre Heat     - Temperature Max (T                                                     Ts(max)
+                                                   200°C
+                s(min))                                                                                                                      Ramp-down
+                                                                                         Ts(min)
+                - Time (min to max) (t s)       60-180 secs                                                ts
+                                                                                                      Preheat
+Average ramp up rate (Liquidus Temp (TA)
+                                              3°C/second max
+to peak
+TS(max) to TA - Ramp-up Rate                  3°C/second max
+                                                                                                                     Time (t)
+                - Temperature (T A)
+                                                   217°C
+    Reflow      (Liquidus)
+                - Time (min to max) (t s)     60-150 seconds
+
+Peak Temperature (T P)                          260+0/-5 °C
+                                                                       Environmental Specifications
+Time within 5°C of actual peak                                        High Temp. Storage                             JESD22-A103
+                                               20-40 seconds
+Temperature (t p)
+                                                                      HTRB                                           JESD22-A108
+Ramp-down Rate                                6°C/second max
+                                                                      Temperature Cycling                            JESD22-A104
+Time 25°C to peak Temperature (T P)            8 minutes Max.
+                                                                      MSL                                            JEDEC-J-STD-020, Level 1
+Do not exceed                                      280°C
+                                                                      H3TRB                                          JESD22-A101
+
+                                                                      RSH                                            JESD22-A111
+ Physical Specifications
+Weight     0.003 ounce, 0.093 grams                                    Flow/Wave Soldering
+Case       JEDEC DO-214AA Molded Plastic over
+                                                                      Peak Temperature :                             265°C
+Polarity   glass passivated junction
+                                                                      Dipping Time :                                 10 seconds
+Termina    Matte Tin axial leads, solderable per JESD22-B102D.
+                                                                      Soldering :                                    1 time
+
+
+ Dimensions DO-214AA/SMB
+
+                                                                                                           Inches                       Millimeters
+                                                                                          DIM
+                                                                                                   Min              Max            Min              Max
+                                                                                             A     0.077            0.086         1.950           2.200
+                                                                                             B     0.160            0.180         4.060           4.570
+                                                                                             C     0.130            0.155         3.300           3.940
+                                                                                             D     0.084            0.096         2.130           2.440
+                                                                                             E     0.030            0.060         0.760           1.520
+                                                                                             F       -              0.008           -             0.203
+                                                                                             G     0.205            0.220         5.210           5.590
+                                                                                             H     0.006            0.012         0.152           0.305
+                                                                                             I     0.089              -           2.260             -
+                                                                                             J     0.085              -           2.160             -
+                                                                                             K       -              0.107           -             2.740
+                                                                                             L     0.085              -           2.160             -
+
+
+
+
+              Circuit Protection                                                                                                       Revision:DEC-16
+              System                                       Please refer to http://www.ruilon.com.cn for current information. Page:5
+               0.157
+                (4.0)
+                                                                                                                                     Cathode
+     0.31
+     (8.0）
+
+
+                          0.157                       0.059 DIA       Cover tape
+                          (4.0)                       (1.5)
+
+                        Transient
+                            13.0 (330)
+                                       Voltage Suppressors - SMBJ Series
+                                                        Dimensions are in inches
+    0.80 (20.2)                                         (and millimeters).
+Arbor Hole Dia.
+Product Name                                                                   Part Marking System
+                                                         Direction of Feed
+      0.33
+      (8.5)
+                                                                                      Cathode band
+                                                                                      (for Uni-directional products only)
+ S        M        B      J        x        x   x      C          A
+
+
+                                                                                            RUILON
+         Series code          DC Spark-over     Blank:Uni-
+               0.157             Voltage        Directional                                 XX       XXX
+                (4.0)
+                                                   C:Bi-
+                                                Directional                                                                          Cathode
+     0.47
+                                                                                                                            Date Code
+     (12.0）                                                   5% Voltage                                                    Product Code
+                                                               Tolerance                                                    Marking Code
+                          0.157                       0.059 DIA       Cover tape
+                          (4.0)                       (1.5)
+
+
+Packaging                      13.0 (330)
+                                                        Dimensions are in inches
+    0.80                            Component           (and millimeters).
+      Part(20.2)
+            Number                                                Quantity          Packaging Option                  Packaging Specification
+Arbor Hole Dia.                      Package
+      SMBJxxxXX                     DO-214AC                          500             Tape & Reel                             EIA RS-481
+                                                         Direction of Feed
+      0.49
+      (12.5
+
+
+
+
+Tape and Reel Specification
+
+               0.157
+                (4.0)
+                                                                                                                                     Cathode
+     0.47
+     (12.0）
+
+
+                          0.315                       0.059 DIA       Cover tape
+                          (8.0)                       (1.5)
+
+
+                               13.0 (330)
+                                                        Dimensions are in inches
+    0.80 (20.2)                                         (and millimeters).
+Arbor Hole Dia.
+
+
+                                                         Direction of Feed
+      0.49
+      (12.5)
+
+
+
+
+               0.157
+                (4.0)
+                                                                                                                                     Cathode
+     0.63
+     (16.0）
+
+
+                          0.315                       0.059 DIA       Cover tape
+                          (8.0)                       (1.5)
+
+
+                              13.0 (330)
+                                                        Dimensions are in inches
+    0.80 (20.2)                                         (and millimeters).
+Arbor Hole Dia.
+             Circuit Protection                                                                                             Revision:DEC-16
+             System                                    Please refer to http://www.ruilon.com.cn for current information. Page:6
+

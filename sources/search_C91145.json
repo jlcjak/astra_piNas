@@ -1,0 +1,69 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C91145",
+      "name": "Korean Hroparts Elec TF-01A",
+      "model": "TF-01A",
+      "brand": "Korean Hroparts Elec",
+      "package": "SMD",
+      "category": "SD Card / Memory Card Connector",
+      "stock": 215940,
+      "type": "Extended",
+      "price": 0.1917,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1917
+        },
+        {
+          "qty": 50,
+          "price": 0.1528
+        },
+        {
+          "qty": 150,
+          "price": 0.1336
+        },
+        {
+          "qty": 1000,
+          "price": 0.1121
+        },
+        {
+          "qty": 2000,
+          "price": 0.1074
+        },
+        {
+          "qty": 5000,
+          "price": 0.1045
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "1.85mm Connector and Ejector MicroSD Card (TF Card) Push-Push With Locating Pins SMD SD Card / Memory Card Connector ROHS",
+      "url": "https://www.lcsc.com/product-detail/sd-card-memory-card-connector_korean-hroparts-elec-tf-01a_C91145.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1811082127_Korean-Hroparts-Elec-TF-01A_C91145.pdf",
+      "attributes": [
+        {
+          "name": "Connector Type",
+          "value": "Connector and Ejector"
+        },
+        {
+          "name": "Supplementary Features",
+          "value": "With Locating Pins"
+        },
+        {
+          "name": "Card Connection Mode",
+          "value": "Push-Push"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "1.85mm"
+        },
+        {
+          "name": "Card Type",
+          "value": "MicroSD Card (TF Card)"
+        }
+      ]
+    }
+  ]
+}

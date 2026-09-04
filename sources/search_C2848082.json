@@ -1,0 +1,69 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C2848082",
+      "name": "Winchen WC-PD60B120A",
+      "model": "WC-PD60B120A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 15,
+      "type": "Extended",
+      "price": 19.4049,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 19.4049
+        },
+        {
+          "qty": 10,
+          "price": 17.7479
+        },
+        {
+          "qty": 12,
+          "price": 17.7479
+        },
+        {
+          "qty": 14,
+          "price": 17.7479
+        },
+        {
+          "qty": 16,
+          "price": 17.7479
+        },
+        {
+          "qty": 18,
+          "price": 17.7479
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 21,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd60b120a_C2848082.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2202221130_Winchen-WC-PD60B120A_C2848082.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "48V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection\u3001Thermal Protection"
+        }
+      ]
+    }
+  ]
+}

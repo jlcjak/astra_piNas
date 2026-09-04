@@ -1,0 +1,81 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C250547",
+      "name": "RICHTEK RT9742GGJ5",
+      "model": "RT9742GGJ5",
+      "brand": "Richtek Tech",
+      "package": "TSOT-23-5",
+      "category": "Power Distribution Switches",
+      "stock": 6439,
+      "type": "Extended",
+      "price": 0.1831,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1831
+        },
+        {
+          "qty": 10,
+          "price": 0.1485
+        },
+        {
+          "qty": 30,
+          "price": 0.1337
+        },
+        {
+          "qty": 100,
+          "price": 0.1152
+        },
+        {
+          "qty": 500,
+          "price": 0.092
+        },
+        {
+          "qty": 1000,
+          "price": 0.087
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+85\u2103 1 1A 2.7V~6V 70m\u03a9 Active High High Side Switch Short-Circuit  Protection(SCP)\u3001Undervoltage Protection(UVP)\u3001Overcurrent Protection(OCP)\u3001Over Temperature Protection TSOT-23-5 Power Distribution Switches ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-distribution-switches_richtek-tech-rt9742ggj5_C250547.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1808151431_Richtek-Tech-RT9742GGJ5_C250547.pdf",
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "High Side Switch"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "2.7V~6V"
+        },
+        {
+          "name": "Operating Temperature\t-",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Maximum Continuous Current",
+          "value": "1A"
+        },
+        {
+          "name": "Features",
+          "value": "Output discharge function\u3001Soft-start\u3001Under-voltage lockout\u3001Reverse voltage protection\u3001Overcurrent Protection\u3001Over temperature protection\u3001Short-Circuit  Protection\u3001Reverse current blocking"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "70m\u03a9"
+        },
+        {
+          "name": "Control Input Logic",
+          "value": "Active High"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "astra_piNas") (type "KiCad") (uri "${KIPRJMOD}/lib/astra_piNas.pretty") (options "") (descr "Project-local footprints")))

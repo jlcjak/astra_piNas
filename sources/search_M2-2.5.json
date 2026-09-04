@@ -1,0 +1,342 @@
+{
+  "total": 9,
+  "results": [
+    {
+      "lcsc": "C9900116025",
+      "name": "JIALICHUANG SMT M2-2.5",
+      "model": "M2-2.5",
+      "brand": "JLCPCB Assembly",
+      "package": "BD5.5-D3.5",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "BD5.5-D3.5 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900017901",
+      "name": "JIALICHUANG SMT WEM2-2.5",
+      "model": "WEM2-2.5",
+      "brand": "JLCPCB Assembly",
+      "package": "SMTWelding stud",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "SMT\u710a\u63a5\u87ba\u67f1 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900019496",
+      "name": "JIALICHUANG SMT WEM2-2.5",
+      "model": "WEM2-2.5",
+      "brand": "JLCPCB Assembly",
+      "package": "A559",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 1000,
+      "description": "A559 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C845177",
+      "name": "SART S6125-M2-2.5A",
+      "model": "S6125-M2-2.5A",
+      "brand": "SART(Nanjing Sart Tech)",
+      "package": "2410",
+      "category": "Disposable fuses",
+      "stock": 1,
+      "type": "Extended",
+      "price": 0.0988,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0988
+        },
+        {
+          "qty": 50,
+          "price": 0.0801
+        },
+        {
+          "qty": 150,
+          "price": 0.0709
+        },
+        {
+          "qty": 1000,
+          "price": 0.0582
+        },
+        {
+          "qty": 2000,
+          "price": 0.0525
+        },
+        {
+          "qty": 5000,
+          "price": 0.0498
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "-55\u2103~+125\u2103 2.5A 2.5mm 250V 250V 50A@125VDC\u300150A@250VAC 6.1mm 7.58 Surface Mount Fuse 2410 Disposable fuses ROHS",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_sart-nanjing-sart-tech-s6125-m2-2-5a_C845177.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_SART-Nanjing-Sart-Tech-S6125-M2-2-5A_C845177.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "7.58"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A@125VDC\u300150A@250VAC"
+        },
+        {
+          "name": "Current Rating",
+          "value": "2.5A"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "250V"
+        },
+        {
+          "name": "Width",
+          "value": "2.5mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C530674",
+      "name": "kinghelm KH-SIM2-2.54-8F",
+      "model": "KH-SIM2-2.54-8F",
+      "brand": "Shenzhen Kinghelm Elec",
+      "package": "SMD",
+      "category": "SIM Card Connectors",
+      "stock": 179,
+      "type": "Extended",
+      "price": 1.1437,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.1437
+        },
+        {
+          "qty": 10,
+          "price": 0.9423
+        },
+        {
+          "qty": 30,
+          "price": 0.8318
+        },
+        {
+          "qty": 100,
+          "price": 0.7067
+        },
+        {
+          "qty": 400,
+          "price": 0.6401
+        },
+        {
+          "qty": 800,
+          "price": 0.6141
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 400,
+      "description": "-55\u2103~+105\u2103 3mm 5V Mini-SIM Card Tray Tray With Card Detect SMD SIM Card Connectors ROHS",
+      "url": "https://www.lcsc.com/product-detail/sim-card-connectors_shenzhen-kinghelm-elec-kh-sim2-2-54-8f_C530674.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2404191039_Shenzhen-Kinghelm-Elec-KH-SIM2-2-54-8F_C530674.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+105\u2103"
+        },
+        {
+          "name": "Rated Voltage (Max)",
+          "value": "5V"
+        },
+        {
+          "name": "Connector Type",
+          "value": "Tray"
+        },
+        {
+          "name": "Card Connection Mode",
+          "value": "Tray"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "3mm"
+        },
+        {
+          "name": "Card Type",
+          "value": "Mini-SIM Card"
+        },
+        {
+          "name": "Card Detection",
+          "value": "With Card Detect"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900067231",
+      "name": "JIALICHUANG SMT SMTSO-M2-2.5ET",
+      "model": "SMTSO-M2-2.5ET",
+      "brand": "JLCPCB Assembly",
+      "package": "BD5.5D3.6",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "BD5.5D3.6 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900309222",
+      "name": "JIALICHUANG SMT M2-2.54-Female",
+      "model": "M2-2.54-Female",
+      "brand": "JLCPCB Assembly",
+      "package": "Plugin",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "Plugin SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900265172",
+      "name": "JIALICHUANG SMT SMTSOB-M2-2.5ET",
+      "model": "SMTSOB-M2-2.5ET",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900045963",
+      "name": "JIALICHUANG SMT SMT\u94dc\u67f1m2-2.5*4+1.5*2.5",
+      "model": "SMTCopper pillarsm2-2.5*4+1.5*2.5",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 300,
+      "reel_qty": 300,
+      "description": "SMD New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

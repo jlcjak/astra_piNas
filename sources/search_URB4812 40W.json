@@ -1,0 +1,213 @@
+{
+  "total": 2,
+  "results": [
+    {
+      "lcsc": "C5441805",
+      "name": "TDPOWER TURB4812LD-40WR3",
+      "model": "TURB4812LD-40WR3",
+      "brand": "TDPOWER",
+      "package": "Plugin,50.8x25.4mm",
+      "category": "Isolated Power Modules",
+      "stock": 13,
+      "type": "Extended",
+      "price": 12.0215,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 12.0215
+        },
+        {
+          "qty": 10,
+          "price": 11.6007
+        },
+        {
+          "qty": 40,
+          "price": 10.8697
+        },
+        {
+          "qty": 80,
+          "price": 10.2751
+        },
+        {
+          "qty": 82,
+          "price": 10.2751
+        },
+        {
+          "qty": 84,
+          "price": 10.2751
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 40,
+      "description": "-40\u2103~+85\u2103 1 1.5kV 12V 15mm 18V~72V 25.4mm 3.34A 300kHz 3300uF 40W 50.8mm 80mVp-p 92% Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection\u3001Automatic fault recovery\u3001Light load efficient mode Plugin,50.8x25.4mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_tdpower-turb4812ld-40wr3_C5441805.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312281911_TDPOWER-TURB4812LD-40WR3_C5441805.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "3.34A"
+        },
+        {
+          "name": "Output Power",
+          "value": "40W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "92%"
+        },
+        {
+          "name": "Length",
+          "value": "50.8mm"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "3300uF"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~72V"
+        },
+        {
+          "name": "Frequency",
+          "value": "300kHz"
+        },
+        {
+          "name": "Height",
+          "value": "15mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection\u3001Automatic fault recovery\u3001Light load efficient mode"
+        },
+        {
+          "name": "Width",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "80mVp-p"
+        }
+      ]
+    },
+    {
+      "lcsc": "C22750049",
+      "name": "YLPTEC URB4812YMD-40WR3",
+      "model": "URB4812YMD-40WR3",
+      "brand": "YLPTEC",
+      "package": "Plugin,25.4x25.4mm",
+      "category": "Isolated Power Modules",
+      "stock": 187,
+      "type": "Extended",
+      "price": 21.7555,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 21.7555
+        },
+        {
+          "qty": 3,
+          "price": 21.7555
+        },
+        {
+          "qty": 5,
+          "price": 21.7555
+        },
+        {
+          "qty": 27,
+          "price": 20.7126
+        },
+        {
+          "qty": 29,
+          "price": 20.7126
+        },
+        {
+          "qty": 31,
+          "price": 20.7126
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 9,
+      "description": "-40\u2103~+105\u2103 1 1.5kV 100mVp-p 12V 12mm 18V~75V 25.4mm 25.4mm 2700uF 3.333A 330kHz 40W 92% Short Circuit Protection \u63d2\u4ef6,25.4x25.4mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_ylptec-urb4812ymd-40wr3_C22750049.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2407081023_YLPTEC-URB4812YMD-40WR3_C22750049.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "3.333A"
+        },
+        {
+          "name": "Output Power",
+          "value": "40W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "92%"
+        },
+        {
+          "name": "Length",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "2700uF"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Frequency",
+          "value": "330kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection\u3001Overvoltage protection\u3001Automatic fault recovery"
+        },
+        {
+          "name": "Width",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "100mVp-p"
+        }
+      ]
+    }
+  ]
+}

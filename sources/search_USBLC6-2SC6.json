@@ -1,0 +1,437 @@
+{
+  "total": 20,
+  "results": [
+    {
+      "lcsc": "C7519",
+      "name": "ST USBLC6-2SC6",
+      "model": "USBLC6-2SC6",
+      "brand": "STMicroelectronics",
+      "package": "SOT-23-6L",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 33516,
+      "type": "Extended",
+      "price": 0.1825,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1825
+        },
+        {
+          "qty": 50,
+          "price": 0.1424
+        },
+        {
+          "qty": 150,
+          "price": 0.1227
+        },
+        {
+          "qty": 500,
+          "price": 0.1052
+        },
+        {
+          "qty": 3000,
+          "price": 0.1004
+        },
+        {
+          "qty": 6000,
+          "price": 0.0975
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 150nA 17V 2 3.5pF 5.25V 5A 6V ESD IEC 61000-4-2 Unidirectional SOT-23-6L ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_stmicroelectronics-usblc6-2sc6_C7519.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121836_STMicroelectronics-USBLC6-2SC6_C7519.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "ESD"
+        },
+        {
+          "name": "Junction Capacitance",
+          "value": "3.5pF"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "2"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "17V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "5A"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "6V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "5.25V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "150nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C558442",
+      "name": "TECH PUBLIC TPUSBLC6-2SC6",
+      "model": "TPUSBLC6-2SC6",
+      "brand": "TECH PUBLIC",
+      "package": "SOT-23-6",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 5860,
+      "type": "Extended",
+      "price": 0.0519,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0519
+        },
+        {
+          "qty": 100,
+          "price": 0.0405
+        },
+        {
+          "qty": 300,
+          "price": 0.0347
+        },
+        {
+          "qty": 3000,
+          "price": 0.0304
+        },
+        {
+          "qty": 6000,
+          "price": 0.027
+        },
+        {
+          "qty": 9000,
+          "price": 0.0252
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+125\u2103 0.35pF\u30010.8pF 100nA 15V 2 5V 9V ESD IEC 61000-4-2\u3001IEC 61000-4-5\u3001IEC 61000-4-4 SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_tech-public-tpusblc6-2sc6_C558442.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2108131930_TECH-PUBLIC-TPUSBLC6-2SC6_C558442.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "ESD"
+        },
+        {
+          "name": "Junction Capacitance",
+          "value": "0.35pF\u30010.8pF"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "2"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2\u3001IEC 61000-4-5\u3001IEC 61000-4-4"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "15V"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "9V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "5V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "100nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2687116",
+      "name": "UMW USBLC6-2SC6",
+      "model": "USBLC6-2SC6",
+      "brand": "UMW(Youtai Semiconductor Co., Ltd.)",
+      "package": "SOT-23-6",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 81719,
+      "type": "Extended",
+      "price": 0.0475,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0475
+        },
+        {
+          "qty": 100,
+          "price": 0.0382
+        },
+        {
+          "qty": 300,
+          "price": 0.0335
+        },
+        {
+          "qty": 3000,
+          "price": 0.0243
+        },
+        {
+          "qty": 6000,
+          "price": 0.023
+        },
+        {
+          "qty": 9000,
+          "price": 0.022
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "0.35pF\u30010.8pF 100nA 150W@8/20us 15V 2 5V 6A@8/20us 6V ESD SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_umw-youtai-semiconductor-co-ltd-usblc6-2sc6_C2687116.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2311091738_UMW-Youtai-Semiconductor-Co---Ltd--USBLC6-2SC6_C2687116.pdf",
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "ESD"
+        },
+        {
+          "name": "Junction Capacitance",
+          "value": "0.35pF\u30010.8pF"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "150W@8/20us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "2"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "15V"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "6A@8/20us"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "6V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "5V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "100nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2827654",
+      "name": "TECH PUBLIC USBLC6-2SC6",
+      "model": "USBLC6-2SC6",
+      "brand": "TECH PUBLIC",
+      "package": "SOT-23-6",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 58933,
+      "type": "Extended",
+      "price": 0.0446,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0446
+        },
+        {
+          "qty": 100,
+          "price": 0.0355
+        },
+        {
+          "qty": 300,
+          "price": 0.0309
+        },
+        {
+          "qty": 3000,
+          "price": 0.027
+        },
+        {
+          "qty": 6000,
+          "price": 0.0257
+        },
+        {
+          "qty": 9000,
+          "price": 0.0247
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+125\u2103 0.35pF 12V 150W 2 5V 6A 6V 80nA ESD IEC 61000-4-2\u3001IEC 61000-4-5\u3001IEC 61000-4-4 Unidirectional SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_tech-public-usblc6-2sc6_C2827654.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2108132230_TECH-PUBLIC-USBLC6-2SC6_C2827654.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "ESD"
+        },
+        {
+          "name": "Junction Capacitance",
+          "value": "0.35pF"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "2"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "150W"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2\u3001IEC 61000-4-5\u3001IEC 61000-4-4"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "6A"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "6V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "5V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "80nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2830148",
+      "name": "MSKSEMI MSUSBLC6-2SC6",
+      "model": "MSUSBLC6-2SC6",
+      "brand": "MSKSEMI",
+      "package": "SOT-23-6",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 3544,
+      "type": "Extended",
+      "price": 0.123,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.123
+        },
+        {
+          "qty": 50,
+          "price": 0.1027
+        },
+        {
+          "qty": 150,
+          "price": 0.0926
+        },
+        {
+          "qty": 500,
+          "price": 0.085
+        },
+        {
+          "qty": 3000,
+          "price": 0.0662
+        },
+        {
+          "qty": 6000,
+          "price": 0.0631
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 0.8pF 150W 15V 1uA 2 5V 6A 9V ESD IEC 61000-4-2 Unidirectional SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_msksemi-msusblc6-2sc6_C2830148.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2105241713_MSKSEMI-MSUSBLC6-2SC6_C2830148.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "ESD"
+        },
+        {
+          "name": "Junction Capacitance",
+          "value": "0.8pF"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "2"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "150W"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "15V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "6A"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "9V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "5V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    }
+  ]
+}

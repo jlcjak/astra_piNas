@@ -1,0 +1,89 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C165948",
+      "name": "Korean Hroparts Elec TYPE-C-31-M-12",
+      "model": "TYPE-C-31-M-12",
+      "brand": "Korean Hroparts Elec",
+      "package": "SMD",
+      "category": "USB Connectors",
+      "stock": 299376,
+      "type": "Extended",
+      "price": 0.1856,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1856
+        },
+        {
+          "qty": 50,
+          "price": 0.1466
+        },
+        {
+          "qty": 150,
+          "price": 0.1274
+        },
+        {
+          "qty": 1000,
+          "price": 0.1034
+        },
+        {
+          "qty": 2000,
+          "price": 0.0987
+        },
+        {
+          "qty": 5000,
+          "price": 0.0959
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "-30\u2103~+80\u2103 1 10,000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",
+      "url": "https://www.lcsc.com/product-detail/usb-connectors_korean-hroparts-elec-type-c-31-m-12_C165948.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2205251630_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-30\u2103~+80\u2103"
+        },
+        {
+          "name": "Number of Ports",
+          "value": "1"
+        },
+        {
+          "name": "Length",
+          "value": "7.35mm"
+        },
+        {
+          "name": "Current Rating-Power",
+          "value": "5A"
+        },
+        {
+          "name": "Voltage Rating",
+          "value": "20V"
+        },
+        {
+          "name": "Connector Type",
+          "value": "Type-C"
+        },
+        {
+          "name": "Number of Contacts",
+          "value": "16P"
+        },
+        {
+          "name": "Gender",
+          "value": "Female"
+        },
+        {
+          "name": "Connect-Disconnect Life",
+          "value": "10,000 cycles"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Surface Mount, Right Angle"
+        }
+      ]
+    }
+  ]
+}

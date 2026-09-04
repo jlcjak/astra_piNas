@@ -1,0 +1,253 @@
+MDA Series
+SMD Low Profile High Current Molded Inductor
+Size 7050                     FEATURES
+                                                   ■   Shielded construc�on
+                                                   ■   Capable of corresponding high frequency .
+                                                   ■   Low loss realized with low DCR.
+                                                   ■   High performance (Isat) realized by metal dust core.
+                                                   ■
+                                                       Ultra low buzz noise, due to composite construc�on.
+                                                   ■
+                                                       100% Lead(Pb)-Free and RoHS compliant.
+                                                   ■
+                                                       AEC-Q200 qualiﬁed
+                                                   ■   Opera�ng temperature: -55 to +155 °C (including self-temperature rise)
+                                                   ■   Quan�ty: 800PCS
+
+                                                  APPLICATION
+                                                   ■
+                                                       Headlamps, tail lamps and interior ligh�ng
+                                                   ■
+                                                       HVAC
+                                                   ■
+                                                       Doors, window li� and seat control
+                                                   ■
+                                                       Audio subsystem
+                                                   ■
+                                                       Digital instrument cluster
+                                                   ■
+                                                       In-Vehicle Infotainment and naviga�on
+
+
+Dimensions: [mm]                                                                                    Land Pattern: [mm]
+
+                  7.3±0.3             4.8±0.2                                1.6±0.3
+                                                                                                                8.0
+
+
+
+
+      6.6±0.3     Marking                                                                                                       3.4
+
+
+
+                                                               3.0±0.2                                          3.5
+
+
+
+
+Electrical Properties:
+
+                                                  Temperature            Temperature    Satura�on   Satura�on      DC                DC
+                      Inductance                                                                                Resistance        Resistance
+                     @ 100KHz/1V      Tolerance   Rise Current           Rise Current    Current     Current
+      Part No                                         Typ.                   Max.          Typ.       Max.         Typ.             Max.
+                         (μH)                                                                                     (mΩ)              (mΩ)
+                                                       (A)                    (A)           (A)        (A)
+
+  MDA7050-1R0M              1.00           ±20%         17.0                15.0          16.0        13.0            5.60            6.20
+  MDA7050-1R5M              1.50           ±20%         15.0                13.0          13.0        10.5            6.60            7.30
+  MDA7050-2R2M              2.20           ±20%         14.0                12.0          10.0         8.5            10.0            11.5
+  MDA7050-3R3M              3.30           ±20%         13.0                11.0           9.5         8.0            14.0            16.2
+  MDA7050-4R7M              4.70           ±20%         11.0                 9.5           8.8         7.5            20.8            24.0
+  MDA7050-5R6M              5.60           ±20%         10.0                 8.5           8.0         7.2            28.0            33.0
+  MDA7050-6R8M              6.80           ±20%         9.0                  8.0           7.6         7.0            30.0            36.0
+  MDA7050-8R2M              8.20           ±20%         7.5                  6.5           6.5         6.0            38.5            45.0
+ MDA7050-100M               10.0           ±20%          7.0                 6.0          6.0          5.7            44.0            53.0
+ MDA7050-150M               15.0           ±20%          5.0                 4.0          4.0          3.2            73.0            85.0
+
+
+
+
+KOHER Electronic                                                                                                                             A1
+4546 BATES DRIVE, YORBLINDA CA 92886 USA
+714-325-4789 Contact@kohergroup.com
+                                                                                                                             www.kohergroup.com
+                                                                                                         Temperature          Temperature                        Satura�on                     Satura�on               DC                               DC
+                                       Inductance                                                                                                                                                                   Resistance                       Resistance
+                                      @ 100KHz/1V        Tolerance                                       Rise Current         Rise Current                        Current                       Current
+          Part No                                                                                            Typ.                 Max.                              Typ.                         Max.                  Typ.                            Max.
+                                          (μH)                                                                                                                                                                        (mΩ)                             (mΩ)
+                                                                                                              (A)                  (A)                               (A)                          (A)
+
+  MDA7050-220M                              22.0               ±20%                                          4.2                   3.6                                  3.6                         3.1                122                              142
+  MDA7050-330M                              33.0               ±20%                                          3.0                   2.5                                  2.3                         1.8                142                              170
+  MDA7050-470M                              47.0               ±20%                                          2.6                   2.0                                  1.8                         1.5                275                              320
+
+Saturation Current will cause L to drop approximately 30%
+Temperature Rise Current: The actual value of DC current when the temperature rise is △T=40°C
+
+Typical Electrical Characteristics:
+                                    MDA7050-1R0M                                                                   MDA7050-1R5M                                                                     MDA7050-2R2M
+
+                        1.25                              100                                    2.0                                        100                                       3.0                                       100
+
+
+                        1.00                              80                                     1.6                                        80                                        2.4                                       80
+
+
+
+
+      INDUCTANCE (uH)                                          TEMP. RISE(℃)   INDUCTANCE (uH)                                                   TEMP. RISE(℃)     INDUCTANCE (uH)                                                   TEMP. RISE(℃)
+                        0.75                              60                                     1.2                                        60                                        1.8                                       60
+
+
+
+                        0.50                              40                                     0.8                                        40                                        1.2                                       40
+
+
+
+                        0.25                              20                                     0.4                                        20                                        0.6                                       20
+
+
+
+                        0.00                               0                                     0.0                                        0                                         0.0                                       0
+                            0   5     10      15    20   25                                         0        4        8      12    16     20                                            0.0   3.5     7.0    10.5     14.0   17.5
+                                    DC CURRENT(A)                                                                  DC CURRENT(A)                                                                    DC CURRENT(A)
+
+
+
+
+                                    MDA7050-3R3M                                                                   MDA7050-4R7M                                                                     MDA7050-5R6M
+
+                         4.0                              100                                    6.0                                        100                                       8.0                                       100
+
+
+                         3.2                              80                                     4.8                                        80                                        6.4                                       80
+
+
+
+
+      INDUCTANCE (uH)                                          TEMP. RISE(℃)   INDUCTANCE (uH)                                                   TEMP. RISE(℃)     INDUCTANCE (uH)                                                   TEMP. RISE(℃)
+                         2.4                              60                                     3.6                                        60                                        4.8                                       60
+
+
+
+                         1.6                              40                                     2.4                                        40                                        3.2                                       40
+
+
+
+                         0.8                              20                                     1.2                                        20                                        1.6                                       20
+
+
+
+                         0.0                               0                                     0.0                                         0                                        0.0                                       0
+                            0   3      6      9     12   15                                        0.0      2.5      5.0     7.5   10.0   12.5                                          0.0   2.5     5.0     7.5     10.0   12.5
+                                    DC CURRENT(A)                                                                  DC CURRENT(A)                                                                    DC CURRENT(A)
+
+
+
+
+                                    MDA7050-6R8M                                                                   MDA7050-8R2M                                                                     MDA7050-100M
+                         9.0                              100                                    10                                         100                                      12.5                                      100
+
+
+                         7.2                              80                                      8                                         80                                       10.0                                      80
+
+
+
+
+      INDUCTANCE (uH)                                          TEMP. RISE(℃)   INDUCTANCE (uH)                                                                     INDUCTANCE (uH)
+                         5.4                              60
+
+
+
+                                                                                                                                                 TEMP. RISE(℃)                                                                       TEMP. RISE(℃)
+                                                                                                  6                                         60                                        7.5                                      60
+
+
+
+                         3.6                              40                                      4                                         40                                        5.0                                      40
+
+
+
+                         1.8                              20                                      2                                         20                                        2.5                                      20
+
+
+
+                         0.0                               0                                      0                                         0                                         0.0                                       0
+                            0   2      4      6     8    10                                        0         2        4      6      8     10                                             0    2        4      6        8      10
+                                    DC CURRENT(A)                                                                  DC CURRENT(A)                                                                    DC CURRENT(A)
+
+
+
+
+KOHER Electronic                                                                                                                                                                                                                                              A1
+4546 BATES DRIVE, YORBLINDA CA 92886 USA
+714-325-4789 Contact@kohergroup.com
+                                                                                                                                                                                                                             www.kohergroup.com
+                                        MDA7050-150M                                                              MDA7050-220M                                                                 MDA7050-330M
+
+                          20                                     100                                    30                                100                                    40                                     100
+
+
+                          16                                     80                                     24                                80                                     32                                     80
+
+
+
+
+        INDUCTANCE (uH)                                               TEMP. RISE(℃)   INDUCTANCE (uH)                                          TEMP. RISE(℃)   INDUCTANCE (uH)                                               TEMP. RISE(℃)
+                          12                                     60                                     18                                60                                     24                                     60
+
+
+
+                           8                                     40                                     12                                40                                     16                                     40
+
+
+
+                           4                                     20                                      6                                20                                      8                                     20
+
+
+
+                           0                                      0                                      0                                0                                      0                                       0
+                           0.0   1.5      3.0     4.5   6.0    7.5                                        0   1      2      3     4   5                                          0.00   0.75    1.50    2.25   3.00   3.75
+                                        DC CURRENT(A)                                                             DC CURRENT(A)                                                                DC CURRENT(A)
+
+
+
+
+                                        MDA7050-470M
+
+                          60                                     45
+
+
+                          48                                     36
+
+
+
+
+        INDUCTANCE (uH)                                               TEMP. RISE(℃)
+                          36                                     27
+
+
+
+                          24                                     18
+
+
+
+                          12                                     9
+
+
+
+                          0                                       0
+                          0.00   0.52    1.04    1.56   2.08   2.60
+                                        DC CURRENT(A)
+
+
+
+
+KOHER Electronic                                                                                                                                                                                                                             A1
+4546 BATES DRIVE, YORBLINDA CA 92886 USA
+714-325-4789 Contact@kohergroup.com
+                                                                                                                                                                                                                  www.kohergroup.com
+

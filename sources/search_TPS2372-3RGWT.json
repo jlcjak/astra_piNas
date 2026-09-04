@@ -1,0 +1,85 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C2863330",
+      "name": "TI TPS2372-3RGWT",
+      "model": "TPS2372-3RGWT",
+      "brand": "Texas Instruments",
+      "package": "VQFN-20-EP(5x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 168,
+      "type": "Extended",
+      "price": 3.4846,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.4846
+        },
+        {
+          "qty": 10,
+          "price": 3.1159
+        },
+        {
+          "qty": 30,
+          "price": 2.929
+        },
+        {
+          "qty": 250,
+          "price": 2.6772
+        },
+        {
+          "qty": 500,
+          "price": 2.5863
+        },
+        {
+          "qty": 1000,
+          "price": 2.5473
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 250,
+      "description": "-40\u2103~+125\u2103 1.85A 100V 60W IEEE 802.3 bt(PoE++) PGOOD\u72b6\u6001\u6307\u793a\u3001PD\u68c0\u6d4b\u4e0e\u65ad\u5f00\u8bc6\u522b\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection Powered Device (PD) VQFN-20-EP(5x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps2372-3rgwt_C2863330.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010800_Texas-Instruments-TPS2372-3RGWT_C2863330.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Voltage - Supply (POWER)",
+          "value": "0V~57V"
+        },
+        {
+          "name": "Power - Max",
+          "value": "60W"
+        },
+        {
+          "name": "limiting current",
+          "value": "1.85A"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD status indication\u3001PD detection and disconnect identification\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+(sym_lib_table (version 7) (lib (name "astra_piNas") (type "KiCad") (uri "${KIPRJMOD}/lib/design.kicad_sym") (options "") (descr "Self-contained validated and provisional design symbols")))

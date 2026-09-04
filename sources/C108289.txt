@@ -1,0 +1,659 @@
+                               Cautions and Warnings
+
+
+
+
+Please be noted that this spec is only for reference if you have projects
+
+designed with the product number listed in. If you are looking for new
+
+project design-in, please find BDCD Series specification/datasheet on
+
+Chilisin website. Or you may find our sales contact for more information on
+
+old part number at your convenience. Appreciated your attention and
+
+understanding.
+
+
+
+
+Note: Please be sure to request approval specifications that provide further details of the products.
+Kindly note that the content of these specifications are subject to change or may be discontinued
+without prior notice. This product may not be designed/used in medical or high risk applications
+without Chilisin approval. Please contact our sales department before ordering.
+ Molding Power Inductors – MHCD Series
+
+
+MHCD Series
+
+
+
+
+                                                          MHCD Series provides high current in compact package size with
+                                                          magnetically shielded construction. This power
+                                                          inductor is an excellent power solution for space-limited devices.
+
+
+
+
+Features                                                  Applications
+ RoHS, Halogen Free and REACH Compliance                  Smartphones, tablets and wearable devices
+ Monolithic, magnetically shielded                        HDD, SSD and PC peripheral devices
+ Capable for large current                                DSC, camcoders
+                                                           PND
+                                                           DC/DC converters
+
+
+
+Product Identification
+
+
+
+
+Shape and Dimensions                                      Recommended Pattern
+
+
+
+
+Dimensions in mm                                          Dimensions in mm
+    TYPE             A         B            C     D            TYPE               A                B                C
+    201610         2.0±0.2   1.6±0.2   1.0Max   0.5±0.3        201610            0.7              2.3              1.8
+    201612         2.0±0.2   1.6±0.2   1.2Max   0.5±0.3        201612            0.7              2.3              1.8
+    252010         2.5±0.2   2.0±0.2   1.0Max   0.6±0.3        252010            1.2              2.8              2.3
+    252012         2.5±0.2   2.0±0.2   1.2Max   0.6±0.3        252012            1.2              2.8              2.3
+    322510         3.2±0.3   2.5±0.3   1.0Max   0.5±0.3        322510            1.7              3.5              2.8
+    322512         3.2±0.3   2.5±0.3   1.2Max   0.5±0.3        322512            1.7              3.5              2.8
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                         Test
+                                                            Inductance             Tolerance                                      RDC(mΩ)                    Isat(A)                      Irms(A)
+                         Part Number                                                                   Frequency
+                                                               (uH)                     (±%)                                      Max(Typ.)              Max(Typ.)                    Max(Typ.)
+                                                                                                         (MHz)
+
+        MHCD201610A-R24M-A8S                                   0.24                      20               2                        40(28)                    4.2(6.0)                     4.0(4.5)
+        MHCD201610A-R33M-A8S                                   0.33                      20               2                        48(40)                    4.0(5.5)                     3.5(3.8)
+        MHCD201610A-R47M-A8S                                   0.47                      20               2                        54(44)                    3.2(5.0)                     3.0(3.6)
+        MHCD201610A-R56M-A8S                                   0.56                      20               2                        59(46)                    2.8(4.6)                     2.8(3.3)
+        MHCD201610A-R68M-A8S                                   0.68                      20               2                        72(55)                    2.7(4.2)                     2.4(3.0)
+        MHCD201610A-1R0M-A8S                                   1.0                       20               2                        96(81)                    2.2(3.4)                     2.0(2.3)
+        MHCD201610A-1R5M-A8S                                   1.5                       20               2                       150(122)                   2.1(2.8)                     1.6(2.0)
+        MHCD201610A-2R2M-A8S                                   2.2                       20               2                       204(170)                   2.0(2.4)                     1.3(1.6)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                             Inductance v.s DC Current                                                        Tem perature Change v.s DC Current
+                   2.5
+                                                                                                              140                            2R2
+
+
+                   2.0                                                                                        120
+                                                                                                                                                   1R5 1R0          R68
+
+                                                                                                              100                                                         R47
+                   1.5
+
+           L(uH)
+                                                                                                                                                                              R33
+
+                                                                                                        ΔT℃
+                                                     2R2                                                                                                                                  R24
+                                                                                                              80
+                                                                                                                                                                  R56
+                                                     1R5
+                   1.0                                                                                        60
+
+                                                        1R0
+                                                                                                              40
+                   0.5                                        R68    R56
+                                                                      R47                                     20
+                                                                                        R33   R24
+
+                   0.0                                                                                         0
+                         0   0.5 1   1.5 2    2.5   3 3.5   4 4.5   5 5.5   6   6.5 7    7.5 8   8.5                0   0.5   1    1.5   2   2.5   3   3.5    4     4.5   5     5.5   6     6.5   7
+
+                                                    DC Current(A)                                                                             DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                Test
+                                                 Inductance           Tolerance                                           RDC(mΩ)                           Isat(A)                      Irms(A)
+                         Part Number                                                        Frequency
+                                                       (uH)              (±%)                                             Max(Typ.)                       Max(Typ.)                     Max(Typ.)
+                                                                                               (MHz)
+
+         MHCD201610B-R24M-A8L                          0.24               20                      2                            30(23)                      5.0(6.0)                      3.8(4.4)
+         MHCD201610B-R47M-A8L                          0.47               20                      2                            41(34)                      4.0(4.5)                      2.9(3.3)
+         MHCD201610B-R68M-A8L                          0.68               20                      2                            53(44)                      3.3(3.6)                      2.5(2.9)
+         MHCD201610B-1R0M-A8L                          1.0                20                      2                            72(60)                      2.8(3.2)                      2.2(2.5)
+         MHCD201610B-2R2M-A8L                          2.2                20                      2                       170(142)                         1.8(2.1)                      1.5(1.7)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                      Inductance v.s DC Current
+                   2.5                                                                                                  Tem perature Change v.s DC Current
+                                                                                                     80
+
+
+                   2.0
+                                                                                                                                                                  R47
+                                                                                                     60
+                                                                                                                                                1R0
+                                         2R2                                                                                    2R2                   R68                     R24
+
+           L(uH)
+                   1.5
+
+
+                                                                                               ΔT℃   40
+                   1.0
+
+                                                 1R0
+
+                   0.5                             R68                                               20
+                                                              R47
+                                                                               R24
+
+                   0.0
+                         0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 9                      0
+                                                                                                          0   0.5   1    1.5    2     2.5   3   3.5   4     4.5   5     5.5   6   6.5   7   7.5   8
+                                            DC Current(A)
+                                                                                                                                            DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                                      Test
+                                                                 Inductance                  Tolerance                                         RDC(mΩ)                         Isat(A)                      Irms(A)
+                         Part Number                                                                               Frequency
+                                                                    (uH)                       (±%)                                            Max(Typ.)                      Max(Typ.)                    Max(Typ.)
+                                                                                                                     (MHz)
+
+        MHCD201612A-R24M-A8S                                        0.24                           20                 2                          35(25)                        5.5(6.5)                     4.2(4.8)
+        MHCD201612A-R47M-A8S                                        0.47                           20                 2                          52(40)                        3.8(5.1)                     3.2(3.8)
+        MHCD201612A-R68M-A8S                                        0.68                           20                 2                          70(53)                        3.3(4.8)                     2.6(3.2)
+        MHCD201612A-1R0M-A8S                                           1.0                         20                 2                          82(67)                        3.1(3.9)                     2.3(2.7)
+        MHCD201612A-1R5M-A8S                                           1.5                         20                 2                         120(95)                        2.6(3.2)                     2.2(2.6)
+        MHCD201612A-2R2M-A8S                                           2.2                         20                 2                         195(165)                       2.0(2.6)                     1.3(1.7)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                             Inductance v.s DC Current                                                                        Tem perature Change v.s DC Current
+                   2.5
+                                                                                                                          140                                      1R5                         R47
+
+                   2.0                                                                                                    120
+
+                                                                                                                                                                         1R0
+                                                                                                                          100                            2R2                                               R24
+                   1.5
+
+           L(uH)                                                                                                    ΔT℃
+                                                           2R2                                                            80                                              R68
+
+                   1.0                                     1R5                                                            60
+
+                                                                       1R0                                                40
+                   0.5                                                        R68
+                                                                                                                          20
+                                                                                  R47                    R24
+
+                   0.0                                                                                                     0
+                         0   0.5   1   1.5   2   2.5   3    3.5    4    4.5   5    5.5   6   6.5   7    7.5    8                0   0.5   1    1.5   2   2.5   3   3.5    4    4.5   5   5.5   6     6.5   7   7.5   8
+
+                                                       DC Current(A)                                                                                           DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                Test
+                                                    Inductance        Tolerance                                           RDC(mΩ)                           Isat(A)                     Irms(A)
+                         Part Number                                                        Frequency
+                                                       (uH)               (±%)                                            Max(Typ.)                        Max(Typ.)                   Max(Typ.)
+                                                                                               (MHz)
+
+        MHCD252010A-R24M-A8S                           0.24               20                      2                         40(24)                          7.5(9.5)                    4.5(5.0)
+        MHCD252010A-R47M-A8S                           0.47               20                      2                         46(36)                          5.2(6.5)                    3.1(3.6)
+        MHCD252010A-R68M-A8S                           0.68               20                      2                         65(49)                          3.8(5.0)                    2.9(3.3)
+        MHCD252010A-1R0M-A8S                           1.0                20                      2                         78(60)                          3.4(4.3)                    2.5(3.0)
+        MHCD252010A-1R5M-A8S                           1.5                20                      2                        105(82)                          3.2(4.0)                    2.2(2.9)
+        MHCD252010A-2R2M-A8S                           2.2                20                      2                        156(130)                         2.6(3.2)                    1.4(1.8)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                      Inductance v.s DC Current                                                          Tem perature Change v.s DC Current
+                   2.5                                                                               140
+                                                                                                                                                                                           R24
+                                                                                                                                          2R2         1R5 1R0
+                                                                                                     120
+                   2.0
+                                                                                                                                                             R68
+                                              2R2                                                    100
+                                                                                                                                                                   R47
+                   1.5
+
+           L(uH)                                                                               ΔT℃
+                                                                                                      80
+
+                                                1R5                                                   60
+                   1.0
+                                                         1R0                                          40
+
+                   0.5                                   R68
+                                                                    R47                               20
+                                                                                 R24
+
+                   0.0                                                                                0
+                         0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5                       0   0.5   1    1.5   2   2.5    3    3.5    4    4.5    5   5.5   6   6.5   7    7.5   8
+
+                                              DC Current(A)                                                                               DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                                Test
+                                                            Inductance                    Tolerance                                      RDC(mΩ)                  Isat(A)                  Irms(A)
+                         Part Number                                                                          Frequency
+                                                                  (uH)                        (±%)                                       Max(Typ.)              Max(Typ.)                 Max(Typ.)
+                                                                                                                (MHz)
+
+         MHCD252010B-R33M-A8L                                     0.33                         20                2                        31(25)                  5.0(6.0)                 3.8(4.4)
+         MHCD252010B-R47M-A8L                                     0.47                         20                2                        35(29)                  4.2(4.7)                 3.4(3.9)
+         MHCD252010B-R68M-A8L                                     0.68                         20                2                        48(40)                  3.7(4.0)                 3.0(3.5)
+         MHCD252010B-1R0M-A8L                                     1.0                          20                2                        65(54)                  3.2(3.6)                 2.6(3.0)
+         MHCD252010B-1R5M-A8L                                     1.5                          20                2                        94(78)                  2.9(3.3)                 2.1(2.4)
+         MHCD252010B-2R2M-A8L                                     2.2                          20                2                       120(100)                 2.3(2.7)                 1.8(2.1)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+
+                                             Inductance v.s DC Current                                                              Tem perature Change v.s DC Current
+                   2.5                                                                                               70
+                                                                                                                                                                                             R33
+                                                                                                                     60
+                                                                                                                                                            1R5
+                   2.0                                                                                                                                                   1R0
+                                                                                                                                                      2R2                       R47
+                                                                                                                     50
+                                                           2R2
+
+           L(uH)
+                   1.5
+                                                                                                                     40
+                                                             1R5                                               ΔT℃
+                                                                                                                     30
+                   1.0
+                                                                       1R0
+                                                                                                                     20
+
+                   0.5                                                        R47
+                                                                                                R33
+                                                                                                                     10
+
+
+                   0.0                                                                                               0
+                         0   0.5   1   1.5   2   2.5   3    3.5    4    4.5    5    5.5   6   6.5   7   7.5               0   0.5    1     1.5   2    2.5   3      3.5   4     4.5    5    5.5     6
+
+                                                   DC Current(A)                                                                                     DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                 Test
+                                                Inductance            Tolerance                                          RDC(mΩ)                 Isat(A)                   Irms(A)
+                         Part Number                                                         Frequency
+                                                      (uH)                (±%)                                           Max(Typ.)           Max(Typ.)                    Max(Typ.)
+                                                                                               (MHz)
+
+        MHCD252012A-R33M-A8S                          0.33                 20                        2                       35(27)              6.8(8.5)                  4.0(4.6)
+        MHCD252012A-R47M-A8S                          0.47                 20                        2                       39(29)              6.2(7.8)                  3.7(4.4)
+        MHCD252012A-R68M-A8S                          0.68                 20                        2                       46(40)              5.5(6.5)                  3.3(3.7)
+        MHCD252012A-1R0M-A8S                          1.0                  20                        2                       59(45)              4.0(5.0)                  3.0(3.5)
+        MHCD252012A-1R5M-A8S                          1.5                  20                        2                       70(62)              3.4(4.0)                  2.5(2.7)
+        MHCD252012A-2R2M-A8S                          2.2                  20                        2                   115(102)                3.3(3.8)                  2.0(2.3)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+
+                                      Inductance v.s DC Current                                                         Tem perature Change v.s DC Current
+                   2.5                                                                                   70
+                                                                                                                                                 2R2
+                                                                                                         60
+                                                                                                                                                                   1R0
+                   2.0
+                                                                                                                                                       1R5                       R33
+                                                                                                         50                                                         R68
+                                                2R2                                                                                                                 R47
+
+           L(uH)
+                                                                                               ΔT( ℃ )
+                   1.5
+                                                                                                         40
+                                                1R5
+                   1.0                                                                                   30
+                                                        1R0
+                                                              R68                                        20
+                   0.5                                                   R47
+                                                                                   R33
+                                                                                                         10
+
+                   0.0                                                                                   0
+                         0   1    2      3      4       5      6     7         8         9                    0   0.5    1      1.5    2   2.5         3     3.5    4      4.5         5
+
+                                             DC Current(A)                                                                            DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                 Test
+                                                   Inductance           Tolerance                                   RDC(mΩ)                     Isat(A)               Irms(A)
+                         Part Number                                                        Frequency
+                                                       (uH)               (±%)                                      Max(Typ.)                  Max(Typ.)             Max(Typ.)
+                                                                                               (MHz)
+
+         MHCD252012B-R47M-A8L                          0.47                20                        2                  34(30)                  5.2(6.0)              4.1(4.7)
+         MHCD252012B-1R0M-A8L                          1.0                 20                        2                  56(45)                  3.6(4.5)              3.2(3.7)
+         MHCD252012B-2R2M-A8L                          2.2                 20                        2                  102(80)                 2.5(3.0)              2.2(2.6)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                       Inductance v.s DC Current                                                  Tem perature Change v.s DC Current
+                   3.0                                                                                   70
+                                                                                                                                                           1R0
+                                                                                                         60
+                   2.5
+                                                                                                                                         2R2                            R47
+                                                                                                         50
+                   2.0
+
+
+           L(uH)
+                                                                                               ΔT( ℃ )
+                                                                                                         40
+                                                 2R2
+                   1.5
+                                                                                                         30
+
+                   1.0
+                                                                                                         20
+                                                              1R0
+
+                   0.5                                                                                   10
+                                                                           R47
+
+                                                                                                         0
+                   0.0
+                         0    1        2     3         4       5    6       7       8                         0     1            2         3           4         5            6
+
+                                           DC Current(A)                                                                             DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                Test
+                                                  Inductance              Tolerance                                  RDC(mΩ)                    Isat(A)             Irms(A)
+                         Part Number                                                       Frequency
+                                                     (uH)                   (±%)                                      Max(Typ.)                Max(Typ.)           Max(Typ.)
+                                                                                              (MHz)
+
+        MHCD322510A-R47M-A8S                         0.47                    20                     2                    37(30)                 5.8(6.6)            3.6(4.2)
+
+        MHCD322510A-1R0M-A8S                         1.0                     20                     2                    56(49)                 4.0(4.6)            3.0(3.3)
+
+        MHCD322510A-1R5M-A8S                         1.5                     20                     2                    75(66)                 3.4(4.0)            2.6(3.0)
+
+        MHCD322510A-2R2M-A8S                         2.2                     20                     2                    108(95)                2.7(3.2)            2.2(2.5)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                       Inductance v.s DC Current
+                   2.5                                                                                            Tem perature Change v.s DC Current
+                                                                                                         70
+                                                                                                                                        2R2
+                   2.0                                                                                   60
+                                                                                                                                                1R5
+                                                                                                                                                   1R0       R47
+
+           L(uH)
+                                                                                                         50
+                   1.5                                2R2
+
+
+
+                                                                                               ΔT( ℃ )
+                                                                                                         40
+                                                          1R5
+                   1.0
+                                                                                                         30
+                                                                1R0
+
+                   0.5                                                                                   20
+                                                                               R47
+                                                                                                         10
+                   0.0
+                         0     1        2     3       4         5     6        7      8                  0
+                                                                                                              0      1            2        3             4    5           6
+                                              DC Current(A)
+                                                                                                                                      DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+           Molding Power Inductors – MHCD Series
+
+       Electrical Characteristics
+                                                                                                    Test
+                                                  Inductance                Tolerance                                     RDC(mΩ)                  Isat(A)                    Irms(A)
+                         Part Number                                                             Frequency
+                                                     (uH)                     (±%)                                        Max(Typ.)               Max(Typ.)                  Max(Typ.)
+                                                                                                   (MHz)
+
+        MHCD322512A-R47M-A8S                               0.47                   20                    2                  27(21)                  8.0(9.0)                      5.0(5.8)
+
+        MHCD322512A-R68M-A8S                               0.68                   20                    2                  34(26)                  6.3(7.5)                      4.0(4.6)
+
+        MHCD322512A-1R0M-A8S                               1.0                    20                    2                  42(34)                  5.8(6.3)                      3.8(4.2)
+
+        MHCD322512A-1R5M-A8S                               1.5                    20                    2                  68(58)                  4.0(4.5)                      2.8(3.2)
+
+        MHCD322512A-2R2M-A8S                               2.2                    20                    2                  85(75)                  3.6(4.0)                      2.4(2.7)
+       Note: When ordering, please specify tolerance code. Tolerance: M=±20%
+             Operating temperature range－40℃～125℃(Including self - temperature rise)
+             Isat for Inductance drop 30% from its value without current
+             Irms for a 40℃ temperature rise from 25℃ ambient with current
+             Absolute maximum voltage 25VDC
+             Measure Equipment：
+               L：Agilent E4991/HP4286A+16197A (or equivalent), 2MHz 0.2V
+               RDC：CHEN HWA502BC/HP4338B (or equivalent)
+               Isat：Agilent E4980A+HP42841A (or equivalent)
+               Irms：Agilent 6641 SYSTEM DC POWER SUPPLY (or equivalent)
+
+       Test Instruments：E4991A Impedance / Material Analyzer
+                                     Inductance v.s DC Current                                                        Tem perature Change v.s DC Current
+                   3.0                                                                                       70
+                                                                                                                                      2R2                    R68
+                                                                                                             60                             1R5
+                   2.5                                                                                                                                                 R47
+                                                                                                                                                   1R0
+                                                                                                             50
+                   2.0
+
+
+           L(uH)
+                                                                                                   ΔT( ℃ )
+                                                                                                             40
+                                                 2R2
+                   1.5
+                                                                                                             30
+                                                       1R5
+                   1.0
+                                                                                                             20
+                                                                  1R0
+                                                                        R68
+                   0.5                                                                                       10
+                                                                                  R47
+
+                                                                                                             0
+                   0.0
+                         0   1   2      3    4         5     6      7   8     9        10   11                    0   1      2        3      4           5         6         7         8
+
+                                            DC Current(A)                                                                           DC Current(A)
+
+
+
+
+Please be sure to request approval specifications that provide further details of the products. Kindly note that the content of these
+specifications are subject to change or may be discontinued without prior notice. This product may not be designed/used in
+medical or high risk applications without Chilisin approval. Please contact our sales department before ordering.
+ Molding Power Inductors – MHCD Series
+
+
+Packaging Specifications
+
+                          Tape Dimensions                                        Tape Material
+
+
+
+
+                          Reel Dimensions
+
+
+
+
+Dimensions in mm
+
+                                            Tape Dimensions                        Reel Dimensions          Quantity
+    TYPE
+                    A         B        T       W        P     F      K     A       B        C        D     PCS / REEL
+
+    201610         1.80      2.20    0.22       8       4     3.5   1.15   178    60       12        1.5     3000
+    201612         1.80      2.20    0.22       8       4     3.5   1.15   178    60       12        1.5     3000
+
+    252010         2.25      2.80    0.22       8       4     3.5   1.15   178    60       12        1.5     3000
+
+    252012         2.25      2.80    0.22       8       4     3.5   1.35   178    60       12        1.5     3000
+
+    322510         2.80      3.55    0.23       8       4     3.5   1.20   178    60       12        1.5     3000
+
+    322512         2.80      3.50    0.23       8       4     3.5   1.34   178    60       12        1.5     3000
+

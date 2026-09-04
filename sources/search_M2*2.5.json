@@ -1,0 +1,1005 @@
+{
+  "total": 99,
+  "results": [
+    {
+      "lcsc": "C395868",
+      "name": "DORABO DB128L-5.08-2P-GN-S",
+      "model": "DB128L-5.08-2P-GN-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 49623,
+      "type": "Extended",
+      "price": 0.1986,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1986
+        },
+        {
+          "qty": 50,
+          "price": 0.1609
+        },
+        {
+          "qty": 150,
+          "price": 0.1448
+        },
+        {
+          "qty": 500,
+          "price": 0.1063
+        },
+        {
+          "qty": 2500,
+          "price": 0.0974
+        },
+        {
+          "qty": 5000,
+          "price": 0.092
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 500,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x2P 2 2.5 2P 300V 5.08mm Green M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-2p-gn-s_C395868.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-2P-GN-S_C395868.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x2P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "2P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C395869",
+      "name": "DORABO DB128L-5.08-3P-GN-S",
+      "model": "DB128L-5.08-3P-GN-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 29980,
+      "type": "Extended",
+      "price": 0.2905,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2905
+        },
+        {
+          "qty": 50,
+          "price": 0.2315
+        },
+        {
+          "qty": 200,
+          "price": 0.2064
+        },
+        {
+          "qty": 400,
+          "price": 0.1748
+        },
+        {
+          "qty": 2400,
+          "price": 0.1584
+        },
+        {
+          "qty": 5000,
+          "price": 0.15
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 200,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x3P 2.5 3 300V 3P 5.08mm Green M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-3p-gn-s_C395869.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-3P-GN-S_C395869.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x3P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "3P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "lcsc": "C430600",
+      "name": "DORABO DB128L-5.08-2P-GN-P",
+      "model": "DB128L-5.08-2P-GN-P",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 414,
+      "type": "Extended",
+      "price": 0.1748,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1748
+        },
+        {
+          "qty": 50,
+          "price": 0.1355
+        },
+        {
+          "qty": 150,
+          "price": 0.1186
+        },
+        {
+          "qty": 500,
+          "price": 0.0977
+        },
+        {
+          "qty": 2500,
+          "price": 0.0883
+        },
+        {
+          "qty": 5000,
+          "price": 0.0827
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 500,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x2P 2 2.5 2P 300V 5.08mm Green M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-2p-gn-p_C430600.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-2P-GN-P_C430600.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x2P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "2P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C430601",
+      "name": "DORABO DB128L-5.08-2P-BK-S",
+      "model": "DB128L-5.08-2P-BK-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 33297,
+      "type": "Extended",
+      "price": 0.2039,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2039
+        },
+        {
+          "qty": 50,
+          "price": 0.163
+        },
+        {
+          "qty": 150,
+          "price": 0.1454
+        },
+        {
+          "qty": 500,
+          "price": 0.1055
+        },
+        {
+          "qty": 2500,
+          "price": 0.0957
+        },
+        {
+          "qty": 5000,
+          "price": 0.0899
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 500,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x2P 2 2.5 2P 300V 5.08mm Black M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-2p-bk-s_C430601.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-2P-BK-S_C430601.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x2P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "2P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C430602",
+      "name": "DORABO DB128L-5.08-3P-BK-S",
+      "model": "DB128L-5.08-3P-BK-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 45817,
+      "type": "Extended",
+      "price": 0.3276,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.3276
+        },
+        {
+          "qty": 50,
+          "price": 0.2661
+        },
+        {
+          "qty": 200,
+          "price": 0.2398
+        },
+        {
+          "qty": 400,
+          "price": 0.207
+        },
+        {
+          "qty": 2400,
+          "price": 0.1651
+        },
+        {
+          "qty": 5000,
+          "price": 0.1563
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 200,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x3P 2.5 3 300V 3P 5.08mm Black M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-3p-bk-s_C430602.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-3P-BK-S_C430602.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x3P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "3P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "lcsc": "C430603",
+      "name": "DORABO DB128L-5.08-2P-OG-S",
+      "model": "DB128L-5.08-2P-OG-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 4410,
+      "type": "Extended",
+      "price": 0.2179,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2179
+        },
+        {
+          "qty": 50,
+          "price": 0.1769
+        },
+        {
+          "qty": 150,
+          "price": 0.1594
+        },
+        {
+          "qty": 500,
+          "price": 0.1209
+        },
+        {
+          "qty": 2500,
+          "price": 0.1112
+        },
+        {
+          "qty": 5000,
+          "price": 0.1053
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 500,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x2P 2 2.5 2P 300V 5.08mm M2 Orange Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-2p-og-s_C430603.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-2P-OG-S_C430603.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x2P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Orange"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "2P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C430604",
+      "name": "DORABO DB128L-5.08-3P-OG-S",
+      "model": "DB128L-5.08-3P-OG-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 3867,
+      "type": "Extended",
+      "price": 0.3048,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.3048
+        },
+        {
+          "qty": 50,
+          "price": 0.2434
+        },
+        {
+          "qty": 200,
+          "price": 0.2171
+        },
+        {
+          "qty": 400,
+          "price": 0.1843
+        },
+        {
+          "qty": 2400,
+          "price": 0.1544
+        },
+        {
+          "qty": 5000,
+          "price": 0.1456
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 200,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x3P 2.5 3 300V 3P 5.08mm M2 Orange Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-3p-og-s_C430604.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-3P-OG-S_C430604.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x3P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Orange"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "3P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "lcsc": "C430608",
+      "name": "DORABO DB128L-5.08-12P-GN-S",
+      "model": "DB128L-5.08-12P-GN-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 957,
+      "type": "Extended",
+      "price": 1.0868,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.0868
+        },
+        {
+          "qty": 10,
+          "price": 0.8838
+        },
+        {
+          "qty": 30,
+          "price": 0.7831
+        },
+        {
+          "qty": 100,
+          "price": 0.6466
+        },
+        {
+          "qty": 500,
+          "price": 0.5865
+        },
+        {
+          "qty": 1000,
+          "price": 0.5556
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 100,
+      "description": "-40\u2103~+105\u2103 1 12 12P 12~22 14.1mm 16A 1x12P 2.5 300V 5.08mm Green M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-12p-gn-s_C430608.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-12P-GN-S_C430608.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x12P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "12P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "lcsc": "C500021",
+      "name": "DORABO DB128L-5.08-2P-GY-S",
+      "model": "DB128L-5.08-2P-GY-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 1032,
+      "type": "Extended",
+      "price": 0.2093,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2093
+        },
+        {
+          "qty": 50,
+          "price": 0.1684
+        },
+        {
+          "qty": 150,
+          "price": 0.1508
+        },
+        {
+          "qty": 500,
+          "price": 0.1225
+        },
+        {
+          "qty": 2500,
+          "price": 0.1128
+        },
+        {
+          "qty": 5000,
+          "price": 0.1069
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 500,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x2P 2 2.5 2P 300V 5.08mm Gray M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-2p-gy-s_C500021.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-2P-GY-S_C500021.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x2P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Gray"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "2P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C500022",
+      "name": "DORABO DB128L-5.08-3P-GY-S",
+      "model": "DB128L-5.08-3P-GY-S",
+      "brand": "DORABO",
+      "package": "Plugin,P=5.08mm",
+      "category": "Screw Terminal Blocks",
+      "stock": 729,
+      "type": "Extended",
+      "price": 0.1438,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1438
+        },
+        {
+          "qty": 50,
+          "price": 0.1404
+        },
+        {
+          "qty": 200,
+          "price": 0.138
+        },
+        {
+          "qty": 400,
+          "price": 0.1357
+        },
+        {
+          "qty": 410,
+          "price": 0.1357
+        },
+        {
+          "qty": 420,
+          "price": 0.1357
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 200,
+      "description": "-40\u2103~+105\u2103 1 12~22 14.1mm 16A 1x3P 2.5 3 300V 3P 5.08mm Gray M2 Through Hole Plugin,P=5.08mm Screw Terminal Blocks ROHS",
+      "url": "https://www.lcsc.com/product-detail/screw-terminal-blocks_dorabo-db128l-5-08-3p-gy-s_C500022.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2301061509_DORABO-DB128L-5-08-3P-GY-S_C500022.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Number of Positions or Pins",
+          "value": "1x3P"
+        },
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "300V"
+        },
+        {
+          "name": "Number of Rows",
+          "value": "1"
+        },
+        {
+          "name": "Color",
+          "value": "Gray"
+        },
+        {
+          "name": "Current Rating",
+          "value": "16A"
+        },
+        {
+          "name": "Wire Gauge - AWG",
+          "value": "12~22"
+        },
+        {
+          "name": "Wire Gauge - mm2",
+          "value": "2.5"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "14.1mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Through Hole"
+        },
+        {
+          "name": "Screw Specification",
+          "value": "M2"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "3P"
+        },
+        {
+          "name": "Pitch",
+          "value": "5.08mm"
+        },
+        {
+          "name": "Number of PINs Per Row",
+          "value": "3"
+        }
+      ]
+    }
+  ]
+}

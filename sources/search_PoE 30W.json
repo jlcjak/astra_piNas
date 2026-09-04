@@ -1,0 +1,1377 @@
+{
+  "total": 29,
+  "results": [
+    {
+      "lcsc": "C181651",
+      "name": "TI TPS23754PWPR",
+      "model": "TPS23754PWPR",
+      "brand": "Texas Instruments",
+      "package": "HTSSOP-20-EP",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 18175,
+      "type": "Extended",
+      "price": 1.8536,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.8536
+        },
+        {
+          "qty": 10,
+          "price": 1.571
+        },
+        {
+          "qty": 30,
+          "price": 1.3955
+        },
+        {
+          "qty": 100,
+          "price": 1.2152
+        },
+        {
+          "qty": 500,
+          "price": 1.0267
+        },
+        {
+          "qty": 1000,
+          "price": 0.9926
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "-40\u2103~+125\u2103 100V 30W 5.1V 970mA IEEE 802.3 at(PoE+) Powered Device (PD) HTSSOP-20-EP Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23754pwpr_C181651.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Texas-Instruments-TPS23754PWPR_C181651.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "970mA"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "5.1V"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2863581",
+      "name": "TI TPS23756PWP",
+      "model": "TPS23756PWP",
+      "brand": "Texas Instruments",
+      "package": "HTSSOP-20",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 526,
+      "type": "Extended",
+      "price": 2.1087,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.1087
+        },
+        {
+          "qty": 10,
+          "price": 1.995
+        },
+        {
+          "qty": 30,
+          "price": 1.9267
+        },
+        {
+          "qty": 100,
+          "price": 1.8585
+        },
+        {
+          "qty": 500,
+          "price": 1.8276
+        },
+        {
+          "qty": 1000,
+          "price": 1.813
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 70,
+      "description": "-40\u2103~+125\u2103 1 100V 30W 970mA IEEE 802.3 at(PoE+) Powered Device (PD) HTSSOP-20 Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23756pwp_C2863581.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302220730_Texas-Instruments-TPS23756PWP_C2863581.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "970mA"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2867063",
+      "name": "TI TPS23754PWP",
+      "model": "TPS23754PWP",
+      "brand": "Texas Instruments",
+      "package": "HTSSOP-20",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 150,
+      "type": "Extended",
+      "price": 1.8861,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.8861
+        },
+        {
+          "qty": 10,
+          "price": 1.6002
+        },
+        {
+          "qty": 30,
+          "price": 1.4215
+        },
+        {
+          "qty": 100,
+          "price": 1.2379
+        },
+        {
+          "qty": 500,
+          "price": 1.1551
+        },
+        {
+          "qty": 1000,
+          "price": 1.1193
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 70,
+      "description": "-40\u2103~+125\u2103 1 30W PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection Powered Device (PD) HTSSOP-20 Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23754pwp_C2867063.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302281130_Texas-Instruments-TPS23754PWP_C2867063.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3187562",
+      "name": "MICROCHIP PD69201ILD-TR",
+      "model": "PD69201ILD-TR",
+      "brand": "Microchip Tech",
+      "package": "DFN-10(4x3)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 29,
+      "type": "Extended",
+      "price": 7.3022,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 7.3022
+        },
+        {
+          "qty": 10,
+          "price": 6.2138
+        },
+        {
+          "qty": 30,
+          "price": 5.551
+        },
+        {
+          "qty": 100,
+          "price": 4.9971
+        },
+        {
+          "qty": 102,
+          "price": 4.9971
+        },
+        {
+          "qty": 104,
+          "price": 4.9971
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+85\u2103@(TA) 1 30W 32V~57V 5V IEEE 802.3 at(PoE+)\u3001IEEE 802.3 af(PoE) Power Sourcing Equipment (PSE) DFN-10(4x3) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_microchip-tech-pd69201ild-tr_C3187562.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2210142230_Microchip-Tech-PD69201ILD-TR_C3187562.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Voltage - Supply (POWER)",
+          "value": "32V~57V"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "5V"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection\u3001Built-in LDO"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)\u3001IEEE 802.3 af(PoE)"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189531",
+      "name": "TI TPS23734RMTR",
+      "model": "TPS23734RMTR",
+      "brand": "Texas Instruments",
+      "package": "VQFN-45(5x7)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 2,
+      "type": "Extended",
+      "price": 6.6492,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.6492
+        },
+        {
+          "qty": 10,
+          "price": 6.49
+        },
+        {
+          "qty": 30,
+          "price": 6.0546
+        },
+        {
+          "qty": 100,
+          "price": 5.949
+        },
+        {
+          "qty": 102,
+          "price": 5.949
+        },
+        {
+          "qty": 104,
+          "price": 5.949
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 1 100V 30W 5V 925mA IEEE 802.3 at(PoE+)\u3001IEEE 802.3 bt(PoE++) Powered Device (PD) VQFN-45(5x7) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23734rmtr_C3189531.html",
+      "datasheet": "https://www.ti.com/cn/lit/gpn/tps23734",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "925mA"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "5V"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)\u3001IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189532",
+      "name": "TI TPS23731RMTR",
+      "model": "TPS23731RMTR",
+      "brand": "Texas Instruments",
+      "package": "VQFN-45(7x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 28,
+      "type": "Extended",
+      "price": 2.7975,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.7975
+        },
+        {
+          "qty": 10,
+          "price": 2.3735
+        },
+        {
+          "qty": 30,
+          "price": 2.1087
+        },
+        {
+          "qty": 100,
+          "price": 1.8374
+        },
+        {
+          "qty": 500,
+          "price": 1.7155
+        },
+        {
+          "qty": 1000,
+          "price": 1.6619
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 100V 30W 4 5V 925mA IEEE 802.3 at(PoE+)\u3001IEEE 802.3 bt(PoE++) Overcurrent Protection Powered Device (PD) VQFN-45(7x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23731rmtr_C3189532.html",
+      "datasheet": "https://www.ti.com/cn/lit/gpn/tps23731",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "925mA"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "5V"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Local power coordination"
+        },
+        {
+          "name": "number of channels",
+          "value": "4"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)\u3001IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C117177",
+      "name": "ADI LTC4263IDE-1#PBF",
+      "model": "LTC4263IDE-1#PBF",
+      "brand": "Analog Devices",
+      "package": "DFN-14(3x4)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 15.0463,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 15.0463
+        },
+        {
+          "qty": 10,
+          "price": 14.4046
+        },
+        {
+          "qty": 30,
+          "price": 13.2951
+        },
+        {
+          "qty": 100,
+          "price": 12.3269
+        },
+        {
+          "qty": 102,
+          "price": 12.3269
+        },
+        {
+          "qty": 104,
+          "price": 12.3269
+        },
+        {
+          "qty": 500,
+          "price": 12.1855
+        },
+        {
+          "qty": 1000,
+          "price": 12.1855
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 91,
+      "description": "-40\u2103~+85\u2103 1 30W Power Sourcing Equipment (PSE) DFN-14(3x4) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_analog-devices-ltc4263ide-1-pbf_C117177.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Analog-Devices-LTC4263IDE-1-PBF_C117177.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "lcsc": "C117335",
+      "name": "ADI LTC4263CDE-1#PBF",
+      "model": "LTC4263CDE-1#PBF",
+      "brand": "Analog Devices",
+      "package": "DFN-14(3x4)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 3.8323,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.8323
+        },
+        {
+          "qty": 10,
+          "price": 3.3206
+        },
+        {
+          "qty": 30,
+          "price": 3.0151
+        },
+        {
+          "qty": 100,
+          "price": 2.7081
+        },
+        {
+          "qty": 500,
+          "price": 2.5652
+        },
+        {
+          "qty": 1000,
+          "price": 2.5018
+        },
+        {
+          "qty": 2000,
+          "price": 2.4726
+        },
+        {
+          "qty": 4000,
+          "price": 2.4726
+        }
+      ],
+      "min_qty": 3,
+      "reel_qty": 91,
+      "description": "0\u2103~+70\u2103 1 30W Power Sourcing Equipment (PSE) DFN-14(3x4) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_analog-devices-ltc4263cde-1-pbf_C117335.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Analog-Devices-LTC4263CDE-1-PBF_C117335.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "0\u2103~+70\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Voltage - Supply (POWER)",
+          "value": "33V~66V"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "645mA"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "4.5V~5.5V"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD status indication\u3001PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Built-in LDO"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "802.3af Type 1"
+        }
+      ]
+    },
+    {
+      "lcsc": "C478466",
+      "name": "TI TPS23756PWPR",
+      "model": "TPS23756PWPR",
+      "brand": "Texas Instruments",
+      "package": "HTSSOP-20-EP",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 2.8511,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.8511
+        },
+        {
+          "qty": 10,
+          "price": 2.3913
+        },
+        {
+          "qty": 30,
+          "price": 2.1038
+        },
+        {
+          "qty": 100,
+          "price": 1.8098
+        },
+        {
+          "qty": 500,
+          "price": 1.6765
+        },
+        {
+          "qty": 1000,
+          "price": 1.6181
+        }
+      ],
+      "min_qty": 4,
+      "reel_qty": 2000,
+      "description": "-40\u2103~+125\u2103 100V 30W 5.1V 970mA IEEE 802.3 at(PoE+) Powered Device (PD) HTSSOP-20-EP Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power over ethernet controllers_texas instruments_tps23756pwpr_C478466.html",
+      "datasheet": "https://datasheet.lcsc.com/lcsc/2001071135_Texas-Instruments-TPS23756PWPR_C478466.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "970mA"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "5.1V"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C687844",
+      "name": "ADI LTC4263CDE-1#TRPBF",
+      "model": "LTC4263CDE-1#TRPBF",
+      "brand": "Analog Devices",
+      "package": "DFN-14(3x4)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 5.7102,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.7102
+        },
+        {
+          "qty": 10,
+          "price": 5.7102
+        },
+        {
+          "qty": 12,
+          "price": 5.7102
+        },
+        {
+          "qty": 200,
+          "price": 2.211
+        },
+        {
+          "qty": 500,
+          "price": 2.133
+        },
+        {
+          "qty": 1000,
+          "price": 2.094
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 2500,
+      "description": "0\u2103~+70\u2103 1 30W Power Sourcing Equipment (PSE) DFN-14(3x4) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_analog-devices-ltc4263cde-1-trpbf_C687844.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Analog-Devices-LTC4263CDE-1-TRPBF_C687844.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "0\u2103~+70\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD status indication\u3001PD detection and disconnect identification\u3001Overvoltage protection\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2861138",
+      "name": "TI TPS23754PWPR-1",
+      "model": "TPS23754PWPR-1",
+      "brand": "Texas Instruments",
+      "package": "HTSSOP-20",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 5.1887,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.1887
+        },
+        {
+          "qty": 10,
+          "price": 4.396
+        },
+        {
+          "qty": 30,
+          "price": 3.9265
+        },
+        {
+          "qty": 100,
+          "price": 3.4505
+        },
+        {
+          "qty": 500,
+          "price": 3.2312
+        },
+        {
+          "qty": 1000,
+          "price": 3.1321
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 2000,
+      "description": "-40\u2103~+125\u2103 1 100V 30W IEEE 802.3 at(PoE+) Overcurrent Protection Powered Device (PD) HTSSOP-20 Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23754pwpr-1_C2861138.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010930_Texas-Instruments-TPS23754PWPR-1_C2861138.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Voltage - Supply (POWER)",
+          "value": "0V~57V"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "limiting current",
+          "value": "970mA"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection\u3001Dual event classification detection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2864515",
+      "name": "TI TPS23882RTQT",
+      "model": "TPS23882RTQT",
+      "brand": "Texas Instruments",
+      "package": "VQFN-56(8x8)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 13.1083,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 13.1083
+        },
+        {
+          "qty": 10,
+          "price": 11.2839
+        },
+        {
+          "qty": 30,
+          "price": 10.1711
+        },
+        {
+          "qty": 100,
+          "price": 9.2387
+        },
+        {
+          "qty": 102,
+          "price": 9.2387
+        },
+        {
+          "qty": 104,
+          "price": 9.2387
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 250,
+      "description": "-40\u2103~+125\u2103@(TJ) 30W 8 Power Sourcing Equipment (PSE) VQFN-56(8x8) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23882rtqt_C2864515.html",
+      "datasheet": "https://www.ti.com/cn/lit/gpn/tps23882",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103@(TJ)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3187708",
+      "name": "SKYWORKS SI3462-E01-GM",
+      "model": "SI3462-E01-GM",
+      "brand": "Skyworks Solutions",
+      "package": "QFN-11(3x3)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 2.5944,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.5944
+        },
+        {
+          "qty": 10,
+          "price": 2.5944
+        },
+        {
+          "qty": 30,
+          "price": 2.5944
+        },
+        {
+          "qty": 200,
+          "price": 1.004
+        },
+        {
+          "qty": 500,
+          "price": 0.9683
+        },
+        {
+          "qty": 1000,
+          "price": 0.952
+        }
+      ],
+      "min_qty": 4,
+      "reel_qty": 122,
+      "description": "-40\u2103~+85\u2103 1 30W Power Sourcing Equipment (PSE) QFN-11(3x3) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_skyworks-solutions-si3462-e01-gm_C3187708.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189215",
+      "name": "MICROCHIP PD39210R-010020",
+      "model": "PD39210R-010020",
+      "brand": "Microchip Tech",
+      "package": "QFN-32(5x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 11.4269,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 11.4269
+        },
+        {
+          "qty": 10,
+          "price": 11.4269
+        },
+        {
+          "qty": 12,
+          "price": 11.4269
+        },
+        {
+          "qty": 200,
+          "price": 4.422
+        },
+        {
+          "qty": 490,
+          "price": 4.2676
+        },
+        {
+          "qty": 980,
+          "price": 4.1897
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 490,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 48 PGOOD\u72b6\u6001\u6307\u793a\u3001Overcurrent Protection Power Sourcing Equipment (PSE) QFN-32(5x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_microchip-tech-pd39210r-010020_C3189215.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2210142230_Microchip-Tech-PD39210R-010020_C3189215.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD status indication\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189224",
+      "name": "MICROCHIP PD39210C-011019",
+      "model": "PD39210C-011019",
+      "brand": "Microchip Tech",
+      "package": "QFN-32(5x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 6.014,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.014
+        },
+        {
+          "qty": 10,
+          "price": 6.014
+        },
+        {
+          "qty": 12,
+          "price": 6.014
+        },
+        {
+          "qty": 200,
+          "price": 2.328
+        },
+        {
+          "qty": 490,
+          "price": 2.2468
+        },
+        {
+          "qty": 980,
+          "price": 2.2061
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 490,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 48 PGOOD\u72b6\u6001\u6307\u793a\u3001Overcurrent Protection Power Sourcing Equipment (PSE) QFN-32(5x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_microchip-tech-pd39210c-011019_C3189224.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2210142200_Microchip-Tech-PD39210C-011019_C3189224.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD\u72b6\u6001\u6307\u793a\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189383",
+      "name": "SKYWORKS SI3472B-A01-IM",
+      "model": "SI3472B-A01-IM",
+      "brand": "Skyworks Solutions",
+      "package": "QFN-38(5x7)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 5.2943,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.2943
+        },
+        {
+          "qty": 10,
+          "price": 5.2943
+        },
+        {
+          "qty": 12,
+          "price": 5.2943
+        },
+        {
+          "qty": 186,
+          "price": 2.0486
+        },
+        {
+          "qty": 496,
+          "price": 1.9771
+        },
+        {
+          "qty": 992,
+          "price": 1.9413
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 31,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 4 Power Sourcing Equipment (PSE) QFN-38(5x7) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_skyworks-solutions-si3472b-a01-im_C3189383.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189384",
+      "name": "SKYWORKS SI3472A-A01-IM",
+      "model": "SI3472A-A01-IM",
+      "brand": "Skyworks Solutions",
+      "package": "QFN-38(5x7)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 5.2943,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.2943
+        },
+        {
+          "qty": 10,
+          "price": 5.2943
+        },
+        {
+          "qty": 12,
+          "price": 5.2943
+        },
+        {
+          "qty": 186,
+          "price": 2.0486
+        },
+        {
+          "qty": 496,
+          "price": 1.9771
+        },
+        {
+          "qty": 992,
+          "price": 1.9413
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 31,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 4 Power Sourcing Equipment (PSE) QFN-38(5x7) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_skyworks-solutions-si3472a-a01-im_C3189384.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189386",
+      "name": "SKYWORKS SI3472B-A01-IMR",
+      "model": "SI3472B-A01-IMR",
+      "brand": "Skyworks Solutions",
+      "package": "QFN-38(5x7)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 7.736,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 7.736
+        },
+        {
+          "qty": 10,
+          "price": 7.736
+        },
+        {
+          "qty": 12,
+          "price": 7.736
+        },
+        {
+          "qty": 200,
+          "price": 2.994
+        },
+        {
+          "qty": 500,
+          "price": 2.8884
+        },
+        {
+          "qty": 1000,
+          "price": 2.8365
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 2500,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 4 Power Sourcing Equipment (PSE) QFN-38(5x7) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_skyworks-solutions-si3472b-a01-imr_C3189386.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189387",
+      "name": "SKYWORKS SI3472A-A01-IMR",
+      "model": "SI3472A-A01-IMR",
+      "brand": "Skyworks Solutions",
+      "package": "QFN-38(5x7)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 7.736,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 7.736
+        },
+        {
+          "qty": 10,
+          "price": 7.736
+        },
+        {
+          "qty": 12,
+          "price": 7.736
+        },
+        {
+          "qty": 200,
+          "price": 2.994
+        },
+        {
+          "qty": 500,
+          "price": 2.8884
+        },
+        {
+          "qty": 1000,
+          "price": 2.8365
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 2500,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 4 Power Sourcing Equipment (PSE) QFN-38(5x7) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_skyworks-solutions-si3472a-a01-imr_C3189387.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189814",
+      "name": "SKYWORKS SI3473A-A01-IMR",
+      "model": "SI3473A-A01-IMR",
+      "brand": "Skyworks Solutions",
+      "package": "QFN-56(8x8)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 11.6884,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 11.6884
+        },
+        {
+          "qty": 10,
+          "price": 11.6884
+        },
+        {
+          "qty": 12,
+          "price": 11.6884
+        },
+        {
+          "qty": 200,
+          "price": 4.5243
+        },
+        {
+          "qty": 500,
+          "price": 4.3651
+        },
+        {
+          "qty": 1000,
+          "price": 4.2855
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2500,
+      "description": "-40\u2103~+85\u2103@(TA) 30W 8 Power Sourcing Equipment (PSE) QFN-56(8x8) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_skyworks-solutions-si3473a-a01-imr_C3189814.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103@(TA)"
+        },
+        {
+          "name": "Type",
+          "value": "Power Sourcing Equipment (PSE)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "30W"
+        },
+        {
+          "name": "number of channels",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}

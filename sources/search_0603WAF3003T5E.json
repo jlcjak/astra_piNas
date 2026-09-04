@@ -1,0 +1,77 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C23024",
+      "name": "UNI-ROYAL 0603WAF3003T5E",
+      "model": "0603WAF3003T5E",
+      "brand": "UNI-ROYAL(Uniroyal Elec)",
+      "package": "0603",
+      "category": "Chip Resistor - Surface Mount",
+      "stock": 765746,
+      "type": "Basic",
+      "price": 0.0062,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0062
+        },
+        {
+          "qty": 1000,
+          "price": 0.0052
+        },
+        {
+          "qty": 5000,
+          "price": 0.0046
+        },
+        {
+          "qty": 10000,
+          "price": 0.0038
+        },
+        {
+          "qty": 50000,
+          "price": 0.0035
+        },
+        {
+          "qty": 100000,
+          "price": 0.0034
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+155\u2103 100mW 300k\u03a9 75V Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 0603 Chip Resistor - Surface Mount ROHS",
+      "url": "https://www.lcsc.com/product-detail/chip-resistor-surface-mount_uni-royal-uniroyal-elec-0603waf3003t5e_C23024.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3003T5E_C23024.pdf",
+      "attributes": [
+        {
+          "name": "Resistance",
+          "value": "300k\u03a9"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+155\u2103"
+        },
+        {
+          "name": "Power(Watts)",
+          "value": "100mW"
+        },
+        {
+          "name": "Type",
+          "value": "Thick Film Resistor"
+        },
+        {
+          "name": "Voltage-Supply(Max)",
+          "value": "75V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b11%"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "\u00b1100ppm/\u2103"
+        }
+      ]
+    }
+  ]
+}

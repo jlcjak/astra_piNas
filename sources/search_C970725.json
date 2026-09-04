@@ -1,0 +1,77 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C970725",
+      "name": "WCH CH224K",
+      "model": "CH224K",
+      "brand": "WCH(Jiangsu Qin Heng)",
+      "package": "ESSOP-10-150mil-1mm",
+      "category": "USB PD",
+      "stock": 2894,
+      "type": "Extended",
+      "price": 0.489,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.489
+        },
+        {
+          "qty": 10,
+          "price": 0.3916
+        },
+        {
+          "qty": 30,
+          "price": 0.3444
+        },
+        {
+          "qty": 100,
+          "price": 0.2811
+        },
+        {
+          "qty": 500,
+          "price": 0.2697
+        },
+        {
+          "qty": 1000,
+          "price": 0.2632
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 100,
+      "description": "-40\u2103~+90\u2103 100W 4V~30V 5V\u30019V\u300112V\u300115V\u300120V PD 3.0 Power Receiver Controller ESSOP-10-150mil-1mm USB PD ROHS",
+      "url": "https://www.lcsc.com/product-detail/usb-converters_wch-jiangsu-qin-heng-ch224k_C970725.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2403131354_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+90\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power Receiver Controller"
+        },
+        {
+          "name": "Output Power",
+          "value": "100W"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "4V~30V"
+        },
+        {
+          "name": "Features",
+          "value": "Overvoltage protection\u3001Thermal Protection"
+        },
+        {
+          "name": "Protocol",
+          "value": "PD 3.0"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "5V\u30019V\u300112V\u300115V\u300120V"
+        }
+      ]
+    }
+  ]
+}

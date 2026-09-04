@@ -1,0 +1,146 @@
+{
+  "total": 4,
+  "results": [
+    {
+      "lcsc": "C1591",
+      "name": "Samsung Electro-Mechanics CL10B104KB8NNNC",
+      "model": "CL10B104KB8NNNC",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0603",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 4671195,
+      "type": "Extended",
+      "price": 0.0107,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0107
+        },
+        {
+          "qty": 1000,
+          "price": 0.0081
+        },
+        {
+          "qty": 4000,
+          "price": 0.0069
+        },
+        {
+          "qty": 8000,
+          "price": 0.006
+        },
+        {
+          "qty": 48000,
+          "price": 0.0057
+        },
+        {
+          "qty": 100000,
+          "price": 0.0054
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 4000,
+      "description": "100nF 50V X7R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl10b104kb8nnnc_C1591.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "50V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "100nF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900008356",
+      "name": "JIALICHUANG SMT CL10B104KB8NNNC",
+      "model": "CL10B104KB8NNNC",
+      "brand": "JLCPCB Assembly",
+      "package": "0603",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0007,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0007
+        },
+        {
+          "qty": 1000,
+          "price": 0.0003
+        }
+      ],
+      "min_qty": 5000,
+      "reel_qty": 5000,
+      "description": "0603 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900152876",
+      "name": "JIALICHUANG SMT CL10B104KB8NNNC",
+      "model": "CL10B104KB8NNNC",
+      "brand": "JLCPCB Assembly",
+      "package": "0603",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 1000,
+      "description": "0603 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900007620",
+      "name": "JIALICHUANG SMT CL10B104KB8NNNC/0603",
+      "model": "CL10B104KB8NNNC/0603",
+      "brand": "JLCPCB Assembly",
+      "package": "C0603",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0007,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0007
+        },
+        {
+          "qty": 1000,
+          "price": 0.0003
+        }
+      ],
+      "min_qty": 1000,
+      "reel_qty": 1000,
+      "description": "C0603 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

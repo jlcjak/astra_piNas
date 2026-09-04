@@ -1,0 +1,771 @@
+                                                                                     USBLC6-2
+
+                                                  Very low capacitance ESD protection
+
+Features
+■   2 data-line protection
+■   Protects VBUS
+■   Very low capacitance: 3.5 pF max.
+■   Very low leakage current: 150 nA max.                        SOT23-6L                   SOT-666
+                                                               USBLC6-2SC6                USBLC6-2P6
+■   SOT-666 and SOT23-6L packages
+■   RoHS compliant                                       Figure 1.    Functional diagram (top view)
+Benefits
+                                                                       I/O1   1            6   I/O1
+■   Very low capacitance between lines to GND for
+    optimized data integrity and speed                                GND     2            5   VBUS
+
+■   Low PCB space consumption: 2.9 mm2 max for
+    SOT-666 and 9 mm² max for SOT23-6L                                 I/O2   3            4   I/O2
+
+
+■   Enhanced ESD protection: IEC 61000-4-2
+    level 4 compliance guaranteed at device level,
+    hence greater immunity at system level               Applications
+■   ESD protection of VBUS
+                                                         ■   USB 2.0 ports up to 480 Mb/s (high speed)
+■   High reliability offered by monolithic integration
+                                                         ■   Compatible with USB 1.1 low and full speed
+■   Low leakage current for longer operation of
+                                                         ■   Ethernet port: 10/100 Mb/s
+    battery powered devices
+                                                         ■   SIM card protection
+■   Fast response time
+                                                         ■   Video line protection
+■   Consistent D+ / D- signal balance:
+    – Very low capacitance matching tolerance            ■   Portable electronics
+      I/O to GND = 0.015 pF
+    – Compliant with USB 2.0 requirements                Description
+Complies with the following standards:                   The USBLC6-2SC6 and USBLC6-2P6 are
+                                                         monolithic application specific devices dedicated
+■   IEC 61000-4-2 level 4:                               to ESD protection of high speed interfaces, such
+    – 15 kV (air discharge)                              as USB 2.0, Ethernet links and video lines.
+    – 8 kV (contact discharge)                           The very low line capacitance secures a high level
+                                                         of signal integrity without compromising in
+                                                         protecting sensitive chips against the most
+                                                         stringently characterized ESD strikes.
+
+
+
+
+October 2011                                  Doc ID 11265 Rev 5                                           1/14
+                                                                                                      www.st.com   14
+Characteristics                                                                                              USBLC6-2
+
+
+1          Characteristics
+
+           Table 1.          Absolute ratings
+            Symbol                                    Parameter                                   Value         Unit
+
+                                                        IEC 61000-4-2 air discharge                15
+              VPP         Peak pulse voltage            IEC 61000-4-2 contact discharge            15            kV
+                                                        MIL STD883G-Method 3015-7                  25
+              Tstg        Storage temperature range                                         -55 to +150          °C
+                  Tj      Operating junction temperature range                              -40 to +125          °C
+                  TL      Lead solder temperature (10 seconds duration)                           260            °C
+
+           Table 2.          Electrical characteristics (Tamb = 25 °C)
+                                                                                          Value
+             Symbol                  Parameter              Test conditions                                     Unit
+                                                                                Min.      Typ.      Max.
+
+                  IRM       Leakage current               VRM = 5.25 V                     10        150         nA
+                            Breakdown voltage between
+                  VBR                                 IR = 1 mA                  6                               V
+                            VBUS and GND
+                   VF       Forward voltage               IF = 10 mA                                    1.1      V
+                                                          IPP = 1 A, 8/20 µs
+                                                                                                        12       V
+                                                          Any I/O pin to GND
+                  VCL       Clamping voltage
+                                                          IPP = 5 A, 8/20 µs
+                                                                                                        17       V
+                                                          Any I/O pin to GND
+                            Capacitance between I/O
+             Ci/o-GND                                     VR = 1.65 V                      2.5          3.5
+                            and GND                                                                              pF
+             ΔCi/o-GND                                                                    0.015
+              Ci/o-i/o      Capacitance between I/O       VR = 1.65 V                      1.2          1.7
+                                                                                                                 pF
+              ΔCi/o-i/o                                                                   0.04
+
+
+
+
+2/14                                           Doc ID 11265 Rev 5
+USBLC6-2                                                                                                                                                  Characteristics
+
+
+Figure 2.           Capacitance versus voltage                                                           Figure 3.        Line capacitance versus frequency
+                    (typical values)                                                                                      (typical values)
+         C(pF)                                                                                                   C(pF)
+  3.0                                                                                                      2.8
+                                                                                                           2.6
+                                              CO=I/O-GND
+                                                                                                           2.4
+  2.5                                                                                                                                                       VOSC=30mVRMS
+                                                                                                           2.2                                                  Tj=25°C
+                                                                                       F=1MHz              2.0                                              VLINE=0V to 3.3V
+  2.0                                                                               VOSC=30mVRMS
+                                                                                       Tj=25°C             1.8
+                                                                                                           1.6
+  1.5                                                                                                      1.4
+                                               Cj=I/O-I/O
+                                                                                                           1.2
+
+  1.0                                                                                                      1.0
+                                                                                                           0.8
+                                                                                                           0.6
+  0.5
+                                                                                                           0.4
+                                     Data line voltage (V)                                                 0.2                         F(MHz)
+  0.0                                                                                                      0.0
+        0.0   0.5   1.0        1.5      2.0     2.5         3.0   3.5         4.0       4.5        5.0           1                10                100                        1000
+
+
+
+Figure 4.           Relative variation of leakage                                                        Figure 5.        Frequency response
+                    current versus junction
+                    temperature (typical values)
+          IRM[Tj] / IRM[Tj=25°C]                                                                             0.00
+  100
+                                                                                VBUS=5V
+                                                                                                          S21(dB)
+
+                                                                                                            -5.00
+
+
+
+
+                                                                                                           -10.00
+   10
+
+
+
+                                                                                                           -15.00
+
+
+
+                                              Tj(°C)                                                                                       F(Hz)
+    1                                                                                                      -20.00
+         25               50                     75                     100                    125               100.0k    1.0M        10.0M       100.0M         1.0G
+
+
+
+
+                                                                                        Doc ID 11265 Rev 5                                                                       3/14
+Technical information                                                                         USBLC6-2
+
+
+2          Technical information
+
+2.1        Surge protection
+           The USBLC6-2 is particularly optimized to perform surge protection based on the rail to rail
+           topology.
+           The clamping voltage VCL can be calculated as follow:
+                VCL+ = VTRANSIL + VF for positive surges
+                VCL- = - VF for negative surges
+           with: VF = VT + Rd.Ip
+           (VF forward drop voltage) / (VT forward drop threshold voltage)
+           and VTRANSIL = VBR + Rd_TRANSIL.IP
+           Calculation example
+           We assume that the value of the dynamic resistance of the clamping diode is typically:
+                Rd = 0.5 Ω and VT = 1.1 V
+           We assume that the value of the dynamic resistance of the transil diode is typically:
+                Rd_TRANSIL = 0.5 Ω and VBR = 6.1 V
+           For an IEC 61000-4-2 surge Level 4 (Contact Discharge: Vg = 8 kV, Rg = 330 Ω),
+           VBUS = +5 V, and if in first approximation, we assume that:
+                Ip = Vg / Rg = 24 A.
+           So, we find:
+                VCL+ = +31.2 V
+                VCL- = -13 V
+Note:      The calculations do not take into account phenomena due to parasitic inductances.
+
+
+2.2        Surge protection application example
+           If we consider that the connections from the pin VBUS to VCC, from I/O to data line and from
+           GND to PCB GND plane are done by tracks of 10 mm long and 0.5 mm large, we assume
+           that the parasitic inductances LVBUS, LI/O and LGND of these tracks are about 6 nH. So when
+           an IEC 61000-4-2 surge occurs on data line, due to the rise time of this spike (tr=1ns), the
+           voltage VCL has an extra value equal to LI/O.dl/dt + LGND.dI/dt.
+           The dI/dt is calculated as:
+                dI/dt = Ip/tr = 24 A/ns
+           The overvoltage due to the parasitic inductances is:
+                LI/O.dl/dt = LGND.dI/dt = 6 nH x 24 A/ns = 144 V
+           By taking into account the effect of these parasitic inductances due to unsuitable layout, the
+           clamping voltage will be:
+                VCL+ = +31.2 + 144 + 144 = 319.2 V
+                VCL- = -13.1 - 144 - 144 = -301.1 V
+
+
+
+4/14                                      Doc ID 11265 Rev 5
+USBLC6-2                                                                                                                                   Technical information
+
+
+            We can significantly reduce this phenomena with simple layout optimization. It is for this
+            reason that some recommendations have to be followed (see 2.3: How to ensure good ESD
+            protection).
+
+            Figure 6.       ESD behavior: parasitic phenomena due to unsuitable layout
+                         ESD surge on data line                                                                       VCL+
+                                                                                   VBUS
+                                                                                   Data line
+
+                                    LI/O         LI/O di   LVBUS                               LI/O di + LGND di
+                                                      dt                                            dt        dt                           Positive
+                                                                                                                                            Surge
+                                                                   VCC pin
+
+
+                                                           VF
+
+                                                                     VTRANSIL                     VTRANSIL + VF
+                                                                                 VCL
+                                           I/O pin
+                                                                                                                                                      t
+                                                                                                                    tr = 1 ns
+                                                                   GND pin
+                                                                                                                    tr = 1 ns
+                                                           LGND      LGND di                                                                          t
+                                                                          dt
+                                                                                                            - VF
+
+
+
+                        VCL+ = VTRANSIL + VF + LI/O di + LGND di                surge > 0
+                                                    dt        dt                                                                           Negative
+                                                                                               -LI/O di - LGND di                           Surge
+                        VCL- = -VF - LI/O di - LGND di                          surge > 0
+                                                                                                     dt        dt
+                                          dt        dt
+                        V TRANSIL = VBR + Rd.Ip
+
+                                                                                                                     VCL-
+
+
+
+
+2.3         How to ensure good ESD protection
+            While the USBLC6-2 provides high immunity to ESD surge, efficient protection depends on
+            the layout of the board. In the same way, with the rail to rail topology, the track from data
+            lines to I/O pins, from VCC to VBUS pin and from GND plane to GND pin must be as short as
+            possible to avoid overvoltages due to parasitic phenomena (see Figure 6. and Figure 7. for
+            layout consideration)
+
+Figure 7.   ESD behavior: layout optimization                                   Figure 8.          ESD behavior: measurement
+                                                                                                   conditions
+
+
+
+                  1
+                  1                         6
+                                                                                       ESD SURGE
+                  2                         5
+                                                                                                                TEST BOARD
+                  3                         4
+                                                                                                               IN       OUT
+
+
+                                                                                                                             USBLC6-2SC6
+                  Unsuitable layout
+
+                                                                                                                                                          +5 V
+                  1
+                  1                         6
+
+
+
+                  2                         5
+
+
+
+                  3                         4
+
+
+
+                  Optimized layout
+
+
+
+
+                                                                Doc ID 11265 Rev 5                                                                               5/14
+Technical information                                                                               USBLC6-2
+
+
+Figure 9.   ESD response to IEC 61000-4-2            Figure 10. ESD response to IEC 61000-4-2
+            (+15 kV air discharge)                              (-15 kV air discharge)
+
+                                                        Vin
+
+
+
+  Vin
+                                                      Vout
+
+
+
+Vout
+
+
+
+
+Important:
+            A good precaution to take is to put the protection device as close as possible to the
+            disturbance source (generally the connector).
+
+
+2.4         Crosstalk behavior
+
+2.4.1       Crosstalk phenomenon
+
+            Figure 11. Crosstalk phenomenon
+                                RG1
+                                                   Line 1
+
+
+                  VG1                                                       RL1          α 1 VG1 + β12VG2
+                                      RG2
+                                                   Line 2
+
+
+                        VG2                                          RL2          α 2VG2 + β21VG1
+
+
+
+
+                               DRIVERS                             RECEIVERS
+
+            The crosstalk phenomenon is due to the coupling between 2 lines. The coupling factor (β12
+            or β21) increases when the gap across lines decreases, particularly in silicon dice. In the
+            above example the expected signal on load RL2 is α2VG2, in fact the real voltage at this point
+            has got an extra value β21VG1. This part of the VG1 signal represents the effect of the
+            crosstalk phenomenon of the line 1 on the line 2. This phenomenon has to be taken into
+            account when the drivers impose fast digital data or high frequency analog signals in the
+            disturbing line. The perturbed line will be more affected if it works with low voltage signal or
+            high load impedance (few kΩ).
+
+
+
+
+6/14                                        Doc ID 11265 Rev 5
+USBLC6-2                                                                                      Technical information
+
+
+           Figure 12. Analog crosstalk measurements
+
+
+                                                        TEST BOARD
+
+                                                                                        NETWORK ANALYSER
+                                                              USBLC6-2SC6
+                   NETWORK ANALYSER                                                          PORT 2
+                        PORT 1
+                                                                                     Vbus
+
+
+
+
+           Figure 12. shows the measurement circuit for the analog application. In usual frequency
+           range of analog signals (up to 240 MHz) the effect on disturbed line is less than -55 dB (see
+           Figure 13.).
+
+           Figure 13. Analog crosstalk results
+
+
+                                                 dB
+                                      0.00
+
+
+
+                                   - 30.00
+
+
+
+                                   - 60.00
+
+
+
+                                   - 90.00
+
+                                                                                     F (Hz)
+                                  - 120.00
+                                             100.0k   1.0M   10.0M          100.0M     1.0G
+
+
+
+
+           As the USBLC6-2 is designed to protect high speed data lines, it must ensure a good
+           transmission of operating signals. The frequency response (Figure 5.) gives attenuation
+           information and shows that the USBLC6-2 is well suitable for data line transmission up to
+           480 Mbit/s while it works as a filter for undesirable signals like GSM (900 MHz) frequencies,
+           for instance.
+
+
+
+
+                                               Doc ID 11265 Rev 5                                              7/14
+Technical information                                                                                                  USBLC6-2
+
+
+2.5        Application examples
+           Figure 14. USB 2.0 port application diagram using USBLC6-2
+
+              DEVICE-     + 3.3V                                                            + 5V                       HUB-
+              UPSTREAM         RPU                                                                 Protecting
+                                                                                                                DOWNSTREAM
+              TRANSCEIVER                                        USB                               Bus Switch   TRANSCEIVER
+                                SW2                            connector
+                                           SW1
+
+                        VBUS                                                                                    VBUS
+                   RX LS/FS +                                    VBUS                                           RX LS/FS +
+                     RX HS +                                                                                    RX HS +
+                     TX HS +                                      D+                                            TX HS +
+                   RX LS/FS -                                                                                   RX LS/FS -
+                      RX HS -                                                                                   RX HS -
+                      TX HS -                                     D-                                            TX HS -
+
+                        GND                                                                                     GND
+                                 RS                              GND                                     RS
+                   TX LS/FS +                                                                                   TX LS/FS +
+
+                   TX LS/FS -
+                                 RS      USBLC6-2SC6                                                     RS
+                                                                                                                TX LS/FS -
+
+                                                                                             RPD       RPD
+
+
+              DEVICE-     + 3.3V
+              UPSTREAM         RPU
+              TRANSCEIVER                                        USB
+                                SW2                            connector
+                                           SW1
+
+                        VBUS
+                   RX LS/FS +
+                                                                 VBUS                                           RX LS/FS +
+                     RX HS +                                                                                    RX HS +
+                     TX HS +                                      D+                                            TX HS +
+                   RX LS/FS -                                                                                   RX LS/FS -
+                      RX HS -                                                                                   RX HS -
+                      TX HS -                                     D-                                            TX HS -
+
+                        GND                                                                                     GND
+                                 RS                              GND                                     RS
+                   TX LS/FS +                                                USBLC6-4SC6                        TX LS/FS +
+                                 RS       USBLC6-2P6                                                     RS
+                   TX LS/FS -                                                                                   TX LS/FS -
+
+                                                                                             RPD       RPD
+
+
+
+
+            Mode                SW1              SW2
+            Low Speed LS        Open             Closed
+            Full Speed FS       Closed           Open
+            High Speed HS       Closed then open Open
+
+
+
+           Figure 15. T1/E1/Ethernet protection
+
+
+
+                                                                             USBLC6-2SC6
+                                                                  +VCC
+                                           Tx                    100nF
+
+                                                  SMP75-8
+
+                                                                                              DATA
+
+                                                                                           TRANSCEIVER
+
+
+
+                                                                             USBLC6-2SC6
+                                                                  +VCC
+                                         Rx                      100nF
+
+
+                                                  SMP75-8
+
+
+
+
+8/14                                                    Doc ID 11265 Rev 5
+USBLC6-2                                                                             Technical information
+
+
+2.6            PSpice model
+               Figure 16. shows the PSpice model of one USBLC6-2 cell. In this model, the diodes are
+               defined by the PSpice parameters given in Figure 17.
+
+Figure 16. PSpice model
+
+
+
+
+                  LI/O       RI/O                                             RI/O    LI/O
+ D+in                                                                                               D+out
+                                      MODEL = Dlow        MODEL = Dhigh
+
+
+                 LGND        RGND               MODEL = Dzener                RI/O     LI/O
+ GND                                                                                                VBUS
+
+                                       MODEL = Dlow       MODEL = Dhigh
+
+                  LI/O       RI/O                                             RI/O    LI/O
+ D-in                                                                                               D-out
+
+
+
+
+Note:          This simulation model is available only for an ambient temperature of 27 °C.
+
+Figure 17. PSpice parameters                           Figure 18. USBLC6-2 PCB layout
+                                                                  considerations
+
+
+        Dlow        Dhigh    Dzener    LI/O    750p
+
+ BV      50          50       7.3     RI/O     110m                                   D+out
+                                                         D+in      1
+ CJ0     0.9p        2.0p     40p     LGND     550p
+                                                                                      VBUS
+ IBV     1m          1m       1m      RGND     60m      GND
+  M     0.3333      0.3333   0.3333                                                           CBUS = 100nF
+                                                         D-in
+ RS      0.2         0.52     0.84
+ VJ      0.6         0.6      0.6                                                     D-out
+                                                                       USBLC6-2
+ TT      0.1u        0.1u     0.1u
+
+
+
+
+                                              Doc ID 11265 Rev 5                                        9/14
+Ordering information scheme                                                            USBLC6-2
+
+
+3         Ordering information scheme
+
+          Figure 19. Ordering information scheme
+
+
+
+                                                              USB   LC   6 - 2   xxx
+
+                       Product Designation
+                       Low capacitance
+                       Breakdown Voltage
+                       6 = 6 Volts
+                       Number of lines protected
+                       2 = 2 lines
+                       Packages
+                       SC6 = SOT23-6L
+                       P6 = SOT-666
+
+
+
+
+10/14                                    Doc ID 11265 Rev 5
+USBLC6-2                                                                                       Package information
+
+
+4          Package information
+
+           ●      Epoxy meets UL94, V0
+           ●      Lead-free packages
+           In order to meet environmental requirements, ST offers these devices in different grades of
+           ECOPACK® packages, depending on their level of environmental compliance. ECOPACK®
+           specifications, grade definitions and product status are available at: www.st.com.
+           ECOPACK® is an ST trademark.
+
+           Table 3.               SOT-666 dimensions
+                                                                                           Dimensions
+                              b1
+                  L1                                                 Ref.       Millimeters              Inches
+
+                                                                             Min.   Typ.   Max.   Min.    Typ.    Max.
+
+                  L3                                                     A   0.45          0.60 0.018             0.024
+
+                   b                                                 A3      0.08          0.18 0.003             0.007
+                                                                         b   0.17          0.34 0.007             0.013
+                                  D                 E1
+                                                                      b1     0.19   0.27   0.34 0.007 0.011 0.013
+                                                                         D   1.50          1.70 0.059             0.067
+                                        A
+                                                                         E   1.50          1.70 0.059             0.067
+                                                          L2
+                                                    E          A3
+                                                                     E1      1.10          1.30 0.043             0.051
+                                                                         e          0.50                 0.020
+                                                                      L1            0.19                 0.007
+                                                                      L2     0.10          0.30 0.004             0.012
+                              e
+                                                                      L3            0.10                 0.004
+
+Figure 20. SOT-666 footprint                                   Figure 21. SOT-666 marking
+           dimensions in mm
+
+                       0.50
+
+
+
+
+                                      0.62   2.60
+                                                                                           F
+           0.99
+
+
+                              0.30
+
+
+
+
+                                                    Doc ID 11265 Rev 5                                            11/14
+Package information                                                                                   USBLC6-2
+
+
+            Table 4.         SOT23-6L dimensions
+                                                                                      Dimensions
+
+                                                             Ref.           Millimeters             Inches
+
+                                                                      Min.     Typ.   Max.   Min.    Typ.    Max.
+
+                                      A1                      A       0.90            1.45 0.035             0.057
+                c
+                       q          L
+                             H                    A           A1       0              0.10    0              0.004
+                             E                                A2      0.90            1.30 0.035             0.051
+                                                                  b   0.35            0.50 0.014             0.020
+
+                                      e
+                                                                  c   0.09            0.20 0.004             0.008
+
+                b                                       D     D       2.80            3.05   0.11            0.118
+                                      e                       E       1.50            1.75 0.059             0.069
+                                                                  e            0.95                 0.037
+                                                  A2
+                                                              H       2.60            3.00 0.102             0.118
+                                                                  L   0.10            0.60 0.004             0.024
+                                                                  θ    0°             10°     0°             10°
+
+Figure 22. SOT23-6L footprint                          Figure 23. SOT23-6L marking
+           dimensions in mm
+                                      0.60
+
+
+
+
+                                                1.20
+
+
+
+                           0.95
+                                                                              UL26
+  3.50   2.30                                   1.10
+
+
+
+
+12/14                                        Doc ID 11265 Rev 5
+USBLC6-2                                                                               Ordering information
+
+
+5          Ordering information
+
+           Table 5.      Ordering information
+              Order code         Marking       Package          Weight        Base qty      Delivery mode
+
+             USBLC6-2SC6          UL26         SOT23-6L         16.7 mg         3000          Tape and reel
+              USBLC6-2P6           F            SOT-666         2.9 mg          3000          Tape and reel
+
+
+
+
+6          Revision history
+
+           Table 6.      Document revision history
+                  Date          Revision                                  Changes
+
+              14-Mar-2005           1        First issue.
+               07-Jun-2005          2        Format change to figure 3; no content changed.
+                                             Added marking illustrations - Figures 21 and 23. Added
+                                             ECOPACK statement. Updated operating junction temperature
+              20-Mar-2008           3
+                                             range in absolute ratings, page 2. Technical information section
+                                             updated. Reformatted to current standards.
+                                             Updated leakage current for VRM = 5.25 V as specified in USB
+               27-Jun-2011          4
+                                             standard. Updated marking illustrations Figure 21 and Figure 23.
+               24-Oct-2011          5        Updated legal statement.
+
+
+
+
+                                           Doc ID 11265 Rev 5                                            13/14
+                                                                                                                                 USBLC6-2
+
+
+
+
+                                                           Please Read Carefully:
+
+
+Information in this document is provided solely in connection with ST products. STMicroelectronics NV and its subsidiaries (“ST”) reserve the
+right to make changes, corrections, modifications or improvements, to this document, and the products and services described herein at any
+time, without notice.
+All ST products are sold pursuant to ST’s terms and conditions of sale.
+Purchasers are solely responsible for the choice, selection and use of the ST products and services described herein, and ST assumes no
+liability whatsoever relating to the choice, selection or use of the ST products and services described herein.
+No license, express or implied, by estoppel or otherwise, to any intellectual property rights is granted under this document. If any part of this
+document refers to any third party products or services it shall not be deemed a license grant by ST for the use of such third party products
+or services, or any intellectual property contained therein or considered as a warranty covering the use in any manner whatsoever of such
+third party products or services or any intellectual property contained therein.
+
+
+UNLESS OTHERWISE SET FORTH IN ST’S TERMS AND CONDITIONS OF SALE ST DISCLAIMS ANY EXPRESS OR IMPLIED
+WARRANTY WITH RESPECT TO THE USE AND/OR SALE OF ST PRODUCTS INCLUDING WITHOUT LIMITATION IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (AND THEIR EQUIVALENTS UNDER THE LAWS
+OF ANY JURISDICTION), OR INFRINGEMENT OF ANY PATENT, COPYRIGHT OR OTHER INTELLECTUAL PROPERTY RIGHT.
+UNLESS EXPRESSLY APPROVED IN WRITING BY TWO AUTHORIZED ST REPRESENTATIVES, ST PRODUCTS ARE NOT
+RECOMMENDED, AUTHORIZED OR WARRANTED FOR USE IN MILITARY, AIR CRAFT, SPACE, LIFE SAVING, OR LIFE SUSTAINING
+APPLICATIONS, NOR IN PRODUCTS OR SYSTEMS WHERE FAILURE OR MALFUNCTION MAY RESULT IN PERSONAL INJURY,
+DEATH, OR SEVERE PROPERTY OR ENVIRONMENTAL DAMAGE. ST PRODUCTS WHICH ARE NOT SPECIFIED AS "AUTOMOTIVE
+GRADE" MAY ONLY BE USED IN AUTOMOTIVE APPLICATIONS AT USER’S OWN RISK.
+
+
+Resale of ST products with provisions different from the statements and/or technical features set forth in this document shall immediately void
+any warranty granted by ST for the ST product or service described herein and shall not create or extend in any manner whatsoever, any
+liability of ST.
+
+
+                          ST and the ST logo are trademarks or registered trademarks of ST in various countries.
+
+                         Information in this document supersedes and replaces all information previously supplied.
+
+         The ST logo is a registered trademark of STMicroelectronics. All other names are the property of their respective owners.
+
+
+                                               © 2011 STMicroelectronics - All rights reserved
+
+
+                                                   STMicroelectronics group of companies
+ Australia - Belgium - Brazil - Canada - China - Czech Republic - Finland - France - Germany - Hong Kong - India - Israel - Italy - Japan -
+   Malaysia - Malta - Morocco - Philippines - Singapore - Spain - Sweden - Switzerland - United Kingdom - United States of America
+                                                                 www.st.com
+
+
+
+
+14/14                                                      Doc ID 11265 Rev 5
+

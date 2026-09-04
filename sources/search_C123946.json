@@ -1,0 +1,77 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C123946",
+      "name": "Jingdao Microelectronics SS54",
+      "model": "SS54",
+      "brand": "Shandong Jingdao Microelectronics",
+      "package": "SMA(DO-214AC)",
+      "category": "Schottky Diodes",
+      "stock": 47595,
+      "type": "Extended",
+      "price": 0.0501,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0501
+        },
+        {
+          "qty": 100,
+          "price": 0.0403
+        },
+        {
+          "qty": 300,
+          "price": 0.0353
+        },
+        {
+          "qty": 1000,
+          "price": 0.0317
+        },
+        {
+          "qty": 5000,
+          "price": 0.0282
+        },
+        {
+          "qty": 10000,
+          "price": 0.0267
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+150\u2103 1 Independent 150A 1mA@40V 40V 550mV@5A 5A SMA(DO-214AC) Schottky Diodes ROHS",
+      "url": "https://www.lcsc.com/product-detail/schottky-diodes_shandong-jingdao-microelectronics-ss54_C123946.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Shandong-Jingdao-Microelectronics-SS54_C123946.pdf",
+      "attributes": [
+        {
+          "name": "Voltage - Forward(Vf@If)",
+          "value": "550mV@5A"
+        },
+        {
+          "name": "Non-Repetitive Peak Forward Surge Current",
+          "value": "150A"
+        },
+        {
+          "name": "Voltage - DC Reverse(Vr)",
+          "value": "40V"
+        },
+        {
+          "name": "Operating Junction Temperature Range",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Diode Configuration",
+          "value": "1 Independent"
+        },
+        {
+          "name": "Current - Rectified",
+          "value": "5A"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1mA@40V"
+        }
+      ]
+    }
+  ]
+}

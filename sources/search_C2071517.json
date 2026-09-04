@@ -1,0 +1,101 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C2071517",
+      "name": "DIODES AP64501SP-13",
+      "model": "AP64501SP-13",
+      "brand": "Diodes Incorporated",
+      "package": "SOIC-8-EP",
+      "category": "DC-DC Converters",
+      "stock": 2461,
+      "type": "Extended",
+      "price": 4.2303,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 4.2303
+        },
+        {
+          "qty": 10,
+          "price": 3.7429
+        },
+        {
+          "qty": 30,
+          "price": 3.4391
+        },
+        {
+          "qty": 100,
+          "price": 3.1272
+        },
+        {
+          "qty": 500,
+          "price": 2.9859
+        },
+        {
+          "qty": 1000,
+          "price": 2.9242
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 4000,
+      "description": "-40\u2103~+85\u2103 1 25uA 3.8V~40V 570kHz 5A 800mV~39V Adjustable Buck Buck Built-in SOIC-8-EP DC-DC Converters ROHS",
+      "url": "https://www.lcsc.com/product-detail/dc-dc-converters_diodes-incorporated-ap64501sp-13_C2071517.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2108041630_Diodes-Incorporated-AP64501SP-13_C2071517.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Function",
+          "value": "Step-down type"
+        },
+        {
+          "name": "Synchronous Rectifier",
+          "value": "Yes"
+        },
+        {
+          "name": "Frequency - Switching",
+          "value": "570kHz"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "3.8V~40V"
+        },
+        {
+          "name": "Output Type",
+          "value": "Adjustable"
+        },
+        {
+          "name": "Output Current",
+          "value": "5A"
+        },
+        {
+          "name": "Quiescent Current",
+          "value": "25uA"
+        },
+        {
+          "name": "Features",
+          "value": "Overcurrent Protection\u3001Light load efficient mode\u3001Adjustable soft-start\u3001Cycle-by-cycle current limiting\u3001Hiccup current limiting\u3001External compensation\u3001EMI optimization (spread spectrum)"
+        },
+        {
+          "name": "Switch tube (built-in/external)",
+          "value": "Built-in"
+        },
+        {
+          "name": "Topology",
+          "value": "Buck"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "800mV~39V"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

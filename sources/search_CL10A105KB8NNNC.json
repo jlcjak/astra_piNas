@@ -1,0 +1,132 @@
+{
+  "total": 3,
+  "results": [
+    {
+      "lcsc": "C15849",
+      "name": "Samsung Electro-Mechanics CL10A105KB8NNNC",
+      "model": "CL10A105KB8NNNC",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0603",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 9308610,
+      "type": "Basic",
+      "price": 0.0213,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0213
+        },
+        {
+          "qty": 500,
+          "price": 0.0166
+        },
+        {
+          "qty": 1500,
+          "price": 0.0146
+        },
+        {
+          "qty": 4000,
+          "price": 0.0131
+        },
+        {
+          "qty": 24000,
+          "price": 0.0125
+        },
+        {
+          "qty": 48000,
+          "price": 0.0121
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 4000,
+      "description": "1uF 50V X5R \u00b110% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl10a105kb8nnnc_C15849.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "50V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "1uF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X5R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3040247",
+      "name": "Samsung Electro-Mechanics CL10A105KB8NNNC-YJLTY",
+      "model": "CL10A105KB8NNNC-YJLTY",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0603",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.1593,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1593
+        },
+        {
+          "qty": 100,
+          "price": 0.0376
+        }
+      ],
+      "min_qty": 57,
+      "reel_qty": 3000,
+      "description": "1uF 50V X5R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "50V"
+        },
+        {
+          "name": "Capacitance",
+          "value": "1uF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X5R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900188531",
+      "name": "JIALICHUANG SMT CL10A105KB8NNNC-YJLTY",
+      "model": "CL10A105KB8NNNC-YJLTY",
+      "brand": "JLCPCB Assembly",
+      "package": "0603",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 1000,
+      "description": "0603 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

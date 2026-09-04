@@ -1,0 +1,397 @@
+{
+  "total": 5,
+  "results": [
+    {
+      "lcsc": "C48467",
+      "name": "Littelfuse 0451005.MRL",
+      "model": "0451005.MRL",
+      "brand": "Littelfuse",
+      "package": "2410",
+      "category": "Disposable fuses",
+      "stock": 27817,
+      "type": "Extended",
+      "price": 0.254,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.254
+        },
+        {
+          "qty": 50,
+          "price": 0.2023
+        },
+        {
+          "qty": 150,
+          "price": 0.177
+        },
+        {
+          "qty": 1000,
+          "price": 0.1493
+        },
+        {
+          "qty": 2000,
+          "price": 0.1432
+        },
+        {
+          "qty": 5000,
+          "price": 0.1394
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "-55\u2103~+125\u2103 125V 125V 2.5mm 5.566 50A 5A 6.1mm Surface Mount Fuse 2410 Disposable fuses ROHS",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_littelfuse-0451005-mrl_C48467.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809042025_Littelfuse-0451005-MRL_C48467.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "5.566"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A"
+        },
+        {
+          "name": "Current Rating",
+          "value": "5A"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "125V"
+        },
+        {
+          "name": "Width",
+          "value": "2.5mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3158043",
+      "name": "Littelfuse 0451005.MRSN",
+      "model": "0451005.MRSN",
+      "brand": "Littelfuse",
+      "package": "SMD,6.1x2.7mm",
+      "category": "Disposable fuses",
+      "stock": 20,
+      "type": "Extended",
+      "price": 2.7568,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.7568
+        },
+        {
+          "qty": 10,
+          "price": 2.6935
+        },
+        {
+          "qty": 30,
+          "price": 2.6513
+        },
+        {
+          "qty": 100,
+          "price": 2.609
+        },
+        {
+          "qty": 102,
+          "price": 2.609
+        },
+        {
+          "qty": 104,
+          "price": 2.609
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "-55\u2103~+125\u2103 125V 125V 50A 5A SMD,6.1x2.7mm Disposable fuses ROHS",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_littelfuse-0451005-mrsn_C3158043.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "5.566"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A"
+        },
+        {
+          "name": "Current Rating",
+          "value": "5A"
+        },
+        {
+          "name": "Height",
+          "value": "2.69mm"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "125V"
+        },
+        {
+          "name": "Width",
+          "value": "2.69mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3166215",
+      "name": "Littelfuse 0451005.NRL",
+      "model": "0451005.NRL",
+      "brand": "Littelfuse",
+      "package": "2410",
+      "category": "Disposable fuses",
+      "stock": 92,
+      "type": "Extended",
+      "price": 2.5587,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.5587
+        },
+        {
+          "qty": 10,
+          "price": 2.172
+        },
+        {
+          "qty": 30,
+          "price": 1.93
+        },
+        {
+          "qty": 100,
+          "price": 1.6814
+        },
+        {
+          "qty": 500,
+          "price": 1.5693
+        },
+        {
+          "qty": 1000,
+          "price": 1.5206
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+125\u2103 0.0824 125V 125V 2.5mm 50A 5A 6.1mm Surface Mount Fuse 2410 Disposable fuses ROHS",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_littelfuse-0451005-nrl_C3166215.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401291051_Littelfuse-0451005-NRL_C3166215.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "0.0824"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A"
+        },
+        {
+          "name": "Current Rating",
+          "value": "5A"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "125V"
+        },
+        {
+          "name": "Width",
+          "value": "2.5mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C19377093",
+      "name": "Littelfuse 0451005.MR",
+      "model": "0451005.MR",
+      "brand": "Littelfuse",
+      "package": "-",
+      "category": "Disposable fuses",
+      "stock": 0,
+      "type": "Extended",
+      "price": 3.2458,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.2458
+        },
+        {
+          "qty": 10,
+          "price": 3.2458
+        },
+        {
+          "qty": 12,
+          "price": 3.2458
+        },
+        {
+          "qty": 200,
+          "price": 1.2964
+        },
+        {
+          "qty": 500,
+          "price": 1.2526
+        },
+        {
+          "qty": 1000,
+          "price": 1.2314
+        }
+      ],
+      "min_qty": 3,
+      "reel_qty": 1000,
+      "description": "-55\u2103~+125\u2103 125V 2.69mm 2.69mm 5.566 50A@125V\u3001300A@32V\u300110kA@75V 5A 6.1mm Surface Mount Fuse - Disposable fuses",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_littelfuse-0451005-mr_C19377093.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "5.566"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A@125V\u3001300A@32V\u300110kA@75V"
+        },
+        {
+          "name": "Current Rating",
+          "value": "5A"
+        },
+        {
+          "name": "Height",
+          "value": "2.69mm"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "125V"
+        },
+        {
+          "name": "Width",
+          "value": "2.69mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C19403122",
+      "name": "Littelfuse 0451005.NR",
+      "model": "0451005.NR",
+      "brand": "Littelfuse",
+      "package": "-",
+      "category": "Disposable fuses",
+      "stock": 0,
+      "type": "Extended",
+      "price": 1.3451,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.3451
+        },
+        {
+          "qty": 10,
+          "price": 1.3451
+        },
+        {
+          "qty": 12,
+          "price": 1.3451
+        },
+        {
+          "qty": 200,
+          "price": 0.5378
+        },
+        {
+          "qty": 500,
+          "price": 0.5199
+        },
+        {
+          "qty": 1000,
+          "price": 0.5101
+        }
+      ],
+      "min_qty": 7,
+      "reel_qty": 5000,
+      "description": "- Disposable fuses",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_littelfuse-0451005-nr_C19403122.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "5.566"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A@125V\u3001300A@32V\u300110kA@75V"
+        },
+        {
+          "name": "Current Rating",
+          "value": "5A"
+        },
+        {
+          "name": "Height",
+          "value": "2.69mm"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "125V"
+        },
+        {
+          "name": "Width",
+          "value": "2.69mm"
+        }
+      ]
+    }
+  ]
+}

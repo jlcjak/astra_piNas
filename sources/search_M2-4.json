@@ -1,0 +1,484 @@
+{
+  "total": 44,
+  "results": [
+    {
+      "lcsc": "C9900288866",
+      "name": "JIALICHUANG SMT M2-4",
+      "model": "M2-4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C5445190",
+      "name": "Mini-Circuits TCM2-43X",
+      "model": "TCM2-43X",
+      "brand": "Mini-Circuits",
+      "package": "SMD-6P,4.1x3.8mm",
+      "category": "RFID ICs",
+      "stock": 21,
+      "type": "Extended",
+      "price": 4.3814,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 4.3814
+        },
+        {
+          "qty": 10,
+          "price": 4.279
+        },
+        {
+          "qty": 30,
+          "price": 4.2108
+        },
+        {
+          "qty": 100,
+          "price": 4.1409
+        },
+        {
+          "qty": 102,
+          "price": 4.1409
+        },
+        {
+          "qty": 104,
+          "price": 4.1409
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "10MHz~4GHz SMD-6P,4.1x3.8mm RFID ICs ROHS",
+      "url": "https://www.lcsc.com/product-detail/rfid-ics_mini-circuits-tcm2-43x_C5445190.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304270930_Mini-Circuits-TCM2-43X_C5445190.pdf",
+      "attributes": [
+        {
+          "name": "Frequency",
+          "value": "10MHz~4GHz"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900058662",
+      "name": "JIALICHUANG SMT ESIM2-4G",
+      "model": "ESIM2-4G",
+      "brand": "JLCPCB Assembly",
+      "package": "QFN8_5X6",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "QFN8_5X6 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C49109661",
+      "name": "Domestic brand MPP-M2-4",
+      "model": "MPP-M2-4",
+      "brand": "Domestic brand",
+      "package": "-",
+      "category": "Studs & Screws",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0246,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0246
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-",
+      "url": "https://www.lcsc.com/product-detail/studs-screws_domestic-brand-mpp-m2-4_C49109661.html",
+      "datasheet": "",
+      "attributes": []
+    },
+    {
+      "lcsc": "C2885644",
+      "name": "Mini-Circuits TCM2-43X+",
+      "model": "TCM2-43X+",
+      "brand": "Mini-Circuits",
+      "package": "SMD-6P,4.1x3.8mm",
+      "category": "Balun",
+      "stock": 2626,
+      "type": "Extended",
+      "price": 4.8379,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 4.8379
+        },
+        {
+          "qty": 10,
+          "price": 4.0987
+        },
+        {
+          "qty": 30,
+          "price": 3.6601
+        },
+        {
+          "qty": 100,
+          "price": 3.2166
+        },
+        {
+          "qty": 500,
+          "price": 3.0119
+        },
+        {
+          "qty": 1000,
+          "price": 2.9209
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "-40\u2103~+85\u2103 0.5dB 10MHz~4GHz 14.98dB 1:2 3dB 7\u00b0 SMD-6P,4.1x3.8mm Balun ROHS",
+      "url": "https://www.lcsc.com/product-detail/balun_mini-circuits-tcm2-43x_C2885644.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304122030_Mini-Circuits-TCM2-43X-_C2885644.pdf",
+      "attributes": [
+        {
+          "name": "Frequency Range",
+          "value": "10MHz~4GHz"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Phase Difference",
+          "value": "7\u00b0"
+        },
+        {
+          "name": "Return Loss(Min)",
+          "value": "14.98dB"
+        },
+        {
+          "name": "Impedance - Unbalanced/Balanced",
+          "value": "1:2"
+        },
+        {
+          "name": "Length",
+          "value": "4.06mm"
+        },
+        {
+          "name": "Amplitude Balance (Max)",
+          "value": "0.5dB"
+        },
+        {
+          "name": "Height",
+          "value": "4.06mm"
+        },
+        {
+          "name": "Insertion Loss (Max)",
+          "value": "3dB"
+        },
+        {
+          "name": "Width",
+          "value": "3.81mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900123772",
+      "name": "JIALICHUANG SMT BSOS-M2-4",
+      "model": "BSOS-M2-4",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 1000,
+      "description": "SMD New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C22355862",
+      "name": "HenryTech H2TCM2-43X+",
+      "model": "H2TCM2-43X+",
+      "brand": "HenryTech",
+      "package": "SMD-6P,4.2x3.8mm",
+      "category": "Balun",
+      "stock": 11,
+      "type": "Extended",
+      "price": 2.968,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.968
+        },
+        {
+          "qty": 10,
+          "price": 2.8982
+        },
+        {
+          "qty": 30,
+          "price": 2.8511
+        },
+        {
+          "qty": 100,
+          "price": 2.804
+        },
+        {
+          "qty": 102,
+          "price": 2.804
+        },
+        {
+          "qty": 104,
+          "price": 2.804
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "-40\u2103~+85\u2103 10MHz~4GHz 12dB 1:2 1dB 2.5dB 8\u00b0 SMD-6P,4.2x3.8mm Balun ROHS",
+      "url": "https://www.lcsc.com/product-detail/balun_henrytech-h2tcm2-43x_C22355862.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2403111511_HenryTech-H2TCM2-43X-_C22355862.pdf",
+      "attributes": [
+        {
+          "name": "Frequency Range",
+          "value": "10MHz~4GHz"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Phase Difference",
+          "value": "8\u00b0"
+        },
+        {
+          "name": "Return Loss(Min)",
+          "value": "12dB"
+        },
+        {
+          "name": "Impedance - Unbalanced/Balanced",
+          "value": "1:2"
+        },
+        {
+          "name": "Length",
+          "value": "4.2mm"
+        },
+        {
+          "name": "Amplitude Balance (Max)",
+          "value": "1dB"
+        },
+        {
+          "name": "Height",
+          "value": "2.8mm"
+        },
+        {
+          "name": "Insertion Loss (Max)",
+          "value": "2.5dB"
+        },
+        {
+          "name": "Width",
+          "value": "3.8mm"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900140632",
+      "name": "JIALICHUANG SMT TCM2-43WX+",
+      "model": "TCM2-43WX+",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD-6P",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "SMD-6P New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C49174291",
+      "name": "Khon SC224AM2-46A",
+      "model": "SC224AM2-46A",
+      "brand": "Khon",
+      "package": "-",
+      "category": "Switch Accessories / Caps",
+      "stock": 350,
+      "type": "Extended",
+      "price": 0.066,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.066
+        },
+        {
+          "qty": 100,
+          "price": 0.052
+        },
+        {
+          "qty": 300,
+          "price": 0.045
+        },
+        {
+          "qty": 2000,
+          "price": 0.0397
+        },
+        {
+          "qty": 4000,
+          "price": 0.0355
+        },
+        {
+          "qty": 10000,
+          "price": 0.0334
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "Cylinder Gray Switch Cap - Switch Accessories / Caps ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Switch Cap"
+        },
+        {
+          "name": "Shape",
+          "value": "Cylinder"
+        },
+        {
+          "name": "Color",
+          "value": "Gray"
+        }
+      ]
+    },
+    {
+      "lcsc": "C553956",
+      "name": "SART S6125-M2-4.0A",
+      "model": "S6125-M2-4.0A",
+      "brand": "SART(Nanjing Sart Tech)",
+      "package": "2410",
+      "category": "Disposable fuses",
+      "stock": 1003,
+      "type": "Extended",
+      "price": 0.1682,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1682
+        },
+        {
+          "qty": 50,
+          "price": 0.1349
+        },
+        {
+          "qty": 150,
+          "price": 0.1206
+        },
+        {
+          "qty": 1000,
+          "price": 0.0904
+        },
+        {
+          "qty": 2000,
+          "price": 0.0824
+        },
+        {
+          "qty": 5000,
+          "price": 0.0777
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "-55\u2103~+125\u2103 2.5mm 20 250V 250V 4A 50A 6.1mm Surface Mount Fuse 2410 Disposable fuses ROHS",
+      "url": "https://www.lcsc.com/product-detail/disposable-fuses_sart-nanjing-sart-tech-s6125-m2-4-0a_C553956.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_SART-Nanjing-Sart-Tech-S6125-M2-4-0A_C553956.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Surface Mount Fuse"
+        },
+        {
+          "name": "Melting I2t",
+          "value": "20"
+        },
+        {
+          "name": "Length",
+          "value": "6.1mm"
+        },
+        {
+          "name": "Interrupt Rating",
+          "value": "50A"
+        },
+        {
+          "name": "Current Rating",
+          "value": "4A"
+        },
+        {
+          "name": "Voltage Rating (DC)",
+          "value": "250V"
+        },
+        {
+          "name": "Width",
+          "value": "2.5mm"
+        }
+      ]
+    }
+  ]
+}

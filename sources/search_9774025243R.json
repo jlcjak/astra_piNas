@@ -1,0 +1,67 @@
+{
+  "total": 2,
+  "results": [
+    {
+      "lcsc": "C22431115",
+      "name": "Wurth 9774025243R",
+      "model": "9774025243R",
+      "brand": "Wurth Elektronik",
+      "package": "-",
+      "category": "Patch round nut",
+      "stock": 3392,
+      "type": "Extended",
+      "price": 0.9959,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.9959
+        },
+        {
+          "qty": 10,
+          "price": 0.9325
+        },
+        {
+          "qty": 200,
+          "price": 0.7782
+        },
+        {
+          "qty": 950,
+          "price": 0.7473
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 950,
+      "description": "- Patch round nut ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900035855",
+      "name": "JIALICHUANG SMT 9774025243R",
+      "model": "9774025243R",
+      "brand": "JLCPCB Assembly",
+      "package": "SMD",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 1000,
+      "description": "SMD New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

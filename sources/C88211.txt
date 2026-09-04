@@ -1,0 +1,325 @@
+     I N D U C T O R S
+
+Inductors for power circuits                                                                                                                                    Cl      Pb
+                                                                                                                                                               Br
+Wound metal                                                                                                                                       REACH       Halogen   Lead
+                                                                                                                                          RoHS    SVHC-Free    Free     Free
+VLS-HBX-1 series
+
+
+
+VLS252010HBX-1 type
+    FEATURES
+      Magnetic shield type wound inductor for power circuits using a metallic magnetic material.
+      High magnetic shield construction and compatible with high-density mounting.
+      Larger current was achieved by the metallic magnetic material.
+
+
+    APPLICATION
+      Smart phones, tablet terminals, HDDs, SSDs, DVCs, DSCs, mobile display panels, portable game devices, compact power supply
+      modules, other
+      Application guides: Smart phones/tablets
+
+
+    PART NUMBER CONSTRUCTION
+
+    VLS                   252010                         HB                     X            -          R24                       M              -            1
+                      L×W×H dimensions                                                               Inductance               Inductance
+ Series name                                       Internal code 1       Internal code 2                                                                Marking
+                        2.5×2.0×1.0 mm                                                                  (µH)                   tolerance
+
+
+
+    CHARACTERISTICS SPECIFICATION TABLE
+L                           L measuring          DC resistance               Rated current                                            Part No.
+                            frequency
+                                                                     Isat         Itemp       Isat                      Itemp
+(µH)        Tolerance      (MHz)                ( )max. ( )typ.    (A)max.      (A)max.     (A)typ.                   (A)typ.
+  0.24      ±20%           1                    0.029    0.022       6.55         3.91        7.10                      4.60           VLS252010HBX-R24M-1
+  0.33      ±20%           1                    0.031    0.025       5.03         3.74        5.46                      4.40           VLS252010HBX-R33M-1
+  0.47      ±20%           1                    0.035    0.029       4.53         3.32        5.25                      3.90           VLS252010HBX-R47M-1
+  0.68      ±20%           1                    0.048    0.040       3.62         2.98        4.17                      3.50           VLS252010HBX-R68M-1
+  1.0       ±20%           1                    0.065    0.054       3.22         2.55        3.57                      3.00           VLS252010HBX-1R0M-1
+  1.5       ±20%           1                    0.094    0.078       2.70         2.02        3.00                      2.38           VLS252010HBX-1R5M-1
+  2.2       ±20%           1                    0.120    0.100       2.30         1.76        2.60                      2.07           VLS252010HBX-2R2M-1
+  3.3       ±20%           1                    0.178    0.148       1.60         1.26        1.90                      1.48           VLS252010HBX-3R3M-1
+  4.7       ±20%           1                    0.250    0.208       1.40         1.09        1.60                      1.28           VLS252010HBX-4R7M-1
+  6.8       ±20%           1                    0.406    0.338       1.10         0.75        1.25                      0.88           VLS252010HBX-6R8M-1
+10          ±20%           1                    0.552    0.460       0.95         0.68        1.13                      0.80           VLS252010HBX-100M-1
+ Rated current: smaller value of either Isat or Itemp.
+
+   Isat: When based on the inductance change rate (30% below the initial L value)
+   Itemp: When based on the temperature increase (temperature increase of 40°C by self heating)
+
+Measurement equipment
+Measurement item          Product No.                                Manufacturer
+L                         4194A                                      Keysight Technologies
+DC resistance             VP-2941A                                   Panasonic
+Rated current Isat        4285A+42841A+42842C                        Keysight Technologies
+＊ Equivalent measurement equipment may be used.
+
+
+
+    TEMPERATURE RANGE, INDIVIDUAL WEIGHT
+  Operating temperature range        Storage temperature range                        Individual weight
+           –40 to 105 °C                        –40 to 105 °C                                  26 mg
+ Operating temperature range includes self-temperature rise.
+ The storage temperature range is for after the assembly.
+
+
+
+
+    Please be sure to request delivery specifications that provide further details on the features and specifications of the products for proper and safe use.          (1/4)
+    Please note that the contents may change without any prior notice due to reasons such as upgrading.
+                                                                                                                                                                  20180709
+                                                                                                                 inductor_commercial_power_vls252010hbx-1_en.fm
+                 I N D U C T O R S
+
+VLS252010HBX-1 type
+         L FREQUENCY CHARACTERISTICS
+      100
+
+
+
+
+                             100M
+            10
+
+
+
+
+Inductance(µH)
+                             6R8M
+                             4R7M
+
+                             3R3M
+
+                             2R2M
+                             1R5M
+                 1           1R0M
+
+                             R68M
+                             R47M
+                             R33M
+                             R24M
+
+
+         0.1
+           0.1                                                       1                                              10                                               100
+                                                                                 Frequency(MHz)
+
+                         Measurement equipment
+                         Product No.                  Manufacturer
+                         4294A                        Keysight Technologies
+                         ＊ Equivalent measurement equipment may be used.
+
+
+
+
+         INDUCTANCE VS. DC BIAS CHARACTERISTICS
+                 100
+
+
+
+
+                  10                       100M
+
+
+
+
+Inductance(µH)
+                                                  6R8M
+
+                                                    4R7M
+                                                           3R3M
+                                                                  2R2M
+
+                                                                              1R5M
+                     1
+                                                                                     1R0M
+                                                                                                  R68M
+
+                                                                                                                         R47M
+                                                                                                                                       R33M
+                                                                                                                                                                   R24M
+
+
+                     0
+                         0             1                   2              3               4                     5                  6                  7                   8
+                                                                                     DC current(A)
+
+                         Measurement equipment
+                         Product No.                  Manufacturer
+                         4285A+42841A+42842C          Keysight Technologies
+                         ＊ Equivalent measurement equipment may be used.
+
+
+
+
+            Please be sure to request delivery specifications that provide further details on the features and specifications of the products for proper and safe use.        (2/4)
+            Please note that the contents may change without any prior notice due to reasons such as upgrading.
+                                                                                                                                                                         20180709
+                                                                                                                         inductor_commercial_power_vls252010hbx-1_en.fm
+               I N D U C T O R S
+
+VLS252010HBX-1 type
+         SHAPE & DIMENSIONS                                                                             PACKAGING STYLE
+                                                                                                        REEL DIMENSIONS
+                                                                                                                         2.0±0.5
+
+                                     2.0±0.2
+
+
+
+
+                      2.5±0.2                                            (0.6)       (1.3)     (0.6)
+
+
+
+
+                                                                                                                                                                   ø60+1/–0
+
+                                               1.0max.
+
+
+
+
+                                                                                 Dimensions in mm
+                                                                                                                          ø13±0.2                                 9.0±0.3
+                                                                                                                           ø21±0.8                                13±1.4
+                                                                                                                   ø180+0/–3
+
+                                                                                                                                                      Dimensions in mm
+
+
+                                                                                                        TAPE DIMENSIONS
+
+
+
+                                                                                                                                                                                 1.75±0.1   3.5±0.05
+         RECOMMENDED LAND PATTERN                                                                                          Sprocket
+                                                                                                       0.25±0.05                                    2.0±0.05      4.0±0.1
+                                                                                                                           hole          1.5 +0.1
+                                                                                                                                             –0
+
+
+
+
+                                                                                                                                                                                                   8.0±0.2
+                                                 2.0
+                                                                                                                     B
+
+
+                                                                                                            K                   A               4.0±0.1                       Cavity
+                0.6        1.3    0.6
+                           2.5
+                                                                                                                                                                    Dimensions in mm
+                         Dimensions in mm
+
+
+                                                                                                            Type                  A             B                 K
+                                                                                                       VLS252010HBX-1          2.3±0.1       2.8±0.1           1.15±0.1
+
+
+
+                                                                                                        PACKAGE QUANTITY
+         RECOMMENDED REFLOW PROFILE
+                                                                                                            Package quantity                  2000pcs/reel
+
+                                  Preheating                             Soldering           Natural
+                                                                                             cooling
+                                                                           Peak
+                                                                          260°C
+
+
+                                                                 230°C                       230°C
+
+
+Temperature
+                                                         180°C
+                                                                             10s
+                      150°C
+
+                                  60 to 120s                                30s
+
+
+
+                                                          Time
+
+
+
+
+              Please be sure to request delivery specifications that provide further details on the features and specifications of the products for proper and safe use.                      (3/4)
+              Please note that the contents may change without any prior notice due to reasons such as upgrading.
+                                                                                                                                                                              20180709
+                                                                                                                           inductor_commercial_power_vls252010hbx-1_en.fm
+   I N D U C T O R S
+
+
+                       REMINDERS FOR USING THESE PRODUCTS
+                                  Before using these products, be sure to request the delivery specifications.
+
+
+                                                      SAFETY REMINDERS
+                       Please pay sufficient attention to the warnings for safe designing when using this products.
+
+
+
+                                                                           REMINDERS
+
+  The storage period is less than 12 months. Be sure to follow the storage conditions (temperature: 5 to 40°C, humidity: 10 to 75% RH or
+  less).
+  If the storage period elapses, the soldering of the terminal electrodes may deteriorate.
+
+  Do not use or store in locations where there are conditions such as gas corrosion (salt, acid, alkali, etc.).
+
+  Before soldering, be sure to preheat components.
+  The preheating temperature should be set so that the temperature difference between the solder temperature and chip temperature
+  does not exceed 150°C.
+
+  Soldering corrections after mounting should be within the range of the conditions determined in the specifications.
+  If overheated, a short circuit, performance deterioration, or lifespan shortening may occur.
+
+  When embedding a printed circuit board where a chip is mounted to a set, be sure that residual stress is not given to the chip due to
+  the overall distortion of the printed circuit board and partial distortion such as at screw tightening portions.
+
+  Self heating (temperature increase) occurs when the power is turned ON, so the tolerance should be sufficient for the set thermal
+  design.
+
+  Carefully lay out the coil for the circuit board design of the non-magnetic shield type.
+  A malfunction may occur due to magnetic interference.
+
+  Use a wrist band to discharge static electricity in your body through the grounding wire.
+
+  Do not expose the products to magnets or magnetic fields.
+
+  Do not use for a purpose outside of the contents regulated in the delivery specifications.
+
+  The products listed on this catalog are intended for use in general electronic equipment (AV equipment, telecommunications equip-
+  ment, home appliances, amusement equipment, computer equipment, personal equipment, office equipment, measurement equip-
+  ment, industrial robots) under a normal operation and use condition.
+  The products are not designed or warranted to meet the requirements of the applications listed below, whose performance and/or qual-
+  ity require a more stringent level of safety or reliability, or whose failure, malfunction or trouble could cause serious damage to society,
+  person or property.
+  If you intend to use the products in the applications listed below or if you have special requirements exceeding the range or conditions
+  set forth in the each catalog, please contact us.
+
+  (1) Aerospace/aviation equipment                                                       (8) Public information-processing equipment
+  (2) Transportation equipment (cars, electric trains, ships, etc.)                      (9) Military equipment
+  (3) Medical equipment                                                                  (10) Electric heating apparatus, burning equipment
+  (4) Power-generation control equipment                                                 (11) Disaster prevention/crime prevention equipment
+  (5) Atomic energy-related equipment                                                    (12) Safety equipment
+  (6) Seabed equipment                                                                   (13) Other applications that are not considered general-purpose
+  (7) Transportation control equipment                                                        applications
+
+When designing your equipment even for general-purpose applications, you are kindly requested to take into consideration securing pro-
+tection circuit/device or providing backup circuits in your equipment.
+
+
+
+
+  Please be sure to request delivery specifications that provide further details on the features and specifications of the products for proper and safe use.       (4/4)
+  Please note that the contents may change without any prior notice due to reasons such as upgrading.
+                                                                                                                                                               20180709
+                                                                                                               inductor_commercial_power_vls252010hbx-1_en.fm
+

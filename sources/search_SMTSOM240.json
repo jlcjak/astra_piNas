@@ -1,0 +1,102 @@
+{
+  "total": 3,
+  "results": [
+    {
+      "lcsc": "C19626599",
+      "name": "YIYUAN SMTSOM240BTR",
+      "model": "SMTSOM240BTR",
+      "brand": "YIYUAN",
+      "package": "-",
+      "category": "Patch round nut",
+      "stock": 878,
+      "type": "Extended",
+      "price": 0.0722,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0722
+        },
+        {
+          "qty": 50,
+          "price": 0.0678
+        },
+        {
+          "qty": 1000,
+          "price": 0.0566
+        },
+        {
+          "qty": 5000,
+          "price": 0.0545
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "- Patch round nut ROHS",
+      "url": null,
+      "datasheet": "http://www.yiyuanswitches.com/productinfo/1033448.html",
+      "attributes": []
+    },
+    {
+      "lcsc": "C34373665",
+      "name": "BZXC BSMTSOM240BTR",
+      "model": "BSMTSOM240BTR",
+      "brand": "BZXC",
+      "package": "-",
+      "category": "Patch round nut",
+      "stock": 592,
+      "type": "Extended",
+      "price": 0.0749,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0749
+        },
+        {
+          "qty": 50,
+          "price": 0.0701
+        },
+        {
+          "qty": 1000,
+          "price": 0.0582
+        },
+        {
+          "qty": 5000,
+          "price": 0.0558
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "- Patch round nut ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C54407153",
+      "name": "YIYUAN SMTSOM240BTR2",
+      "model": "SMTSOM240BTR2",
+      "brand": "YIYUAN",
+      "package": "SMD",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "SMD SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

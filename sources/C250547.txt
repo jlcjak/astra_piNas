@@ -1,0 +1,1119 @@
+                                                     ®
+                                                                                                                                           RT9742
+
+70mΩ/55mΩ, 3A/2.5A/2A/1.5A/1A/0.5A High-Side Power
+Switches with Flag
+
+General Description                                                                  Features
+The RT9742 is a cost-effective, low-voltage, single                                   70mΩ/55mΩ (typ.) N-MOSFET Switch
+N-MOSFET high-side Power Switch IC for USB application.                               Operating Range : 2.7V to 6V
+
+Low switch-on resistance and low supply current are                                   Reverse Blocking Current
+
+realized in this IC.                                                                  Under Voltage Lockout
+
+                                                                                      Deglitched Fault Report (FLG)
+The RT9742 integrates an over-current protection circuit,
+                                                                                      Thermal Protection with Fold-back
+a short fold back circuit, a thermal shutdown circuit and
+                                                                                      Over Current Protection
+an under-voltage lockout circuit for overall protection.
+                                                                                      Short Circuit Protection
+Besides, a flag output is available to indicate fault
+                                                                                      UL Approved−E219878
+conditions to the local USB controller. Furthermore, the
+                                                                                      Nemko Approved-NO87949
+chip also integrates an embedded delay function to prevent
+miss-operation from happening due to inrush-current. The
+RT9742 is an ideal solution for USB power supply and                                 Applications
+can support flexible applications since it is available in                               USB Peripherals
+TSOT-23-5, TSOT-23-5 (FC) and SOT-23-3 package.                                          Notebook PCs
+
+
+Pin Configuration
+                                                                         (TOP VIEW)
+
+            VIN        EN/EN                      VOUT           EN                          VOUT            VIN                           GND
+
+             5           4                           5           4                              5               4                           3
+
+
+                   2     3                                 2     3                                     2        3                                  2
+
+
+         VOUT GND FLG                             VOUT GND VIN                                 EN GND FLG                            VIN         VOUT
+
+         TSOT-23-5 /                              TSOT-23-5                                   TSOT-23-5
+                                                                                                                                       SOT-23-3
+        TSOT-23-5 (FC)                        For RT9742M only                             For RT9742U only
+
+
+Simplified Application Circuit
+                                                                                                           USB Controller
+
+                                    Supply Voltage                                                         Over-Current
+                                       2.7V to 6V                       VIN         FLG
+                                                           CIN            RT9742
+
+
+                                      Chip Enable                               VOUT                                       VBUS
+                                                                        EN/EN                               +
+                                                                                                                           D+
+                                                                              GND               COUT
+                                                                                                                           D-
+                                                                                                                           GND
+
+
+
+                                                                                                                    Data
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                       is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09         June 2018                                                                                                                www.richtek.com
+                                                                                                                                                         1
+RT9742
+Ordering and Marking Information
+                                            EN Function                Package
+             Product         Discharge
+   Version           Current
+              Code           Function Active Active Internal TSOT-23-5 TSOT-23-5 SOT-23-3
+                                       High   Low Pull High    (FC)
+RT9742AGJ5F    07=     3A       Yes     V                        V
+RT9742BGJ5F    06=     3A       Yes             V                V
+RT9742ANGJ5F 0F=       3A       No      V                        V
+RT9742BNGJ5F 0E=       3A       No              V                V
+RT9742CGJ5F    05=     2A       Yes     V                        V
+RT9742DGJ5F    04=     2A       Yes             V                V
+RT9742CNGJ5F 0D=       2A       No      V                        V
+RT9742DNGJ5F 0C=       2A       No              V                V
+RT9742CGJ5     0K=     2A       Yes     V                                 V
+RT9742DGJ5     0J=     2A       Yes             V                         V
+RT9742CNGJ5    11=     2A       No      V                                 V
+RT9742DNGJ5    10=     2A       No              V                         V
+RT9742JNGV     6A=     2A       No                      V                           V
+RT9742EGJ5F    03=    1.5A      Yes     V                        V
+RT9742FGJ5F    02=    1.5A      Yes             V                V
+RT9742ENGJ5F 0B=      1.5A      No      V                        V
+RT9742FNGJ5F   0A=    1.5A      No              V                V
+RT9742EGJ5     0H=    1.5A      Yes     V                                 V
+RT9742FGJ5     0G=    1.5A      Yes             V                         V
+RT9742ENGJ5    0Z=    1.5A      No      V                                 V
+RT9742FNGJ5    0Y=    1.5A      No              V                         V
+RT9742KNGV     69=    1.5A      No                      V                           V
+RT9742GGJ5F    01=     1A       Yes     V                        V
+RT9742HGJ5F    00=     1A       Yes             V                V
+RT9742GNGJ5F 09=       1A       No      V                        V
+RT9742HNGJ5F 08=       1A       No              V                V
+RT9742GGJ5     0F=     1A       Yes     V                                 V
+RT9742HGJ5     0E=     1A       Yes             V                         V
+RT9742GNGJ5    0X=     1A       No      V                                 V
+RT9742HNGJ5   0W=      1A       No              V                         V
+RT9742LNGV     68=     1A       No                      V                           V
+RT9742MGJ5     14=    1.5A      Yes     V                                 V
+RT9742MNGJ5    15=    1.5A      No      V                                 V
+RT9742NGJ5F    43=    2.5A      Yes     V                        V
+RT9742PGJ5F    DD=    2.5A      Yes             V                V
+RT9742NNGJ5F 42=      2.5A      No      V                        V
+RT9742PNGJ5F CC=      2.5A      No              V                V
+RT9742NGJ5      9H    2.5A      Yes     V                                 V
+RT9742QGJ5     47=    0.5A      Yes     V                                 V
+RT9742RGJ5     45=    0.5A      Yes             V                         V
+RT9742QNGJ5    46=    0.5A      No      V                                 V
+RT9742RNGJ5    44=    0.5A      No              V                         V
+RT9742SNGV     6V=    0.5A      No                      V                           V
+RT9742UNGJ5    9F=    1.5A      No      V                                 V
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.   is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                               DS9742-09       June 2018
+2
+                                                                                                                                     RT9742
+Note :
+Richtek products are :
+  RoHS compliant and compatible with the current requirements of IPC/JEDEC J-STD-020.
+
+  Suitable for use in SnPb or Pb-free soldering processes.
+
+
+Functional Pin Description
+          Pin Name                                                                    Pin Function
+ VOUT                                Output voltage.
+ GND                                 Ground.
+ FLG                                 Fault FLAG output.
+ EN/EN                               Chip enable (Active High/Low).
+ VIN                                 Power input voltage.
+
+Functional Block Diagram
+TSOT-23-5 / TSOT-23-5 (FC) Package
+
+                                                                                                                                 VIN
+
+
+                   EN/EN                Bias           UVLO                                Current
+                                                                                           Limiting
+
+
+                                                                         Gate
+                                                      Charge
+                                     Oscillator                         Control
+                                                      Pump
+                                                                                       Output Voltage
+                                                                                         Detection                               VOUT
+                                                   Thermal
+                                                  Protection                           Auto Discharge
+                                                                                                                                 FLG
+
+                                                                                          Delay
+                                                                                                                                 GND
+
+
+
+
+SOT-23-3 Package
+
+
+                                                                                                                   VIN
+
+
+                                                         UVLO                        Current
+                                                                                     Limiting
+                                          Bias
+
+                                                        Charge            Gate
+                                       Oscillator                        Control
+                                                        Pump
+
+                                                       Thermal
+                                                      Protection                   Output Voltage
+                                                                                                                   VOUT
+                                                                                     Detection
+
+                                                                                       Auto
+                                                                                    Discharge
+                                                                                                                  GND
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                  is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09       June 2018                                                                                                              www.richtek.com
+                                                                                                                                                     3
+RT9742
+TSOT-23-5 Package (For RT9742M Only)
+
+                                                                                                                  VIN
+
+
+                               EN              Bias         UVLO                    Current
+                                                                                    Limiting
+
+
+                                                           Charge        Gate
+                                          Oscillator                    Control
+                                                           Pump
+                             GND
+                                                          Thermal
+                                                         Protection               Output Voltage
+                                                                                                                   VOUT
+                                                                                    Detector
+                                                                                                                   VOUT
+                                                                                       Auto
+                                                                                    Discharge
+
+
+
+
+Operation
+Charge Pump and Drivers                                                   Under-Voltage Lockout
+An internal charge pump supplies power to the driver circuit              A voltage-sense circuit monitors the input voltage. When
+and provides the necessary voltage to pull the gate of the                the input voltage is above 2.4V, UVLO turns on the
+MOSFET above the source. The driver controls the gate                     MOSFET switch.
+voltage of the power switch.
+                                                                          Thermal Shutdown
+Current Limit                                                             The RT9742 continuously monitors the operating
+The RT9742 continuously monitors the output current for                   temperature of the power switch for over-temperature
+over-current protection to protect the system power, the                  protection. The RT9742 turns off the power switch to
+power switch, and the load from damage during output                      prevent the device from damage if the junction temperature
+short circuit. When an overload or short circuit occurs,                  rises to approximately 140°C due to over-current or short-
+the current-sense circuitry sends a control signal to the                 circuit conditions. The pass element turns on again after
+driver. The driver reduces the gate voltage and drives the                the junction temperature cools to 120°C.
+power MOSFET into its saturation region, which switches
+the output into a constant-current mode and holds the                     FLAG
+current constant until the thermal shutdown occurs or the                 The RT9742 pulls low the open drain output FLAG after
+fault is removed.                                                         over current or over temperature condition occurring over
+                                                                          approximately 10ms.
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.              is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                          DS9742-09       June 2018
+4
+                                                                                                                                  RT9742
+Absolute Maximum Ratings                                     (Note 1)
+ Supply Input Voltage, VIN ----------------------------------------------------------------------------------------------- 7V
+ EN Voltage ------------------------------------------------------------------------------------------------------------------ −0.3V to 7V
+ FLAG Voltage -------------------------------------------------------------------------------------------------------------- 7V
+
+ Power Dissipation, PD @ TA = 25°C
+
+ TSOT-23-5 ------------------------------------------------------------------------------------------------------------------- 0.49W
+ TSOT-23-5 (FC) ------------------------------------------------------------------------------------------------------------ 0.79W
+  SOT-23-3 -------------------------------------------------------------------------------------------------------------------- 0.41W
+ Package Thermal Resistance (Note 2)
+
+  TSOT-23-5, θJA ------------------------------------------------------------------------------------------------------------- 203°C/W
+  TSOT-23-5 (FC), θJA ------------------------------------------------------------------------------------------------------ 126.5°C/W
+  SOT-23-3, θJA --------------------------------------------------------------------------------------------------------------- 243.3°C/W
+ Junction Temperature ----------------------------------------------------------------------------------------------------- 150°C
+
+ Lead Temperature (Soldering, 10 sec.) ------------------------------------------------------------------------------- 260°C
+
+ Storage Temperature Range -------------------------------------------------------------------------------------------- −65°C to 150°C
+
+ ESD Susceptibility (Note 3)
+
+  HBM (Human Body Model) ---------------------------------------------------------------------------------------------- 2kV
+
+
+Recommended Operating Conditions                                               (Note 4)
+ Supply Input Voltage, VIN ----------------------------------------------------------------------------------------------- 2.7V to 6V
+ EN Voltage ------------------------------------------------------------------------------------------------------------------ 0V to 6V
+
+ Junction Temperature Range -------------------------------------------------------------------------------------------- −40°C to 125°C
+
+ Ambient Temperature Range -------------------------------------------------------------------------------------------- −40°C to 85°C
+
+
+
+
+Electrical Characteristics
+(VIN = 5V, CIN = 10μF, COUT = 0.1μF, TA = 25°C, unless otherwise specified)
+
+                   Parameter                            Symbol                  Test Conditions                     Min      Typ       Max         Unit
+    Input Quiescent Current                            IQ               Switch on, VOUT = open                       --       30        40
+                                                                        VIN = 5V, no load on OUT, device                                           A
+    Input Shutdown Current                             ISHDN                                                         --       0.1        1
+                                                                        OFF, VEN = 0V or VEN = 5V
+    Switch On             RT9742XXJ5F                                                                                --       55         --
+                                                       RDS(ON)                                                                                     m
+    Resistance            RT9742XXJ5/V                                                                               --       70         --
+                          RT9742Q/R/S                                                                               0.65     0.89        1
+                          RT9742G/H/L                                                                               1.05      1.4       1.5
+    Over Current          RT9742E/F/K/M/U                                                                           1.55      2.1      2.25
+    Trip Threshold                                     ITRIP            VIN = 5V, 100A/s                                                            A
+    (Note 5)              RT9742C/D/J                                                                               2.05      2.8        3
+                          RT9742N/P                                                                                 2.55      3.5      3.75
+                          RT9742A/B                                                                                 3.05      4.2       4.5
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.               is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09       June 2018                                                                                                           www.richtek.com
+                                                                                                                                                  5
+RT9742
+                     Parameter                                Symbol           Test Conditions                  Min       Typ      Max         Unit
+                              RT9742Q/R/S                                                                        0.6      0.7       0.8
+                              RT9742G/H/L                                                                         1       1.1       1.2
+                              RT9742E/F/K/M/U                                                                    1.5     1.65       1.8
+ Current
+                              RT9742C/D                     ILIM         VOUT = 1V                                2       2.2       2.4         A
+ Limit
+                              RT9742N/P                                                                          2.5    2.75        3
+                              RT9742A/B                                                                           3       3.3       3.6
+                              RT9742J                                                                            1.8     2.15       2.5
+                              Logic_High Voltage            VIH          VIN = 2.7V to 6V                        1.5       --        --
+  EN/EN Threshold                                                                                                                               V
+                              Logic_Low Voltage             VIL          VIN = 2.7V to 6V                         --       --      0.75
+  EN/EN Input Current                                       IEN/EN       VEN = 0V, VEN = 5V                     0.5       --       0.5        A
+ Output Leakage Current                                     ILEAKAGE     VEN = 0V, RLOAD = 0                     --      0.5        1         A
+ Reverse Leakage Current                                    IREV         VOUT = 5V, VIN = 0V                      --       --        1         A
+ Reverse Voltage Trip Point                                 VREV         VOUT  VIN                               --      200        --        mV
+ Output Turn-On Rise Time                                   tON_RISE     10% to 90% of VOUT rising                --      1.5        --        ms
+ Turn-On Time                                               tON          From enable to 90% of VOUT               --      2.1        --        ms
+  FLG Output Resistance                                     RFLG         ISINK = 1mA                              --       10        --         
+  FLG Off Current                                           IFLG_OFF     VFLG = 5V                                --     0.01        1         A
+                                                                         From fault condition to FLG
+  FLG Delay Time                                            tD                                                    --       10        --        ms
+                                                                         assertion
+
+ Shutdown Auto-Discharge Resistance                         RDischarge   VEN = 0V, VEN = 5V                       --      100        --         
+
+ Under-Voltage Lockout                                      VUVLO        VIN rising                               --       --       2.4         V
+ Under-Voltage Hysteresis                                   VUVLO       VIN decreasing                           --      0.1        --         V
+ Thermal Shutdown Protection                                TSD          (Note 6)                                 --      140        --        °C
+ Thermal Shutdown Hysteresis                                TSD         (Note 6)                                 --       20        --        °C
+
+Note 1. Stresses beyond those listed under “Absolute Maximum Ratings” may cause permanent damage to the device.
+         These are stress ratings only, and functional operation of the device at these or any other conditions beyond those
+         indicated in the operational sections of the specifications is not implied. Exposure to absolute maximum rating
+         conditions may affect device reliability.
+Note 2. θJA is measured at TA = 25°C on a high effective thermal conductivity four-layer test board per JEDEC 51-7.
+Note 3. Devices are ESD sensitive. Handling precaution is recommended.
+Note 4. The device is not guaranteed to function outside its operating conditions.
+         The thermal shutdown protection will react at high Ambient Temperature or low VIN due to RDS(ON) variation.
+         Please refer to Application Information and Typical Operating Characteristics.
+Note 5. For a specific sample, Current Trip Threshold (ITRIP) is always higher than Current Limit Threshold (ILIM).
+Note 6. Guarantee by design.
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.           is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                        DS9742-09      June 2018
+6
+                                                                                                                                           RT9742
+Typical Application Circuit
+
+                                                               Pull-Up Resistor (10k to 100k)
+                                                                                                              USB Controller
+
+                                    Supply Voltage                                                            Over -Current
+                                       2.7V to 6V                       VIN        FLG
+                                                            CIN           RT9742A/B/
+                                                            10µF         C/D/E/F/G/H/
+                                                                           N/P/Q/R/U
+                           RT9742A/C/E/G/N/Q/U
+                                                                                   VOUT                                             VBUS
+                               Chip Enable                              EN/EN                                   +
+                                                                                                   COUT                             D+
+                                                                             GND                   0.1µF                            D-
+                                                                                                                                    GND
+
+                                   RT9742B/D/F/H/P/R
+                                      Chip Enable                                            Ferrite
+                                                                                             Beads                         Data
+
+
+
+
+                                                                 RT9742J/K/L/S
+                               Supply Voltage
+                                  2.7V to 6V                     VIN
+                                                        CIN                 VOUT                           +                VBUS
+                                                        10µF                                  COUT                          D+
+                                                                         GND                  0.1µF                         D-
+                                                                                                                            GND
+
+
+                                                                                         Ferrite
+                                                                                         Beads                       Data
+
+
+
+
+                                  Supply Voltage               VIN                VOUT                                         VBUS
+                                      2.7V to 6V
+                                                CIN                                                                            D+
+                                               10µF                     RT9742M                    COUT
+                                                                                                   0.1µF
+                                                                                                                               D-
+
+
+                                                                                  GND                                          GND
+                                                                EN
+
+
+
+                                                                                                    Ferrite
+                                                                                                    Beads           Data
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                      is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09       June 2018                                                                                                                  www.richtek.com
+                                                                                                                                                         7
+RT9742
+Typical Operating Characteristics
+                                                          On Resistance vs. Input Voltage                                                                       On Resistance vs. Temperature
+                                             120                                                                                                   100
+
+                                             110
+                                                                                                                                                    90
+                                             100                                                                                                                                    TSOT-23-5
+
+
+
+
+                    On Resistance (mΩ )                                                                                  On Resistance (mΩ)
+                                                                                                                                                    80
+                                              90
+                                                                     TSOT-23-5
+                                              80                                                                                                    70
+
+                                              70                                                                                                    60                                     TSOT-23-5 (FC)
+                                              60
+                                                                  TSOT-23-5 (FC)                                                                    50
+                                              50
+                                                                                                                                                    40
+                                              40
+                                                                                                                                                                                                     VIN = 5V
+                                              30                                                                                                    30
+                                                   2.5       3    3.5      4       4.5   5      5.5                                                      -50     -25   0       25     50      75     100    125
+                                                                   Input Voltage (V)                                                                                       Temperature (°C)
+
+                                                         Quiescent Current vs. Input Voltage                                                                   Quiescent Current vs. Temperature
+                                         29.5                                                                                              28.4
+                                         29.0                                                                                              28.2
+
+
+
+
+                                                                                                         Quiescent Current (μA)
+                                         28.5
+
+
+
+
+   Quiescent Current (μA)
+                                                                                                                                           28.0
+                                         28.0
+                                         27.5                                                                                              27.8
+
+                                         27.0                                                                                              27.6
+                                         26.5
+                                                                                                                                           27.4
+                                         26.0
+                                                                                                                                           27.2
+                                         25.5
+                                         25.0                                                                                              27.0
+                                                                                         No Load                                                                                           VIN = 5V, No Load
+                                         24.5                                                                                              26.8
+                                                   2.5       3    3.5      4       4.5   5         5.5                                                   -50     -25   0       25     50      75     100    125
+                                                                   Input Voltage (V)                                                                                       Temperature (°C)
+
+                                                         Shutdown Current vs. Input Voltage                                                                    Shutdown Current vs. Temperature
+                                             0.9                                                                                                   1.2
+
+                                             0.8
+                                                                                                                                                     1
+
+
+
+
+                    Shutdown Current (μA)1                                                                                Shutdown Current (μA)1
+                                             0.7
+
+                                             0.6                                                                                                   0.8
+
+                                             0.5
+                                                                                                                                                   0.6
+                                             0.4
+
+                                             0.3                                                                                                   0.4
+
+                                             0.2
+                                                                                                                                                   0.2
+                                             0.1
+                                                                                         VEN = 0V                                                                                          VIN = 5V, VEN = 0V
+                                               0                                                                                                     0
+                                                   2.5       3    3.5      4       4.5   5         5.5                                                   -50     -25   0       25     50      75     100    125
+                                                                   Input Voltage (V)                                                                                       Temperature (°C)
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                                                       is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                                                                                     DS9742-09      June 2018
+8
+                                                                                                                                                                                                                  RT9742
+
+                                                              Output Voltage vs. Output Current                                                                             UVLO Threshold vs. Temperature
+                                                    6                                                                                                           2.8
+
+                                                                            VIN = 5V                                                                            2.6
+                                                    5
+                                                                                                                                                                2.4                            Rising
+
+
+
+
+                               Output Voltage (V)                                                                                     UVLO Threshold (V)
+                                                                                                                                                                2.2
+                                                    4
+                                                                                                                                                                2.0
+                                                    3                                                                                                           1.8                            Falling
+                                                                            VIN = 3.3V
+                                                                                                                                                                1.6
+                                                    2
+                                                                                                                                                                1.4
+                                                                                                                                                                1.2
+                                                    1
+                                                                                                                                                                1.0
+                                                    0                                                                                                           0.8
+                                                         0    0.5       1   1.5       2       2.5     3    3.5     4     4.5      5                                   -50     -25    0          25           50        75   100    125
+                                                                              Output Current (A)                                                                                         Temperature (°C)
+
+                                                        Current Limit Threshold vs. Input Voltage                                                                     Current Limit Threshold vs. Temperature
+                                          3.6                                                                                                                   3.6
+
+                                          3.5
+                                                                                                                                                                3.4
+
+
+
+
+     Current Limit Threshold (A)
+                                          3.4
+                                                                                                                                                                3.2
+
+
+
+
+                                                                                                                                      Current Limit (A)
+                                          3.3
+                                          3.2
+                                                                                                                                                                3.0
+                                          3.1
+                                                                                                                                                                2.8
+                                          3.0
+                                          2.9                                                                                                                   2.6
+                                          2.8
+                                                                                                                                                                2.4
+                                          2.7
+                                                                                                                                                                                                                            VIN = 5V
+                                          2.6                                                                                                                   2.2
+                                                        2.5         3       3.5           4         4.5        5       5.5        6                                   -50      -25       0           25           50        75     100
+                                                                                  Input Voltage (V)                                                                                      Temperature (°C)
+
+
+                                          Over Current Trip Threshold vs. Temperature                                                                                       FLAG Delay Time vs. Input Voltage
+                                           5.0                                                                                                                  9.9
+
+
+
+
+        Over Current Trip Threshold (A)
+                                           4.8                                                                                                                  9.8
+
+
+
+
+                                                                                                                                         FLAG Delay Time (ms)
+                                                                                                                                                                9.7
+                                           4.6
+                                                                                                                                                                9.6
+                                           4.4
+                                                                                                                                                                9.5
+                                           4.2
+                                                                                                                                                                9.4
+                                           4.0
+                                                                                                                                                                9.3
+
+                                           3.8                                                                                                                  9.2
+                                                                                                                       VIN = 5V
+                                           3.6                                                                                                                  9.1
+                                                        -50         -25           0           25          50       75          100                                    2.5       3        3.5             4        4.5       5      5.5
+                                                                                  Temperature (°C)                                                                                       Input Voltage (V)
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                                                                        is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09                                                 June 2018                                                                                                                                               www.richtek.com
+                                                                                                                                                                                                                                9
+RT9742
+
+                              Power On from VIN                                                   Power Off from VIN
+
+
+
+
+      VIN                                                                   VIN
+    (2V/Div)                                                              (2V/Div)
+
+
+      VOUT                                                                  VOUT
+    (2V/Div)                                                              (2V/Div)
+
+                                                                No Load                                                             No Load
+
+                                    Time (2ms/Div)                                                     Time (10ms/Div)
+
+
+
+                               Power On from EN                                                       FLG Response
+
+
+                                                                            FLG
+                                                                          (5V/Div)
+      EN
+    (2V/Div)
+
+
+                                                                            VOUT
+                                                                          (2V/Div)
+      VOUT
+    (2V/Div)
+                                                                             I IN
+                                                                No Load
+                                                                          (2A/Div)                                                  VIN = 5V
+
+                                    Time (1ms/Div)                                                      Time (2ms/Div)
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.      is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                  DS9742-09       June 2018
+10
+                                                                                                                               RT9742
+Application Information
+The RT9742 is a single N-MOSFET high-side power switch                      Reverse Voltage Protection
+with enable input, optimized for self-powered and bus-                      When the output voltage exceeds than input voltage by
+powered Universal Serial Bus (USB) applications. The                        reverse voltage trip point (VREV), the reverse voltage
+RT9742 is equipped with a charge pump circuitry to drive                    protection circuitry will turn off MOSFET to protect the
+the internal N-MOSFET switch; the switch's low RDS(ON),                     input power supply. The MOSFET will turn on again when
+70mΩ/55mΩ, meets USB voltage drop requirements; and                         output voltage return to the same level with input voltage.
+a flag output is available to indicate fault conditions to the
+local USB controller.                                                       Soft-Start for Hot Plug-In Applications
+                                                                            In order to eliminate the upstream voltage droop caused
+Input and Output
+                                                                            by the large inrush current during hot-plug events, the
+VIN (input) is the power source connection to the internal                  “soft-start” feature effectively isolates the power source
+circuitry and the drain of the MOSFET. VOUT (output) is                     from extremely large capacitive loads, satisfying the USB
+the source of the MOSFET. In a typical application, current                 voltage droop requirements.
+flows through the switch from VIN to VOUT toward the load.
+If VOUT is greater than VIN, current will flow from VOUT to                 Fault Flag
+VIN since the MOSFET is bidirectional when on.                              The RT9742 series provides a FLG signal pin which is an
+Unlike a normal MOSFET, there is no parasitic body diode                    N-Channel open drain MOSFET output. This open drain
+between drain and source of the MOSFET, the RT9742                          output goes low when current limit or the die temperature
+prevents reverse current flow if VOUT is externally forced                  exceeds 140°C approximately. The FLG output is capable
+to a higher voltage than VIN when the chip is disabled.                     of sinking a 10mA load to typically 200mV above ground.
+                                                                            The FLG pin requires a pull-up resistor, this resistor should
+                                                                            be large in value to reduce energy drain. A 100kΩ pull-up
+                                                                            resistor works well for most applications. In the case of
+                                     D                                  S
+ D                             S                                            an over-current condition, FLG will be asserted only after
+                                                                            the flag response delay time, tD, has elapsed. This ensures
+                                                                            that FLG is asserted only upon valid over-current conditions
+                                                                            and that erroneous error reporting is eliminated.
+                G                                      G
+
+     Normal MOSFET                                 RT9742                   For example, false over-current conditions may occur
+                                                                            during hot-plug events when extremely large capacitive
+Chip Enable Input                                                           loads are connected and causes a high transient inrush
+                                                                            current that exceeds the current limit threshold. The FLG
+The switch will be disabled when the EN/EN pin is in a
+                                                                            response delay time tD is typically 10ms.
+logic low/high condition. During this condition, the internal
+circuitry and MOSFET will be turned off. Floating the                       Under-Voltage Lockout
+EN/EN may cause unpredictable operation. EN should
+                                                                            Under-voltage lockout (UVLO) prevents the MOSFET
+not be allowed to go negative with respect to GND. The
+                                                                            switch from turning on until input the voltage exceeds 2.4V.
+EN/EN pin may be directly tied to VIN (GND) to keep the
+                                                                            If input voltage drops below than UVLO threshold, UVLO
+part on.
+                                                                            turns off the MOSFET switch. Under-voltage detection
+                                                                            functions only when the switch is enabled.
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.            is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09       June 2018                                                                                                       www.richtek.com
+                                                                                                                                              11
+RT9742
+Current Limiting and Short-Circuit Protection                           The junction to ambient thermal resistance (θJA) for TSOT-
+The current limit circuitry prevents damage to the MOSFET               23-5 package at recommended minimum footprint is
+switch and the hub downstream port but can deliver load                 203°C/W (θJA is layout dependent).
+current up to the current limit threshold. When a heavy
+                                                                        Universal Serial Bus (USB) & Power Distribution
+load or short circuit is applied to an enabled switch, a
+large transient current may flow until the current limit                The goal of USB is to enable device from different vendors
+circuitry responds. Once this current limit threshold is                to interoperate in an open architecture. USB features
+exceeded, the device enters constant current mode until                 include ease of use for the end user, a wide range of
+the thermal shutdown occurs or the fault is removed.                    workloads and applications, robustness, synergy with the
+                                                                        PC industry, and low-cost implementation. Benefits
+Thermal Shutdown                                                        include self-identifying peripherals, dynamically attachable
+Thermal protection limits the power dissipation in the                  and reconfigurable peripherals, multiple connections
+RT9742. When the operation junction temperature                         (support for concurrent operation of many devices), support
+exceeds 140°C, the OTP circuit starts the thermal                       for as many as 127 physical devices, and compatibility
+shutdown function and turns the pass element off. The                   with PC Plug-and-Play architecture.
+pass element turn on again after the junction temperature               The Universal Serial Bus connects USB devices with a
+cools to 120°C.                                                         USB host: each USB system has one USB host. USB
+                                                                        devices are classified either as hubs, which provide
+Power Dissipation
+                                                                        additional attachment points to the USB, or as functions,
+The junction temperature of the RT9742 series depend                    which provide capabilities to the system (for example, a
+on several factors such as the load, PCB layout, ambient                digital joystick). Hub devices are then classified as either
+temperature and package type. The output pin of the                     Bus-Power Hubs or Self-Powered Hubs.
+RT9742 can deliver the current of up to the current limit
+                                                                        A Bus-Powered Hub draws all of the power to any internal
+threshold over the full operating junction temperature range.
+                                                                        functions and downstream ports from the USB connector
+However, the maximum output current must be derated
+                                                                        power pins. The hub may draw up to 500mA from the
+at higher ambient temperature to ensure the junction
+                                                                        upstream device. External ports in a Bus-Powered Hub
+temperature does not exceed 125°C. With all possible
+                                                                        can supply up to 100mA per port, with a maximum of four
+conditions, the junction temperature must be within the
+                                                                        external ports.
+range specified under operating conditions. Power
+dissipation can be calculated based on the output current               Self-Powered Hub power for the internal functions and
+and the RDS(ON) of the switch as below.                                 downstream ports does not come from the USB, although
+                                                                        the USB interface may draw up to 100mA from its
+PD = RDS(ON) x IOUT2
+                                                                        upstream connect, to allow the interface to function when
+Although the devices are rated for 3A, 2.5A, 2A, 1.5A, 1A               the remainder of the hub is powered down. The hub must
+and 0.5A , of output current, but the application may limit             be able to supply up to 500mA on all of its external
+the amount of output current based on the total power                   downstream ports. Please refer to Universal Serial
+dissipation and the ambient temperature. The final                      Specification Revision 2.0 for more details on designing
+operating junction temperature for any set of conditions                compliant USB hub and host systems.
+can be estimated by the following thermal equation :
+                                                                        Over-Current protection devices such as fuses and PTC
+PD (MAX) = ( TJ (MAX) - TA ) / θJA                                      resistors (also called polyfuse or polyswitch) have slow
+Where TJ (MAX) is the maximum junction temperature of                   trip times, high on-resistance, and lack the necessary
+the die (125°C) and T A is the maximum ambient                          circuitry for USB-required fault reporting.
+temperature.                                                            The faster trip time of the RT9742 power distribution allows
+                                                                        designers to design hubs that can operate through faults.
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.        is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                    DS9742-09       June 2018
+12
+                                                                                                                                RT9742
+The RT9742 provides low on-resistance and internal fault-                     Output Filter Capacitor
+reporting circuitry to meet voltage regulation and fault                      The output capacitance should be optimized for the
+notification requirements.                                                    different applications. For the USB application, the
+Because the devices are also power switches, the designer                     minimum output capacitance between VOUT and GND has
+of self-powered hubs has the flexibility to turn off power to                 been determining. Each downstream facing port is required
+output ports. Unlike a normal MOSFET, the devices have                        at least 120μF to meet the minimum drop voltage of VBUS
+controlled rise and fall times to provide the needed inrush                   (330mV). However, the maximum output capacitance is
+current limiting required for the bus-powered hub power                       also constrained from the applications. The first is larger
+switch.                                                                       output capacitance causes higher inrush current during
+                                                                              turn on period. Based on the acceptable inrush current
+Supply Filter/Bypass Capacitor                                                and VOUT rising time, the maximum output capacitor is
+A 10μF low-ESR ceramic capacitor from VIN to GND,                             obtained. Second, the VIN spike is also considered as
+located at the device is strongly recommended to prevent                      VOUT short-circuit occurring. Greater output capacitance
+the input voltage drooping during hot-plug events. However,                   induces greater VIN spike. Thus, the recommend output
+higher capacitor values will further reduce the voltage droop                 capacitance is defined from 120μF to 330μF.
+on the input. Furthermore, without the bypass capacitor,                      For the general application, bypassing the output with a
+an output short may cause sufficient ringing on the input                     0.01μF to 0.1μF ceramic capacitor improves the immunity
+(from source lead inductance) to destroy the internal                         of the device to short-circuit transients.
+control circuitry. The input transient must not exceed 7V
+of the absolute maximum supply voltage even for a short
+duration.
+
+
+
+                                                                        10k
+                                                                                 USB Controller
+
+                 5V                      VIN                                      Over-Current
+
+                         CIN
+                                                  RT9742                                                USB Port
+                                                                                                        Connector
+          Chip Enable
+                                                                VOUT                                      VBUS
+                                        EN
+                                                                               COUT1            COUT2 D+
+                                                     GND                       0.1µF            120µF
+                                                                                                      D-
+                                                                                                          GND
+                                                                              Ferrite
+                                                                                          USB requirement only*
+                                                                              Beads
+                                                                                          *USB requirement that downstream
+                                                                                          facing ports are bypassed with at
+                                                                                          least 120µF per hub
+
+
+                                               Figure 1. USB Power Switch Application Circuit
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.             is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09       June 2018                                                                                                        www.richtek.com
+                                                                                                                                               13
+RT9742
+Voltage Drop                                                            Thermal Considerations
+The USB specification states a minimum port-output                      For continuous operation, do not exceed absolute
+voltage in two locations on the bus, 4.75V out of a Self-               maximum junction temperature. The maximum power
+Powered Hub port and 4.40V out of a Bus-Powered Hub                     dissipation depends on the thermal resistance of the IC
+port. As with the Self-Powered Hub, all resistive voltage               package, PCB layout, rate of surrounding airflow, and
+drops for the Bus-Powered Hub must be accounted for to                  difference between junction and ambient temperature. The
+guarantee voltage regulation (see Figure 7-47 of Universal              maximum power dissipation can be calculated by the
+Serial Specification Revision 2.0).                                     following formula :
+The following calculation determines VOUT(MIN) for multi-               PD(MAX) = (TJ(MAX) − TA) / θJA
+ple ports (NPORTS) ganged together through one switch (if               where TJ(MAX) is the maximum junction temperature, TA is
+using one switch per port, NPORTS is equal to 1) :                      the ambient temperature, and θJA is the junction to ambient
+VOUT (MIN) = 4.75V − [ II x ( 4 x RCONN + 2 x RCABLE ) ] −              thermal resistance.
+               (0.1A x NPORTS x RSWITCH ) − VPCB                        For recommended operating condition specifications, the
+Where                                                                   maximum junction temperature is 125°C. The junction to
+                                                                        ambient thermal resistance, θJA, is layout dependent. For
+RCONN = Resistance of connector contacts
+                                                                        SOT-23-3 package, the thermal resistance, θ JA, is
+              (two contacts per connector)                              243.3°C/W on a standard JEDEC 51-7 four-layer thermal
+RCABLE = Resistance of upstream cable wires                             test board. For TSOT-23-5 package, the thermal
+                                                                        resistance, θJA, is 203°C/W on a standard JEDEC 51-7
+               (one 5V and one GND)
+                                                                        four-layer thermal test board. For TSOT-23-5 (FC) package,
+RSWITCH = Resistance of power switch                                    the thermal resistance, θJA, is 126.5°C/W on a standard
+VPCB = PCB voltage drop                                                 JEDEC 51-7 four-layer thermal test board. The maximum
+                                                                        power dissipation at TA = 25°C can be calculated by the
+The USB specification defines the maximum resistance
+                                                                        following formula :
+per contact (RCONN) of the USB connector to be 30mΩ
+and the drop across the PCB and switch to be 100mV.                     PD(MAX) = (125°C − 25°C) / (243.3°C/W) = 0.41W for
+This basically leaves two variables in the equation: the                SOT-23-3 package
+resistance of the switch and the resistance of the cable. If            PD(MAX) = (125°C − 25°C) / (203°C/W) = 0.49W for
+the hub consumes the maximum current (II) of 500mA,                     TSOT-23-5 package
+the maximum resistance of the cable is 90mΩ.
+                                                                        PD(MAX) = (125°C − 25°C) / (126.5°C/W) = 0.79W for
+The resistance of the switch is defined as follows :                    TSOT-23-5 (FC) package
+RSWITCH = { 4.75V − 4.4V − [ 0.5A x ( 4 x 30mΩ + 2 x                    The maximum power dissipation depends on the operating
+             90mΩ) ] − VPCB }  ( 0.1A x NPORTS )                       ambient temperature for fixed T J(MAX) and thermal
+                                                                        resistance, θJA. The derating curve in Figure 2 allows the
+          = (200mV − VPCB )  ( 0.1A x NPORTS )
+                                                                        designer to see the effect of rising ambient temperature
+If the voltage drop across the PCB is limited to 100mV,                 on the maximum power dissipation.
+the maximum resistance for the switch is 250mΩ for four
+ports ganged together. The RT9742, with its maximum
+100mΩ on-resistance over temperature, can fit the demand
+of this requirement.
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.        is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                    DS9742-09       June 2018
+14
+                                                                                                                                               RT9742
+                                    0.9
+                                          TSOT-23-5 (FC)                      Four-Layer PCB
+
+
+
+
+   Maximum Power Dissipation (W)1
+                                    0.8
+
+                                    0.7
+
+                                    0.6
+                                              TSOT-23-5
+                                    0.5
+
+                                    0.4
+                                              SOT-23-3
+                                    0.3
+
+                                    0.2
+
+                                    0.1
+
+                                    0.0
+                                          0          25         50       75       100      125
+                                                          Ambient Temperature (°C)
+ Figure 2. Derating Curve of Maximum Power Dissipation
+
+
+ Layout Consideration
+ In order to meet the voltage drop, droop, and EMI
+ requirements, careful PCB layout is necessary. The
+ following guidelines must be followed :
+  Locate the ceramic bypass capacitors as close as
+
+       possible to the VIN pins of the RT9742.
+  Place a ground plane under all circuitry to lower both
+
+       resistance and inductance and improve DC and transient
+       performance (Use a separate ground and power plans if
+       possible).
+  Keep all VBUS traces as short as possible and use at
+
+       least 50-mil, 2 ounce copper for all VBUS traces.
+  Avoid vias as much as possible. If vias are necessary,
+
+       make them as large as feasible.
+  Place cuts in the ground plane between ports to help
+
+       reduce the coupling of transients between ports.
+  Locate the output capacitor and ferrite beads as close
+
+       to the USB connectors as possible to lower impedance
+       (mainly inductance) between the port and the capacitor
+       and improve transient load performance.
+  Locate the RT9742 as close as possible to the output
+
+       port to limit switching noise.
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                            is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09                                     June 2018                                                                                         www.richtek.com
+                                                                                                                                                              15
+RT9742
+
+                                                                                  The input capacitor should
+                                                                                  be placed as close as
+                                                                                  possible to the IC.
+                                                    VBUS                     VOUT                VIN
+
+
+
+
+                                                                                                      GND
+
+
+
+
+                                                GND_BUS                                FLG              EN
+
+                                                                                VIN
+
+
+
+
+                                    The input capacitor should be
+                                    placed as close as possible to
+                                    the IC.                                                              VBUS
+
+
+
+                                            +                            +                               +
+                                                       VIN       VOUT
+
+                                                             GND
+
+
+
+
+                                                                                                         GND_BUS
+
+
+
+                                                             Figure 3. PCB Layout Guide
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.                 is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                             DS9742-09       June 2018
+16
+                                                                                                                              RT9742
+Outline Dimension
+
+
+
+
+                                                  Dimensions In Millimeters            Dimensions In Inches
+                              Symbol
+                                                       Min              Max              Min                   Max
+                                   A                  0.700             1.000           0.028                 0.039
+                                  A1                  0.000             0.100           0.000                 0.004
+                                   B                  1.397             1.803           0.055                 0.071
+                                   b                  0.300             0.559           0.012                 0.022
+                                   C                  2.591             3.000           0.102                 0.118
+                                   D                  2.692             3.099           0.106                 0.122
+                                   e                  0.838             1.041           0.033                 0.041
+                                   H                  0.080             0.254           0.003                 0.010
+                                   L                  0.300             0.610           0.012                 0.024
+
+                                                      TSOT-23-5 Surface Mount Package
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.           is a registered trademark of Richtek Technology Corporation.
+
+DS9742-09       June 2018                                                                                                      www.richtek.com
+                                                                                                                                             17
+RT9742
+
+
+
+
+                                                Dimensions In Millimeters                Dimensions In Inches
+                          Symbol
+                                                     Min                Max               Min                    Max
+                               A                   0.700                1.000            0.028                  0.039
+                              A1                   0.000                0.100            0.000                  0.004
+                               B                   1.397                1.803            0.055                  0.071
+                               b                   0.300                0.559            0.012                  0.022
+                               C                   2.591                3.000            0.102                  0.118
+                               D                   2.692                3.099            0.106                  0.122
+                               e                   0.838                1.041            0.033                  0.041
+                               H                   0.080                0.254            0.003                  0.010
+                               L                   0.300                0.610            0.012                  0.024
+
+
+                                                  TSOT-23-5 (FC) Surface Mount Package
+
+
+
+
+Copyright © 2018 Richtek Technology Corporation. All rights reserved.           is a registered trademark of Richtek Technology Corporation.
+
+www.richtek.com                                                                                                       DS9742-09       June 2018
+18
+                                                                                                                                              RT9742
+
+
+
+                                                                                                        H
+                                                                    D
+                                                                                                                   L
+
+                                                     C                               B
+
+
+
+                                                                     e
+
+
+
+                                                   A
+                                                                                         A1
+                                                                     b
+
+
+
+
+                                                    Dimensions In Millimeters                         Dimensions In Inches
+                                Symbol
+                                                          Min                    Max                    Min                    Max
+                                     A                   0.889                  1.295                  0.035                  0.051
+                                    A1                   0.000                  0.152                  0.000                  0.006
+                                     B                   1.397                  1.803                  0.055                  0.071
+                                     b                   0.356                  0.508                  0.014                  0.020
+                                     C                   2.591                  2.997                  0.102                  0.118
+                                     D                   2.692                  3.099                  0.106                  0.122
+                                     e                   1.803                  2.007                  0.071                  0.079
+                                     H                   0.080                  0.254                  0.003                  0.010
+                                     L                   0.300                  0.610                  0.012                  0.024
+
+                                                         SOT-23-3 Surface Mount Package
+
+
+
+
+Richtek Technology Corporation
+14F, No. 8, Tai Yuen 1st Street, Chupei City
+Hsinchu, Taiwan, R.O.C.
+Tel: (8863)5526789
+
+Richtek products are sold by description only. Customers should obtain the latest relevant information and data sheets before placing orders and should verify
+that such information is current and complete. Richtek cannot assume responsibility for use of any circuitry other than circuitry entirely embodied in a Richtek
+product. Information furnished by Richtek is believed to be accurate and reliable. However, no responsibility is assumed by Richtek or its subsidiaries for its use;
+nor for any infringements of patents or other rights of third parties which may result from its use. No license is granted by implication or otherwise under any patent
+or patent rights of Richtek or its subsidiaries.
+
+DS9742-09        June 2018                                                                                                                      www.richtek.com
+                                                                                                                                                              19
+

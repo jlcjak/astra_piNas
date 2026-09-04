@@ -1,0 +1,92 @@
+{
+  "total": 2,
+  "results": [
+    {
+      "lcsc": "C5301773",
+      "name": "YIYUAN SMTSOM225BTR",
+      "model": "SMTSOM225BTR",
+      "brand": "YIYUAN",
+      "package": "-",
+      "category": "Patch round nut",
+      "stock": 6504,
+      "type": "Extended",
+      "price": 0.0797,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0797
+        },
+        {
+          "qty": 50,
+          "price": 0.0748
+        },
+        {
+          "qty": 1000,
+          "price": 0.0624
+        },
+        {
+          "qty": 5000,
+          "price": 0.0598
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "2.5mm Copper M2 Tin plated - Patch round nut ROHS",
+      "url": "https://www.lcsc.com/product-detail/smd-round-nut_yiyuan-smtsom225btr_C5301773.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302021209_YIYUAN-SMTSOM225BTR_C5301773.pdf",
+      "attributes": [
+        {
+          "name": "surface treatment",
+          "value": "Tin plated"
+        },
+        {
+          "name": "material quality",
+          "value": "Copper"
+        },
+        {
+          "name": "length",
+          "value": "2.5mm"
+        },
+        {
+          "name": "specifications",
+          "value": "M2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C49236546",
+      "name": "yiyuanxny SMTSOM225BTR",
+      "model": "SMTSOM225BTR",
+      "brand": "YYT",
+      "package": "-",
+      "category": "Patch round nut",
+      "stock": 4954,
+      "type": "Extended",
+      "price": 0.0801,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0801
+        },
+        {
+          "qty": 50,
+          "price": 0.0753
+        },
+        {
+          "qty": 1000,
+          "price": 0.0629
+        },
+        {
+          "qty": 5000,
+          "price": 0.0605
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "- Patch round nut",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

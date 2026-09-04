@@ -1,0 +1,73 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C590854",
+      "name": "TE Connectivity 1-2199230-5",
+      "model": "1-2199230-5",
+      "brand": "TE Connectivity",
+      "package": "SMD,P=0.5mm,Surface Mount\uff0cRight Angle",
+      "category": "Hard Disk Connector (SAS/SATA/M.2)",
+      "stock": 1342,
+      "type": "Extended",
+      "price": 2.0778,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 2.0778
+        },
+        {
+          "qty": 10,
+          "price": 1.8
+        },
+        {
+          "qty": 30,
+          "price": 1.6473
+        },
+        {
+          "qty": 100,
+          "price": 1.4735
+        },
+        {
+          "qty": 500,
+          "price": 1.2753
+        },
+        {
+          "qty": 1000,
+          "price": 1.2396
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "4.2mm 67P Female M.2-M Key Surface Mount, Right Angle With post SMD,P=0.5mm,\u5367\u8d34 Hard Disk Connector (SAS/SATA/M.2) ROHS",
+      "url": "https://www.lcsc.com/product-detail/hard-disk-connector-sas-sata-m-2_te-connectivity-1-2199230-5_C590854.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_TE-Connectivity-1-2199230-5_C590854.pdf",
+      "attributes": [
+        {
+          "name": "Number of Pins",
+          "value": "67P"
+        },
+        {
+          "name": "Connector Type",
+          "value": "Female"
+        },
+        {
+          "name": "Supplementary Features",
+          "value": "With column"
+        },
+        {
+          "name": "Height Above Board",
+          "value": "4.2mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Surface Mount, Right Angle"
+        },
+        {
+          "name": "Interface Form",
+          "value": "M.2-M Key"
+        }
+      ]
+    }
+  ]
+}

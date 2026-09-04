@@ -1,0 +1,210 @@
+{
+  "total": 6,
+  "results": [
+    {
+      "lcsc": "C7419435",
+      "name": "FOJAN FCC0805X226M250FT",
+      "model": "FCC0805X226M250FT",
+      "brand": "FOJAN",
+      "package": "0805",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 260725,
+      "type": "Extended",
+      "price": 0.2314,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2314
+        },
+        {
+          "qty": 50,
+          "price": 0.18
+        },
+        {
+          "qty": 150,
+          "price": 0.155
+        },
+        {
+          "qty": 500,
+          "price": 0.1328
+        },
+        {
+          "qty": 3000,
+          "price": 0.1183
+        },
+        {
+          "qty": 6000,
+          "price": 0.1147
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+85\u2103 22uF 25V X5R \u00b120% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_fojan-fcc0805x226m250ft_C7419435.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404021725_FOJAN-FCC0805X226M250FT_C7419435.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+85\u2103"
+        },
+        {
+          "name": "Voltage Rating",
+          "value": "25V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "22uF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X5R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C45783",
+      "name": "Samsung Electro-Mechanics CL21A226MAQNNNE",
+      "model": "CL21A226MAQNNNE",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0805",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 5302129,
+      "type": "Basic",
+      "price": 0.2575,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2575
+        },
+        {
+          "qty": 200,
+          "price": 0.2012
+        },
+        {
+          "qty": 600,
+          "price": 0.1736
+        },
+        {
+          "qty": 2000,
+          "price": 0.149
+        },
+        {
+          "qty": 10000,
+          "price": 0.1424
+        },
+        {
+          "qty": 20000,
+          "price": 0.1383
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "22uF 25V X5R \u00b120% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl21a226maqnnne_C45783.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "25V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "22uF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X5R"
+        }
+      ]
+    },
+    {
+      "lcsc": "C9900205101",
+      "name": "JIALICHUANG SMT CL21A226MAQNNNE",
+      "model": "CL21A226MAQNNNE",
+      "brand": "JLCPCB Assembly",
+      "package": "0805",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "0805 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C9900221728",
+      "name": "JIALICHUANG SMT CL21A226MAQNNNE",
+      "model": "CL21A226MAQNNNE",
+      "brand": "JLCPCB Assembly",
+      "package": "0805",
+      "category": "SMT",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 3000,
+      "description": "0805 SMT ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    },
+    {
+      "lcsc": "C3294424",
+      "name": "Samsung Electro-Mechanics CL21A226MAQNNNE-YJLTY",
+      "model": "CL21A226MAQNNNE-YJLTY",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "0805",
+      "category": "New Arrivals",
+      "stock": 0,
+      "type": "Extended",
+      "price": 0.0395,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0395
+        },
+        {
+          "qty": 100,
+          "price": 0.0204
+        }
+      ],
+      "min_qty": 439,
+      "reel_qty": 500,
+      "description": "0805 New Arrivals ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

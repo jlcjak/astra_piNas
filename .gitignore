@@ -1,0 +1,18 @@
+# Local KiCad state and backups
+*.kicad_prl
+*.lck
+*-backups/
+_autosave-*
+*.bak
+# Development runs and downloaded tools
+/routing/
+/logs/
+/.easyeda_cache/
+__pycache__/
+*.pyc
+# Downloaded reference archive (linked in docs instead)
+/sources/cm5io_official/
+/sources/*.zip
+# Local credentials and environment
+.env
+.env.*

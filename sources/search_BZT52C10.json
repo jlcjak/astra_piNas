@@ -1,0 +1,229 @@
+{
+  "total": 114,
+  "results": [
+    {
+      "lcsc": "C2103",
+      "name": "JSCJ BZT52C10",
+      "model": "BZT52C10",
+      "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+      "package": "SOD-123",
+      "category": "Zener Diodes",
+      "stock": 89426,
+      "type": "Extended",
+      "price": 0.0215,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0215
+        },
+        {
+          "qty": 500,
+          "price": 0.0173
+        },
+        {
+          "qty": 3000,
+          "price": 0.0139
+        },
+        {
+          "qty": 6000,
+          "price": 0.0125
+        },
+        {
+          "qty": 24000,
+          "price": 0.0113
+        },
+        {
+          "qty": 51000,
+          "price": 0.0106
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 Independent 10V 150\u03a9 200nA 20\u03a9 500mW 9.4V~10.6V SOD-123 Zener Diodes ROHS",
+      "url": "https://www.lcsc.com/product-detail/zener-diodes_jiangsu-changjing-electronics-technology-co-ltd-bzt52c10_C2103.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--BZT52C10_C2103.pdf",
+      "attributes": [
+        {
+          "name": "Operating Junction Temperature Range",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Diode Configuration",
+          "value": "1 Independent"
+        },
+        {
+          "name": "Impedance(Zzk)",
+          "value": "150\u03a9"
+        },
+        {
+          "name": "Impedance(Zzt)",
+          "value": "20\u03a9"
+        },
+        {
+          "name": "Zener Voltage(Range)",
+          "value": "9.4V~10.6V"
+        },
+        {
+          "name": "Zener Voltage(Nom)",
+          "value": "10V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "500mW"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "200nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C12732",
+      "name": "LRC LBZT52C10T1G",
+      "model": "LBZT52C10T1G",
+      "brand": "LRC",
+      "package": "SOD-123",
+      "category": "Zener Diodes",
+      "stock": 9452,
+      "type": "Extended",
+      "price": 0.0291,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0291
+        },
+        {
+          "qty": 200,
+          "price": 0.0233
+        },
+        {
+          "qty": 600,
+          "price": 0.0202
+        },
+        {
+          "qty": 3000,
+          "price": 0.0182
+        },
+        {
+          "qty": 9000,
+          "price": 0.0165
+        },
+        {
+          "qty": 21000,
+          "price": 0.0156
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 Independent 10V 150\u03a9 200nA@1V 20\u03a9 500mW 9.4V~10.6V SOD-123 Zener Diodes ROHS",
+      "url": "https://www.lcsc.com/product-detail/zener-diodes_lrc-lbzt52c10t1g_C12732.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_LRC-LBZT52C10T1G_C12732.pdf",
+      "attributes": [
+        {
+          "name": "Operating Junction Temperature Range",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Diode Configuration",
+          "value": "1 Independent"
+        },
+        {
+          "name": "Impedance(Zzk)",
+          "value": "150\u03a9"
+        },
+        {
+          "name": "Impedance(Zzt)",
+          "value": "20\u03a9"
+        },
+        {
+          "name": "Zener Voltage(Range)",
+          "value": "9.4V~10.6V"
+        },
+        {
+          "name": "Zener Voltage(Nom)",
+          "value": "10V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "500mW"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "200nA@1V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C19334",
+      "name": "JSCJ BZT52C10S",
+      "model": "BZT52C10S",
+      "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+      "package": "SOD-323",
+      "category": "Zener Diodes",
+      "stock": 4362,
+      "type": "Extended",
+      "price": 0.0212,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0212
+        },
+        {
+          "qty": 500,
+          "price": 0.0171
+        },
+        {
+          "qty": 3000,
+          "price": 0.0133
+        },
+        {
+          "qty": 6000,
+          "price": 0.0119
+        },
+        {
+          "qty": 24000,
+          "price": 0.0107
+        },
+        {
+          "qty": 51000,
+          "price": 0.01
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 Independent 10V 150\u03a9 200mW 200nA@7V 20\u03a9 9.4V~10.6V SOD-323 Zener Diodes ROHS",
+      "url": "https://www.lcsc.com/product-detail/zener-diodes_jiangsu-changjing-electronics-technology-co-ltd-bzt52c10s_C19334.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--BZT52C10S_C19334.pdf",
+      "attributes": [
+        {
+          "name": "Diode Configuration",
+          "value": "1 Independent"
+        },
+        {
+          "name": "Impedance(Zzk)",
+          "value": "150\u03a9"
+        },
+        {
+          "name": "Impedance(Zzt)",
+          "value": "20\u03a9"
+        },
+        {
+          "name": "Zener Voltage(Range)",
+          "value": "9.4V~10.6V"
+        },
+        {
+          "name": "Zener Voltage(Nom)",
+          "value": "10V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "200mW"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "200nA@7V"
+        }
+      ]
+    }
+  ]
+}

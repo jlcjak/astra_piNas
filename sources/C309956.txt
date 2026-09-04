@@ -1,0 +1,308 @@
+                                                                                        SMBJ SERIES
+
+                      Transient Voltage Suppressors (TVS) Data Sheet
+
+Features
+■ For surface mounted applications in order to optimize board space
+■ Low profile package
+■ Built-in strain relief
+■ Glass passivated junction
+■ Low inductance
+■ Excellent clamping capability
+■ 600W peak pulse power capability at 10/1000μs waveform,
+  repetition rate (duty cycle): 0.01%
+■ Fast response time
+■ Typical IR less than 1μA above 10V
+■ High Temperature soldering: 260℃/10 seconds at terminals
+■ Plastic package has underwriters laboratory flammability 94V-0
+■ Meets MSL level 1, per J-STD-020
+■ Safety certification: UL: E244458
+
+Mechanical Data
+■ Case: JEDEC DO-214AA. Molded plastic over glass passivated junction
+■ Terminal: Solder plated, solderable per MIL-STD-750, Method 2026
+■ Polarity: Color band denotes cathode except bi-directional models
+■ Standard Packaging: 12mm tape (EIA STD RS-481)
+■ Weight: 0.10g
+
+Applications
+■ I/O interface                               ■ AC/DC power supply
+■ Low frequency signal transmission line (RS232, RS485, etc.)
+
+Maximum Ratings and Characteristics
+ Ratings at 25℃ ambient temperature unless otherwise specified.
+                               Rating                                 Symbol         Value         Units
+ Peak pulse power dissipation at 10/1000μs waveform
+                                                                       PPPM      Minimum 600       Watts
+ (Note1, Note2, Fig.1)
+ Peak pulse current of at 10/1000μs waveform (Note 1, Fig.3)           IPPM        See Table       Amps
+ Steady state power dissipation at TA=50℃ (Fig.5)                     PM(AV)          5.0          Watts
+ Peak forward surge current, 8.3ms single half sine-wave
+                                                                       IFSM           100          Amps
+ superimposed on rated load, (JEDEC Method) (Note3, Fig.6)
+ Operating junction and Storage Temperature Range.                    TJ,TSTG     -65 to +150        ℃
+ Typical thermal resistance junction to lead                           RθJL           20           ℃/W
+ Typical thermal resistance junction to ambient                        RθJA           100          ℃/W
+ Notes: 1. Non-repetitive current pulse, per Fig.3 and derated above TA=25℃ per Fig.2.
+       2. Mounted on 5.0mm×5.0mm (0.03mm thick) copper pads to each terminal.
+       3. 8.3ms single half sine-wave, or equivalent square wave, duty cycle=4 pulses per minutes maximum.
+Revision：21-Jul-14                                                                         www.brightking.com
+                                                                                                 SMBJ SERIES
+Dimensions (SMB/DO-214AA)
+
+                                                                           Millimeters                    Inches
+                                                           Symbol
+                                                                         Min.          Max.        Min.        Max.
+
+                                                              L          4.06          4.57       0.160        0.180
+
+                                                             D           3.30          3.94       0.130        0.155
+
+                                                             D1          1.95          2.20       0.077        0.086
+
+                                                              T          5.21          5.59       0.205        0.220
+
+                                                             T1          0.76          1.52       0.030        0.060
+
+                                                              d           -            0.203        -          0.008
+
+                                                             H           2.15          2.65       0.085        0.104
+
+                                                             H1          2.13          2.47       0.084        0.097
+
+
+
+Electrical Characteristics (TA=25℃)
+
+                                                                                       Maximum
+                                    Device     Reverse     Breakdown                                Peak       Reverse
+                                                                            Test       Clamping
+         Part Number                Marking    Stand-Off     Voltage                                Pulse      Leakage
+                                                                           Current      Voltage
+                                     Code       Voltage       @IT                                  Current     @VRWM
+                                                                                         @IPP
+ Unidirectional   Bidirectional   UNI     BI   VRWM(V)       VBR(V)           IT(mA)     VC(V)      IPP(A)         IR(μA)
+   SMBJ5.0A       SMBJ5.0CA       KE      AE      5.0       6.40~7.00           10        9.2       65.3            800
+   SMBJ6.0A       SMBJ6.0CA       KG      AG      6.0       6.67~7.37           10       10.3       58.3            800
+   SMBJ6.5A       SMBJ6.5CA       KK      AK      6.5       7.22~7.98           10        11.2      53.6            500
+   SMBJ7.0A       SMBJ7.0CA       KM      AM      7.0       7.78~8.60           10       12.0       50.0            200
+   SMBJ7.5A       SMBJ7.5CA       KP      AP      7.5       8.33~9.21           1        12.9       46.6            100
+   SMBJ8.0A       SMBJ8.0CA       KR      AR      8.0       8.89~9.83           1        13.6       44.2            50
+   SMBJ8.5A       SMBJ8.5CA       KT      AT      8.5      9.44~10.40           1        14.4       41.7            20
+   SMBJ9.0A       SMBJ9.0CA       KV      AV      9.0      10.00~11.10          1        15.4       39.0            10
+   SMBJ10A         SMBJ10CA       KX      AX     10.0      11.10~12.30          1        17.0       35.3             5
+   SMBJ11A         SMBJ11CA       KZ      AZ     11.0      12.20~13.50          1        18.2       33.0             1
+   SMBJ12A         SMBJ12CA       LE      BE     12.0      13.30~14.70          1        19.9       30.2             1
+   SMBJ13A         SMBJ13CA       LG      BG     13.0      14.40~15.90          1        21.5       28.0             1
+   SMBJ14A         SMBJ14CA       LK      BK     14.0      15.60~17.20          1        23.2       25.9             1
+   SMBJ15A         SMBJ15CA       LM      BM     15.0      16.70~18.50          1        24.4       24.6             1
+   SMBJ16A         SMBJ16CA       LP      BP     16.0      17.80~19.70          1        26.0       23.1             1
+   SMBJ17A         SMBJ17CA       LR      BR     17.0      18.90~20.90          1        27.6       21.8             1
+   SMBJ18A         SMBJ18CA       LT      BT     18.0      20.00~22.10          1        29.2       20.6             1
+   SMBJ20A         SMBJ20CA       LV      BV     20.0      22.20~24.50          1        32.4       18.6             1
+   SMBJ22A         SMBJ22CA       LX      BX     22.0      24.40~26.90          1        35.5       16.9             1
+   SMBJ24A         SMBJ24CA       LZ      BZ     24.0      26.70~29.50          1        38.9       15.5             1
+
+
+
+
+Revision：21-Jul-14                                                                                www.brightking.com
+                                                                                                SMBJ SERIES
+Electrical Characteristics (TA=25℃)
+
+                                                                                       Maximum
+                                    Device       Reverse      Breakdown                             Peak     Reverse
+                                                                              Test     Clamping
+          Part Number               Marking      Stand-Off      Voltage                             Pulse    Leakage
+                                                                             Current    Voltage
+                                     Code         Voltage        @IT                               Current   @VRWM
+                                                                                         @IPP
+ Unidirectional   Bidirectional   UNI      BI     VRWM(V)       VBR(V)        IT(mA)    VC(V)       IPP(A)    IR(μA)
+   SMBJ26A         SMBJ26CA       ME      CE       26.0       28.90~31.90       1        42.1       14.3        1
+   SMBJ28A         SMBJ28CA       MG      CG       28.0       31.10~34.40       1        45.4       13.3        1
+   SMBJ30A         SMBJ30CA       MK      CK       30.0       33.30~36.80       1        48.4       12.4        1
+   SMBJ33A         SMBJ33CA       MM      CM       33.0       36.70~40.60       1        53.3       11.3        1
+   SMBJ36A         SMBJ36CA       MP      CP       36.0       40.00~44.20       1        58.1       10.4        1
+   SMBJ40A         SMBJ40CA       MR      CR       40.0       44.40~49.10       1        64.5        9.3        1
+   SMBJ43A         SMBJ43CA       MT      CT       43.0       47.80~52.80       1        69.4        8.7        1
+   SMBJ45A         SMBJ45CA       MV      CV       45.0       50.00~55.30       1        72.7        8.3        1
+   SMBJ48A         SMBJ48CA       MX      CX       48.0       53.30~58.90       1        77.4        7.8        1
+   SMBJ51A         SMBJ51CA       MZ      CZ       51.0       56.70~62.70       1        82.4        7.3        1
+   SMBJ54A         SMBJ54CA       NE      DE       54.0       60.00~66.30       1        87.1        6.9        1
+   SMBJ58A         SMBJ58CA       NG      DG       58.0       64.40~71.20       1        93.6        6.5        1
+   SMBJ60A         SMBJ60CA       NK      DK       60.0       66.70~73.70       1        96.8        6.2        1
+   SMBJ64A         SMBJ64CA       NM      DM       64.0       71.10~78.60       1       103.0        5.9        1
+   SMBJ70A         SMBJ70CA       NP      DP       70.0       77.80~86.00       1       113.0        5.3        1
+   SMBJ75A         SMBJ75CA       NR      DR       75.0       83.30~92.10       1       121.0        5.0        1
+   SMBJ78A         SMBJ78CA       NT      DT       78.0       86.70~95.80       1       126.0        4.8        1
+   SMBJ85A         SMBJ85CA       NV      DV       85.0      94.40~104.00       1       137.0        4.4        1
+   SMBJ90A         SMBJ90CA       NX      DX       90.0      100.00~111.00      1       146.0        4.1        1
+   SMBJ100A       SMBJ100CA       NZ      DZ       100.0     111.00~123.00      1       162.0        3.7        1
+   SMBJ110A       SMBJ110CA       PE      EE       110.0     122.00~135.00      1       177.0        3.4        1
+   SMBJ120A       SMBJ120CA       PG      EG       120.0     133.00~147.00      1       193.0        3.1        1
+   SMBJ130A       SMBJ130CA       PK      EK       130.0     144.00~159.00      1       209.0        2.9        1
+   SMBJ150A       SMBJ150CA       PM      EM       150.0     167.00~185.00      1       243.0        2.5        1
+   SMBJ160A       SMBJ160CA       PP      EP       160.0     178.00~197.00      1       259.0        2.3        1
+   SMBJ170A       SMBJ170CA       PR      ER       170.0     189.00~209.00      1       275.0        2.2        1
+   SMBJ180A       SMBJ180CA       PT      ET       180.0     201.00~222.00      1       292.0        2.1        1
+   SMBJ190A       SMBJ190CA       PA      EC       190.0     211.00~233.00      1       308.0        2.0        1
+   SMBJ200A       SMBJ200CA       PV      EV       200.0     224.00~247.00      1       324.0        1.9        1
+   SMBJ210A       SMBJ210CA       PB      ED       210.0     237.00~263.00      1       340.0        1.8        1
+   SMBJ220A       SMBJ220CA       PX      EX       220.0     246.00~272.00      1       356.0        1.7        1
+   SMBJ250A       SMBJ250CA       PZ      EZ       250.0     279.00~309.00      1       405.0        1.5        1
+   SMBJ300A       SMBJ300CA       QE      FE       300.0     335.00~371.00      1       486.0        1.3        1
+   SMBJ350A       SMBJ350CA       QG      FG       350.0     391.00~432.00      1       567.0        1.1        1
+   SMBJ400A       SMBJ400CA       QK      FK       400.0     447.00~494.00      1       648.0        0.9        1
+   SMBJ440A       SMBJ440CA       QM      FM       440.0     492.00~543.00      1       713.0        0.9        1
+Notes: For bidirectional type having VRWM of 10V and less, the IR limit is double.
+
+
+
+Revision：21-Jul-14                                                                                www.brightking.com
+                                                                                         SMBJ SERIES
+Ratings and Characteristic Curves (TA=25℃ unless otherwise noted)
+
+ Figure 1. Peak Pulse Power Rating Curve              Figure 2. Pulse Derating Curve
+
+                                                           100
+
+
+
+
+  PPPM - Peak Pulse Power (kW)
+                                                            80
+
+
+                                                            60
+
+
+                                                            40
+
+
+                                                            20
+
+
+                                                            0
+                                                                 0   25     50    75    100   125      150   175
+                                                                          TA-Ambient Temperature (℃)
+
+
+
+
+ Figure 3. Pulse Waveform                             Figure 4. Typical Junction Capacitance
+
+
+
+
+  IPPM - Peak Pulse Current, %IRSM
+
+
+
+
+ Figure 5. Steady State Power Dissipation Derating    Figure 6. Maximum Non-Repetitive Forward
+          Curve                                                Surge Current Uni-Directional Only
+
+
+
+
+         PM(AV), Steady State Power Dissipation (W)
+
+
+
+
+Revision：21-Jul-14                                                                         www.brightking.com
+                                                                            SMBJ SERIES
+Recommended Soldering Conditions
+
+ Reflow Soldering
+
+
+
+
+ Recommended Conditions
+
+
+                           Profile Feature                Pb-Free Assembly
+         Average ramp-up rate (TL to TP)                  3℃/second max.
+         Preheat
+           -Temperature Min (TS min)                           150℃
+           -Temperature Max (TS max)                           200℃
+           -Time (min to max) ( tS)                        60-180 seconds
+         TS max to TL
+           -Ramp-up Rate                                  3℃/second max.
+         Time maintained above:
+           -Temperature (TL)                                   217℃
+           -Time (tL)                                      60-150 seconds
+         Peak Temperature (TP)                                 260℃
+         Time within 5℃ of actual Peak Temperature (tP)    20-40 seconds
+         Ramp-down Rate                                   6℃/second max.
+         Time 25℃ to Peak Temperature                      8 minutes max.
+
+
+
+Marking Code
+
+
+
+
+Revision：21-Jul-14                                                          www.brightking.com
+                                                                                     SMBJ SERIES
+Part Number Code
+
+
+
+
+Packaging
+
+ Tape                                                                    Symbol           Dimension (mm)
+                                                                            W               12.00±0.20
+                                                                           P0               4.00±0.10
+
+     P0        P1             P2                                           P1               8.00±0.10
+                                    D0   B   E                 T
+                                                                           P2               2.00±0.10
+                                                 F                         D0               Φ1.55±0.10
+                                                     W
+                                                         B0
+                                                                           D1               Φ1.5±0.10
+                               D1
+                                                              K0
+                                                                            E               1.75±0.10
+                A         A              B
+
+                                                         SECTION B-B        F               5.50±0.10
+                                                                           A0               3.86±0.15
+                     A0
+                                                                           B0               5.65±0.10
+              SECTION A-A
+                                                                           K0               2.75±0.15
+                                                                            T               0.25±0.05
+ 7” Reel
+                                                                           D2               Φ178.0±2.0
+
+                                                                           D3               Φ50.0Min.
+
+                                                                           D4               Φ13.0±0.5
+
+                                                                           W1                16.0±2.0
+
+                                                                       Quantity: 500PCS
+
+ 13” Reel
+                                                                           D5               Φ330.0±2.0
+
+
+                                                                           D6               Φ13.5±0.5
+
+
+                                                                            H                 2.5±1.0
+
+
+                                                                           W2                16.0±2.0
+
+
+                                                                       Quantity: 3000PCS
+
+
+Revision：21-Jul-14                                                                        www.brightking.com
+

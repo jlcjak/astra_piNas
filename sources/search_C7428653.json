@@ -1,0 +1,69 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C7428653",
+      "name": "HOOYA DC-005D-2.0-PU-SP(UL)",
+      "model": "DC-005D-2.0-PU-SP(UL)",
+      "brand": "HOOYA",
+      "package": "Plugin",
+      "category": "DC Power Connectors",
+      "stock": 388,
+      "type": "Extended",
+      "price": 0.3263,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.3263
+        },
+        {
+          "qty": 50,
+          "price": 0.2566
+        },
+        {
+          "qty": 150,
+          "price": 0.2267
+        },
+        {
+          "qty": 500,
+          "price": 0.1878
+        },
+        {
+          "qty": 2500,
+          "price": 0.1713
+        },
+        {
+          "qty": 5000,
+          "price": 0.1614
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 500,
+      "description": "2mm 48V 5A 6.4mm DC Power Jack Plugin DC Power Connectors ROHS",
+      "url": "https://www.lcsc.com/product-detail/dc-power-connectors_hooya-dc-005d-2-0-pu-sp-ul_C7428653.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2307211818_HOOYA-DC-005D-2-0-PU-SP-UL_C7428653.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating (Max)",
+          "value": "48V"
+        },
+        {
+          "name": "Current Rating",
+          "value": "5A"
+        },
+        {
+          "name": "Connector Type",
+          "value": "DC Power Jack"
+        },
+        {
+          "name": "Outside Contact Diameter",
+          "value": "6.4mm"
+        },
+        {
+          "name": "Inside Contact Diameter",
+          "value": "2mm"
+        }
+      ]
+    }
+  ]
+}

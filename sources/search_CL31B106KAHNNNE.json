@@ -1,0 +1,65 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C14860",
+      "name": "Samsung Electro-Mechanics CL31B106KAHNNNE",
+      "model": "CL31B106KAHNNNE",
+      "brand": "Samsung Electro-Mechanics",
+      "package": "1206",
+      "category": "Multilayer Ceramic Capacitors MLCC - SMD/SMT",
+      "stock": 1102962,
+      "type": "Extended",
+      "price": 0.212,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.212
+        },
+        {
+          "qty": 200,
+          "price": 0.1628
+        },
+        {
+          "qty": 600,
+          "price": 0.1388
+        },
+        {
+          "qty": 2000,
+          "price": 0.1172
+        },
+        {
+          "qty": 10000,
+          "price": 0.1113
+        },
+        {
+          "qty": 20000,
+          "price": 0.1078
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2000,
+      "description": "10uF 25V X7R \u00b110% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "url": "https://www.lcsc.com/product-detail/multilayer-ceramic-capacitors-mlcc-smd-smt_samsung-electro-mechanics-cl31b106kahnnne_C14860.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL31B106KAHNNNE_C14860.pdf",
+      "attributes": [
+        {
+          "name": "Voltage Rating",
+          "value": "25V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Capacitance",
+          "value": "10uF"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "X7R"
+        }
+      ]
+    }
+  ]
+}

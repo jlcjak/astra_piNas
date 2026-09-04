@@ -1,0 +1,77 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C2846043",
+      "name": "WCH CH343P",
+      "model": "CH343P",
+      "brand": "WCH(Jiangsu Qin Heng)",
+      "package": "TQFN-16-EP(3x3)",
+      "category": "USB Converters",
+      "stock": 4883,
+      "type": "Extended",
+      "price": 1.1128,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.1128
+        },
+        {
+          "qty": 10,
+          "price": 0.9991
+        },
+        {
+          "qty": 30,
+          "price": 0.8919
+        },
+        {
+          "qty": 100,
+          "price": 0.8107
+        },
+        {
+          "qty": 500,
+          "price": 0.7652
+        },
+        {
+          "qty": 1000,
+          "price": 0.749
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-40\u2103~+85\u2103 3.3V\u30015V 3mA 6Mbps 90uA USB 2.0 USB to UART TQFN-16-EP(3x3) USB Converters ROHS",
+      "url": "https://www.lcsc.com/product-detail/usb-converters_wch-jiangsu-qin-heng-ch343p_C2846043.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2403131129_WCH-Jiangsu-Qin-Heng-CH343P_C2846043.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+85\u2103"
+        },
+        {
+          "name": "Data Rate",
+          "value": "6Mbps"
+        },
+        {
+          "name": "Applications Function",
+          "value": "USB to UART"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "3.3V\u30015V"
+        },
+        {
+          "name": "USB Protocol",
+          "value": "USB 2.0"
+        },
+        {
+          "name": "Current - Supply",
+          "value": "3mA"
+        },
+        {
+          "name": "Quiescent Supply Current",
+          "value": "90uA"
+        }
+      ]
+    }
+  ]
+}

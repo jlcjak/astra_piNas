@@ -1,0 +1,433 @@
+{
+  "total": 107,
+  "results": [
+    {
+      "lcsc": "C10213",
+      "name": "RUILON SMBJ20A",
+      "model": "SMBJ20A",
+      "brand": "RUILON(Shenzhen Ruilongyuan Elec)",
+      "package": "DO-214AA(SMB)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 153,
+      "type": "Extended",
+      "price": 0.0805,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0805
+        },
+        {
+          "qty": 50,
+          "price": 0.0642
+        },
+        {
+          "qty": 150,
+          "price": 0.0559
+        },
+        {
+          "qty": 500,
+          "price": 0.0498
+        },
+        {
+          "qty": 3000,
+          "price": 0.0449
+        },
+        {
+          "qty": 6000,
+          "price": 0.0424
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 18.5A@10/1000us 1uA 20V 25.5V 32.4V 600W@10/1000us IEC 61000-4-2\u3001IEC 61000-4-4 TVS Unidirectional DO-214AA(SMB) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_ruilon-shenzhen-ruilongyuan-elec-smbj20a_C10213.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2403081022_RUILON-Shenzhen-Ruilongyuan-Elec-SMBJ20A_C10213.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@10/1000us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2\u3001IEC 61000-4-4"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "32.4V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "18.5A@10/1000us"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "25.5V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "20V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C116961",
+      "name": "Changzhou Starsea Elec SMBJ20A",
+      "model": "SMBJ20A",
+      "brand": "Changzhou Starsea Elec",
+      "package": "SMB(DO-214AA)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 1,
+      "type": "Extended",
+      "price": 0.0727,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0727
+        },
+        {
+          "qty": 50,
+          "price": 0.0571
+        },
+        {
+          "qty": 150,
+          "price": 0.0493
+        },
+        {
+          "qty": 500,
+          "price": 0.0434
+        },
+        {
+          "qty": 3000,
+          "price": 0.0389
+        },
+        {
+          "qty": 6000,
+          "price": 0.0364
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 18.5A 20V 24.5V 32.4V 5uA 600W@10/1000us TVS SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_changzhou-starsea-elec-smbj20a_C116961.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@10/1000us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "32.4V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "24.5V"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "18.5A"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "20V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "5uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C129531",
+      "name": "MCC SMBJ20A-TP",
+      "model": "SMBJ20A-TP",
+      "brand": "MCC(Micro Commercial Components)",
+      "package": "SMB(DO-214AA)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 933,
+      "type": "Extended",
+      "price": 0.0975,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0975
+        },
+        {
+          "qty": 50,
+          "price": 0.078
+        },
+        {
+          "qty": 150,
+          "price": 0.0683
+        },
+        {
+          "qty": 500,
+          "price": 0.061
+        },
+        {
+          "qty": 3000,
+          "price": 0.0551
+        },
+        {
+          "qty": 6000,
+          "price": 0.0522
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+175\u2103 18.5A@10/1000us 1uA 20V 24.5V 32.4V 600W@10/1000us TVS Unidirectional SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_mcc-micro-commercial-components-smbj20a-tp_C129531.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MCC-Micro-Commercial-Components-SMBJ20A-TP_C129531.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+175\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@10/1000us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "32.4V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "18.5A@10/1000us"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "24.5V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "20V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C135056",
+      "name": "DIODES SMBJ20A-13-F",
+      "model": "SMBJ20A-13-F",
+      "brand": "Diodes Incorporated",
+      "package": "SMB",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 83,
+      "type": "Extended",
+      "price": 0.2073,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2073
+        },
+        {
+          "qty": 50,
+          "price": 0.2039
+        },
+        {
+          "qty": 150,
+          "price": 0.2017
+        },
+        {
+          "qty": 500,
+          "price": 0.1994
+        },
+        {
+          "qty": 510,
+          "price": 0.1994
+        },
+        {
+          "qty": 520,
+          "price": 0.1994
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 18.5A 20V 25.5V 32.4V 5uA 600W TVS Unidirectional SMB ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_diodes-incorporated-smbj20a-13-f_C135056.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Diodes-Incorporated-SMBJ20A-13-F_C135056.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "32.4V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "18.5A"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "25.5V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "20V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "5uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C151257",
+      "name": "Littelfuse SMBJ20A",
+      "model": "SMBJ20A",
+      "brand": "Littelfuse",
+      "package": "DO-214AA",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 7112,
+      "type": "Extended",
+      "price": 0.1375,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.1375
+        },
+        {
+          "qty": 50,
+          "price": 0.1079
+        },
+        {
+          "qty": 150,
+          "price": 0.093
+        },
+        {
+          "qty": 500,
+          "price": 0.0819
+        },
+        {
+          "qty": 3000,
+          "price": 0.0699
+        },
+        {
+          "qty": 6000,
+          "price": 0.0655
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-65\u2103~+150\u2103 18.6A@10/1000us 1uA 20V 24.5V 32.4V 600W@10/1000us IEC 61000-4-2\u3001IEC 61000-4-4 TVS Unidirectional DO-214AA ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_littelfuse-smbj20a_C151257.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Littelfuse-SMBJ20A_C151257.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-65\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@10/1000us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2\u3001IEC 61000-4-4"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "32.4V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "18.6A@10/1000us"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "24.5V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "20V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    }
+  ]
+}

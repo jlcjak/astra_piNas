@@ -1,0 +1,257 @@
+{
+  "total": 34,
+  "results": [
+    {
+      "lcsc": "C15127",
+      "name": "AOS AO3401A",
+      "model": "AO3401A",
+      "brand": "Alpha & Omega Semicon",
+      "package": "SOT-23",
+      "category": "MOSFETs",
+      "stock": 721054,
+      "type": "Basic",
+      "price": 0.0978,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0978
+        },
+        {
+          "qty": 50,
+          "price": 0.0793
+        },
+        {
+          "qty": 150,
+          "price": 0.0699
+        },
+        {
+          "qty": 500,
+          "price": 0.0621
+        },
+        {
+          "qty": 3000,
+          "price": 0.0593
+        },
+        {
+          "qty": 6000,
+          "price": 0.0576
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 P-Channel 14nC@10V 30V 47m\u03a9@10V\u300160m\u03a9@4.5V\u300185m\u03a9@2.5V 4A 55pF 645pF 80pF 900mV SOT-23 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_alpha-omega-semicon-ao3401a_C15127.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2412061733_Alpha---Omega-Semicon-AO3401A_C15127.pdf",
+      "attributes": [
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "645pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 P-Channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "900mV"
+        },
+        {
+          "name": "Gate Charge(Qg)",
+          "value": "14nC@10V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "55pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "4A"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "30V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "80pF"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "47m\u03a9@10V\u300160m\u03a9@4.5V\u300185m\u03a9@2.5V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C306862",
+      "name": "BORN AO3401A",
+      "model": "AO3401A",
+      "brand": "BORN",
+      "package": "SOT-23",
+      "category": "MOSFETs",
+      "stock": 28587,
+      "type": "Extended",
+      "price": 0.0597,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0597
+        },
+        {
+          "qty": 200,
+          "price": 0.0504
+        },
+        {
+          "qty": 600,
+          "price": 0.0455
+        },
+        {
+          "qty": 3000,
+          "price": 0.0311
+        },
+        {
+          "qty": 9000,
+          "price": 0.0298
+        },
+        {
+          "qty": 21000,
+          "price": 0.0288
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 P-Channel 1.4W 115pF 2V 30V 4.2A 85m\u03a9@2.5V 954pF P-Channel SOT-23 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_born-ao3401a_C306862.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1912111437_BORN-AO3401A_C306862.pdf",
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "P-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "954pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 P-Channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "2V"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "4.2A"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "30V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "115pF"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "1.4W"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "85m\u03a9@2.5V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C347476",
+      "name": "UMW AO3401A",
+      "model": "AO3401A",
+      "brand": "UMW(Youtai Semiconductor Co., Ltd.)",
+      "package": "SOT-23",
+      "category": "MOSFETs",
+      "stock": 1118836,
+      "type": "Extended",
+      "price": 0.0366,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0366
+        },
+        {
+          "qty": 200,
+          "price": 0.027
+        },
+        {
+          "qty": 600,
+          "price": 0.0226
+        },
+        {
+          "qty": 3000,
+          "price": 0.0195
+        },
+        {
+          "qty": 9000,
+          "price": 0.0182
+        },
+        {
+          "qty": 21000,
+          "price": 0.0173
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 P-Channel 1.3V 1.4W 115pF 30V 4.2A 50m\u03a9@10V 77pF 9.4nC@4.5V 954pF P-Channel SOT-23 MOSFETs ROHS",
+      "url": "https://www.lcsc.com/product-detail/mosfets_umw-youtai-semiconductor-co-ltd-ao3401a_C347476.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2411121106_UMW-Youtai-Semiconductor-Co---Ltd--AO3401A_C347476.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "P-Channel"
+        },
+        {
+          "name": "Input Capacitance(Ciss)",
+          "value": "954pF"
+        },
+        {
+          "name": "Number",
+          "value": "1 P-Channel"
+        },
+        {
+          "name": "Gate Threshold Voltage (Vgs(th))",
+          "value": "1.3V"
+        },
+        {
+          "name": "Gate Charge(Qg)",
+          "value": "9.4nC@4.5V"
+        },
+        {
+          "name": "Reverse Transfer Capacitance (Crss@Vds)",
+          "value": "77pF"
+        },
+        {
+          "name": "Current - Continuous Drain(Id)",
+          "value": "4.2A"
+        },
+        {
+          "name": "Drain to Source Voltage",
+          "value": "30V"
+        },
+        {
+          "name": "Output Capacitance(Coss)",
+          "value": "115pF"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "1.4W"
+        },
+        {
+          "name": "RDS(on)",
+          "value": "50m\u03a9@10V"
+        }
+      ]
+    }
+  ]
+}

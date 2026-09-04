@@ -1,0 +1,506 @@
+                                                                                                                      SMBJ5.0 THRU SMBJ440CA
+
+
+
+                                                             E480232
+
+   Features
+   •   For Surface Mount Applicationsin Order to Optimize Board Space
+   •
+   •
+       Low Inductance
+       Fast Response Time: Typical Less than 1ps From 0V to VBR min
+                                                                                                               600 Watt TVS
+   •
+   •
+       Halogen Free Available Upon Request By Adding Suffix "-HF"
+       Moisture Sensitivity Level 1
+                                                                                                              5.0 to 440 Volts
+   •   Epoxy Meets UL 94 V-0 Flammability Rating
+   •   Lead Free Finish/RoHS Compliant (Note1) ("P" Suffix Designates
+       RoHS Compliant. See Ordering Information)
+
+
+   Mechanical Data
+                                                                                                                 SMB (DO-214AA)
+   • Polarity: Color Band Denotes Positive end( cathode) Except                                                  (LEAD FRAME)
+     Bi-directional Types
+   • Maximum Soldering Temperature:260°C for 10 Seconds                                                              H
+
+   • Terminals: Solderable Per MIL-STD-750, Method 2026
+                                                                                                                                    J
+   Maximum Ratings
+                                                                                                            Cathode Mark
+   •   Operating Junction Temperature Range: -55°C to +175°C
+   •   Storage Temperature Range: -55°C to +175°C                                                                                       A                  C
+   •   Thermal Resistance :RthJL=20°C/W
+                                                                                                                           E
+                                                                                                                                            D
+   •   Thermal Resistance :RthJC=25°C/W                                                                              F                            B
+
+                                                                                                                     G
+   Electrical Characteristics @ 25°C Unless Otherwise Specified
+                                                                                                                       DIMENSIONS
+  Peak Pulse Power                                                                                               INCHES       MM
+                                                                                                      DIM                                             NOTE
+  Surge Current on                           IPP             See the Table Note 2                              MIN MAX MIN MAX
+  10/1000μs Waveform                                                                                  A       0.079 0.103 2.00 2.62
+                                                                                                      B       0.075 0.087 1.91 2.21
+                                                                                                      C       0.002 0.008 0.05 0.20
+  Peak Pulse Power
+                                            PPP                   600W               Note 2,3         D       0.006 0.012 0.15 0.31
+  Dissipation                                                                                         E       0.030 0.060 0.76 1.52
+                                                                                                      F       0.065 0.091 1.65 2.32
+  Steady State Power                                                                 Note 7
+                                                                                                      G       0.200 0.220 5.08 5.59
+                                             PM(AV)                5.0W
+  Dissipation                                                                                         H       0.160 0.191 4.06 4.85
+                                                                                                      J       0.130 0.155 3.30 3.94
+
+  NOTES:
+                                                                                                                SUGGESTED SOLDER PAD LAYOUT
+
+ 1. High Temperature Solder Exemption Applied, see EU Directive Annex 7a.
+                                                                                                                               2.69mm
+ 2. Non-repetitive current pulse, per Fig.3 and derated above TA=25 °C per Fig.4
+ 3. Mounted on 5.0mm2 copper pads to each terminal.
+ 4. Peak pulse current waveform is 10/1000us, with maximum duty Cycle of 0.01%.
+ 5. Unidirectional and bidirectional available,for bidirectional devices add 'C' suffix to the pn#,
+    i.e.SMBJ5.0CA                                                                                                          2.11mm
+ 6. For bi-directional type having Vrwm of 10 Volts and less, the IR limit is double.
+ 7. Power dissipation, on infinite heat sink at TL=75oC
+
+
+                                                                                                                                                1.27mm
+
+
+
+
+Rev.3-1-01012019                                                                       1/8                                                               MCCSEMI.COM
+                                                                             SMBJ5.0 THRU SMBJ440CA
+
+Electrical Characteristics @ 25°C Unless Otherwise Specified
+
+                                                                                     MAXIMUM
+                    REVERSE
+                                BREAKDOWN VOLTAGE          MAXIMUM      PEAK PULSE   REVERSE
+                   STAND-OFF
+    MCC                               V(BR) @IT            CLAMPING      CURRENT     LEAKAGE   MARKING
+                    VOLTAGE
+PART NUMBER                           (VOLTS)             VOLTAGE@IPP       IPP       @ VWM     CODE
+                      VWM
+                                                                                        ID
+                    VOLTS      MIN      MAX      IT(mA)        VOLTS      (AMPS)       (μA)
+SMBJ5.0              5.0       6.40     7.30       10            9.6        62.5       800       KD
+SMBJ5.0A             5.0       6.40     7.00       10            9.2        65.2       800       KE
+SMBJ6.0              6.0       6.67     8.15       10           11.4        52.6       800       KF
+SMBJ6.0A             6.0       6.67     7.37       10           10.3        58.3       800       KG
+SMBJ6.5              6.5       7.22     8.82       10           12.3        48.7       500       KH
+SMBJ6.5A             6.5       7.22     7.98       10           11.2        53.6       500       KK
+SMBJ7.0              7.0       7.78     9.51       10           13.3        45.1        200      KL
+SMBJ7.0A             7.0       7.78     8.60       10           12.0        50.0        200      KM
+SMBJ7.5              7.5       8.33     10.2        1           14.3        42.0        100      KN
+SMBJ7.5A             7.5       8.33     9.21        1           12.9        46.5        100      KP
+SMBJ8.0              8.0       8.89     10.9        1           15.0        40.0         50      KQ
+SMBJ8.0A             8.0       8.89     9.83        1           13.6        44.1         50      KR
+SMBJ8.5              8.5       9.44     11.5        1           15.9        37.7         10      KS
+SMBJ8.5A             8.5       9.44     10.4        1           14.4        41.7         10      KT
+SMBJ9.0              9.0       10.0     12.2        1           16.9        35.5         5       KU
+SMBJ9.0A             9.0       10.0     11.1        1           15.4        39.0          5      KV
+SMBJ10                10       11.1     13.6        1           18.8        31.9          5      KW
+SMBJ10A               10       11.1     12.3        1           17.0        35.3          5      KX
+SMBJ11                11       12.2     14.9        1           20.1        29.9          1      KY
+SMBJ11A               11       12.2     13.5        1           18.2        33.0          1      KZ
+SMBJ12                12       13.3     16.3        1           22.0        27.3          1      LD
+SMBJ12A               12       13.3     14.7        1           19.9        30.2          1      LE
+SMBJ13                13       14.4     17.6        1           23.8        25.2          1      LF
+SMBJ13A               13       14.4     15.9        1           21.5        27.9          1      LG
+SMBJ14                14       15.6     19.1        1           25.8        23.3          1      LH
+SMBJ14A               14       15.6     17.2        1           23.2        25.8          1      LK
+SMBJ15                15       16.7     20.4        1           26.9        22.3          1      LL
+SMBJ15A               15       16.7     18.5        1           24.4        24.0          1      LM
+SMBJ16                16       17.8     21.8        1           28.8        20.8          1      LN
+SMBJ16A               16       17.8     19.7        1           26.0        23.1          1      LP
+SMBJ17                17       18.9     23.1        1           30.5        19.7          1      LQ
+SMBJ17A               17       18.9     20.9        1           27.6        21.7          1      LR
+SMBJ18                18       20.0     24.4        1           32.2        18.6          1      LS
+SMBJ18A               18       20.0     22.1        1           29.2        20.5          1      LT
+SMBJ20                20       22.2     27.1        1           35.8        16.7          1      LU
+SMBJ20A               20       22.2     24.5        1           32.4        18.5          1      LV
+SMBJ22                22       24.4     29.8        1           39.4        15.2          1      LW
+SMBJ22A               22       24.4     26.9        1           35.5        16.9          1      LX
+SMBJ24                24       26.7     32.6        1           43.0        14.0          1      LY
+SMBJ24A               24       26.7     29.5        1           38.9        15.4          1      LZ
+SMBJ26                26       28.9     35.3        1           46.6        12.4          1      MD
+SMBJ26A               26       28.9     31.9        1           42.1        14.2          1      ME
+SMBJ28                28       31.1     38.0       1            50.0        12.0         1       MF
+SMBJ28A               28       31.1     34.4       1            45.4        13.2         1       MG
+SMBJ30                30       33.3     40.7       1            53.5        11.2         1       MH
+SMBJ30A               30       33.3     36.8       1            48.4        12.4         1       MK
+
+
+
+
+Rev.3-1-01012019                                    2/8                                         MCCSEMI.COM
+                                                                             SMBJ5.0 THRU SMBJ440CA
+
+Electrical Characteristics @ 25°C Unless Otherwise Specified
+
+                                                                                     MAXIMUM
+                    REVERSE
+                                BREAKDOWN VOLTAGE          MAXIMUM      PEAK PULSE   REVERSE
+                   STAND-OFF
+    MCC                               V(BR) @IT            CLAMPING      CURRENT     LEAKAGE   MARKING
+                    VOLTAGE
+PART NUMBER                           (VOLTS)             VOLTAGE@IPP       IPP       @ VWM     CODE
+                      VWM
+                                                                                        ID
+                    VOLTS      MIN      MAX      IT(mA)        VOLTS      (AMPS)       (μA)
+SMBJ33                33       36.7     44.9        1           59.0        10.2         1       ML
+SMBJ33A               33       36.7     40.6        1           53.3        11.3         1       MM
+SMBJ36                36       40.0     48.9        1           64.3         9.3         1       MN
+SMBJ36A               36       40.0     44.2        1           58.1        10.3         1       MP
+SMBJ40                40       44.4     54.3        1           71.4         8.4         1       MQ
+SMBJ40A               40       44.4     49.1        1           64.5         9.3         1       MR
+SMBJ43                43       47.8     58.4        1           76.7         7.8         1       MS
+SMBJ43A               43       47.8     52.8        1           69.4         8.6         1       MT
+SMBJ45                45       50.0     61.1        1           80.3         7.5         1       MU
+SMBJ45A               45       50.0     55.3        1           72.7         8.3         1       MV
+SMBJ48                48       53.3     65.1        1           85.5         7.0         1       MW
+SMBJ48A               48       53.3     58.9        1           77.4         7.7         1       MX
+SMBJ51                51       56.7     69.3        1           91.1         6.6         1       MY
+SMBJ51A               51       56.7     62.7        1           82.4        7.3          1       MZ
+SMBJ54                54       60.0     73.3        1           96.3         6.2         1       ND
+SMBJ54A               54       60.0     66.3        1           87.1        6.9          1       NE
+SMBJ58                58       64.4     78.7        1           103          5.8         1       NF
+SMBJ58A               58       64.4     71.2        1           93.6        6.4          1       NG
+SMBJ60                60       66.7     81.5        1           107          5.6         1       NH
+SMBJ60A               60       66.7     73.7        1           96.8        6.2          1       NK
+SMBJ64                64       71.1     86.9        1           114          5.3         1       NL
+SMBJ64A               64       71.1     78.6        1           103          5.8         1       NM
+SMBJ70                70       77.8     95.1        1           125          4.8         1       NN
+SMBJ70A               70       77.8     86.0        1           113          5.3         1       NP
+SMBJ75                75       83.3     102         1           134          4.5         1       NQ
+SMBJ75A               75       83.3     92.1        1           121          4.9         1       NR
+SMBJ78                78       86.7     106         1           139          4.3         1       NS
+SMBJ78A               78       86.7     95.8        1           126          4.7         1       NT
+SMBJ85                85       94.4     115         1           151          3.9         1       NU
+SMBJ85A               85       94.4     104         1           137          4.4         1       NV
+SMBJ90                90       100      122         1           160          3.8         1       NW
+SMBJ90A               90       100      111         1           146          4.1         1       NX
+SMBJ100              100       111      136         1           179          3.4         1       NY
+SMBJ100A             100       111      123         1           162          3.7         1       NZ
+SMBJ110              110       122      149         1           196         3.0          1       PD
+SMBJ110A             110       122      135         1           177         3.4          1       PE
+SMBJ120              120       133      163         1           214         2.8          1       PF
+SMBJ120A             120       133      147         1           193         3.1          1       PG
+SMBJ130              130       144      176         1           231         2.6          1       PH
+SMBJ130A             130       144      159         1           209         2.9          1       PK
+SMBJ150              150       167      204         1           268         2.2          1       PL
+SMBJ150A             150       167      185         1           243         2.5          1       PM
+SMBJ160              160       178      218         1           287         2.1          1       PN
+SMBJ160A             160       178      197         1           259         2.3          1       PP
+SMBJ170              170       189      231         1           304          2.0         1       PQ
+SMBJ170A             170       189      209         1           275         2.2          1       PR
+SMBJ180A             180       201      222         1           292         2.1          1       PT
+
+
+
+
+Rev.3-1-01012019                                    3/8                                         MCCSEMI.COM
+                                                                             SMBJ5.0 THRU SMBJ440CA
+
+Electrical Characteristics @ 25°C Unless Otherwise Specified
+
+                                                                                     MAXIMUM
+                    REVERSE
+                                BREAKDOWN VOLTAGE          MAXIMUM      PEAK PULSE   REVERSE
+                   STAND-OFF
+    MCC                               V(BR) @IT            CLAMPING      CURRENT     LEAKAGE   MARKING
+                    VOLTAGE
+PART NUMBER                           (VOLTS)             VOLTAGE@IPP       IPP       @ VWM     CODE
+                      VWM
+                                                                                        ID
+                    VOLTS      MIN      MAX      IT(mA)        VOLTS      (AMPS)       (μA)
+SMBJ200A             200       224      247         1           324          1.9         1       PV
+SMBJ220A             220       246      272         1           356          1.7         1       PX
+SMBJ250A             250       279      309         1           405          1.5         1       PZ
+SMBJ300A             300       335      371         1           486          1.3         1       QE
+SMBJ350A             350       391      432         1           567          1.1         1       QG
+SMBJ400A             400       447      494         1           648          0.9         1       QK
+SMBJ440A             440       492      543         1           713          0.9         1       QM
+SMBJ5.0C             5.0       6.40     7.30       10            9.6        62.5       800       AD
+SMBJ5.0CA            5.0       6.40     7.00       10            9.2        65.2       800       AE
+SMBJ6.0C             6.0       6.67     8.15       10           11.4        52.6       800       AF
+SMBJ6.0CA            6.0       6.67     7.37       10           10.3        58.3       800       AG
+SMBJ6.5C             6.5       7.22     8.82       10           12.3        48.7       500       AH
+SMBJ6.5CA            6.5       7.22     7.98       10           11.2        53.6       500       AK
+SMBJ7.0C             7.0       7.78     9.51       10           13.3        45.1       200       AL
+SMBJ7.0CA            7.0       7.78     8.60       10           12.0        50.0       200       AM
+SMBJ7.5C             7.5       8.33     10.2        1           14.3        42.0       100       AN
+SMBJ7.5CA            7.5       8.33     9.21        1           12.9        46.5       100       AP
+SMBJ8.0C             8.0       8.89     10.9        1           15.0        40.0        50       AQ
+SMBJ8.0CA            8.0       8.89     9.83        1           13.6        44.1        50       AR
+SMBJ8.5C             8.5       9.44     11.5        1           15.9        37.7        10       AS
+SMBJ8.5CA            8.5       9.44     10.4        1           14.4        41.7        10       AT
+SMBJ9.0C             9.0       10.0     12.2        1           16.9        35.5         5       AU
+SMBJ9.0CA            9.0       10.0     11.1        1           15.4        39.0         5       AV
+SMBJ10C               10       11.1     13.6        1           18.8        31.9         5       AW
+SMBJ10CA              10       11.1     12.3       1            17.0        35.3         5       AX
+SMBJ11C               11       12.2     14.9        1           20.1        29.9         1       AY
+SMBJ11CA              11       12.2     13.5       1            18.2        33.0         1       AZ
+SMBJ12C               12       13.3     16.3        1           22.0        27.3         1       BD
+SMBJ12CA              12       13.3     14.7       1            19.9        30.2         1       BE
+SMBJ13C               13       14.4     17.6        1           23.8        25.2         1       BF
+SMBJ13CA              13       14.4     15.9       1            21.5        27.9         1       BG
+SMBJ14C               14       15.6     19.1       1            25.8        23.3         1       BH
+SMBJ14CA              14       15.6     17.2       1            23.2        25.8         1       BK
+SMBJ15C               15       16.7     20.4       1            26.9        22.3         1       BL
+SMBJ15CA              15       16.7     18.5       1            24.4        24.0         1       BM
+SMBJ16C               16       17.8     21.8       1            28.8        20.8         1       BN
+SMBJ16CA              16       17.8     19.7       1            26.0        23.1         1       BP
+SMBJ17C               17       18.9     23.1       1            30.5        19.7         1       BQ
+SMBJ17CA              17       18.9     20.9       1            27.6        21.7         1       BR
+SMBJ18C               18       20.0     24.4       1            32.2        18.6         1       BS
+SMBJ18CA              18       20.0     22.1       1            29.2        20.5         1       BT
+SMBJ20C               20       22.2     27.1       1            35.8        16.7         1       BU
+SMBJ20CA              20       22.2     24.5       1            32.4        18.5         1       BV
+SMBJ22C               22       24.4     29.8       1            39.4        15.2         1       BW
+SMBJ22CA              22       24.4     26.9        1           35.5        16.9         1       BX
+SMBJ24C               24       26.7     32.6        1           43.0        14.0         1       BY
+SMBJ24CA              24       26.7     29.5        1           38.9        15.4         1       BZ
+
+
+
+
+Rev.3-1-01012019                                    4/8                                          MCCSEMI.COM
+                                                                             SMBJ5.0 THRU SMBJ440CA
+
+Electrical Characteristics @ 25°C Unless Otherwise Specified
+
+                                                                                     MAXIMUM
+                    REVERSE
+                                BREAKDOWN VOLTAGE          MAXIMUM      PEAK PULSE   REVERSE
+                   STAND-OFF
+    MCC                               V(BR) @IT            CLAMPING      CURRENT     LEAKAGE   MARKING
+                    VOLTAGE
+PART NUMBER                           (VOLTS)             VOLTAGE@IPP       IPP       @ VWM     CODE
+                      VWM
+                                                                                        ID
+                    VOLTS      MIN      MAX      IT(mA)        VOLTS      (AMPS)       (μA)
+SMBJ26C               26       28.9     35.3        1           46.6        12.4         1       CD
+SMBJ26CA              26       28.9     31.9        1           42.1        14.2         1       CE
+SMBJ28C               28       31.1     38.0        1           50.0        12.0         1       CF
+SMBJ28CA              28       31.1     34.4        1           45.4        13.2         1       CG
+SMBJ30C               30       33.3     40.7        1           53.5        11.2         1       CH
+SMBJ30CA              30       33.3     36.8        1           48.4        12.4         1       CK
+SMBJ33C               33       36.7     44.9        1           59.0        10.2         1       CL
+SMBJ33CA              33       36.7     40.6        1           53.3        11.3         1       CM
+SMBJ36C               36       40.0     48.9        1           64.3         9.3         1       CN
+SMBJ36CA              36       40.0     44.2        1           58.1        10.3         1       CP
+SMBJ40C               40       44.4     54.3        1           71.4         8.4         1       CQ
+SMBJ40CA              40       44.4     49.1        1           64.5         9.3         1       CR
+SMBJ43C               43       47.8     58.4        1           76.7         7.8         1       CS
+SMBJ43CA              43       47.8     52.8        1           69.4         8.6         1       CT
+SMBJ45C               45       50.0     61.1        1           80.3         7.5         1       CU
+SMBJ45CA              45       50.0     55.3        1           72.7         8.3         1       CV
+SMBJ48C               48       53.3     65.1        1           85.5         7.0         1       CW
+SMBJ48CA              48       53.3     58.9        1           77.4         7.7         1       CX
+SMBJ51C               51       56.7     69.3        1           91.1         6.6         1       CY
+SMBJ51CA              51       56.7     62.7        1           82.4         7.3         1       CZ
+SMBJ54C               54       60.0     73.3        1           96.3         6.2         1       DD
+SMBJ54CA              54       60.0     66.3        1           87.1         6.9         1       DE
+SMBJ58C               58       64.4     78.7        1           103          5.8         1       DF
+SMBJ58CA              58       64.4     71.2        1           93.6         6.4         1       DG
+SMBJ60C               60       66.7     81.5        1           107          5.6         1       DH
+SMBJ60CA              60       66.7     73.7        1           96.8         6.2         1       DK
+SMBJ64C               64       71.1     86.9        1           114          5.3         1       DL
+SMBJ64CA              64       71.1     78.6        1           103          5.8         1       DM
+SMBJ70C               70       77.8     95.1        1           125          4.8         1       DN
+SMBJ70CA              70       77.8     86.0        1           113          5.3         1       DP
+SMBJ75C               75       83.3     102         1           134          4.5         1       DQ
+SMBJ75CA              75       83.3     92.1        1           121          4.9         1       DR
+SMBJ78C               78       86.7     106         1           139          4.3         1       DS
+SMBJ78CA              78       86.7     95.8        1           126          4.7         1       DT
+SMBJ85C               85       94.4     115         1           151          3.9         1       DU
+SMBJ85CA              85       94.4     104         1           137          4.4         1       DV
+SMBJ90C               90       100      122         1           160          3.8         1       DW
+SMBJ90CA              90       100      111         1           146          4.1         1       DX
+SMBJ100C             100       111      136         1           179          3.4         1       DY
+SMBJ100CA            100       111      123         1           162          3.7         1       DZ
+SMBJ110C             110       122      149         1           196          3.0         1       ED
+SMBJ110CA            110       122      135         1           177          3.4         1       EE
+SMBJ120C             120       133      163         1           214          2.8         1       EF
+SMBJ120CA            120       133      147         1           193          3.1         1       EG
+SMBJ130C             130       144      176         1           231          2.6         1       EH
+SMBJ130CA            130       144      159         1           209          2.9         1       EK
+SMBJ150C             150       167      204         1           268          2.2         1       EL
+
+
+
+
+Rev.3-1-01012019                                    5/8                                         MCCSEMI.COM
+                                                                              SMBJ5.0 THRU SMBJ440CA
+
+Electrical Characteristics @ 25°C Unless Otherwise Specified
+
+                                                                                      MAXIMUM
+                    REVERSE
+                                BREAKDOWN VOLTAGE           MAXIMUM      PEAK PULSE   REVERSE
+                   STAND-OFF
+    MCC                               V(BR) @IT             CLAMPING      CURRENT     LEAKAGE   MARKING
+                    VOLTAGE
+PART NUMBER                           (VOLTS)              VOLTAGE@IPP       IPP       @ VWM     CODE
+                      VWM
+                                                                                         ID
+                    VOLTS      MIN      MAX       IT(mA)       VOLTS       (AMPS)       (μA)
+SMBJ150CA            150       167      185         1           243          2.5          1       EM
+SMBJ160C             160       178      218         1           287          2.1          1       EN
+SMBJ160CA            160       178      197         1           259          2.3          1       EP
+SMBJ170C             170       189      231         1           304          2.0          1       EQ
+SMBJ170CA            170       189      209         1           275          2.2          1       ER
+SMBJ180CA            180       201      222         1           292          2.1          1       ET
+SMBJ200CA            200       224      247         1           324          1.9          1       EV
+SMBJ220CA            220       246      272         1           356          1.7          1       EX
+SMBJ250CA            250       279      309         1           405          1.5          1       EZ
+SMBJ300CA            300       335      371         1           486          1.3          1       FE
+SMBJ350CA            350       391      432         1           567          1.1          1       FG
+SMBJ400CA            400       447      494         1           648          0.9          1       FK
+SMBJ440CA            440       492      543         1           713          0.9          1       FM
+
+
+
+
+Rev.3-1-01012019                                     6/8                                         MCCSEMI.COM
+                                                                                                                                                                                                    SMBJ5.0 THRU SMBJ440CA
+
+
+Curve Characteristics
+
+
+                                                        Fig. 1 - Peak Pulse Power Rating Curve                                                                                              Fig. 2 - Typical Junction Capacitance
+                                 100000                                                                                                                    10000
+                                                                                         Non-repetitive pulse                                                                                                              Measured at Zero Bias
+                                                                                         Waveform shown in Fig.3
+
+
+
+
+                                                                                                                              CJ - Junction Capacitance (pF)
+                                                                                         TA= 25 OC
+
+
+
+
+PPP - Peak Pulse Power (W)
+                                                                                                                                                                                                         Uni-directional
+                                       10000                                                                                                                   1000
+
+
+
+
+                                                                                                                                                                                            Bi-directional
+                                        1000                                                                                                                    100
+
+
+                                                                                                                                                                                  TJ = 25 OC
+                                                                                                                                                                                  f = 1.0 MHz
+                                                                                                                                                                                  Vsig = 50 mVp-p
+                                         100                                                                                                                            10
+                                            0.1           1                 10           100         1000          10000                                                     1                      10                       100                   1000
+
+                                                                        td - Pulse Width (μs)                                                                                                       VBR - Breakdown Voltage (V)
+
+
+                                                                   Fig. 3 - Pulse Waveform                                                                                                       Fig. 4 - Pulse Derating Curve
+                                       150                                                                                                                              120
+                                                                                         TJ= 25 OC
+                                                  tr = 10 ȝs
+
+
+
+
+                                                                                                                             Peak Pulse Power (PPP) or Current (IPPM)
+                                                                                         Pulse Width(td)
+                                                                                                                                                                        100
+
+
+
+
+   IPPM - Peak Pulse Current, % IRSM
+                                                                                         is defined as the Point
+                                                    Peak Value                           where the Peak Current
+                                                    IPPM                                 decays to 50 % of IPPM
+                                       100                                                                                                                               80
+
+
+                                                                                                                                                                         60
+                                                                     Half Value - IPP
+
+
+
+
+                                                                                                                                   Derating in Percentage (%)
+                                                                     I             2
+                                                                      PPM
+                                        50                                                                                                                               40
+                                                                                         10/1000 ȝs Waveform
+                                                                                         as defined by R.E.A.
+                                                                                                                                                                         20
+
+                                                   tG
+                                         0                                                                                                                                0
+                                             0                 1                 2               3                 4                                                          0        25      50        75     100        125     150    175       200
+                                                                         t - Time (ms)                                                                                                           TA - Ambient Temperature (OC)
+
+
+
+
+Rev.3-1-01012019                                                                                                       7/8                                                                                                               MCCSEMI.COM
+                                                                                             SMBJ5.0 THRU SMBJ440CA
+
+
+ Ordering Information
+
+                                 Device                                                       Packing
+
+
+                              Part Number-TP                                            Tape&Reel:3Kpcs/Reel
+
+Note : Adding "-HF" Suffix For Halogen Free, eg. Part Number-TP-HF
+
+
+
+
+                                                          ***IMPORTANT NOTICE***
+
+
+ Micro Commercial Components Corp. reserves the right to make changes without further notice to any product herein to
+ make corrections, modifications , enhancements , improvements , or other changes . Micro Commercial Components
+ Corp . does not assume any liability arising out of the application or use of any product described herein; neither does it
+ convey any license under its patent rights ,nor the rights of others . The user of products in such applications shall assume all
+ risks of such use and will agree to hold Micro Commercial Components Corp . and all the companies whose products are
+ represented on our website, harmless against all damages.
+
+
+                                                             ***LIFE SUPPORT***
+
+      MCC's products are not authorized for use as critical components in life support devices or systems without the express
+                                     written approval of Micro Commercial Components Corporation.
+
+                                                       ***CUSTOMER AWARENESS***
+
+ Counterfeiting of semiconductor parts is a growing problem in the industry. Micro Commercial Components (MCC) is taking
+ strong measures to protect ourselves and our customers from the proliferation of counterfeit parts. MCC strongly encourages
+ customers to purchase MCC parts either directly from MCC or from Authorized MCC Distributors who are listed by country on
+ our web page cited below. Products customers buy either from MCC directly or from Authorized MCC Distributors are genuine
+ parts, have full traceability, meet MCC's quality standards for handling and storage. MCC will not provide any warranty
+ coverage or other assistance for parts bought from Unauthorized Sources. MCC is committed to combat this global
+ problem and encourage our customers to do their part in stopping this practice by buying direct or from authorized
+ distributors.
+
+
+
+
+ Rev.3-1-01012019                                                    8/8                                                MCCSEMI.COM
+

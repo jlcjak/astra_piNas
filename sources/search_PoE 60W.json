@@ -1,0 +1,461 @@
+{
+  "total": 6,
+  "results": [
+    {
+      "lcsc": "C5829232",
+      "name": "BOURNS POE060-FD20120S",
+      "model": "POE060-FD20120S",
+      "brand": "BOURNS",
+      "package": "SMD-12P,21.5x21mm",
+      "category": "Power Transformers",
+      "stock": 3,
+      "type": "Extended",
+      "price": 5.7703,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.7703
+        },
+        {
+          "qty": 10,
+          "price": 5.6436
+        },
+        {
+          "qty": 30,
+          "price": 5.5591
+        },
+        {
+          "qty": 150,
+          "price": 5.4763
+        },
+        {
+          "qty": 152,
+          "price": 5.4763
+        },
+        {
+          "qty": 154,
+          "price": 5.4763
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 150,
+      "description": "1 1.71:1 1.875kV 100uH 12V 2 350nH 36V~72V 5A 60W \u00b110% SMD-12P,21.5x21mm Power Transformers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-transformers_bourns-poe060-fd20120s_C5829232.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312030605_BOURNS-POE060-FD20120S_C5829232.pdf",
+      "attributes": [
+        {
+          "name": "Power(Watts)",
+          "value": "60W"
+        },
+        {
+          "name": "Inductance",
+          "value": "100uH"
+        },
+        {
+          "name": "Primary Side Voltage",
+          "value": "36V~72V"
+        },
+        {
+          "name": "Output Current",
+          "value": "5A"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b110%"
+        },
+        {
+          "name": "Secondary Side Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.875kV"
+        },
+        {
+          "name": "Leakage Inductance",
+          "value": "350nH"
+        },
+        {
+          "name": "Secondary Winding",
+          "value": "1"
+        },
+        {
+          "name": "Turns Ratio",
+          "value": "1.71:1"
+        },
+        {
+          "name": "Primary Winding(s)",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2860885",
+      "name": "TI TPS2373-3RGWR",
+      "model": "TPS2373-3RGWR",
+      "brand": "Texas Instruments",
+      "package": "VQFN-20(5x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 4,
+      "type": "Extended",
+      "price": 3.7056,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.7056
+        },
+        {
+          "qty": 10,
+          "price": 3.1906
+        },
+        {
+          "qty": 30,
+          "price": 2.8836
+        },
+        {
+          "qty": 100,
+          "price": 2.5733
+        },
+        {
+          "qty": 500,
+          "price": 2.4303
+        },
+        {
+          "qty": 1000,
+          "price": 2.3653
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 1 1.85A 100V 60W IEEE 802.3 at(PoE+)\u3001IEEE 802.3 bt(PoE++) Powered Device (PD) VQFN-20(5x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps2373-3rgwr_C2860885.html",
+      "datasheet": "https://www.ti.com/cn/lit/gpn/tps2373",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "60W"
+        },
+        {
+          "name": "limiting current",
+          "value": "1.85A"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 at(PoE+)\u3001IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2863330",
+      "name": "TI TPS2372-3RGWT",
+      "model": "TPS2372-3RGWT",
+      "brand": "Texas Instruments",
+      "package": "VQFN-20-EP(5x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 168,
+      "type": "Extended",
+      "price": 3.4846,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.4846
+        },
+        {
+          "qty": 10,
+          "price": 3.1159
+        },
+        {
+          "qty": 30,
+          "price": 2.929
+        },
+        {
+          "qty": 250,
+          "price": 2.6772
+        },
+        {
+          "qty": 500,
+          "price": 2.5863
+        },
+        {
+          "qty": 1000,
+          "price": 2.5473
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 250,
+      "description": "-40\u2103~+125\u2103 1.85A 100V 60W IEEE 802.3 bt(PoE++) PGOOD\u72b6\u6001\u6307\u793a\u3001PD\u68c0\u6d4b\u4e0e\u65ad\u5f00\u8bc6\u522b\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection Powered Device (PD) VQFN-20-EP(5x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps2372-3rgwt_C2863330.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010800_Texas-Instruments-TPS2372-3RGWT_C2863330.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Voltage - Supply (POWER)",
+          "value": "0V~57V"
+        },
+        {
+          "name": "Power - Max",
+          "value": "60W"
+        },
+        {
+          "name": "limiting current",
+          "value": "1.85A"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD status indication\u3001PD detection and disconnect identification\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2876734",
+      "name": "TI TPS2372-3RGWR",
+      "model": "TPS2372-3RGWR",
+      "brand": "Texas Instruments",
+      "package": "VQFN-20(5x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 26,
+      "type": "Extended",
+      "price": 3.1337,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.1337
+        },
+        {
+          "qty": 10,
+          "price": 2.6984
+        },
+        {
+          "qty": 30,
+          "price": 2.4401
+        },
+        {
+          "qty": 100,
+          "price": 2.1785
+        },
+        {
+          "qty": 500,
+          "price": 2.0583
+        },
+        {
+          "qty": 1000,
+          "price": 2.0031
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 1 1.85A 100V 60W IEEE 802.3 bt(PoE++) PGOOD\u72b6\u6001\u6307\u793a\u3001PD\u68c0\u6d4b\u4e0e\u65ad\u5f00\u8bc6\u522b\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection Powered Device (PD) VQFN-20(5x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps2372-3rgwr_C2876734.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2302220600_Texas-Instruments-TPS2372-3RGWR_C2876734.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "60W"
+        },
+        {
+          "name": "limiting current",
+          "value": "1.85A"
+        },
+        {
+          "name": "Features",
+          "value": "PGOOD status indication\u3001PD detection and disconnect identification\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C3189530",
+      "name": "TI TPS23730RMTR",
+      "model": "TPS23730RMTR",
+      "brand": "Texas Instruments",
+      "package": "VQFN-45(7x5)",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 2,
+      "type": "Extended",
+      "price": 3.6048,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.6048
+        },
+        {
+          "qty": 10,
+          "price": 3.1077
+        },
+        {
+          "qty": 30,
+          "price": 2.8121
+        },
+        {
+          "qty": 100,
+          "price": 2.5148
+        },
+        {
+          "qty": 500,
+          "price": 2.3767
+        },
+        {
+          "qty": 1000,
+          "price": 2.315
+        }
+      ],
+      "min_qty": 3,
+      "reel_qty": 3000,
+      "description": "-40\u2103~+125\u2103 1 1.85A 100V 5V 60W IEEE 802.3 bt(PoE++) Powered Device (PD) VQFN-45(7x5) Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps23730rmtr_C3189530.html",
+      "datasheet": "https://www.ti.com/cn/lit/gpn/tps23730",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "60W"
+        },
+        {
+          "name": "limiting current",
+          "value": "1.85A"
+        },
+        {
+          "name": "Voltage - Supply (IC)",
+          "value": "5V"
+        },
+        {
+          "name": "Features",
+          "value": "PD detection and disconnect identification\u3001Undervoltage Protection\u3001Thermal Protection\u3001Overcurrent Protection"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        },
+        {
+          "name": "Support PoE standard",
+          "value": "IEEE 802.3 bt(PoE++)"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "100V"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2870077",
+      "name": "TI TPS2373-3RGWT",
+      "model": "TPS2373-3RGWT",
+      "brand": "Texas Instruments",
+      "package": "VQFN-20",
+      "category": "Power Over Ethernet (PoE) Controllers",
+      "stock": 0,
+      "type": "Extended",
+      "price": 5.7053,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.7053
+        },
+        {
+          "qty": 10,
+          "price": 5.7053
+        },
+        {
+          "qty": 12,
+          "price": 5.7053
+        },
+        {
+          "qty": 250,
+          "price": 2.2078
+        },
+        {
+          "qty": 500,
+          "price": 2.1314
+        },
+        {
+          "qty": 1000,
+          "price": 2.0924
+        }
+      ],
+      "min_qty": 2,
+      "reel_qty": 250,
+      "description": "-40\u2103~+125\u2103 1 60W Powered Device (PD) VQFN-20 Power Over Ethernet (PoE) Controllers ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-over-ethernet-poe-controllers_texas-instruments-tps2373-3rgwt_C2870077.html",
+      "datasheet": "https://www.ti.com/cn/lit/gpn/tps2373",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+125\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Powered Device (PD)"
+        },
+        {
+          "name": "Power - Max",
+          "value": "60W"
+        },
+        {
+          "name": "number of channels",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

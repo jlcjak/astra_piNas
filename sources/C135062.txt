@@ -1,0 +1,377 @@
+                                                                              Green                           SMBJ5.0(C)A – SMBJ200A
+                                                                     600W SURFACE MOUNT TRANSIENT VOLTAGE SUPPRESSOR
+
+
+Features                                                                              Mechanical Data
+   600W Peak Pulse Power Dissipation                                                    Case: SMB
+   5.0V to 200V Standoff Voltages                                                       Case Material: Molded Plastic.
+   Glass Passivated Die Construction                                                     UL Flammability Classification Rating 94V-0
+   Uni- and Bi-Directional Versions Available                                           Moisture Sensitivity: Level 1 per J-STD-020
+   Excellent Clamping Capability                                                        Terminals: Lead Free Plating (Matte Tin Finish).
+   Lead-Free Finish; RoHS Compliant (Notes 1 & 2)                                        Solderable per MIL-STD-202, Method 208
+   Halogen and Antimony Free. “Green” Device (Note 3)                                   Weight: 0.1 grams (Approximate)
+
+
+
+
+                                                        Top View                               Bottom View
+
+
+
+
+Ordering Information (Note 4)
+           Part Number                              Qualification                                  Case                                  Packaging
+         SMBJXXX(C)A-13-F                            Commercial                                    SMB                               3,000/Tape & Reel
+*x = Device Voltage, e.g., SMBJ170A-13-F.
+Notes:     1. EU Directive 2002/95/EC (RoHS) & 2011/65/EU (RoHS 2) compliant. All applicable RoHS exemptions applied.
+           2. See http://www.diodes.com/quality/lead_free.html for more information about Diodes Incorporated’s definitions of Halogen- and Antimony-free, "Green"
+              and Lead-free.
+           3. Halogen- and Antimony-free "Green” products are defined as those which contain <900ppm bromine, <900ppm chlorine (<1500ppm total Br + Cl) and
+              <1000ppm antimony compounds.
+           4. For packaging details, go to our website at https://www.diodes.com/design/support/packaging/diodes-packaging/.
+
+
+
+
+Marking Information
+
+         Bi-Directional Device                    Cathode Band for Uni-Directional Device
+
+
+
+                                                             YWW                    xx = Product Type Marking Code (See Page 3)
+                                                                                        = Manufacturers’ Code Marking
+                                                           xx                       YWW = Date Code Marking
+                                                                                    Y = Last Digit of Year (ex: 7 for 2017)
+                                                                                    WW = Week Code (01 to 53)
+
+
+
+
+SMBJ5.0(C)A – SMBJ200A                                                     1 of 6                                                                        May 2017
+Document number: DS19002 Rev. 20 - 2                                   www.diodes.com                                                            © Diodes Incorporated
+                                                                                                     SMBJ5.0(C)A – SMBJ200A
+
+Maximum Ratings (@TA = +25°C, unless otherwise specified.)
+                                Characteristic                                             Symbol         Value          Unit
+Peak Pulse Power Dissipation
+                                                                                             PPK           600            W
+(Non Repetitive Current Pulse Derated above TA = +25C)              (Note 5)
+Peak Power Derating Above +25°C                                                             PDER           4.8           W/C
+Peak Forward Surge Current, 8.3ms Single Half Sine Wave Superimposed
+                                                                                             IFSM          100             A
+on Rated Load (Notes 5, 6 & 7)
+Steady State Power Dissipation @ TL = +75C                                                PM(AV)          5.0            W
+Instantaneous Forward Voltage @ IPP = 35A                     VBR<100V                                     3.5             V
+                                                                                              VF
+(Notes 5, 6 & 7)                                              VBR≥100V                                     5.0             V
+
+
+
+
+Thermal Characteristics
+                                Characteristic                                             Symbol         Value          Unit
+Operating Temperature Range                                                                   TJ        -55 to +150       C
+Storage Temperature Range                                                                    TSTG       -55 to +175       C
+Notes:     5. Valid provided that terminals are kept at ambient temperature.
+           6. Measured with 8.3ms single half sine-wave. Duty cycle = 4 pulses per minute maximum.
+           7. Unidirectional units only.
+
+
+
+
+SMBJ5.0(C)A – SMBJ200A                                                   2 of 6                                                May 2017
+Document number: DS19002 Rev. 20 - 2                                 www.diodes.com                                   © Diodes Incorporated
+                                                                                                       SMBJ5.0(C)A – SMBJ200A
+
+Electrical Characteristics (@TA = +25°C, unless otherwise specified.)
+   Part Number
+                        Reverse         Breakdown                Max. Reverse                              Max. Peak Pulse
+   Add C For Bi-                                         Test                              Max. Clamping
+                        Standoff          Voltage               Leakage @ VRWM                                Current        Marking Code
+    Directional                                         Current                            Voltage @ Ipp
+                        Voltage       VBR @ IT (Note 9)            (Note 10)                                     Ipp
+     (Note 8)
+    See Note 6          VRWM (V)      Min (V) Max (V)        IT(mA)           IR (A)         VC (V)            (A)          BI-        UNI-
+   SMBJ5.0(C)A             5.0         6.40    7.23             10              800            9.2              65.2         AE          KE
+   SMBJ6.0(C)A             6.0         6.67    7.67             10              800            10.3             58.3         AG         KG
+   SMBJ6.5(C)A             6.5         7.22    8.30             10              500            11.2             53.6         AK          KK
+   SMBJ7.0(C)A             7.0         7.78    8.95             10              200            12.0             50.0         AM         KM
+   SMBJ7.5(C)A             7.5         8.33    9.58            1.0              100            12.9             46.5         AP          KP
+   SMBJ8.0(C)A             8.0         8.89    10.23           1.0               50            13.6             44.1         AR         KR
+   SMBJ8.5(C)A             8.5         9.44    10.82           1.0               10            14.4             41.7         AT          KT
+   SMBJ9.0(C)A             9.0         10.00   11.50           1.0              5.0            15.4             39.0         AV          KV
+   SMBJ10(C)A             10.0         11.10   12.80           1.0              5.0            17.0             35.3         AX          KX
+   SMBJ11(C)A             11.0         12.20   14.40           1.0              5.0            18.2             33.0         AZ          KZ
+   SMBJ12(C)A             12.0         13.30   15.30           1.0              5.0            19.9             30.2         BE          LE
+   SMBJ13(C)A             13.0         14.40   16.50           1.0              5.0            21.5             27.9         BG          LG
+   SMBJ14(C)A             14.0         15.60   17.90           1.0              5.0            23.2             25.8         BK          LK
+   SMBJ15(C)A             15.0         16.70   19.20           1.0              5.0            24.4             24.0         BM         LM
+   SMBJ16(C)A             16.0         17.80   20.50           1.0              5.0            26.0             23.1         BP          LP
+   SMBJ17(C)A             17.0         18.90   21.70           1.0              5.0            27.6             21.7         BR          LR
+   SMBJ18(C)A             18.0         20.00   23.30           1.0              5.0            29.2             20.5         BT          LT
+   SMBJ20(C)A             20.0         22.20   25.50           1.0              5.0            32.4             18.5         BV          LV
+   SMBJ22(C)A             22.0         24.40   28.00           1.0              5.0            35.5             16.9         BX          LX
+   SMBJ24(C)A             24.0         26.70   30.70           1.0              5.0            38.9             15.4         BZ          LZ
+   SMBJ26(C)A             26.0         28.90   33.20           1.0              5.0            42.1             14.2         CE         ME
+   SMBJ28(C)A             28.0         31.10   35.80           1.0              5.0            45.4             13.2         CG         MG
+   SMBJ30(C)A             30.0         33.30   38.30           1.0              5.0            48.4             12.4         CK         MK
+   SMBJ33(C)A             33.0         36.70   42.20           1.0              5.0            53.3             11.3         CM         MM
+   SMBJ36(C)A             36.0         40.00   46.00           1.0              5.0            58.1             10.3         CP         MP
+   SMBJ40(C)A             40.0         44.40   51.10           1.0              5.0            64.5             9.3          CR         MR
+   SMBJ43(C)A             43.0         47.80   54.90           1.0              5.0            69.4             8.6          CT         MT
+   SMBJ45(C)A             45.0         50.00   57.50           1.0              5.0            72.7             8.3          CV         MV
+   SMBJ48(C)A             48.0         53.30   61.30           1.0              5.0            77.4             7.7          CX         MX
+   SMBJ51(C)A             51.0         56.70   65.20           1.0              5.0            82.4             7.3          CZ         MZ
+   SMBJ54(C)A             54.0         60.00   69.00           1.0              5.0            87.1             6.9          DE         NE
+   SMBJ58(C)A             58.0         64.40   74.60           1.0              5.0            93.6             6.4          DG         NG
+   SMBJ60(C)A             60.0         66.70   76.70           1.0              5.0            96.8             6.2          DK         NK
+   SMBJ64(C)A             64.0         71.10   81.80           1.0              5.0           103.0             5.8          DM         NM
+   SMBJ70(C)A             70.0         77.80   89.50           1.0              5.0           113.0             5.3          DP         NP
+   SMBJ75(C)A             75.0         83.30   95.80           1.0              5.0           121.0             4.9          DR         NR
+   SMBJ78(C)A             78.0         86.70   99.70           1.0              5.0           126.0             4.7          DT          NT
+   SMBJ85(C)A             85.0         94.40  108.20           1.0              5.0           137.0             4.4          DV         NV
+   SMBJ90(C)A             90.0         100.0  115.50           1.0              5.0           146.0             4.1          DX         NX
+   SMBJ100(C)A           100.0         111.0  128.00           1.0              5.0           162.0             3.7          DZ          NZ
+   SMBJ110(C)A           110.0         122.0  140.00           1.0              5.0           177.0             3.4          EE          PE
+   SMBJ120(C)A           120.0         133.0  153.00           1.0              5.0           193.0             3.1          EG         PG
+   SMBJ130(C)A           130.0         144.0  165.50           1.0              5.0           209.0             2.9          EK          PK
+   SMBJ150(C)A           150.0         167.0  192.50           1.0              5.0           243.0             2.5          EM         PM
+   SMBJ160(C)A           160.0         178.0  205.00           1.0              5.0           259.0             2.3          EP          PP
+   SMBJ170(C)A           170.0         189.0  217.50           1.0              5.0           275.0             2.2          ER         PR
+    SMBJ180A             180.0        200.00 220.00            1.0              1.0           291.6             2.06          -          PT
+    SMBJ200A             200.0        224.00 247.00            1.0              1.0           324.0             1.9           -          PV
+
+Notes:   8. Suffix C denotes Bi-directional device.
+         9. VBR measured with IT current pulse = 10ms to 15ms.
+         10. For Bi-Directional devices having VRWM of 10V and under, the IR is doubled.
+
+
+
+
+SMBJ5.0(C)A – SMBJ200A                                                     3 of 6                                                    May 2017
+Document number: DS19002 Rev. 20 - 2                                   www.diodes.com                                        © Diodes Incorporated
+                                                                                                                                                                                       SMBJ5.0(C)A – SMBJ200A
+
+                                          100                                                                                                         10,000
+                                                                                                                                                                                                                              Measured at
+                                                                                                                                                                                                                               zero bias
+
+
+
+
+    PEAK PULSE DERATING IN % OF
+
+
+                                                                                                                    CT, CAPACITANCE (pF)
+                                          75                                                                                                                                                               Uni-directional
+                                                                                                                                                                      1000
+
+
+                                          50
+
+
+
+
+      PEAK POWER OR CURRENT
+                                                                                                                                                                                     Bi-directional
+                                                                                                                                                                      100
+
+                                           25
+
+                                                                                                                                                                                 Tj = 25°C
+                                                      10 X 1000 Waveform
+                                                      as defined by REA                                                                                                          f = 1.0 MHz
+                                                                                                                                                                                 Vsig = 50 mV p-p
+                                           0                                                                                                                           10
+                                                0     25         50   75   100    125    150      175 200                                                                    1                        10                100              1000
+                                                           TA, AMBIENT TEMPERATURE (°C)                                                                                           VRWM, REVERSE STANDOFF VOLTAGE (V)
+                                                               Fig. 1 Pulse Derating Curve                                                                                             Fig. 2 Typical Total Capacitance
+
+
+
+                                          100
+
+                                                                                          Tj = 25 °C
+
+
+
+
+                                                                                                                                     IPP, PEAK PULSE CURRENT (%Ipp)
+             PPK, PEAK PULSE POWER (kW)
+                                                                                        Non Repetitive
+                                                                                        Pulse Waveform
+                                                                                        Shown in Fig. 4
+                                           10
+
+
+
+
+                                          1.0
+
+
+
+
+                                          0.1
+                                                0.1        1.0        10         100      1000         10000
+
+                                                                                                                                                                                                       t, TIME (ms)
+                                                                                                                                                                                                 Fig. 4 Pulse Waveform
+
+
+
+
+SMBJ5.0(C)A – SMBJ200A                                                                                        4 of 6                                                                                                                  May 2017
+Document number: DS19002 Rev. 20 - 2                                                                      www.diodes.com                                                                                                      © Diodes Incorporated
+                                                                                                                                                                                             SMBJ5.0(C)A – SMBJ200A
+
+
+
+
+                                                                                                                               PM(AV), STEADY STATE POWER DISSIPATION (W)
+                                                                                                                                                                            5.0
+                                            120
+
+
+
+
+     IFSM, PEAK FORWARD SURGE CURRENT (A)
+                                                                                         Pulse Width 8.3ms
+                                                                                       Single Half-Sine-Wave
+                                            100                                                                                                                             4.0
+
+
+                                            80
+                                                                                                                                                                            3.0
+
+                                             60
+                                                                                                                                                                            2.0
+
+                                             40
+
+                                                                                                                                                                            1.0
+                                             20
+
+
+                                              0                                                                                                                             0.0
+                                                  1        2             5     10         20             50    100                                                                0     25    50   75   100   125   150    175     200
+
+                                                             NUMBER OF CYCLES AT 60Hz                                                                                                       TL, LEAD TEMPERATURE (°C)
+                                                      Fig. 5 Maximum Non-Repetitive Surge Current                                                                                     Fig. 6 Steady State Power Derating Curve
+
+
+
+
+Package Outline Dimensions
+Please see http://www.diodes.com/package-outlines.html for the latest version.
+
+
+                                                                                                                     SMB
+
+
+                                                                               B
+
+
+
+                                                                                                                                                                                              SMB
+                                                                                                                                                                                       Dim     Min    Max
+                                                            A                                        C
+                                                                                                                                                                                        A     3.30    3.94
+                                                                                                                                                                                        B     4.06    4.57
+                                                                                                                                                                                        C     1.96    2.21
+                                                                                                                                                                                        D     0.15    0.31
+                                                                                                                                                                                         E    5.00    5.59
+                                                                                                     D
+                                                                                                                                                                                        G     0.05    0.20
+                                                            J                                                                                                                           H     0.76    1.52
+                                                                                                                                                                                         J    2.00    2.50
+                                                                                                                                                                                      All Dimensions in mm
+                                                                     H             G
+                                                                               E
+
+
+
+
+ Note:                                       11. The bar in the upper drawing is polarity indicator for Cathode Band. It is for Uni-directional devices only. Bi-directional devices have no polarity Indicator.
+
+
+
+
+ SMBJ5.0(C)A – SMBJ200A                                                                                            5 of 6                                                                                                        May 2017
+ Document number: DS19002 Rev. 20 - 2                                                                          www.diodes.com                                                                                           © Diodes Incorporated
+                                                                                                    SMBJ5.0(C)A – SMBJ200A
+
+Suggested Pad Layout
+Please see http://www.diodes.com/package-outlines.html for the latest version.
+
+                                                                        SMB
+
+
+                                           X1
+                               X                                                    Dimensions          Value (in mm)
+
+                                                                                         C                   4.30
+                    Y                                                                    G                   1.80
+                                                                                         X                   2.50
+                                           G                                             X1                  6.80
+                                                                                         Y                   2.30
+                                          C
+
+
+
+
+                                                               IMPORTANT NOTICE
+
+ DIODES INCORPORATED MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARDS TO THIS DOCUMENT,
+ INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ (AND THEIR EQUIVALENTS UNDER THE LAWS OF ANY JURISDICTION).
+
+ Diodes Incorporated and its subsidiaries reserve the right to make modifications, enhancements, improvements, corrections or other changes
+ without further notice to this document and any product described herein. Diodes Incorporated does not assume any liability arising out of the
+ application or use of this document or any product described herein; neither does Diodes Incorporated convey any license under its patent or
+ trademark rights, nor the rights of others. Any Customer or user of this document or products described herein in such applications shall assume
+ all risks of such use and will agree to hold Diodes Incorporated and all the companies whose products are represented on Diodes Incorporated
+ website, harmless against all damages.
+
+ Diodes Incorporated does not warrant or accept any liability whatsoever in respect of any products purchased through unauthorized sales channel.
+ Should Customers purchase or use Diodes Incorporated products for any unintended or unauthorized application, Customers shall indemnify and
+ hold Diodes Incorporated and its representatives harmless against all claims, damages, expenses, and attorney fees arising out of, directly or
+ indirectly, any claim of personal injury or death associated with such unintended or unauthorized application.
+
+ Products described herein may be covered by one or more United States, international or foreign patents pending. Product names and markings
+ noted herein may also be covered by one or more United States, international or foreign trademarks.
+
+ This document is written in English but may be translated into multiple languages for reference. Only the English version of this document is the
+ final and determinative format released by Diodes Incorporated.
+
+                                                                  LIFE SUPPORT
+
+ Diodes Incorporated products are specifically not authorized for use as critical components in life support devices or systems without the express
+ written approval of the Chief Executive Officer of Diodes Incorporated. As used herein:
+
+ A. Life support devices or systems are devices or systems which:
+
+           1. are intended to implant into the body, or
+
+           2. support or sustain life and whose failure to perform when properly used in accordance with instructions for use provided in the
+              labeling can be reasonably expected to result in significant injury to the user.
+
+ B. A critical component is any component in a life support device or system whose failure to perform can be reasonably expected to cause the
+    failure of the life support device or to affect its safety or effectiveness.
+
+ Customers represent that they have all necessary expertise in the safety and regulatory ramifications of their life support devices or systems, and
+ acknowledge and agree that they are solely responsible for all legal, regulatory and safety-related requirements concerning their products and any
+ use of Diodes Incorporated products in such safety-critical, life support devices or systems, notwithstanding any devices- or systems-related
+ information or support that may be provided by Diodes Incorporated. Further, Customers must fully indemnify Diodes Incorporated and its
+ representatives against any damages arising out of the use of Diodes Incorporated products in such safety-critical, life support devices or systems.
+
+ Copyright © 2017, Diodes Incorporated
+
+ www.diodes.com
+
+
+
+
+ SMBJ5.0(C)A – SMBJ200A                                              6 of 6                                                                May 2017
+ Document number: DS19002 Rev. 20 - 2                            www.diodes.com                                                    © Diodes Incorporated
+

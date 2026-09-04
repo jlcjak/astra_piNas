@@ -1,0 +1,11 @@
+{
+  "physical_components": 176,
+  "distinct_orderable_parts": 49,
+  "connected_pin_assignments_checked": 685,
+  "net_count": 377,
+  "all_listed_parts_have_positive_lcsc_stock": true,
+  "unverified_lcsc_stock": [],
+  "poe_stock_exception": 15,
+  "minimum_resistor_capacitor_package": "0402",
+  "release_status": "REVIEW DRAFT: unresolved PoE mechanics, sourcing and electrical validation"
+}

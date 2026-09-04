@@ -1,0 +1,109 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C22750049",
+      "name": "YLPTEC URB4812YMD-40WR3",
+      "model": "URB4812YMD-40WR3",
+      "brand": "YLPTEC",
+      "package": "Plugin,25.4x25.4mm",
+      "category": "Isolated Power Modules",
+      "stock": 187,
+      "type": "Extended",
+      "price": 21.7555,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 21.7555
+        },
+        {
+          "qty": 3,
+          "price": 21.7555
+        },
+        {
+          "qty": 5,
+          "price": 21.7555
+        },
+        {
+          "qty": 27,
+          "price": 20.7126
+        },
+        {
+          "qty": 29,
+          "price": 20.7126
+        },
+        {
+          "qty": 31,
+          "price": 20.7126
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 9,
+      "description": "-40\u2103~+105\u2103 1 1.5kV 100mVp-p 12V 12mm 18V~75V 25.4mm 25.4mm 2700uF 3.333A 330kHz 40W 92% Short Circuit Protection \u63d2\u4ef6,25.4x25.4mm Isolated Power Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/isolated-power-modules_ylptec-urb4812ymd-40wr3_C22750049.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2407081023_YLPTEC-URB4812YMD-40WR3_C22750049.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+105\u2103"
+        },
+        {
+          "name": "Output Current(Max)",
+          "value": "3.333A"
+        },
+        {
+          "name": "Output Power",
+          "value": "40W"
+        },
+        {
+          "name": "Isolation Voltage(Vrms)",
+          "value": "1.5kV"
+        },
+        {
+          "name": "Number of Outputs",
+          "value": "1"
+        },
+        {
+          "name": "Conversion Efficiency",
+          "value": "92%"
+        },
+        {
+          "name": "Length",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Capacitive Load(Max)",
+          "value": "2700uF"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "18V~75V"
+        },
+        {
+          "name": "Frequency",
+          "value": "330kHz"
+        },
+        {
+          "name": "Height",
+          "value": "12mm"
+        },
+        {
+          "name": "Features",
+          "value": "Short Circuit Protection\u3001Over Current Protection\u3001Under Voltage Protection\u3001Overvoltage protection\u3001Automatic fault recovery"
+        },
+        {
+          "name": "Width",
+          "value": "25.4mm"
+        },
+        {
+          "name": "Output Voltage",
+          "value": "12V"
+        },
+        {
+          "name": "Ripple Noise",
+          "value": "100mVp-p"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "total": 1485,
+  "results": [
+    {
+      "lcsc": "C859155",
+      "name": "YAGEO RC1206FR-7W1KL",
+      "model": "RC1206FR-7W1KL",
+      "brand": "YAGEO",
+      "package": "1206",
+      "category": "Chip Resistor - Surface Mount",
+      "stock": 703,
+      "type": "Extended",
+      "price": 0.0186,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0186
+        },
+        {
+          "qty": 500,
+          "price": 0.0162
+        },
+        {
+          "qty": 1500,
+          "price": 0.0148
+        },
+        {
+          "qty": 5000,
+          "price": 0.0139
+        },
+        {
+          "qty": 25000,
+          "price": 0.0132
+        },
+        {
+          "qty": 50000,
+          "price": 0.0129
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+155\u2103 1k\u03a9 200V 500mW Thick Film Resistor \u00b11% \u00b1200ppm/\u2103 1206 Chip Resistor - Surface Mount ROHS",
+      "url": "https://www.lcsc.com/product-detail/chip-resistor-surface-mount_yageo-rc1206fr-7w1kl_C859155.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2112231430_YAGEO-RC1206FR-7W1KL_C859155.pdf",
+      "attributes": [
+        {
+          "name": "Resistance",
+          "value": "1k\u03a9"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+155\u2103"
+        },
+        {
+          "name": "Power(Watts)",
+          "value": "500mW"
+        },
+        {
+          "name": "Type",
+          "value": "Thick Film Resistor"
+        },
+        {
+          "name": "Voltage-Supply(Max)",
+          "value": "200V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b11%"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "\u00b1200ppm/\u2103"
+        }
+      ]
+    },
+    {
+      "lcsc": "C859171",
+      "name": "YAGEO RC1206JR-7W1KL",
+      "model": "RC1206JR-7W1KL",
+      "brand": "YAGEO",
+      "package": "1206",
+      "category": "Chip Resistor - Surface Mount",
+      "stock": 34,
+      "type": "Extended",
+      "price": 0.0137,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0137
+        },
+        {
+          "qty": 500,
+          "price": 0.0108
+        },
+        {
+          "qty": 1500,
+          "price": 0.0092
+        },
+        {
+          "qty": 5000,
+          "price": 0.0082
+        },
+        {
+          "qty": 25000,
+          "price": 0.0074
+        },
+        {
+          "qty": 50000,
+          "price": 0.0069
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+155\u2103 1k\u03a9 500mW Thick Film Resistor \u00b1200ppm/\u2103 \u00b15% 1206 Chip Resistor - Surface Mount ROHS",
+      "url": "https://www.lcsc.com/product-detail/chip-resistor-surface-mount_yageo-rc1206jr-7w1kl_C859171.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2210190100_YAGEO-RC1206JR-7W1KL_C859171.pdf",
+      "attributes": [
+        {
+          "name": "Resistance",
+          "value": "1k\u03a9"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+155\u2103"
+        },
+        {
+          "name": "Power(Watts)",
+          "value": "500mW"
+        },
+        {
+          "name": "Type",
+          "value": "Thick Film Resistor"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b15%"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "\u00b1200ppm/\u2103"
+        }
+      ]
+    },
+    {
+      "lcsc": "C874071",
+      "name": "YAGEO SR1206JR-7W1KL",
+      "model": "SR1206JR-7W1KL",
+      "brand": "YAGEO",
+      "package": "1206",
+      "category": "Chip Resistor - Surface Mount",
+      "stock": 2905,
+      "type": "Extended",
+      "price": 0.0377,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0377
+        },
+        {
+          "qty": 200,
+          "price": 0.0298
+        },
+        {
+          "qty": 600,
+          "price": 0.0252
+        },
+        {
+          "qty": 5000,
+          "price": 0.0226
+        },
+        {
+          "qty": 10000,
+          "price": 0.0202
+        },
+        {
+          "qty": 20000,
+          "price": 0.0191
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+155\u2103 1k\u03a9 500V 500mW Thick Film Resistor \u00b1200ppm/\u2103 \u00b15% 1206 Chip Resistor - Surface Mount ROHS",
+      "url": "https://www.lcsc.com/product-detail/chip-resistor-surface-mount_yageo-sr1206jr-7w1kl_C874071.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2311211102_YAGEO-SR1206JR-7W1KL_C874071.pdf",
+      "attributes": [
+        {
+          "name": "Resistance",
+          "value": "1k\u03a9"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+155\u2103"
+        },
+        {
+          "name": "Power(Watts)",
+          "value": "500mW"
+        },
+        {
+          "name": "Type",
+          "value": "Thick Film Resistor"
+        },
+        {
+          "name": "Voltage-Supply(Max)",
+          "value": "500V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b15%"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "\u00b1200ppm/\u2103"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2074262",
+      "name": "ROHM ESR18EZPF1001",
+      "model": "ESR18EZPF1001",
+      "brand": "ROHM Semicon",
+      "package": "1206",
+      "category": "Chip Resistor - Surface Mount",
+      "stock": 11539,
+      "type": "Extended",
+      "price": 0.0288,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0288
+        },
+        {
+          "qty": 200,
+          "price": 0.0221
+        },
+        {
+          "qty": 600,
+          "price": 0.0184
+        },
+        {
+          "qty": 5000,
+          "price": 0.0162
+        },
+        {
+          "qty": 10000,
+          "price": 0.0143
+        },
+        {
+          "qty": 20000,
+          "price": 0.0132
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+155\u2103 1k\u03a9 200V 500mW Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 1206 Chip Resistor - Surface Mount ROHS",
+      "url": "https://www.lcsc.com/product-detail/chip-resistor-surface-mount_rohm-semicon-esr18ezpf1001_C2074262.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_ROHM-Semicon-ESR18EZPF1001_C2074262.pdf",
+      "attributes": [
+        {
+          "name": "Resistance",
+          "value": "1k\u03a9"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+155\u2103"
+        },
+        {
+          "name": "Power(Watts)",
+          "value": "500mW"
+        },
+        {
+          "name": "Type",
+          "value": "Thick Film Resistor"
+        },
+        {
+          "name": "Voltage-Supply(Max)",
+          "value": "200V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b11%"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "\u00b1100ppm/\u2103"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2078809",
+      "name": "BOURNS CRS1206-FX-1001ELF",
+      "model": "CRS1206-FX-1001ELF",
+      "brand": "BOURNS",
+      "package": "1206",
+      "category": "Chip Resistor - Surface Mount",
+      "stock": 2,
+      "type": "Extended",
+      "price": 0.0787,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0787
+        },
+        {
+          "qty": 50,
+          "price": 0.0782
+        },
+        {
+          "qty": 150,
+          "price": 0.0779
+        },
+        {
+          "qty": 500,
+          "price": 0.0777
+        },
+        {
+          "qty": 510,
+          "price": 0.0777
+        },
+        {
+          "qty": 520,
+          "price": 0.0777
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 5000,
+      "description": "-55\u2103~+155\u2103 1k\u03a9 200V 500mW Thick Film Resistor \u00b11% \u00b1100ppm/\u2103 1206 Chip Resistor - Surface Mount ROHS",
+      "url": "https://www.lcsc.com/product-detail/chip-resistor-surface-mount_bourns-crs1206-fx-1001elf_C2078809.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_BOURNS-CRS1206-FX-1001ELF_C2078809.pdf",
+      "attributes": [
+        {
+          "name": "Resistance",
+          "value": "1k\u03a9"
+        },
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+155\u2103"
+        },
+        {
+          "name": "Power(Watts)",
+          "value": "500mW"
+        },
+        {
+          "name": "Type",
+          "value": "Thick Film Resistor"
+        },
+        {
+          "name": "Voltage-Supply(Max)",
+          "value": "200V"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b11%"
+        },
+        {
+          "name": "Temperature Coefficient",
+          "value": "\u00b1100ppm/\u2103"
+        }
+      ]
+    }
+  ]
+}

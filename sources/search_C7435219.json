@@ -1,0 +1,81 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C7435219",
+      "name": "Amphenol 10164227-1004A1RLF",
+      "model": "10164227-1004A1RLF",
+      "brand": "Amphenol ICC",
+      "package": "SMD,P=0.4mm",
+      "category": "Board-to-Board and Backplane Connector",
+      "stock": 1268,
+      "type": "Extended",
+      "price": 3.4619,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 3.4619
+        },
+        {
+          "qty": 10,
+          "price": 2.9908
+        },
+        {
+          "qty": 30,
+          "price": 2.6967
+        },
+        {
+          "qty": 100,
+          "price": 2.3962
+        },
+        {
+          "qty": 500,
+          "price": 2.2597
+        },
+        {
+          "qty": 1000,
+          "price": 2.2013
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1000,
+      "description": "0.4mm 100P 2 300mA 30V Copper alloy Gold Surface Mount,Vertical SMD,P=0.4mm Board-to-Board and Backplane Connector ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": [
+        {
+          "name": "Number of Rows",
+          "value": "2"
+        },
+        {
+          "name": "Voltage Rating",
+          "value": "30V"
+        },
+        {
+          "name": "Contact Plating",
+          "value": "Gold"
+        },
+        {
+          "name": "Contact Material",
+          "value": "Copper alloy"
+        },
+        {
+          "name": "Current Rating",
+          "value": "300mA"
+        },
+        {
+          "name": "Number of Pins",
+          "value": "100P"
+        },
+        {
+          "name": "Pitch",
+          "value": "0.4mm"
+        },
+        {
+          "name": "Mounting Type",
+          "value": "Surface Mount,Vertical"
+        }
+      ]
+    }
+  ]
+}

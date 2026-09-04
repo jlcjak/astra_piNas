@@ -1,0 +1,320 @@
+                                                            SMBJ Series                                    Transient Voltage Suppressor
+Features                                                                         Package
+
+
+• Excellent clamping capability
+
+• Low leakage current
+
+• Low capacitance
+
+• High surge capability
+
+• Glass passivated chip
+
+• Epoxy resin package
+
+• Built-in strain relief
+
+• Will not fatigue
+
+• RoHS Compliant
+
+• Fast response time:
+   typically less than 1.0ps from 0 Volts to VBR min
+
+Mechanical Characteristics                                                       Applications
+
+
+• Package: SMB plastic package                                                   • Telecom
+
+• Lead Finish: Matte Tin                                                         • Computer
+
+• Case Material: Epoxy Molding Compound                                          • Industrial electronic
+
+• UL Flammability Classification Rating 94V-0                                    • Consumer electronic
+
+• Moisture Sensitivity: Level 1 per J-STD-020
+
+ Making Code
+
+
+
+                                                                            or             SMBJxxA              SMBJxxCA
+
+
+                                                                                        Unidirection            Bidirection
+
+ Summary of Packing Options
+
+
+             Package                          Packing Description                    Packing Quantity             Industry Standard
+                                                Tape/Reel,13” reel                           3000                      EIA-481-1
+                SMB
+                                                 Tape/Reel,7” reel                           500                       EIA-481-1
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                               Page:1
+Please refer to http://www.born-tw.com for current information.   Revision: 2022-Jan-1-A
+                                                            SMBJ Series                            Transient Voltage Suppressor
+
+Electrical Parameters
+
+
+Parameter                                   Definition
+                      Junction Capacitance - typical capacitance
+      CJ
+                               measured with 0V or VR bias
+                      Peak Pulse Current - maximum rated peak
+     IPP
+                                        impulse current
+                      Clamping Voltage - Peak voltage measured
+     VC
+                       across the suppressor at a specified Ippm
+                  Breakdown Voltage - Maximum voltage that flows
+     VBR
+                     though the TVS at a specified test current (IT )
+                      Leakage Current - maximum peak off-state
+      IR
+                                   current measured at VR
+                      Peak Off-state Voltage - maximum voltage
+     VR
+                    that can be applied while maintaining off state
+
+
+
+
+ Absolute Maximum Ratings                   (TA =+25◦ C, unless otherwise noted)
+
+
+                                            Parameter                                      Symbol         Value        Units
+                        Peak Pulse Power Dissipation (Note1,2)                              PPPM           600             W
+                         Steady State Power Dissipation (Note3)                             PD              5              W
+                          Peak Forward Surge Current (Note4)                                IFSM           100             A
+             Maximum Instantaneous Forward Voltage at 50A (Note5)                           VFM            3.5/5           V
+                                                                                                                       ◦
+                     Typical Thermal Resistance Junction to Lead                            RθJL            20             C/W
+                                                                                                                       ◦
+                   Typical Thermal Resistance Junction to Ambient                           RθJA           100             C/W
+                                                                                                                           ◦
+                               Operating Temperature Range                                   TJ         -55 to 150             C
+                                                                                                                           ◦
+                                Storage Temperature Range                                   TSTG        -55 to 150             C
+
+Notes:
+(1) Non-repetitive current pulse , 10/1000us Waveform.
+(2) Mounted on copper pad area of 5×5mm to each terminal.
+(3) Infinite HeatSink at TA =50◦ C
+(4) Measured on 8.3ms single half sine wave or equivalent square wave, duty cycle=4 perminute maximum.
+(5) For UnidirectionalOnly, VFW <3.5V for VBR ≤200V and VFM <5.0V for VBR ≥201V.
+
+
+
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                           Page:2
+Please refer to http://www.born-tw.com for current information.   Revision: 2022-Jan-1-A
+                                                             SMBJ Series                                  Transient Voltage Suppressor
+                                                    ◦
+ Electrical Characteristics             (TA =+25 C, unless otherwise noted)
+
+
+                                                                                                          Maximum    Maximum      Maximun
+                                                              Reverse         Breakdown          Test
+                                             Marking                                                      Clamping   Peak Pulse   Reverse
+      Part                  Part                             Stand-Off          Voltage         Current
+                                               Code                                                       Voltage     Current     Leakage
+    Number               Number                                   Votage          VBR @IT         IT
+                                                                                                          VC @ Ipp      Ipp       IR @VR
+      (Uni)                 (Bi)           (Uni)    (Bi)           (V)     Min.(V)    Max.(V)    (mA)       (V)         (A)        (uA)
+   SMBJ5.0A            SMBJ5.0CA            KE          AE          5        6.4            7     10        9.2        65.3        800
+   SMBJ6.0A            SMBJ6.0CA            KG       AG             6       6.67       7.37       10        10.3       58.3        800
+   SMBJ6.5A            SMBJ6.5CA            KK          AK         6.5      7.22       7.98       10        11.2       53.6        500
+   SMBJ7.0A            SMBJ7.0CA            KM       AM             7       7.78        8.6       10        12          50         200
+   SMBJ7.5A            SMBJ7.5CA            KP          AP         7.5      8.33       9.21       1         12.9       46.6        100
+   SMBJ8.0A            SMBJ8.0CA            KR          AR          8       8.89       9.83       1         13.6       44.2         50
+   SMBJ8.5A            SMBJ8.5CA            KT          AT         8.5      9.44       10.4       1         14.4       41.7         20
+   SMBJ9.0A            SMBJ9.0CA            KV          AV          9        10        11.1       1         15.4        39          10
+   SMBJ10A             SMBJ10CA             KX          AX         10        11.1      12.3       1         17         35.3         5
+   SMBJ11A             SMBJ11CA             KZ          AZ         11       12.2       13.5       1         18.2        33          1
+   SMBJ12A             SMBJ12CA             LE          BE         12       13.3       14.7       1         19.9       30.2         1
+   SMBJ13A             SMBJ13CA             LG       BG            13       14.4       15.9       1         21.5        28          1
+   SMBJ14A             SMBJ14CA             LK          BK         14       15.6       17.2       1         23.2       25.9         1
+   SMBJ15A             SMBJ15CA             LM       BM            15       16.7       18.5       1         24.4       24.6         1
+   SMBJ16A             SMBJ16CA             LP          BP         16       17.8       19.7       1         26         23.1         1
+   SMBJ17A             SMBJ17CA             LR          BR         17       18.9       20.9       1         27.6       21.8         1
+   SMBJ18A             SMBJ18CA             LT          BT         18        20        22.1       1         29.2       20.6         1
+   SMBJ20A             SMBJ20CA             LV          BV         20       22.2       24.5       1         32.4       18.6         1
+   SMBJ22A             SMBJ22CA             LX          BX         22       24.4       26.9       1         35.5       16.9         1
+   SMBJ24A             SMBJ24CA             LZ          BZ         24       26.7       29.5       1         38.9       15.5         1
+   SMBJ26A             SMBJ26CA             ME          CE         26       28.9       31.9       1         42.1       14.3         1
+   SMBJ28A             SMBJ28CA             MG       CG            28       31.1       34.4       1         45.4       13.3         1
+   SMBJ30A             SMBJ30CA             MK          CK         30       33.3       36.8       1         48.4       12.4         1
+   SMBJ33A             SMBJ33CA            MM        CM            33       36.7       40.6       1         53.3       11.3         1
+   SMBJ36A             SMBJ36CA             MP          CP         36        40        44.2       1         58.1       10.4         1
+   SMBJ40A             SMBJ40CA             MR       CR            40       44.4       49.1       1         64.5        9.3         1
+   SMBJ43A             SMBJ43CA             MT          CT         43       47.8       52.8       1         69.4        8.7         1
+   SMBJ45A             SMBJ45CA             MV          CV         45        50        55.3       1         72.7        8.3         1
+   SMBJ48A             SMBJ48CA             MX          CX         48       53.3       58.9       1         77.4        7.8         1
+   SMBJ51A             SMBJ51CA             MZ          CZ         51       56.7       62.7       1         82.4        7.3         1
+   SMBJ54A             SMBJ54CA             NE          DE         54        60        66.3       1         87.1        6.9         1
+   SMBJ58A             SMBJ58CA             NG       DG            58       64.4       71.2       1         93.6        6.5         1
+
+
+
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                               Page:3
+Please refer to http://www.born-tw.com for current information.    Revision: 2022-Jan-1-A
+                                                             SMBJ Series                                 Transient Voltage Suppressor
+                                                    ◦
+ Electrical Characteristics             (TA =+25 C, unless otherwise noted)
+
+
+                                                                                                         Maximum    Maximum      Maximun
+                                                              Reverse        Breakdown          Test
+                                             Marking                                                     Clamping   Peak Pulse   Reverse
+      Part                  Part                             Stand-Off         Voltage         Current
+                                               Code                                                      Voltage     Current     Leakage
+    Number               Number                                   Votage        VBR @IT          IT
+                                                                                                         VC @ Ipp      Ipp       IR @VR
+      (Uni)                 (Bi)           (Uni)    (Bi)           (V)     Min.(V)   Max.(V)    (mA)       (V)         (A)        (uA)
+   SMBJ60A             SMBJ60CA             NK          DK         60       66.7      73.7       1         96.8        6.2         1
+   SMBJ64A             SMBJ64CA             NM       DM            64       71.1      78.6       1         103         5.9         1
+   SMBJ70A             SMBJ70CA             NP          DP         70       77.8      86         1         113         5.3         1
+   SMBJ75A             SMBJ75CA             NR       DR            75       83.3      92.1       1         121          5          1
+   SMBJ78A             SMBJ78CA             NT          DT         78       86.7      95.8       1         126         4.8         1
+   SMBJ85A             SMBJ85CA             NV          DV         85       94.4      104        1         137         4.4         1
+   SMBJ90A             SMBJ90CA             NX          DX         90        100      111        1         146         4.1         1
+  SMBJ100A            SMBJ100CA             NZ          DZ         100       111      123        1         162         3.7         1
+  SMBJ110A            SMBJ110CA             PE          EE         110       122      135        1         177         3.4         1
+  SMBJ120A            SMBJ120CA             PG       EG            120       133      147        1         193         3.1         1
+  SMBJ130A            SMBJ130CA             PK          EK         130       144      159        1         209         2.9         1
+  SMBJ150A            SMBJ150CA             PM       EM            150       167      185        1         243         2.5         1
+  SMBJ160A            SMBJ160CA             PP          EP         160       178      197        1         259         2.3         1
+  SMBJ170A            SMBJ170CA             PR          ER         170       189      209        1         275         2.2         1
+  SMBJ180A            SMBJ180CA             PT          ET         180       201      222        1         292         2.1         1
+  SMBJ200A            SMBJ200CA             PX          EX         200       224      247        1         324         1.9         1
+  SMBJ220A            SMBJ220CA             QE          FE         220       246      272        1         356         1.7         1
+  SMBJ250A            SMBJ250CA             QG          FG         250       279      309        1         405         1.5         1
+  SMBJ300A            SMBJ300CA             QK          FK         300       335      371        1         486         1.3         1
+  SMBJ350A            SMBJ350CA             QM       FM            350       391      432        1         567         1.1         1
+  SMBJ400A            SMBJ400CA             QP          FP         400       447      494        1         648         0.9         1
+  SMBJ440A            SMBJ440CA             QR          FR         440       492      543        1         713         0.9         1
+  SMBJ480A            SMBJ480CA             QT          FT         480       536      593        1         750         0.8         1
+
+
+
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                              Page:4
+Please refer to http://www.born-tw.com for current information.    Revision: 2022-Jan-1-A
+                                                            SMBJ Series                              Transient Voltage Suppressor
+                                                                  ◦
+ Ratings and Characteristic Curves                   (TA =+25 C, unless otherwise noted)
+
+ Figure 1: Peak Pulse Power Rating                                             Figure 2: Pulse Derating Curve
+
+
+
+
+ Figure 3: Pulse Waveform                                                      Figure 4 : Typical Junction Capacitance
+
+
+
+
+ Figure 5: Steady State Power Dissipation Derating                             Figure 6 : Maximum Non-Repetitive Peak Forward
+
+ Curve                                                                         Surge Current Uni-Directional Only
+
+
+
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                        Page:5
+Please refer to http://www.born-tw.com for current information.   Revision: 2022-Jan-1-A
+                                                            SMBJ Series                            Transient Voltage Suppressor
+
+ Soldering Parameters
+
+
+
+
+                                              Reflow Condition                                         Lead-free assembly
+                                                                   - Temperature Min (TS (min))                150◦ C
+                       Pre Heat                                   - Temperature Max (TS (max))                 200◦ C
+                                                                     - Time (min to max) (tS )           60 - 180 secs
+                                                                                                         ◦
+                       Average ramp up rate (Liquidus Temp (TL ) to peak)                               3 C/second max
+                                     TS (max) to TL - Ramp-up Rate                                      3◦ C/second max
+                                                                  - Temperature (TL ) (Liquidus)               217◦ C
+                         Reflow
+                                                                            - Time (tL )                  60 -150 secs
+                                                                                                                        ◦
+                                          Peak Temperature (TP )                                             260+0/−5 C
+                         Time within 5◦ C of actual peak Temperature (tp )                                   20 - 40 secs
+                                                                                                         ◦
+                                              Ramp-down Rate                                            6 C/second max
+                                  Time 25◦ C to peak Temperature (t)                                     8 minutes Max.
+                                                Do not exceed                                                  260◦ C
+
+
+
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                        Page:6
+Please refer to http://www.born-tw.com for current information.   Revision: 2022-Jan-1-A
+                                                            SMBJ Series                             Transient Voltage Suppressor
+ Outline Drawing - SMB
+
+
+                                                                                                    MILLIMETER            Inches
+                                                                                           SYMBOL
+                                                                                                    MIN      MAX     MIN       MAX
+                                                                                             D      3.3       3.9    0.130     0.154
+                                                                                             D1     1.7       2.3    0.067     0.091
+                                                                                             T      5.1       5.7    0.201     0.224
+                                                                                             T1     0.8       1.6    0.031     0.063
+                                                                                             d       –        0.3     –        0.012
+                                                                                             H1     2.0       2.4    0.079     0.094
+                                                                                             H      2.1       2.5    0.083     0.098
+                                                                                             L      4.0       4.7    0.157     0.185
+
+Packaging Tape - SMB
+
+                                                                                                          SYMBOL     MILLIMETER
+                                                                                                             A0        3.60±0.1
+                                                                                                             B0        5.45±0.1
+                                                                                                             d0        1.50±0.1
+                                                                                                             d1        1.50±0.1
+                                                                                                              E        1.75±0.1
+                                                                                                              F        5.50±0.1
+                                                                                                             K0        2.30±0.1
+                                                                                                              P        8.00±0.1
+                                                                                                             P0        4.00±0.1
+                                                                                                             P1        2.00±0.1
+                                                                                                             W         12.00±0.1
+                                                                                                              T        0.22±0.02
+
+Packaging Reel
+
+                                                                                                          SYMBOL     MILLIMETER
+                                                                                                             A            323±2
+                                                                                                             B            3.0±0.2
+                                                                                                             C         15.0±0.5
+                                                                                                             D             13±2
+                                                                                                             E             73±2
+                                                                                                            T1            2.2±0.2
+                                                                                                          Quantity     3000PCS
+
+BORN SEMICONDUCTOR , INC. ALL
+RIGHT RESERVED
+Specifications are subject to change without notice.                                                                           Page:7
+Please refer to http://www.born-tw.com for current information.   Revision: 2022-Jan-1-A
+

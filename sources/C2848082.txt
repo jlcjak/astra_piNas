@@ -1,0 +1,346 @@
+                   WINCHEN ELECTRONICS                    PoE PD Power Ethernet Module          Data Sheet
+
+                                Power-Over-Ethernet Module
+
+                                                                1.Product characteristics
+                                                                ●Compliance with IEEE802.3at&IEEE802.3bt
+                                                                  standard.
+
+                                                                ●48V~57V wide operating voltage range.
+                                                                ●Maximum output power up to 60W; Rated
+                                                                  output: 12V/5A.
+
+                                                                ●The output ripple is less than 200 mV.
+                                                                ●Conversion efficiency can be as high as
+                                                                  90% (input: 48V output)12V@5A).
+
+                                                                ● Withovercurrent,     short   circuit,   under
+
+                                                                  voltage,    surge     andother        excellent
+
+                                                                  reliability and circuit protection.
+
+                                                                ●PCBA standard size: 62mm*27mm*11mm
+                                                                ●Input/Output: isolate 1500Vdc.
+2.Scope of application
+                                                                ●High reliability: The design meets the 5
+□Thin client
+                                                                  million hour average failure interval.
+□POS system
+
+□Digital signage
+
+□Health care
+
+□Lighting
+
+
+
+
+3.describe
+➢The module is designed to extract power from conventional Class 5 to Class 6 Ethernet cable twisted pairs
+  and meets the IEEE 802.3bt Power-Ethernet (PoE) standard.At the same time, the module allows the
+  power supply category to select "Intermediate Overlap" and "End Overlap" power supply without
+  distinguishing polarity.
+
+➢Based on the IEEE 802.3bt standard, this paper establishes information connection about the connection
+  status, device type, power consumption level of the receiving device PD, and then applies power supply
+  to port compatible devices based on PSE to power the PD through ethernet.
+
+➢This module DC/DC converter works in a wide input voltage range and low ripple low noise output.The
+  DC/DC converter also has built-in output overload, output short circuit and overtemperature protection,
+  and provides a 1500Vdc (input/output) electrical isolation.
+
+
+
+ Http://www.winchen.com.cn          Tel:0755-83576347           Email:alan@winchen.com.cn                 1 to 8
+                 WINCHEN ELECTRONICS                      PoE PD Power Ethernet Module      Data Sheet
+
+4. Mechanical dimensions
+
+
+
+
+                                                                                         Company（mm）
+
+                                                                All the above dimensional errors:（±0.3）
+
+5. pin definition
+
+Pin Name                                                describe
+
+
+ 1      VA1 This input pin is used in conjunction with VA1 and connects to the centre tap of the
+            transformer connected to pins 1& 2 of the RJ45 connector (RX) - it is not polarity sensitive.
+
+ 2      VA2 This input pin is used in conjunction with VA2 and connects to the centre tap of the
+            transformer connected to pins 3& 6 of the RJ45 connector (TX) - it is not polarity sensitive.
+
+ 3      VB1 This input pin is used in conjunction with VB1 and connects to pin 4 & 5 of the RJ45 connector
+            - it is not polarity sensitive.
+
+ 4      VB2 This input pin is used in conjunction with VB2and connects to pin 7 & 8 of the RJ45 connector
+            - it is not polarity sensitive.
+
+ 5     Vout- 5,6 is the negative output of the PD.
+
+
+ 6     Vout- 5,6 is the negative output of the PD.
+
+
+ 7     Vout+ 7,8 is the positive output of the PD.
+
+
+ 8     Vout+ 7,8 is the positive output of the PD.
+
+
+9,10    NC    Welding fixed foot.
+
+
+
+Http://www.winchen.com.cn            Tel:0755-83576347       Email:alan@winchen.com.cn              2 to 8
+                    WINCHEN ELECTRONICS                               PoE PD Power Ethernet Module              Data Sheet
+
+ 5. Electrical characteristics
+ 5.1 Absolute maximum rating parameter
+
+  No                           parameter                                Symbol             MIN            MAX           Units
+
+   1                           DC Voltage                                  VCC             48              57                V
+
+   2                    DC Voltage Surge 1ms                             VSURGE            -0.6            80                V
+
+   3                     ambient temperature                                   TS          -40             80             ℃
+
+*Exceeding the above rating may cause permanent damage to the product.Functional operations under these conditions are
+not recommended.
+
+
+ 5.2 Recommended working conditions
+
+  No                    parameter                         Symbol          MIN              TYP            MAX           Units
+
+   1                   input voltage                         VIN               42           48             57                V
+
+   2                Low Voltage Lock                       VLOCK               37           -              -                 V
+
+   3              working temperature                       T OP           -40              25             80             ℃
+
+ *Applicable only to WC-PD60B120A maximum operating temperature.
+
+
+ 5.3 DC Characteristic
+
+  No               parameter                   Symbol        MIN         TYP        MAX           Units    Test Opinions
+
+   1       Standard Output Voltage               V DC         11.5       12.0       12.2           V             VIN=48v
+
+        Output Current（VIN=48V）                                                                             Wide voltage
+   2                                             P WR           -         5          6             A        input 48-57V
+
+   3        Power adjustment rate               VLINE           -        0.1          -            %           @50% Load
+
+   4        Load Adjustment Rate                VLOAD           -         1           -            %            @VIN=48V
+
+             Ripple Output Noise                                                                               @Maximum
+   5                                             VRN            -        150        250         mVp-p            Load
+
+   6             Minimum Load                   RLOAD          10          -          -           mA
+
+   7         Short circuit duration               TSC           -          -         ∞             sec
+
+   8         Efficiency (load 80%)                EFF          85         90          -            %
+   9         Isolation Voltage (I/O)             VISO           -          -        1500          VPK
+
+  10        temperature coefficient               Tc            -        0.02                      %              Per ℃
+
+                    efficiency                                                                             输入=48V 输出
+  11                                               Tr           -        150        250            ms        =max
+ 1: Typical number is 25 C, nominal voltage is 48V, for auxiliary design only.
+ 2: Output ripple and noise can be reduced by an external filter, see the application instructions.
+ 3: If operated under the specified minimum load, the module emits audible noise and may cause PSE malfunction.
+
+ Http://www.winchen.com.cn                 Tel:0755-83576347              Email:alan@winchen.com.cn                     3 to 8
+                WINCHEN ELECTRONICS                     PoE PD Power Ethernet Module      Data Sheet
+6. Functional Description
+6.1 input
+ WC-PD60B120A input end with bridge stack ensures input polarity protection, user can choose the
+connection mode as needed.
+
+
+
+
+6.2 PD Signature
+When the module is connected to the cable, it will automatically provide the Power Device (PD) signature
+to the PSE when needed.The PSE recognizes that the PD is connected to that line and provides power
+
+
+
+
+Http://www.winchen.com.cn          Tel:0755-83576347        Email:alan@winchen.com.cn             4 to 8
+                  WINCHEN ELECTRONICS                    PoE PD Power Ethernet Module       Data Sheet
+
+6.3 Power Classification
+ WC-PD60B120A uses IEEE802.3bt standard and runs with Class 7 (60W) power rating by default.
+                      Cable
+Define criteria                       Grading parameters              Power Supply Characteristics
+                   requirements
+                                                                  The DC voltage ranges from 42 to 57V,
+                                                                        with a typical value of 48V.
+
+                                   Maximum power required
+  IEEE802.3at      CAT5 cable or                                 Typical operating current is 10~600mA;
+                                      for Class4 devices is
+     (PoE)          CAT6 cable                                         typical output power: 30W;
+                                          13W~25.5W
+
+                                                                   Class4 rating supported by electrical
+                                                                                equipment
+                                   Maximum power required
+                                    for Class5 devices is 40W
+                                     The maximum power            The DC voltage ranges from 48 to 57V,
+                                   required for Class6 devices          with a typical value of 52V.
+                                             is 51W
+  IEEE802.3bt      CAT5 cable or
+                                     The maximum power           Typical operating current is 10~1300mA;
+  （PoE++）           CAT6 cable
+                                   required for Class7 devices         typical output power: 62W;
+                                             is 62W
+                                     The maximum power
+                                   required for Class8 devices
+                                             is 71W
+
+
+
+
+7. Typical schematic diagram
+
+
+
+
+Http://www.winchen.com.cn          Tel:0755-83576347          Email:alan@winchen.com.cn                5 to 8
+                   WINCHEN ELECTRONICS                              PoE PD Power Ethernet Module            Data Sheet
+
+8. PoE Product naming rules
+
+
+
+
+                              WC - PD 60 B                  120       A       (SIP&DIP,All have)
+              Winchen                                                       Product suffix: SIP,DIP-1
+      Powered Device                                                        Output Voltage Range:12V
+       Power wattage                                                        Product form
+
+
+
+
+9. Typical applications
+This module is used in PSE network cable to convert electric energy to DC-DC to the required voltage of equipment without
+affecting data signal transmission. It conforms to ieee802.3bt standard and is used by all equipment terminals
+
+
+
+
+                                                                              Power cord
+                                                                          Network cable
+                                                                          PoE power supply
+
+
+
+
+Http://www.winchen.com.cn                 Tel:0755-83576347               Email:alan@winchen.com.cn                 6 to 8
+                                  WINCHEN ELECTRONICS                                                   PoE PD Power Ethernet Module                   Data Sheet
+
+10. Test waveform diagram
+                 Typical features：Vout=12
+
+
+
+                100                                                                                   13.2
+                 90                                                                                    13
+                 80                                                                                   12.8
+                 70
+
+
+Efficiency(%)
+                                                                                                      12.6
+
+                                                                                          Voltage(V)
+                 60
+                                                                                                      12.4
+                 50
+                                                                                                      12.2
+                 40
+                 30                                                                                    12
+                                                                        DC-DC                         11.8
+                 20
+                 10                                                     POE                           11.6
+                  0                                                                                   11.4
+                      0     0.5    1      1.5      2     2.5    3   4         5                               0    0.5    1      1.5    2       2.5    3    4        5
+
+                                       Load current(A)                                                                        Load current(A)
+
+
+
+                           Efficiency (Vout = 12 V)                                                               Output voltage (input 48V)
+
+        96                        95
+        94                                                           93
+        92                                                                                     13.2
+                                                                                                13                                                              0A
+        90
+
+
+
+
+                                                                                  output Voltage(V)
+                                                           88                                  12.8                                                             2.5A
+                      87                        87.5
+        88                                                                                     12.6
+                                                                                                                                                                5A
+        86                                                                                     12.4
+                                                                                               12.2
+        84
+                                                                                                12
+        82                                                                                     11.8
+                                                                                               11.6
+                                                                                               11.4
+                                                                                                             40    42    44     46     48   50        52   56    57
+
+                                                                                                                          lnput voltag(V)
+
+                 Maximum temperature of components
+                Conditions (ambient temperature: 25 ℃;                                                       Input voltage & output voltage
+                output power: 12V / 5A; frequency: 3H)
+
+
+
+
+Http://www.winchen.com.cn                                      Tel:0755-83576347                             Email:alan@winchen.com.cn                          7 to 8
+              WINCHEN ELECTRONICS                   PoE PD Power Ethernet Module   Data Sheet
+
+
+
+
+   Noise (VIN = 42V, IO = 5A, 5 ~ 20MHz
+                                                      Output response & load (12V / 0.02A)
+               bandwidth)
+
+
+
+
+   Noise (VIN = 48V, IO = 5A, 5 ~ 20MHz
+                                                    Output response & load (12V / 2.5A)
+                bandwidth)
+
+
+
+
+     Noise (VIN = 57V, IO = 5A, 5 ~ 20MHz
+                                                       Output response & load (12V / 5A)
+                  bandwidth)
+
+
+
+Http://www.winchen.com.cn       Tel:0755-83576347      Email:alan@winchen.com.cn             8 to 8
+

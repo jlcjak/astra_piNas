@@ -1,0 +1,520 @@
+     *R                                                                              Features
+AE **H oHS
+  C- AL C
+    Q2 OG OM
+                                                                                     ■ Shielded construction
+      00 EN P
+        CO FR LIA                                                                    ■ Carbonyl powder core
+           M EE NT
+            PL & ,
+              IA                                                                     ■ High saturation current
+                 NT
+                                                                                     ■ Inductance range: 0.33 to 68 µH
+                                                                                     ■ AEC-Q200 compliant
+                                                                                     ■ RoHS compliant* and halogen free**
+
+
+
+                                                                                     SRP7050TA Series - Shielded Power Inductors
+
+   Electrical Specifications @ 25 °C                                                                                                              General Specifications
+                                              Inductance                                                                                       Operating Temperature
+                                             @ 100 KHz            Q (Min.)         SRF         DCR         DCR                                   ................................-55 °C to +150 °C
+Bourns                                           /1V                                                                  Irms   Isat   Terminal
+                                                                 @100 KHz         (MHz)        (mΩ)        (mΩ)                                                   (Temperature rise included)
+Part Number                                                                                                            (A)    (A)     Type
+                                               L     Tol.          /1V             Typ.         Typ.       Max.
+                                                                                                                                               Storage Temperature
+                                             (μH)    (%)
+                                                                                                                                                 ................................-55 °C to +150 °C
+ SRP7050TA-R33M                              0.33         ± 20      10              100         2.5             3      25     32
+                                                                                                                                               Rated Current
+ SRP7050TA-R40M                              0.40         ± 20      10              100         3.1            3.7     23     31
+                                                                                                                                                  ............ Inductance drops 20 % at Isat
+ SRP7050TA-R47M                              0.47         ± 20      10               95         3.5            3.9     22     30
+                                                                                                                                               Temperature Rise .....40 °C at rated Irms
+ SRP7050TA-R56M                              0.56         ± 20      10               80         3.6            4.2     20     27
+                                                                                                                                               Moisture Sensitivity Level ..................... 1
+ SRP7050TA-R60M                              0.60         ± 20      10               80         3.8            4.3     19     25
+                                                                                                                                               ESD Classification (HBM)................. N/A
+ SRP7050TA-R68M                              0.68         ± 20      10               75          4             4.5     18     24
+                                                                                                                                               Note 1: Circuit design, component, PCB trace size
+ SRP7050TA-R82M                              0.82         ± 20      10               70         4.6            4.9    16.5    22               and thickness, airflow and other cooling provisions all
+ SRP7050TA-1R0M                              1.0          ± 20      10               50         6.1            6.5     15     20               affect the part temperature. Part temperature should be
+ SRP7050TA-1R2M                               1.2         ± 20      15               45         6.7            7.5     14     18               verified in the end application.
+ SRP7050TA-1R5M                               1.5         ± 20      15               43         8.6             9      12    16.5
+ SRP7050TA-1R8M                               1.8         ± 20      15               38         9.5            11      12     15                  Materials
+ SRP7050TA-2R2M                              2.2          ± 20      15              30         11.2            12      10     14     Lead
+                                                                                                                                    Frame      Core .............................Carbonyl powder
+ SRP7050TA-3R3M                              3.3          ± 20      15              26          19            20.9      8     12
+                                                                                                                                               Wire ............................Enameled copper
+ SRP7050TA-4R7M                              4.7          ± 20      15              22          28            30.8    6.5     10
+                                                                                                                                               Terminal Finish ...................................Sn
+ SRP7050TA-5R6M                              5.6          ± 20      15              20         43.5            49      6       9
+                                                                                                                                               Packaging ....... 800 pcs. per 13-inch reel
+ SRP7050TA-6R8M                              6.8          ± 20      15              18          46            51.5    5.5    8.5
+ SRP7050TA-8R2M                              8.2          ± 20      15              16          56             63      5      8
+ SRP7050TA-100M                               10          ± 20      15              15          60             69      4     7.5                  Product Dimensions
+ SRP7050TA-150M                               15          ± 20      15              12          81             92     3.5      6               Lead Frame Terminal
+ SRP7050TA-220M                               22          ± 20      15               9         140            170     2.5    5.5
+                                                                                                                                                                           7.3 ± 0.3
+ SRP7050TA-330M                               33          ± 20      15               8         173            200       2    3.5                                        (.287 ± .012)
+ SRP7050TA-470M                               47          ± 20      15                8        290            330     1.9    2.7
+ SRP7050TA-560M                               56          ± 20      15                7        342            396     1.6    2.1
+ SRP7050TA-680M                               68          ± 20      15                6        386            445     1.2      2
+                                                                                                                                                   6.6 ± 0.3             2R2
+                                                                                                                                                (.260 ± .012)
+   Soldering Profile                                                                                                                                                     1150
+                                             Preheating             Soldering            Natural Cooling
+
+                                                                                 TP (260 °C / 10 Sec. Max.)                                                                6.7 ± 0.3
+                                                                                                                                                                        (.264 ± .012)
+                                   tp (245 °C, 20~40 Sec.)
+
+
+
+
+        Temperature (°C)
+                                                                                                                                                    1.8 ± 0.3                           4.8 ± 0.2
+                                                                                                                                                 (.071 ± .012)                       (.189 ± .008)
+                                            217 °C
+                                   200 °C
+                                                                   60~150 Sec.
+                                                                                                                     3 Times Max.
+                                150°C
+
+                                            60~180
+                                             Sec.
+
+
+                                                 480 Sec. Max.
+                           25
+                                                             Time (Seconds)                                                                                         3.0 ± 0.3
+                                                                                                                                                                 (.118 ± .012)
+   Schematic                                                                             How to Order
+                                                                                                                                                  Recommended Layout
+                                                                                                                     SRP7050TA - 100 M
+                                                                                                                                                                              8.4
+                                                                                     Model                                                                                  (.331)
+                                                                                     Value Code (see table)
+                                                                                     Tolerance Code
+
+                           WARNING Cancer and Reproductive Harm www.P65Warnings.ca.gov
+* RoHS Directive 2015/863, Mar 31, 2015 and Annex.
+** Bourns considers a product to be “halogen free” if (a) the Bromine (Br) content is 900 ppm or less; (b) the Chlorine                                                       2.5                      3.5
+    (Cl) content is 900 ppm or less; and (c) the total Bromine (Br) and Chlorine (Cl) content is 1500 ppm or less.                                                          (.098)                   (.143)
+Specifications are subject to change without notice. Users should verify actual device performance in their specific
+applications. The products described herein and this document are subject to specific legal disclaimers as set forth on the                                                             MM
+                                                                                                                                                                 DIMENSIONS:
+last page of this document, and at www.bourns.com/docs/legal/disclaimer.pdf.                                                                                                         (INCHES)
+                          SRP7050TA Series - Shielded Power Inductors
+
+  L vs. I Charts
+                                        SRP7050TA-R33M                                                                                                 SRP7050TA-R40M                                                                                                SRP7050TA-R47M
+                       0.60                                                  80                                                       0.70                                                100                                                         0.8                                             80
+
+
+
+
+                                                                                   Temperature Rise (°C)                                                                                                                                                                                                      Temperature Rise (°C)
+                                                                             70                                                                                                                                                                                                                      70
+
+
+
+
+   Inductance (μH)                                                                                                Inductance (μH)                                                                                               Inductance (μH)
+                                                                                                                                      0.56                                                80
+                       0.45                                                  60                                                                                                                                                                       0.6                                             60
+
+
+
+
+                                                                                                                                                                                                Temperature Rise (°C)
+                                                                             50                                                       0.42                                                60                                                                                                         50
+                       0.30                                                  40                                                                                                                                                                       0.4                                             40
+                                                                                                                                      0.28                                                40
+                                                                             30                                                                                                                                                                                                                      30
+                       0.15                                                  20                                                                                                                                                                       0.2                                            20
+                                                                                                                                      0.14                                                20
+                                                                             10                                                                                                                                                                                                                      10
+                         0                                                   0                                                          0                                                 0                                                            0                                             0
+                              0   6.4       12.8          19.2      25.6   32.0                                                              0   6.2       12.4        18.6    24.8     31.0                                                                0   6          12          18      24   30
+                                            DC Current (A)                                                                                                 DC Current (A)                                                                                                  DC Current (A)
+
+                                        SRP7050TA-R56M                                                                                                 SRP7050TA-R60M                                                                                                 SRP7050TA-R68M
+                        1.0                                                  80                                                        1.0                                                                                                            1.2
+                                                                                                                                                                                          50                                                                                                          80
+                                                                             70
+
+
+
+
+                                                                                   Temperature Rise (°C)                                                                                                                                                                                                        Temperature Rise (°C)
+                                                                                                                                                                                                                                                                                                      70
+
+
+
+
+                                                                                                                   Inductance (μH)                                                                                                Inductance (μH)
+                        0.8
+
+
+
+
+   Inductance (μH)
+                                                                             60                                                        0.8                                                40
+                                                                                                                                                                                                                                                      0.9                                             60
+
+
+
+
+                                                                                                                                                                                                 Temperature Rise (°C)
+                        0.6                                                  50                                                                                                                                                                                                                       50
+                                                                                                                                       0.6                                                30
+                                                                             40                                                                                                                                                                       0.6                                             40
+                        0.4                                                                                                            0.4
+                                                                             30                                                                                                           20
+                                                                                                                                                                                                                                                                                                      30
+                                                                             20                                                                                                                                                                       0.3
+                        0.2                                                                                                            0.2                                                                                                                                                            20
+                                                                                                                                                                                          10
+                                                                             10
+                                                                                                                                                                                                                                                                                                      10
+                         0                                                   0
+                                                                                                                                         0                                                0                                                             0                                             0
+                              0    6.75            13.5          20.25     27.0
+                                                                                                                                             0    5         10          15         20    25                                                                 0       5.5         11.0        16.5    22.0
+                                            DC Current (A)
+                                                                                                                                                           DC Current (A)                                                                                                  DC Current (A)
+
+
+                                        SRP7050TA-R82M                                                                                                 SRP7050TA-1R0M                                                                                                 SRP7050TA-1R2M
+                        1.6                                                   80                                                       2.0                                                 80                                                         2.0                                                80
+
+
+
+
+                                                                                        Temperature Rise (°C)                                                                                         Temperature Rise (°C)                                                                                           Temperature Rise (°C)
+                                                                              70                                                                                                           70                                                                                                          70
+
+
+
+
+    Inductance (μH)                                                                                                 Inductance (μH)                                                                                                Inductance (μH)
+                        1.2                                                   60                                                       1.5                                                 60                                                         1.5                                                60
+
+                                                                              50                                                                                                           50                                                                                                          50
+                        0.8                                                   40                                                       1.0                                                 40                                                         1.0                                                40
+
+                                                                              30                                                                                                           30                                                                                                          30
+                        0.4                                                   20                                                       0.5                                                 20                                                         0.5                                              20
+
+                                                                              10                                                                                                           10                                                                                                          10
+                          0                                                  0                                                           0                                                0                                                             0                                             0
+                              0     5.5            11.0           16.5     22.0                                                              0         5          10          15         20                                                                 0        5           10          15      20
+                                            DC Current (A)                                                                                                  DC Current (A)                                                                                                 DC Current (A)
+
+
+                                        SRP7050TA-1R5M                                                                                                 SRP7050TA-1R8M                                                                                                 SRP7050TA-2R2M
+                        3.0                                                   80                                                       2.5                                                 40                                                           4                                                80
+
+
+
+
+                                                                                                                                                                                                        Temperature Rise (°C)                                                                                         Temperature Rise (°C)
+                                                                              70                                                                                                                                                                                                                       70
+
+
+
+
+                                                                                         Temperature Rise (°C)
+                                                                                                                    Inductance (μH)                                                                                                 Inductance (μH)
+                        2.4                                                                                                            2.0                                                 32
+
+
+
+
+     Inductance (μH)
+                                                                              60                                                                                                                                                                        3                                                60
+
+                        1.8                                                   50                                                       1.5                                                 24                                                                                                          50
+                                                                              40                                                                                                                                                                        2                                                40
+                        1.2                                                                                                            1.0                                                 16
+                                                                              30                                                                                                                                                                                                                       30
+                                                                              20                                                                                                                                                                        1                                              20
+                        0.6                                                                                                            0.5                                                 8
+                                                                              10                                                                                                                                                                                                                       10
+                          0                                                  0                                                           0                                                 0                                                            0                                             0
+                              0     4.5             9.0           13.5     18.0                                                              0    3         6           9          12     15                                                                0        3.5         7.0        10.5    14.0
+                                            DC Current (A)                                                                                                  DC Current (A)                                                                                                 DC Current (A)
+
+
+                                        SRP7050TA-3R3M                                                                                                 SRP7050TA-4R7M                                                                                                 SRP7050TA-5R6M
+                        6.0                                                   80                                                         8                                                 80                                                          10                                             100
+                                                                                                                                                                                                                                                                                                      90
+
+
+
+
+                                                                                          Temperature Rise (°C)                                                                                        Temperature Rise (°C)
+                                                                              70                                                                                                           70
+
+
+
+
+                                                                                                                                                                                                                                                                                                                    Temperature Rise (°C)
+     Inductance (μH)                                                                                               Inductance (μH)
+                                                                                                                                                                                                                                                        8                                             80
+
+
+
+
+                                                                                                                                                                                                                                  Inductance (μH)
+                        4.5                                                   60                                                         6                                                 60
+                                                                                                                                                                                                                                                                                                      70
+                                                                              50                                                                                                           50                                                           6                                             60
+                        3.0                                                   40                                                         4                                                 40                                                                                                         50
+                                                                                                                                                                                                                                                        4                                             40
+                                                                              30                                                                                                           30
+                                                                                                                                                                                                                                                                                                      30
+                        1.5                                                   20                                                         2                                                 20
+                                                                                                                                                                                                                                                        2                                              20
+                                                                              10                                                                                                           10                                                                                                          10
+                          0                                                  0                                                           0                                                0                                                             0                                              0
+                              0         3            6             9        12                                                               0    2          4          6          8     10                                                                 0       2.25         4.5        6.75     9.0
+                                            DC Current (A)                                                                                                 DC Current (A)                                                                                                  DC Current (A)
+
+Specifications are subject to change without notice.
+Users should verify actual device performance in their specific applications.
+The products described herein and this document are subject to specific legal disclaimers as set forth on the last page of this document, and at www.bourns.com/docs/legal/disclaimer.pdf.
+                        SRP7050TA Series - Shielded Power Inductors
+
+  L vs. I Charts (Continued)
+
+                                       SRP7050TA-6R8M                                                                                        SRP7050TA-8R2M                                                                                                 SRP7050TA-100M
+                       12                                              100                                                  16                                                   80                                                     20                                                 100
+                                                                        90                                                                                                                                                                                                                 90
+
+
+
+
+                                                                                                                                                                                        Temperature Rise (°C)
+                                                                                                                                                                                 70
+
+
+
+
+                                                                             Temperature Rise (°C)                                                                                                                                                                                               Temperature Rise (°C)
+   Inductance (μH)                                                                                     Inductance (μH)
+                                                                        80                                                                                                                                                              16                                                 80
+
+
+
+
+                                                                                                                                                                                                                   Inductance (μH)
+                       9                                                                                                    12                                                   60
+                                                                        70                                                                                                                                                                                                                 70
+                                                                        60                                                                                                       50                                                     12                                                 60
+                        6                                               50                                                   8                                                   40                                                                                                        50
+                                                                        40                                                                                                                                                               8                                                 40
+                                                                                                                                                                                 30
+                                                                        30                                                                                                                                                                                                                 30
+                        3                                                                                                    4                                                   20
+                                                                        20                                                                                                                                                               4                                                 20
+                                                                        10                                                                                                       10                                                                                                        10
+                       0                                                0                                                    0                                                   0                                                       0                                                 0
+                            0     2.25          4.5          6.75     9.0                                                        0          2            4          6           8                                                            0          2            4          6         8
+                                          DC Current (A)                                                                                          DC Current (A)                                                                                              DC Current (A)
+
+
+                                       SRP7050TA-150M                                                                                        SRP7050TA-220M                                                                                                 SRP7050TA-330M
+                       20                                               50                                                  40                                                  200                                                     60                                                 70
+
+
+
+
+                                                                               Temperature Rise (°C)                                                                                  Temperature Rise (°C)                                                                                       Temperature Rise (°C)
+     Inductance (μH)                                                                                                                                                                                                Inductance (μH)
+                       16                                                                                                                                                       160
+
+
+
+
+                                                                                                       Inductance (μH)
+                                                                        40                                                                                                                                                                                                                 56
+                                                                                                                            30                                                                                                          45
+
+                       12                                               30                                                                                                      120                                                                                                        42
+                                                                                                                            20                                                                                                          30
+                        8                                               20                                                                                                      80                                                                                                         28
+                                                                                                                            10                                                                                                          15
+                        4                                               10                                                                                                      40                                                                                                         14
+
+                        0                                               0                                                    0                                                   0                                                       0                                                  0
+                            0   1.2       2.4         3.6       4.8   6.0                                                        0    1.1         2.2        3.3        4.4    5.5                                                            0   0.7          1.4       2.1        2.8   3.5
+                                          DC Current (A)                                                                                          DC Current (A)                                                                                               DC Current (A)
+
+                                       SRP7050TA-470M                                                                                           SRP7050TA-560M                                                                                              SRP7050TA-680M
+                       80                                               60                                                  100                                                  60                                                     120                                                 30
+
+
+
+
+                                                                             Temperature Rise (°C)                                                                                         Temperature Rise (°C)
+                                                                                                                                                                                                                                                                                                     Temperature Rise (°C)
+    Inductance (μH)                                                                                       Inductance (μH)
+                       64                                                                                                    80                                                                                                                                                             24
+
+
+
+
+                                                                                                                                                                                                                      Inductance (μH)
+                                                                        48                                                                                                       48
+                                                                                                                                                                                                                                         90
+
+                       48                                               36                                                  60                                                   36                                                                                                         18
+                                                                                                                                                                                                                                        60
+                       32                                               24                                                  40                                                   24                                                                                                         12
+
+                                                                                                                                                                                                                                        30
+                       16                                               12                                                  20                                                   12                                                                                                         6
+
+                        0                                                0                                                   0                                                    0                                                       0                                                 0
+                            0   0.54     1.08         1.62     2.16   2.70                                                        0   0.42        0.84       1.26       1.68   2.10                                                           0   0.4         0.8        1.2        1.6   2.0
+                                          DC Current (A)                                                                                           DC Current (A)                                                                                              DC Current (A)
+
+
+
+
+Specifications are subject to change without notice.
+Users should verify actual device performance in their specific applications.
+The products described herein and this document are subject to specific legal disclaimers as set forth on the last page of this document, and at www.bourns.com/docs/legal/disclaimer.pdf.
+         SRP7050TA Series - Shielded Power Inductors
+
+  Packaging Specifications
+                                  330                       2.0 ± 0.5
+                                         DIA.
+                                (12.992)                 (.079 ± .020)
+
+
+                                                                                                13.5 ± 0.5
+                                                                                              (.531 ± .020)
+                                                                                                    DIA.
+
+                                                                                                                                       100 ± 2
+                                                                                                                                   (3.937 ± .079)
+
+
+
+
+                                                                                                16.0 ± 0.5
+                                                                                              (.630 ± .020)
+
+                                                  4.0                                                                       2.0                                 1.5 ± 0.1                                                   0.35 ± 0.05
+                                                (.157)                                                                    (.079)                                           DIA.                                            (.014 ± .002)
+                                                                                                                                                             (.059 ± .004)
+                                                                                                                                                                                                                                             7.7 ± 0.1
+                                                                                                                                                                                                                                           (.303 ± .004)
+                           7.5 ± 0.1
+                        (.295 ± .004)
+
+                  16.0 ± 0.3                                  Date Code   Marking                   Date Code   Marking                Date Code   Marking              Date Code   Marking          Date Code   Marking
+                (.630 ± .012)
+
+
+
+                                                                                                                                                                                                3°
+                                                                                      12.0 ± 0.1                                                                                                                             5.3 ± 0.1
+                                                                                    (.472 ± .004)                                                                                                                          (.209 ± .004)
+
+                                                                                                                                                                                                 7.0 ± 0.1
+                                                            USER DIRECTION OF FEED                                                                                                            (.276 ± .004)
+
+                                                            QTY: 800 PCS. PER REEL
+
+
+
+
+Asia-Pacific: Tel: +886-2 2562-4117 • Email: asiacus@bourns.com
+EMEA: Tel: +36 88 885 877 • Email: eurocus@bourns.com
+The Americas: Tel: +1-951 781-5500 • Email: americus@bourns.com
+www.bourns.com
+
+
+
+REV. 11/19
+Specifications are subject to change without notice.
+Users should verify actual device performance in their specific applications.
+The products described herein and this document are subject to specific legal disclaimers as set forth on the last page of this document, and at www.bourns.com/docs/legal/disclaimer.pdf.
+     Legal Disclaimer Notice
+This legal disclaimer applies to purchasers and users of Bourns® products manufactured by or on behalf of Bourns, Inc. and
+P[ZHɉSPH[LZJVSSLJ[P]LS`¸)V\YUZ¹
+
+Unless otherwise expressly indicated in writing, Bourns® products and data sheets relating thereto are subject to change
+^P[OV\[UV[PJL<ZLYZZOV\SKJOLJRMVYHUKVI[HPU[OLSH[LZ[YLSL]HU[PUMVYTH[PVUHUK]LYPM`[OH[Z\JOPUMVYTH[PVUPZJ\YYLU[
+and complete before placing orders for Bourns® products.
+
+The characteristics and parameters of a Bourns® product set forth in its data sheet are based on laboratory conditions, and
+statements regarding the suitability of products for certain types of applications are based on Bourns’ knowledge of typical
+requirements in generic applications. The characteristics and parameters of a Bourns®WYVK\J[PUH\ZLYHWWSPJH[PVUTH`]HY`
+MYVT[OLKH[HZOLL[JOHYHJ[LYPZ[PJZHUKWHYHTL[LYZK\L[VP[OLJVTIPUH[PVUVM[OL)V\YUZ® product with other components
+PU[OL\ZLY»ZHWWSPJH[PVUVYPP[OLLU]PYVUTLU[VM[OL\ZLYHWWSPJH[PVUP[ZLSM;OLJOHYHJ[LYPZ[PJZHUKWHYHTL[LYZVMH)V\YUZ®
+WYVK\J[HSZVJHUHUKKV]HY`PUKPɈLYLU[HWWSPJH[PVUZHUKHJ[\HSWLYMVYTHUJLTH`]HY`V]LY[PTL<ZLYZZOV\SKHS^H`Z]LYPM`
+the actual performance of the Bourns®WYVK\J[PU[OLPYZWLJPÄJKL]PJLZHUKHWWSPJH[PVUZHUKTHRL[OLPYV^UPUKLWLUKLU[
+Q\KNTLU[ZYLNHYKPUN[OLHTV\U[VMHKKP[PVUHS[LZ[THYNPU[VKLZPNUPU[V[OLPYKL]PJLVYHWWSPJH[PVU[VJVTWLUZH[LMVY
+KPɈLYLUJLZIL[^LLUSHIVYH[VY`HUKYLHS^VYSKJVUKP[PVUZ
+
+<USLZZ)V\YUZOHZL_WSPJP[S`KLZPNUH[LKHUPUKP]PK\HS)V\YUZ® product as meeting the requirements of a particular industry
+Z[HUKHYKLN0:6;:  VYHWHY[PJ\SHYX\HSPÄJH[PVULN<3SPZ[LKVYYLJVNUPaLK)V\YUZPZUV[YLZWVUZPISLMVYHU`
+MHPS\YLVMHUPUKP]PK\HS)V\YUZ®WYVK\J[[VTLL[[OLYLX\PYLTLU[ZVMZ\JOPUK\Z[Y`Z[HUKHYKVYWHY[PJ\SHYX\HSPÄJH[PVU<ZLYZ
+of Bourns® products are responsible for ensuring compliance with safety-related requirements and standards applicable to
+[OLPYKL]PJLZVYHWWSPJH[PVUZ
+
+Bourns®WYVK\J[ZHYLUV[YLJVTTLUKLKH\[OVYPaLKVYPU[LUKLKMVY\ZLPUU\JSLHYSPMLZH]PUNSPMLJYP[PJHSVYSPMLZ\Z[HPUPUN
+HWWSPJH[PVUZUVYPUHU`V[OLYHWWSPJH[PVUZ^OLYLMHPS\YLVYTHSM\UJ[PVUTH`YLZ\S[PUWLYZVUHSPUQ\Y`KLH[OVYZL]LYLWYVWLY[`
+VYLU]PYVUTLU[HSKHTHNL<USLZZL_WYLZZS`HUKZWLJPÄJHSS`HWWYV]LKPU^YP[PUNI`[^VH\[OVYPaLK)V\YUZYLWYLZLU[H[P]LZ
+on a case-by-case basis, use of any Bourns®WYVK\J[ZPUZ\JO\UH\[OVYPaLKHWWSPJH[PVUZTPNO[UV[ILZHMLHUK[O\ZPZH[
+[OL\ZLY»ZZVSLYPZR3PMLJYP[PJHSHWWSPJH[PVUZPUJS\KLKL]PJLZPKLU[PÄLKI`[OL<:-VVKHUK+Y\N(KTPUPZ[YH[PVUHZ*SHZZ000
+KL]PJLZHUKNLULYHSS`LX\P]HSLU[JSHZZPÄJH[PVUZV\[ZPKLVM[OL<UP[LK:[H[LZ
+
+)V\YUZL_WYLZZS`PKLU[PÄLZ[OVZL)V\YUZ®Z[HUKHYKWYVK\J[Z[OH[HYLZ\P[HISLMVY\ZLPUH\[VTV[P]LHWWSPJH[PVUZVUZ\JO
+WYVK\J[Z»KH[HZOLL[ZPU[OLZLJ[PVULU[P[SLK¸(WWSPJH[PVUZ¹<USLZZL_WYLZZS`HUKZWLJPÄJHSS`HWWYV]LKPU^YP[PUNI`[^V
+H\[OVYPaLK)V\YUZYLWYLZLU[H[P]LZVUHJHZLI`JHZLIHZPZ\ZLVMHU`V[OLY)V\YUZ®Z[HUKHYKWYVK\J[ZPUHUH\[VTV[P]L
+HWWSPJH[PVUTPNO[UV[ILZHMLHUK[O\ZPZUV[YLJVTTLUKLKH\[OVYPaLKVYPU[LUKLKHUKPZH[[OL\ZLY»ZZVSLYPZR0M)V\YUZ
+L_WYLZZS`PKLU[PÄLZHZ\IJH[LNVY`VMH\[VTV[P]LHWWSPJH[PVUPU[OLKH[HZOLL[MVYP[ZZ[HUKHYKWYVK\J[ZZ\JOHZPUMV[HPUTLU[
+VYSPNO[PUNZ\JOPKLU[PÄJH[PVUTLHUZ[OH[)V\YUZOHZYL]PL^LKP[ZZ[HUKHYKWYVK\J[HUKOHZKL[LYTPULK[OH[PMZ\JO)V\YUZ®
+Z[HUKHYKWYVK\J[PZJVUZPKLYLKMVYWV[LU[PHS\ZLPUH\[VTV[P]LHWWSPJH[PVUZP[ZOV\SKVUS`IL\ZLKPUZ\JOZ\IJH[LNVY`VM
+H\[VTV[P]LHWWSPJH[PVUZ(U`YLMLYLUJL[V)V\YUZ®Z[HUKHYKWYVK\J[PU[OLKH[HZOLL[HZJVTWSPHU[^P[O[OL(,*8Z[HUKHYK
+VY¸H\[VTV[P]LNYHKL¹KVLZUV[I`P[ZLSMTLHU[OH[)V\YUZOHZHWWYV]LKZ\JOWYVK\J[MVY\ZLPUHUH\[VTV[P]LHWWSPJH[PVU
+
+Bourns®Z[HUKHYKWYVK\J[ZHYLUV[[LZ[LK[VJVTWS`^P[O<UP[LK:[H[LZ-LKLYHS(]PH[PVU(KTPUPZ[YH[PVUZ[HUKHYKZNLULYHSS`
+VYHU`V[OLYNLULYHSS`LX\P]HSLU[NV]LYUTLU[HSVYNHUPaH[PVUZ[HUKHYKHWWSPJHISL[VWYVK\J[ZKLZPNULKVYTHU\MHJ[\YLKMVY
+\ZLPUHPYJYHM[VYZWHJLHWWSPJH[PVUZ)V\YUZL_WYLZZS`PKLU[PÄLZ)V\YUZ® standard products that are suitable for use in aircraft
+VYZWHJLHWWSPJH[PVUZVUZ\JOWYVK\J[Z»KH[HZOLL[ZPU[OLZLJ[PVULU[P[SLK¸(WWSPJH[PVUZ¹<USLZZL_WYLZZS`HUKZWLJPÄJHSS`
+HWWYV]LKPU^YP[PUNI`[^VH\[OVYPaLK)V\YUZYLWYLZLU[H[P]LZVUHJHZLI`JHZLIHZPZ\ZLVMHU`V[OLY)V\YUZ® standard
+WYVK\J[PUHUHPYJYHM[VYZWHJLHWWSPJH[PVUTPNO[UV[ILZHMLHUK[O\ZPZUV[YLJVTTLUKLKH\[OVYPaLKVYPU[LUKLKHUKPZH[
+the user’s sole risk.
+
+;OL\ZLHUKSL]LSVM[LZ[PUNHWWSPJHISL[V)V\YUZ® custom products shall be negotiated on a case-by-case basis by Bourns
+and the user for which such Bourns®J\Z[VTWYVK\J[ZHYLZWLJPHSS`KLZPNULK(IZLU[H^YP[[LUHNYLLTLU[IL[^LLU)V\YUZ
+HUK[OL\ZLYYLNHYKPUN[OL\ZLHUKSL]LSVMZ\JO[LZ[PUN[OLHIV]LWYV]PZPVUZHWWSPJHISL[V)V\YUZ® standard products shall
+also apply to such Bourns® custom products.
+
+Users shall not sell, transfer, export or re-export any Bourns®WYVK\J[ZVY[LJOUVSVN`MVY\ZLPUHJ[P]P[PLZ^OPJOPU]VS]L[OL
+KLZPNUKL]LSVWTLU[WYVK\J[PVU\ZLVYZ[VJRWPSPUNVMU\JSLHYJOLTPJHSVYIPVSVNPJHS^LHWVUZVYTPZZPSLZUVYZOHSS[OL`\ZL
+Bourns®WYVK\J[ZVY[LJOUVSVN`PUHU`MHJPSP[`^OPJOLUNHNLZPUHJ[P]P[PLZYLSH[PUN[VZ\JOKL]PJLZ;OLMVYLNVPUNYLZ[YPJ[PVUZ
+HWWS`[VHSS\ZLZHUKHWWSPJH[PVUZ[OH[]PVSH[LUH[PVUHSVYPU[LYUH[PVUHSWYVOPIP[PVUZPUJS\KPUNLTIHYNVZVYPU[LYUH[PVUHS
+YLN\SH[PVUZ-\Y[OLY)V\YUZ® products and Bourns technology and technical data may not under any circumstance be
+exported or re-exported to countries subject to international sanctions or embargoes. Bourns® products may not, without
+WYPVYH\[OVYPaH[PVUMYVT)V\YUZHUKVY[OL<:.V]LYUTLU[ILYLZVSK[YHUZMLYYLKVYYLL_WVY[LK[VHU`WHY[`UV[LSPNPISL
+[VYLJLP]L<:JVTTVKP[PLZZVM[^HYLHUK[LJOUPJHSKH[H
+
+;V[OLTH_PT\TL_[LU[WLYTP[[LKI`HWWSPJHISLSH^)V\YUZKPZJSHPTZPHU`HUKHSSSPHIPSP[`MVYZWLJPHSW\UP[P]LJVUZLX\LU[PHS
+PUJPKLU[HSVYPUKPYLJ[KHTHNLZVYSVZ[YL]LU\LZVYSVZ[WYVÄ[ZHUKPPHU`HUKHSSPTWSPLK^HYYHU[PLZPUJS\KPUNPTWSPLK^HYYHU[PLZ
+VMÄ[ULZZMVYWHY[PJ\SHYW\YWVZLUVUPUMYPUNLTLU[HUKTLYJOHU[HIPSP[`
+)RU\RXUFRQYHQLHQFHFRSLHVRIWKLV/HJDO'LVFODLPHU1RWLFHZLWK*HUPDQ6SDQLVK-DSDQHVH7UDGLWLRQDO&KLQHVHDQG6LPSOLÀHG&KLQHVH
+bilingual versions are available at:
+                     Web Page: http://www.bourns.com/legal/disclaimers-terms-and-policies
+                         PDF: http://www.bourns.com/docs/Legal/disclaimer.pdf
+                                                                                                                          *9
+

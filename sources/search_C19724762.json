@@ -1,0 +1,48 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C19724762",
+      "name": "HANRUN(Zhongshan HanRun Elec) HR913180AE",
+      "model": "HR913180AE",
+      "brand": "HANRUN(Zhongshan HanRun Elec)",
+      "package": "Plugin",
+      "category": "Ethernet Connectors / Modular Connectors (RJ45 RJ11)",
+      "stock": 190,
+      "type": "Extended",
+      "price": 5.4016,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 5.4016
+        },
+        {
+          "qty": 10,
+          "price": 4.6169
+        },
+        {
+          "qty": 42,
+          "price": 4.1523
+        },
+        {
+          "qty": 84,
+          "price": 3.6812
+        },
+        {
+          "qty": 504,
+          "price": 3.4635
+        },
+        {
+          "qty": 1008,
+          "price": 3.366
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 42,
+      "description": "\u63d2\u4ef6 Ethernet Connectors / Modular Connectors (RJ45 RJ11) ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

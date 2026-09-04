@@ -1,0 +1,1261 @@
+{
+  "total": 43,
+  "results": [
+    {
+      "lcsc": "C520544",
+      "name": "Winchen WC-PD30B012",
+      "model": "WC-PD30B012",
+      "brand": "Winchen",
+      "package": "SIP-12",
+      "category": "Ethernet Modules",
+      "stock": 8,
+      "type": "Extended",
+      "price": 10.8632,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 10.8632
+        },
+        {
+          "qty": 10,
+          "price": 9.341
+        },
+        {
+          "qty": 12,
+          "price": 9.341
+        },
+        {
+          "qty": 14,
+          "price": 9.341
+        },
+        {
+          "qty": 16,
+          "price": 9.341
+        },
+        {
+          "qty": 18,
+          "price": 9.341
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 75,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes SIP-12 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd30b012_C520544.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2310171203_Winchen-WC-PD30B012_C520544.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848028",
+      "name": "Winchen WC-PD30B050",
+      "model": "WC-PD30B050",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 5,
+      "type": "Extended",
+      "price": 9.5847,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 9.5847
+        },
+        {
+          "qty": 10,
+          "price": 9.341
+        },
+        {
+          "qty": 12,
+          "price": 9.341
+        },
+        {
+          "qty": 14,
+          "price": 9.341
+        },
+        {
+          "qty": 16,
+          "price": 9.341
+        },
+        {
+          "qty": 18,
+          "price": 9.341
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd30b050_C2848028.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848081",
+      "name": "Winchen WC-PD30B024",
+      "model": "WC-PD30B024",
+      "brand": "Winchen",
+      "package": "Plugin",
+      "category": "Ethernet Modules",
+      "stock": 20,
+      "type": "Extended",
+      "price": 11.1182,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 11.1182
+        },
+        {
+          "qty": 10,
+          "price": 10.8356
+        },
+        {
+          "qty": 12,
+          "price": 10.8356
+        },
+        {
+          "qty": 14,
+          "price": 10.8356
+        },
+        {
+          "qty": 16,
+          "price": 10.8356
+        },
+        {
+          "qty": 18,
+          "price": 10.8356
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 21,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes \u63d2\u4ef6 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd30b024_C2848081.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C520540",
+      "name": "Winchen WC-PD13C050I",
+      "model": "WC-PD13C050I",
+      "brand": "Winchen",
+      "package": "SIP-10",
+      "category": "Ethernet Modules",
+      "stock": 48,
+      "type": "Extended",
+      "price": 8.6847,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 8.6847
+        },
+        {
+          "qty": 10,
+          "price": 8.5141
+        },
+        {
+          "qty": 12,
+          "price": 8.5141
+        },
+        {
+          "qty": 14,
+          "price": 8.0739
+        },
+        {
+          "qty": 16,
+          "price": 8.0739
+        },
+        {
+          "qty": 18,
+          "price": 8.0739
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 30,
+      "description": "-40\u2103~+80\u2103 42V~55V Power over Ethernet Module Short-Circuit  Protection Yes SIP-10 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13c050i_C520540.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2007071233_Winchen-WC-PD13C050I_C520540.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~55V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C520541",
+      "name": "Winchen WC-PD13C012I",
+      "model": "WC-PD13C012I",
+      "brand": "Winchen",
+      "package": "SIP-10",
+      "category": "Ethernet Modules",
+      "stock": 8,
+      "type": "Extended",
+      "price": 6.7093,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.7093
+        },
+        {
+          "qty": 10,
+          "price": 6.5387
+        },
+        {
+          "qty": 12,
+          "price": 6.5387
+        },
+        {
+          "qty": 14,
+          "price": 6.5387
+        },
+        {
+          "qty": 16,
+          "price": 6.5387
+        },
+        {
+          "qty": 18,
+          "price": 6.5387
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 100,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes SIP-10 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13c012i_C520541.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2004291204_Winchen-WC-PD13C012I_C520541.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "lcsc": "C520542",
+      "name": "Winchen WC-PD13F012A",
+      "model": "WC-PD13F012A",
+      "brand": "Winchen",
+      "package": "SIP-6",
+      "category": "Ethernet Modules",
+      "stock": 11,
+      "type": "Extended",
+      "price": 6.953,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.953
+        },
+        {
+          "qty": 10,
+          "price": 6.797
+        },
+        {
+          "qty": 12,
+          "price": 6.797
+        },
+        {
+          "qty": 14,
+          "price": 5.9783
+        },
+        {
+          "qty": 16,
+          "price": 5.9783
+        },
+        {
+          "qty": 18,
+          "price": 5.9783
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 100,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes SIP-6 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13f012a_C520542.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2004291204_Winchen-WC-PD13F012A_C520542.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C520543",
+      "name": "Winchen WC-PD30B050G",
+      "model": "WC-PD30B050G",
+      "brand": "Winchen",
+      "package": "DIP-14",
+      "category": "Ethernet Modules",
+      "stock": 4,
+      "type": "Extended",
+      "price": 9.5847,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 9.5847
+        },
+        {
+          "qty": 10,
+          "price": 9.341
+        },
+        {
+          "qty": 12,
+          "price": 9.341
+        },
+        {
+          "qty": 14,
+          "price": 9.341
+        },
+        {
+          "qty": 16,
+          "price": 9.341
+        },
+        {
+          "qty": 18,
+          "price": 9.341
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 75,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes DIP-14 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd30b050g_C520543.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2004291204_Winchen-WC-PD30B050G_C520543.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "38V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848012",
+      "name": "Winchen WC-PD13C012A",
+      "model": "WC-PD13C012A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 12,
+      "type": "Extended",
+      "price": 6.6573,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.6573
+        },
+        {
+          "qty": 10,
+          "price": 5.7216
+        },
+        {
+          "qty": 30,
+          "price": 5.1498
+        },
+        {
+          "qty": 90,
+          "price": 4.6705
+        },
+        {
+          "qty": 92,
+          "price": 4.6705
+        },
+        {
+          "qty": 94,
+          "price": 4.6705
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 30,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13c012a_C2848012.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "39V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848014",
+      "name": "Winchen WC-PD13F050A",
+      "model": "WC-PD13F050A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 2,
+      "type": "Extended",
+      "price": 7.0179,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 7.0179
+        },
+        {
+          "qty": 10,
+          "price": 6.862
+        },
+        {
+          "qty": 30,
+          "price": 6.862
+        },
+        {
+          "qty": 100,
+          "price": 6.862
+        },
+        {
+          "qty": 500,
+          "price": 6.862
+        },
+        {
+          "qty": 1000,
+          "price": 6.862
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 20,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13f050a_C2848014.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "39V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848015",
+      "name": "Winchen WC-PD25C012J",
+      "model": "WC-PD25C012J",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 29,
+      "type": "Extended",
+      "price": 8.7724,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 8.7724
+        },
+        {
+          "qty": 10,
+          "price": 8.5531
+        },
+        {
+          "qty": 12,
+          "price": 8.4069
+        },
+        {
+          "qty": 14,
+          "price": 8.4069
+        },
+        {
+          "qty": 16,
+          "price": 8.4069
+        },
+        {
+          "qty": 18,
+          "price": 8.4069
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 30,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd25c012j_C2848015.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848016",
+      "name": "Winchen WC-PD07H012A",
+      "model": "WC-PD07H012A",
+      "brand": "Winchen",
+      "package": "Plugin",
+      "category": "Ethernet Modules",
+      "stock": 1,
+      "type": "Extended",
+      "price": 6.9546,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.9546
+        },
+        {
+          "qty": 10,
+          "price": 5.936
+        },
+        {
+          "qty": 12,
+          "price": 5.936
+        },
+        {
+          "qty": 14,
+          "price": 5.936
+        },
+        {
+          "qty": 16,
+          "price": 5.936
+        },
+        {
+          "qty": 18,
+          "price": 5.936
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes \u63d2\u4ef6 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd07h012a_C2848016.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848025",
+      "name": "Winchen WC-PD30B120A",
+      "model": "WC-PD30B120A",
+      "brand": "Winchen",
+      "package": "Plugin",
+      "category": "Ethernet Modules",
+      "stock": 4,
+      "type": "Extended",
+      "price": 9.2744,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 9.2744
+        },
+        {
+          "qty": 10,
+          "price": 8.4069
+        },
+        {
+          "qty": 12,
+          "price": 8.4069
+        },
+        {
+          "qty": 14,
+          "price": 8.4069
+        },
+        {
+          "qty": 16,
+          "price": 8.4069
+        },
+        {
+          "qty": 18,
+          "price": 8.4069
+        },
+        {
+          "qty": 20,
+          "price": 8.4069
+        },
+        {
+          "qty": 22,
+          "price": 8.4069
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 21,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes \u63d2\u4ef6 Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd30b120a_C2848025.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848026",
+      "name": "Winchen WC-PD13C050A",
+      "model": "WC-PD13C050A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 4,
+      "type": "Extended",
+      "price": 6.555,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.555
+        },
+        {
+          "qty": 10,
+          "price": 5.5949
+        },
+        {
+          "qty": 12,
+          "price": 5.5949
+        },
+        {
+          "qty": 14,
+          "price": 5.5949
+        },
+        {
+          "qty": 16,
+          "price": 5.5949
+        },
+        {
+          "qty": 18,
+          "price": 5.5949
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13c050a_C2848026.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "39V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848030",
+      "name": "Winchen WC-PD25C012T",
+      "model": "WC-PD25C012T",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 8,
+      "type": "Extended",
+      "price": 10.8664,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 10.8664
+        },
+        {
+          "qty": 10,
+          "price": 9.3475
+        },
+        {
+          "qty": 12,
+          "price": 9.3475
+        },
+        {
+          "qty": 14,
+          "price": 9.3475
+        },
+        {
+          "qty": 16,
+          "price": 9.3475
+        },
+        {
+          "qty": 18,
+          "price": 9.3475
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 10,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd25c012t_C2848030.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848082",
+      "name": "Winchen WC-PD60B120A",
+      "model": "WC-PD60B120A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 15,
+      "type": "Extended",
+      "price": 19.4049,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 19.4049
+        },
+        {
+          "qty": 10,
+          "price": 17.7479
+        },
+        {
+          "qty": 12,
+          "price": 17.7479
+        },
+        {
+          "qty": 14,
+          "price": 17.7479
+        },
+        {
+          "qty": 16,
+          "price": 17.7479
+        },
+        {
+          "qty": 18,
+          "price": 17.7479
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 21,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd60b120a_C2848082.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2202221130_Winchen-WC-PD60B120A_C2848082.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "48V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection\u3001Thermal Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848089",
+      "name": "Winchen WC-PD30A012A",
+      "model": "WC-PD30A012A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 14,
+      "type": "Extended",
+      "price": 6.9546,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.9546
+        },
+        {
+          "qty": 10,
+          "price": 5.936
+        },
+        {
+          "qty": 30,
+          "price": 5.936
+        },
+        {
+          "qty": 100,
+          "price": 5.936
+        },
+        {
+          "qty": 500,
+          "price": 5.936
+        },
+        {
+          "qty": 1000,
+          "price": 5.936
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd30a012a_C2848089.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2908816",
+      "name": "Winchen WC-PD13F050C",
+      "model": "WC-PD13F050C",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 5,
+      "type": "Extended",
+      "price": 6.6573,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.6573
+        },
+        {
+          "qty": 10,
+          "price": 5.7216
+        },
+        {
+          "qty": 30,
+          "price": 5.1498
+        },
+        {
+          "qty": 100,
+          "price": 4.6705
+        },
+        {
+          "qty": 102,
+          "price": 4.6705
+        },
+        {
+          "qty": 104,
+          "price": 4.6705
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13f050c_C2908816.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2110181830_Winchen-WC-PD13F050C_C2908816.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection\u3001Thermal Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C7543785",
+      "name": "Winchen WC-PD13F012C",
+      "model": "WC-PD13F012C",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 10,
+      "type": "Extended",
+      "price": 7.1853,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 7.1853
+        },
+        {
+          "qty": 10,
+          "price": 6.2496
+        },
+        {
+          "qty": 55,
+          "price": 5.6777
+        },
+        {
+          "qty": 110,
+          "price": 5.1985
+        },
+        {
+          "qty": 112,
+          "price": 5.1985
+        },
+        {
+          "qty": 114,
+          "price": 5.1985
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 55,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd13f012c_C7543785.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308251150_Winchen-WC-PD13F012C_C7543785.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "40V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection\u3001Thermal Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C7543792",
+      "name": "Winchen WC-PD26C120A",
+      "model": "WC-PD26C120A",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 72,
+      "type": "Extended",
+      "price": 6.3633,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 6.3633
+        },
+        {
+          "qty": 10,
+          "price": 6.1927
+        },
+        {
+          "qty": 12,
+          "price": 6.1927
+        },
+        {
+          "qty": 14,
+          "price": 6.1927
+        },
+        {
+          "qty": 16,
+          "price": 6.1927
+        },
+        {
+          "qty": 18,
+          "price": 6.1927
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 30,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd26c120a_C7543792.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308251150_Winchen-WC-PD26C120A_C7543792.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Voltage - Supply",
+          "value": "42V~57V"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        },
+        {
+          "name": "Features",
+          "value": "Short-Circuit  Protection\u3001Thermal Protection"
+        }
+      ]
+    },
+    {
+      "lcsc": "C2848008",
+      "name": "Winchen WC-PD60L120",
+      "model": "WC-PD60L120",
+      "brand": "Winchen",
+      "package": "-",
+      "category": "Ethernet Modules",
+      "stock": 0,
+      "type": "Extended",
+      "price": 11.2579,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 11.2579
+        },
+        {
+          "qty": 10,
+          "price": 9.6497
+        },
+        {
+          "qty": 30,
+          "price": 9.6497
+        },
+        {
+          "qty": 100,
+          "price": 9.6497
+        },
+        {
+          "qty": 500,
+          "price": 9.6497
+        },
+        {
+          "qty": 1000,
+          "price": 9.6497
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 1,
+      "description": "-40\u2103~+80\u2103 Power over Ethernet Module Yes - Ethernet Modules ROHS",
+      "url": "https://www.lcsc.com/product-detail/ethernet-modules_winchen-wc-pd60l120_C2848008.html",
+      "datasheet": "",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-40\u2103~+80\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "Power over Ethernet Module"
+        },
+        {
+          "name": "Isolation",
+          "value": "Yes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "total": 183,
+  "results": [
+    {
+      "lcsc": "C2143",
+      "name": "JSCJ MMBT3906 2A(RANGE:100-300)",
+      "model": "MMBT3906 2A(RANGE:100-300)",
+      "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+      "package": "SOT-23",
+      "category": "Bipolar (BJT)",
+      "stock": 297103,
+      "type": "Extended",
+      "price": 0.0115,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0115
+        },
+        {
+          "qty": 500,
+          "price": 0.0091
+        },
+        {
+          "qty": 3000,
+          "price": 0.0078
+        },
+        {
+          "qty": 6000,
+          "price": 0.007
+        },
+        {
+          "qty": 24000,
+          "price": 0.0063
+        },
+        {
+          "qty": 51000,
+          "price": 0.0059
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 PNP 100 100nA 200mA 200mW 300MHz 300mV 40V 5V PNP SOT-23 Bipolar (BJT) ROHS",
+      "url": "https://www.lcsc.com/product-detail/bipolar-bjt_jiangsu-changjing-electronics-technology-co-ltd-mmbt3906-2a-range-100-300_C2143.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1809211015_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT3906-2A-RANGE-100-300_C2143.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Transition frequency(fT)",
+          "value": "300MHz"
+        },
+        {
+          "name": "Collector - Emitter Voltage VCEO",
+          "value": "40V"
+        },
+        {
+          "name": "Number",
+          "value": "1 PNP"
+        },
+        {
+          "name": "DC Current Gain",
+          "value": "100"
+        },
+        {
+          "name": "Current - Collector(Ic)",
+          "value": "200mA"
+        },
+        {
+          "name": "Vce Saturation(VCE(sat))",
+          "value": "300mV"
+        },
+        {
+          "name": "Emitter-Base Voltage(Vebo)",
+          "value": "5V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "200mW"
+        },
+        {
+          "name": "type",
+          "value": "PNP"
+        },
+        {
+          "name": "Current - Collector Cutoff",
+          "value": "100nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C53444",
+      "name": "onsemi MMBT3906LT1G",
+      "model": "MMBT3906LT1G",
+      "brand": "onsemi",
+      "package": "SOT-23",
+      "category": "Bipolar (BJT)",
+      "stock": 1089215,
+      "type": "Extended",
+      "price": 0.0189,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0189
+        },
+        {
+          "qty": 500,
+          "price": 0.0147
+        },
+        {
+          "qty": 3000,
+          "price": 0.0108
+        },
+        {
+          "qty": 6000,
+          "price": 0.0094
+        },
+        {
+          "qty": 24000,
+          "price": 0.0089
+        },
+        {
+          "qty": 51000,
+          "price": 0.0085
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 PNP 200mA 225mW 250MHz 250mV 40V 50nA 5V 60 PNP SOT-23 Bipolar (BJT) ROHS",
+      "url": "https://www.lcsc.com/product-detail/bipolar-bjt_onsemi-mmbt3906lt1g_C53444.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1810301518_onsemi-MMBT3906LT1G_C53444.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Transition frequency(fT)",
+          "value": "250MHz"
+        },
+        {
+          "name": "Collector - Emitter Voltage VCEO",
+          "value": "40V"
+        },
+        {
+          "name": "Number",
+          "value": "1 PNP"
+        },
+        {
+          "name": "DC Current Gain",
+          "value": "60"
+        },
+        {
+          "name": "Current - Collector(Ic)",
+          "value": "200mA"
+        },
+        {
+          "name": "Vce Saturation(VCE(sat))",
+          "value": "250mV"
+        },
+        {
+          "name": "Emitter-Base Voltage(Vebo)",
+          "value": "5V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "225mW"
+        },
+        {
+          "name": "type",
+          "value": "PNP"
+        },
+        {
+          "name": "Current - Collector Cutoff",
+          "value": "50nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C61615",
+      "name": "JSCJ MMBT3906T(RANGE:100-300)",
+      "model": "MMBT3906T(RANGE:100-300)",
+      "brand": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+      "package": "SOT-523",
+      "category": "Bipolar (BJT)",
+      "stock": 53058,
+      "type": "Extended",
+      "price": 0.0212,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0212
+        },
+        {
+          "qty": 200,
+          "price": 0.0166
+        },
+        {
+          "qty": 600,
+          "price": 0.0142
+        },
+        {
+          "qty": 3000,
+          "price": 0.0121
+        },
+        {
+          "qty": 9000,
+          "price": 0.0108
+        },
+        {
+          "qty": 21000,
+          "price": 0.0101
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 PNP 100 100nA 150mW 200mA 250MHz 400mV 40V 5V PNP SOT-523 Bipolar (BJT) ROHS",
+      "url": "https://www.lcsc.com/product-detail/bipolar-bjt_jiangsu-changjing-electronics-technology-co-ltd-mmbt3906t-range-100-300_C61615.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1810010122_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MMBT3906T-RANGE-100-300_C61615.pdf",
+      "attributes": [
+        {
+          "name": "Transition frequency(fT)",
+          "value": "250MHz"
+        },
+        {
+          "name": "Collector - Emitter Voltage VCEO",
+          "value": "40V"
+        },
+        {
+          "name": "Number",
+          "value": "1 PNP"
+        },
+        {
+          "name": "DC Current Gain",
+          "value": "100"
+        },
+        {
+          "name": "Current - Collector(Ic)",
+          "value": "200mA"
+        },
+        {
+          "name": "Vce Saturation(VCE(sat))",
+          "value": "400mV"
+        },
+        {
+          "name": "Emitter-Base Voltage(Vebo)",
+          "value": "5V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "150mW"
+        },
+        {
+          "name": "type",
+          "value": "PNP"
+        },
+        {
+          "name": "Current - Collector Cutoff",
+          "value": "100nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C75549",
+      "name": "Nexperia MMBT3906,215",
+      "model": "MMBT3906,215",
+      "brand": "Nexperia",
+      "package": "SOT-23",
+      "category": "Bipolar (BJT)",
+      "stock": 141511,
+      "type": "Extended",
+      "price": 0.0366,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0366
+        },
+        {
+          "qty": 200,
+          "price": 0.0282
+        },
+        {
+          "qty": 600,
+          "price": 0.0234
+        },
+        {
+          "qty": 3000,
+          "price": 0.0207
+        },
+        {
+          "qty": 9000,
+          "price": 0.0182
+        },
+        {
+          "qty": 21000,
+          "price": 0.0169
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "1 PNP 100 200mA 250MHz 250mW 400mV 40V 50nA 6V PNP SOT-23 Bipolar (BJT) ROHS",
+      "url": "https://www.lcsc.com/product-detail/bipolar-bjt_nexperia-mmbt3906-215_C75549.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2407241045_Nexperia-MMBT3906-215_C75549.pdf",
+      "attributes": [
+        {
+          "name": "Transition frequency(fT)",
+          "value": "250MHz"
+        },
+        {
+          "name": "Collector - Emitter Voltage VCEO",
+          "value": "40V"
+        },
+        {
+          "name": "Number",
+          "value": "1 PNP"
+        },
+        {
+          "name": "DC Current Gain",
+          "value": "100"
+        },
+        {
+          "name": "Current - Collector(Ic)",
+          "value": "200mA"
+        },
+        {
+          "name": "Vce Saturation(VCE(sat))",
+          "value": "400mV"
+        },
+        {
+          "name": "Emitter-Base Voltage(Vebo)",
+          "value": "6V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "250mW"
+        },
+        {
+          "name": "type",
+          "value": "PNP"
+        },
+        {
+          "name": "Current - Collector Cutoff",
+          "value": "50nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C77990",
+      "name": "MCC MMBT3906-TP",
+      "model": "MMBT3906-TP",
+      "brand": "MCC(Micro Commercial Components)",
+      "package": "SOT-23",
+      "category": "Bipolar (BJT)",
+      "stock": 5206,
+      "type": "Extended",
+      "price": 0.0125,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0125
+        },
+        {
+          "qty": 500,
+          "price": 0.0098
+        },
+        {
+          "qty": 3000,
+          "price": 0.0084
+        },
+        {
+          "qty": 6000,
+          "price": 0.0075
+        },
+        {
+          "qty": 24000,
+          "price": 0.0068
+        },
+        {
+          "qty": 51000,
+          "price": 0.0064
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 1 PNP 100 100nA 200mA 250MHz 300mW 400mV 40V 5V PNP SOT-23 Bipolar (BJT) ROHS",
+      "url": "https://www.lcsc.com/product-detail/bipolar-bjt_mcc-micro-commercial-components-mmbt3906-tp_C77990.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_1810010215_MCC-Micro-Commercial-Components-MMBT3906-TP_C77990.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Transition frequency(fT)",
+          "value": "250MHz"
+        },
+        {
+          "name": "Collector - Emitter Voltage VCEO",
+          "value": "40V"
+        },
+        {
+          "name": "Number",
+          "value": "1 PNP"
+        },
+        {
+          "name": "DC Current Gain",
+          "value": "100"
+        },
+        {
+          "name": "Current - Collector(Ic)",
+          "value": "200mA"
+        },
+        {
+          "name": "Vce Saturation(VCE(sat))",
+          "value": "400mV"
+        },
+        {
+          "name": "Emitter-Base Voltage(Vebo)",
+          "value": "5V"
+        },
+        {
+          "name": "Pd - Power Dissipation",
+          "value": "300mW"
+        },
+        {
+          "name": "type",
+          "value": "PNP"
+        },
+        {
+          "name": "Current - Collector Cutoff",
+          "value": "100nA"
+        }
+      ]
+    }
+  ]
+}

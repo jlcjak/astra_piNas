@@ -1,0 +1,137 @@
+{
+  "total": 2,
+  "results": [
+    {
+      "lcsc": "C2847540",
+      "name": "KOHERelec MDA7050-3R3M",
+      "model": "MDA7050-3R3M",
+      "brand": "KOHERelec",
+      "package": "SMD,7.3x6.6mm",
+      "category": "Molding Power Inductors",
+      "stock": 742,
+      "type": "Extended",
+      "price": 1.0105,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.0105
+        },
+        {
+          "qty": 10,
+          "price": 0.8172
+        },
+        {
+          "qty": 30,
+          "price": 0.7197
+        },
+        {
+          "qty": 100,
+          "price": 0.6239
+        },
+        {
+          "qty": 500,
+          "price": 0.567
+        },
+        {
+          "qty": 800,
+          "price": 0.5378
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 800,
+      "description": "14m\u03a9 3.3uH 9.5A 9.5A Alloy integrated molding inductor \u00b120% SMD,7.3x6.6mm Molding Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/inductors-smd_koherelec-mda7050-3r3m_C2847540.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308230917_KOHERelec-MDA7050-3R3M_C2847540.pdf",
+      "attributes": [
+        {
+          "name": "Inductance",
+          "value": "3.3uH"
+        },
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "9.5A"
+        },
+        {
+          "name": "Type",
+          "value": "Alloy molded inductor"
+        },
+        {
+          "name": "Current Rating",
+          "value": "9.5A"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "14m\u03a9"
+        }
+      ]
+    },
+    {
+      "lcsc": "C1329558",
+      "name": "BOURNS SRP7050TA-3R3M",
+      "model": "SRP7050TA-3R3M",
+      "brand": "BOURNS",
+      "package": "SMD,7.3x6.6mm",
+      "category": "Power Inductors",
+      "stock": 21,
+      "type": "Extended",
+      "price": 0.9731,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.9731
+        },
+        {
+          "qty": 10,
+          "price": 0.9504
+        },
+        {
+          "qty": 30,
+          "price": 0.9358
+        },
+        {
+          "qty": 100,
+          "price": 0.9195
+        },
+        {
+          "qty": 102,
+          "price": 0.9195
+        },
+        {
+          "qty": 104,
+          "price": 0.9195
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 800,
+      "description": "12A 19m\u03a9 3.3uH 8A \u00b120% SMD,7.3x6.6mm Power Inductors ROHS",
+      "url": "https://www.lcsc.com/product-detail/power-inductors_bourns-srp7050ta-3r3m_C1329558.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_BOURNS-SRP7050TA-3R3M_C1329558.pdf",
+      "attributes": [
+        {
+          "name": "Current - Saturation(Isat)",
+          "value": "12A"
+        },
+        {
+          "name": "Inductance",
+          "value": "3.3uH"
+        },
+        {
+          "name": "Tolerance",
+          "value": "\u00b120%"
+        },
+        {
+          "name": "Current Rating",
+          "value": "8A"
+        },
+        {
+          "name": "DC Resistance(DCR)",
+          "value": "19m\u03a9"
+        }
+      ]
+    }
+  ]
+}

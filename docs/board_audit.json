@@ -1,0 +1,13 @@
+{
+  "footprints": 176,
+  "connected_pads_checked": 697,
+  "copper_layers": 6,
+  "tracks_and_vias": 3100,
+  "schematic_paths_match": true,
+  "cm5_connector_separation_mm": 34,
+  "ssd_insertion_direction": "positive Y, underside",
+  "provisional_missing_poe_support_pads": [
+    "U7.9",
+    "U7.10"
+  ]
+}

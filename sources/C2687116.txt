@@ -1,0 +1,260 @@
+                                                                   UMW USBLC6-2SC6
+
+
+1.Features
+
+  Complies with following standards:                                Ultra low leakage: nA level
+
+  – IEC 61000-4-2 (ESD) immunity test                               Operating voltage: 5V
+
+  Air discharge: ±30kV                                              Low clamping voltage
+
+  Contact discharge: ±30kV                                          RoHS Compliant
+
+  – IEC61000-4-4 (EFT) 40A (5/50ns)
+
+  –IEC61000-4-5 (Lightning) 6A (8/20μs)
+
+
+
+
+2.Applications                                                     3.Mechanical Characteristics
+
+  USB 2.0 interface                                                 Package: SOT23-6 Lead
+
+  10/100 Ethernet                                                   Finish: Matte Tin
+
+  Personal digital assistants (PDA's)                               UL Flammability Classification Rating 94V-0
+
+  Notebooks, Desktops and Servers                                   Pb-Free, Halogen Free, RoHS/WEEE
+
+  Portable instrumentation                                          Compliant
+
+  Digital cameras
+
+
+
+4.Pinning information
+
+
+                                          I/O1    VBUS      I/O2
+
+
+
+
+                                          I/O1    GND       I/O2
+
+                                             SOT23-6
+
+
+
+
+UTD Semiconductor Co.,Limited
+www.umw-ic.com                                   Nov.2024                                                1 of 7
+www.umw-ic.com                              UMW USBLC6-2SC6
+
+
+5.Absolute Maximum Ratings TA= 25°C
+
+                              Parameter              Symbol         Maximum       Units
+Peak Pulse Power (8/20µs)                               Ppk               150      W
+
+Peak Pulse Current (8/20µs)                              Ipp               6       A
+
+ESD per IEC 61000−4−2 (Air)                                               ±30      kV
+                                                       VESD
+ESD per IEC 61000−4−2 (Contact)                                           ±30      kV
+
+Junction Temperature                                     TJ          -55 to 125    °C
+
+Storage Temperature Range                               TSTG         -55 to 150    °C
+
+
+
+
+                                          UTD Semiconductor Co.,Limited
+2 of 7                                                       Nov.2024
+www.umw-ic.com                                                    UMW USBLC6-2SC6
+
+
+6.Electrical Characteristic (TA=25°C unless otherwise noted)
+
+                Parameter                    Symbol               Conditions       Min   Typ Max Units
+Reverse stand-off voltage                      VRWM                                             5     V
+
+Reverse breakdown voltage                          VBR   IBR=1mA                    6           9     V
+
+Reverse leakage current                            IR    VR=5V                                  0.1   µA
+
+Clamping voltage (tp=8/20μs)                       VC    IPP=1A                                 10    V
+
+Clamping voltage (tp=8/20μs)                       VC    IPP=6A                                 15    V
+
+                                                         0Vdc,f=1MHz Between I/O
+                                                   CJ                                    0.8    1     pF
+                                                         pins and GND
+Junction capacitance
+                                                         0Vdc,f=1MHz
+                                                   CJ                                    0.35   0.4   pF
+                                                         I/O to I/O
+
+
+
+
+                   UTD Semiconductor Co.,Limited
+                   Nov.2024                                                                           3 of 7
+www.umw-ic.com                                                                                                                      UMW USBLC6-2SC6
+
+
+7.Typical characteristic
+
+
+
+
+     IPP-Peak Pulse Current - % of lPP                                                            Percent of Peak Pulse Current %
+
+
+
+
+                                                   t-Time (µs)                                                                                 Time (ns)
+                                                                                                                                     Figure 2: ESD Pulse Waveform
+                                         Figure 1: 8/20μs Pulse Waveform
+                                                                                                                                      (according to IEC 61000-4-2)
+
+
+
+
+                                                           % of Rated Power
+
+
+
+
+                                                                              Ambient Temperature –TA(ºC)
+
+                                                                              Figure 3: Power Derating Curve
+
+
+
+
+                                                                                                                       UTD Semiconductor Co.,Limited
+4 of 7                                                                                                                                    Nov.2024
+www.umw-ic.com                                                  UMW USBLC6-2SC6
+
+
+8.SOT-23-6 Package Outline Dimensions
+
+
+
+                                     D
+                                     b
+
+
+
+
+               E1                                      E                 θ
+
+                                                                                     0.200
+                                                                     L
+
+
+
+
+                                 e
+
+
+                                     e1
+
+
+
+                                                 A1
+
+
+
+                                                                             c
+                                                      A2 A
+
+
+
+
+DIMENSIONS (mm are the original dimensions)
+
+  Symbol     A      A1      A2       b      c    D         E1    E               e           e1   L    θ
+    Min     1.050 0.000 1.050 0.300 0.100 2.820 1.500 2.650 0.950 1.800 0.300                          0°
+    Max     1.250 0.100 1.150 0.500 0.200 3.020 1.700 2.950                  BSC         2.000 0.600   8°
+
+
+
+
+                 UTD Semiconductor Co.,Limited
+                 Nov.2024                                                                                   5 of 7
+www.umw-ic.com                               UMW USBLC6-2SC6
+
+
+9.Ordering information
+
+
+
+
+                                   UL26
+                                   UMW yww
+
+                                                 yww: Batch Code
+
+
+
+
+         Order Code      Package          Base QTY                   Delivery Mode
+    UMW USBLC6-2SC6      SOT23-6              3000                        Tape and reel
+
+
+
+
+                                          UTD Semiconductor Co.,Limited
+6 of 7                                                       Nov.2024
+www.umw-ic.com                                                       UMW USBLC6-2SC6
+
+
+10.Disclaimer
+
+UMW reserves the right to make changes to all products, specifications. Customers should obtain the latest version
+
+of product documentation and verify the completeness and currency of the information before placing an order.
+
+
+When applying our products, please do not exceed the maximum rated values, as this may affect the reliability of the
+
+entire system. Under certain conditions, any semiconductor product may experience faults or failures. Buyers are
+
+responsible for adhering to safety standards and implementing safety measures during system design, prototyping,
+
+and manufacturing when using our products to prevent potential failure risks that could lead to personal injury or
+
+property damage.
+
+
+Unless explicitly stated in writing, UMW products are not intended for use in medical, life-saving, or life-sustaining
+
+applications, nor for any other applications where product failure could result in personal injury or death. If customers
+
+use or sell the product for such applications without explicit authorization, they assume all associated risks.
+
+
+When reselling, applying, or exporting, please comply with export control laws and regulations of China, the United
+
+States, the United Kingdom, the European Union, and other relevant countries, regions, and international
+
+organizations.
+
+
+This document and any actions by UMW do not grant any intellectual property rights, whether express or implied,
+
+by estoppel or otherwise. The product names and marks mentioned herein may be trademarks of their respective
+
+owners.
+
+
+
+
+                      UTD Semiconductor Co.,Limited
+                      Nov.2024                                                                                    7 of 7
+

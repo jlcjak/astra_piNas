@@ -1,0 +1,41 @@
+{
+  "pcb": "astra_piNas.kicad_pcb",
+  "pcb_sha256": "2db074109a6283911c26a3dc7f367133a730e5dbd06374e56e6ac0732f2b46cd",
+  "outline_mm": [
+    100,
+    120
+  ],
+  "copper_layers": 6,
+  "stackup": "JLC06161H-3313",
+  "track_segments": 2408,
+  "through_vias": 692,
+  "footprints": 176,
+  "local_board_models_checked": 29,
+  "ground_reference_layers_have_no_tracks": true,
+  "high_speed_tracks_are_on_outer_layers": true,
+  "retained_track_net_assignments_unchanged": true,
+  "erc_violations": 0,
+  "pcb_drc_violations": 0,
+  "unconnected_items": 0,
+  "measured_paths": 16,
+  "all_paths_meet_matching_targets": true,
+  "max_intra_pair_skew_mm": 0.07833498106799652,
+  "equal_via_counts_and_barrel_lengths": true,
+  "power_stitch_vias_added": 37,
+  "ground_return_vias_added": 52,
+  "known_schematic_parity_issues": [
+    "Missing provisional PoE support pad U7.9",
+    "Missing provisional PoE support pad U7.10"
+  ],
+  "fabrication_release": false,
+  "fabrication_hold": "PoE module support-pin dimensions unresolved; captured LCSC stock is only 15 units",
+  "validation_scope": "Native KiCad ERC/DRC and geometric path audit; no prototype or electromagnetic validation",
+  "configured_drc_ignored_checks": [
+    "Footprint has no courtyard defined",
+    "Track endpoint not centered on via",
+    "Tuning profile track geometries",
+    "Footprint doesn't match symbol's footprint filters",
+    "Footprint component type doesn't match footprint pads"
+  ],
+  "checked_utc": "2026-09-04T23:21:47.003859+00:00"
+}

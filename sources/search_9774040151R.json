@@ -1,0 +1,48 @@
+{
+  "total": 1,
+  "results": [
+    {
+      "lcsc": "C5182034",
+      "name": "Wurth 9774040151R",
+      "model": "9774040151R",
+      "brand": "Wurth Elektronik",
+      "package": "SMD",
+      "category": "Patch round nut",
+      "stock": 0,
+      "type": "Extended",
+      "price": 1.4637,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 1.4637
+        },
+        {
+          "qty": 10,
+          "price": 1.4637
+        },
+        {
+          "qty": 30,
+          "price": 1.4637
+        },
+        {
+          "qty": 200,
+          "price": 0.567
+        },
+        {
+          "qty": 500,
+          "price": 0.5475
+        },
+        {
+          "qty": 1000,
+          "price": 0.5378
+        }
+      ],
+      "min_qty": 7,
+      "reel_qty": 700,
+      "description": "SMD Patch round nut ROHS",
+      "url": null,
+      "datasheet": null,
+      "attributes": []
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "total": 110,
+  "results": [
+    {
+      "lcsc": "C123820",
+      "name": "MDD(Microdiode Semiconductor) SMBJ26A",
+      "model": "SMBJ26A",
+      "brand": "MDD(Microdiode Semiconductor)",
+      "package": "DO-214AA(SMB)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 25526,
+      "type": "Extended",
+      "price": 0.0597,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0597
+        },
+        {
+          "qty": 100,
+          "price": 0.0499
+        },
+        {
+          "qty": 300,
+          "price": 0.045
+        },
+        {
+          "qty": 3000,
+          "price": 0.0309
+        },
+        {
+          "qty": 6000,
+          "price": 0.028
+        },
+        {
+          "qty": 9000,
+          "price": 0.0265
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-65\u2103~+150\u2103 14.3A 1uA 26V 31.9V 42.1V 600W@10/1000us TVS Unidirectional DO-214AA(SMB) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_mdd-microdiode-semiconductor-smbj26a_C123820.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2407291901_MDD-Microdiode-Semiconductor-SMBJ26A_C123820.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-65\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@10/1000us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "42.1V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "31.9V"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "14.3A"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "26V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C133666",
+      "name": "ST SMBJ26A-TR",
+      "model": "SMBJ26A-TR",
+      "brand": "STMicroelectronics",
+      "package": "SMB(DO-214AA)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 2518,
+      "type": "Extended",
+      "price": 0.2158,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.2158
+        },
+        {
+          "qty": 50,
+          "price": 0.1722
+        },
+        {
+          "qty": 150,
+          "price": 0.1536
+        },
+        {
+          "qty": 500,
+          "price": 0.1302
+        },
+        {
+          "qty": 2500,
+          "price": 0.1198
+        },
+        {
+          "qty": 5000,
+          "price": 0.1136
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 2500,
+      "description": "200nA 26V 30.4V 4kW@8/20us 53.5V 75A@8/20us IEC 61000-4-2\u3001IEC 61000-4-5\u3001IEC 61000-4-4 TVS Unidirectional SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_stmicroelectronics-smbj26a-tr_C133666.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_STMicroelectronics-SMBJ26A-TR_C133666.pdf",
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "4kW@8/20us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "level of protection",
+          "value": "IEC 61000-4-2\u3001IEC 61000-4-5\u3001IEC 61000-4-4"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "53.5V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "30.4V"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "75A@8/20us"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "26V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "200nA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C135062",
+      "name": "DIODES SMBJ26A-13-F",
+      "model": "SMBJ26A-13-F",
+      "brand": "Diodes Incorporated",
+      "package": "SMB",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 897,
+      "type": "Extended",
+      "price": 0.142,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.142
+        },
+        {
+          "qty": 50,
+          "price": 0.1108
+        },
+        {
+          "qty": 150,
+          "price": 0.0952
+        },
+        {
+          "qty": 500,
+          "price": 0.0836
+        },
+        {
+          "qty": 3000,
+          "price": 0.0743
+        },
+        {
+          "qty": 6000,
+          "price": 0.0696
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "-55\u2103~+150\u2103 14.2A@8/20us 26V 33.2V 42.1V 5uA 600W@8/20us TVS Unidirectional SMB ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_diodes-incorporated-smbj26a-13-f_C135062.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Diodes-Incorporated-SMBJ26A-13-F_C135062.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@8/20us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "42.1V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "14.2A@8/20us"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "33.2V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "26V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "5uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C152100",
+      "name": "BORN SMBJ26A",
+      "model": "SMBJ26A",
+      "brand": "BORN",
+      "package": "DO-214AA(SMB)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 1343,
+      "type": "Extended",
+      "price": 0.0712,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0712
+        },
+        {
+          "qty": 100,
+          "price": 0.058
+        },
+        {
+          "qty": 300,
+          "price": 0.0514
+        },
+        {
+          "qty": 3000,
+          "price": 0.042
+        },
+        {
+          "qty": 6000,
+          "price": 0.0379
+        },
+        {
+          "qty": 9000,
+          "price": 0.036
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "14.3A@10/1000us 1uA 26V 31.9V 42.1V 600W@10/1000us TVS Unidirectional DO-214AA(SMB) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_born-smbj26a_C152100.html",
+      "datasheet": "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_BORN-SMBJ26A_C152100.pdf",
+      "attributes": [
+        {
+          "name": "Operating Temperature",
+          "value": "-55\u2103~+150\u2103"
+        },
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W@10/1000us"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "42.1V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "14.3A@10/1000us"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "31.9V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "26V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    },
+    {
+      "lcsc": "C309956",
+      "name": "Brightking SMBJ26A/TR13",
+      "model": "SMBJ26A/TR13",
+      "brand": "Brightking",
+      "package": "SMB(DO-214AA)",
+      "category": "ESD and Surge Protection (TVS/ESD)",
+      "stock": 11780,
+      "type": "Extended",
+      "price": 0.0576,
+      "price_breaks": [
+        {
+          "qty": 1,
+          "price": 0.0576
+        },
+        {
+          "qty": 100,
+          "price": 0.046
+        },
+        {
+          "qty": 300,
+          "price": 0.0402
+        },
+        {
+          "qty": 3000,
+          "price": 0.0351
+        },
+        {
+          "qty": 6000,
+          "price": 0.0317
+        },
+        {
+          "qty": 9000,
+          "price": 0.0299
+        }
+      ],
+      "min_qty": 1,
+      "reel_qty": 3000,
+      "description": "14.3A 1uA 26V 28.9V 42.1V 600W TVS Unidirectional SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS",
+      "url": "https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_brightking-smbj26a-tr13_C309956.html",
+      "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Brightking-SMBJ26A-TR13_C309956.pdf",
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "TVS"
+        },
+        {
+          "name": "Number of Channels",
+          "value": "1"
+        },
+        {
+          "name": "Peak Pulse Power Dissipation (Ppp)",
+          "value": "600W"
+        },
+        {
+          "name": "Clamping Voltage",
+          "value": "42.1V"
+        },
+        {
+          "name": "Polarity",
+          "value": "Unidirectional"
+        },
+        {
+          "name": "Peak Pulse Current (Ipp)",
+          "value": "14.3A"
+        },
+        {
+          "name": "Voltage - Breakdown",
+          "value": "28.9V"
+        },
+        {
+          "name": "Reverse Stand-Off Voltage (Vrwm)",
+          "value": "26V"
+        },
+        {
+          "name": "Reverse Leakage Current (Ir)",
+          "value": "1uA"
+        }
+      ]
+    }
+  ]
+}

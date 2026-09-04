@@ -1,0 +1,4625 @@
+{
+  "J1": {
+    "ref": "J1",
+    "lcsc": "C7435219",
+    "part": {
+      "name": "CM5_Connector_J1",
+      "fp": "CM5_Amphenol_10164227_1004_OfficialPads",
+      "pins": {
+        "1": "GND",
+        "2": "GND",
+        "3": "Ethernet_Pair3_P",
+        "4": "Ethernet_Pair1_P",
+        "5": "Ethernet_Pair3_N",
+        "6": "Ethernet_Pair1_N",
+        "7": "GND",
+        "8": "GND",
+        "9": "Ethernet_Pair2_N",
+        "10": "Ethernet_Pair0_N",
+        "11": "Ethernet_Pair2_P",
+        "12": "Ethernet_Pair0_P",
+        "13": "GND",
+        "14": "GND",
+        "15": "Ethernet_nLED3",
+        "16": "Fan_Tacho",
+        "17": "Ethernet_nLED2",
+        "18": "Ethernet_SYNC_OUT",
+        "19": "Fan_PWM",
+        "20": "EEPROM_nWP",
+        "21": "LED_nACT",
+        "22": "GND",
+        "23": "GND",
+        "24": "GPIO26",
+        "25": "GPIO21",
+        "26": "GPIO19",
+        "27": "GPIO20",
+        "28": "GPIO13",
+        "29": "GPIO16",
+        "30": "GPIO6",
+        "31": "GPIO12",
+        "32": "GND",
+        "33": "GND",
+        "34": "GPIO5",
+        "35": "ID_SC",
+        "36": "ID_SD",
+        "37": "GPIO7",
+        "38": "GPIO11",
+        "39": "GPIO8",
+        "40": "GPIO9",
+        "41": "GPIO25",
+        "42": "GND",
+        "43": "GND",
+        "44": "GPIO10",
+        "45": "GPIO24",
+        "46": "GPIO22",
+        "47": "GPIO23",
+        "48": "GPIO27",
+        "49": "GPIO18",
+        "50": "GPIO17",
+        "51": "GPIO15",
+        "52": "GND",
+        "53": "GND",
+        "54": "GPIO4",
+        "55": "GPIO14",
+        "56": "GPIO3",
+        "57": "SD_CLK",
+        "58": "GPIO2",
+        "59": "GND",
+        "60": "GND",
+        "61": "SD_DAT3",
+        "62": "SD_CMD",
+        "63": "SD_DAT0",
+        "64": "SD_DAT5",
+        "65": "GND",
+        "66": "GND",
+        "67": "SD_DAT1",
+        "68": "SD_DAT4",
+        "69": "SD_DAT2",
+        "70": "SD_DAT7",
+        "71": "GND",
+        "72": "SD_DAT6",
+        "73": "SD_VDD_OVERRIDE",
+        "74": "GND",
+        "75": "SD_PWR_ON",
+        "76": "VBAT",
+        "77": "5V_IN",
+        "78": "GPIO_VREF",
+        "79": "5V_IN",
+        "80": "SCL0",
+        "81": "5V_IN",
+        "82": "SDA0",
+        "83": "5V_IN",
+        "84": "CM5_3.3V (Output)",
+        "85": "5V_IN",
+        "86": "CM5_3.3V (Output)",
+        "87": "5V_IN",
+        "88": "CM5_1.8V (Output)",
+        "89": "WL_nDisable",
+        "90": "CM5_1.8V (Output)",
+        "91": "BT_nDisable",
+        "92": "PWR_Button",
+        "93": "nRPIBOOT",
+        "94": "CC1",
+        "95": "LED_nPWR",
+        "96": "CC2",
+        "97": "CAM_GPIO0",
+        "98": "GND",
+        "99": "PMIC_Enable",
+        "100": "CAM_GPIO1"
+      }
+    },
+    "nets": {
+      "1": "GND",
+      "2": "GND",
+      "7": "GND",
+      "8": "GND",
+      "13": "GND",
+      "14": "GND",
+      "22": "GND",
+      "23": "GND",
+      "32": "GND",
+      "33": "GND",
+      "42": "GND",
+      "43": "GND",
+      "52": "GND",
+      "53": "GND",
+      "59": "GND",
+      "60": "GND",
+      "65": "GND",
+      "66": "GND",
+      "71": "GND",
+      "74": "GND",
+      "98": "GND",
+      "77": "SYS_5V",
+      "79": "SYS_5V",
+      "81": "SYS_5V",
+      "83": "SYS_5V",
+      "85": "SYS_5V",
+      "87": "SYS_5V",
+      "84": "CM_3V3",
+      "86": "CM_3V3",
+      "78": "CM_3V3",
+      "88": "CM_1V8",
+      "90": "CM_1V8",
+      "3": "ETH3_P",
+      "5": "ETH3_N",
+      "4": "ETH1_P",
+      "6": "ETH1_N",
+      "9": "ETH2_N",
+      "11": "ETH2_P",
+      "10": "ETH0_N",
+      "12": "ETH0_P",
+      "15": "ETH_LED_ACT_N",
+      "17": "ETH_LED_LINK_N",
+      "51": "UART_RX_CM",
+      "55": "UART_TX_CM",
+      "57": "SD_CLK",
+      "61": "SD_DAT3",
+      "62": "SD_CMD",
+      "63": "SD_DAT0",
+      "67": "SD_DAT1",
+      "69": "SD_DAT2",
+      "75": "SD_PWR_EN"
+    },
+    "uuid": "daf65e5d-b1a6-526c-8191-1f7f8604e968",
+    "sheet": "01_cm5",
+    "sym": "CM5_Connector_J1",
+    "value": "10164227-1004A1RLF"
+  },
+  "J2": {
+    "ref": "J2",
+    "lcsc": "C7435219",
+    "part": {
+      "name": "CM5_Connector_J2",
+      "fp": "CM5_Amphenol_10164227_1004_OfficialPads",
+      "pins": {
+        "1": "USB_OTG_ID",
+        "2": "PCIe_CLK_nREQ",
+        "3": "USB_N",
+        "4": "PCIE_nWAKE",
+        "5": "USB_P",
+        "6": "PCIE_PWR_EN",
+        "7": "GND",
+        "8": "GND",
+        "9": "PCIe_nRST",
+        "10": "PCIe_CLK_P",
+        "11": "VBUS_EN",
+        "12": "PCIe_CLK_N",
+        "13": "GND",
+        "14": "GND",
+        "15": "MIPI0_D0_N",
+        "16": "PCIe_RX_P",
+        "17": "MIPI0_D0_P",
+        "18": "PCIe_RX_N",
+        "19": "GND",
+        "20": "GND",
+        "21": "MIPI0_D1_N",
+        "22": "PCIe_TX_P",
+        "23": "MIPI0_D1_P",
+        "24": "PCIe_TX_N",
+        "25": "GND",
+        "26": "GND",
+        "27": "MIPI0_C_N",
+        "28": "USB3-0-RX_N",
+        "29": "MIPI0_C_P",
+        "30": "USB3-0-RX_P",
+        "31": "GND",
+        "32": "GND",
+        "33": "MIPI0_D2_N",
+        "34": "USB3-0-DP",
+        "35": "MIPI0_D2_P",
+        "36": "USB3-0-DM",
+        "37": "GND",
+        "38": "GND",
+        "39": "MIPI0_D3_N",
+        "40": "USB3-0-TX_N",
+        "41": "MIPI0_D3_P",
+        "42": "USB3-0-TX_P",
+        "43": "HDMI1_HOTPLUG",
+        "44": "GND",
+        "45": "HDMI1_SDA",
+        "46": "HDMI1_TX2_P",
+        "47": "HDMI1_SCL",
+        "48": "HDMI1_TX2_N",
+        "49": "HDMI1_CEC",
+        "50": "GND",
+        "51": "HDMI0_CEC",
+        "52": "HDMI1_TX1_P",
+        "53": "HDMI0_HOTPLUG",
+        "54": "HDMI1_TX1_N",
+        "55": "GND",
+        "56": "GND",
+        "57": "USB3-1-RX_N",
+        "58": "HDMI1_TX0_P",
+        "59": "USB3-1-RX_P",
+        "60": "HDMI1_TX0_N",
+        "61": "GND",
+        "62": "GND",
+        "63": "USB3-1-DP",
+        "64": "HDMI1_CLK_P",
+        "65": "USB3-1-DM",
+        "66": "HDMI1_CLK_N",
+        "67": "GND",
+        "68": "GND",
+        "69": "USB3-1-TX_N",
+        "70": "HDMI0_TX2_P",
+        "71": "USB3-1-TX_P",
+        "72": "HDMI0_TX2_N",
+        "73": "GND",
+        "74": "GND",
+        "75": "MIPI1_D0_N",
+        "76": "HDMI0_TX1_P",
+        "77": "MIPI1_D0_P",
+        "78": "HDMI0_TX1_N",
+        "79": "GND",
+        "80": "GND",
+        "81": "MIPI1_D1_N",
+        "82": "HDMI0_TX0_P",
+        "83": "MIPI1_D1_P",
+        "84": "HDMI0_TX0_N",
+        "85": "GND",
+        "86": "GND",
+        "87": "MIPI1_C_N",
+        "88": "HDMI0_CLK_P",
+        "89": "MIPI1_C_P",
+        "90": "HDMI0_CLK_N",
+        "91": "GND",
+        "92": "GND",
+        "93": "MIPI1_D2_N",
+        "94": "MIPI1_D3_N",
+        "95": "MIPI1_D2_P",
+        "96": "MIPI1_D3_P",
+        "97": "GND",
+        "98": "GND",
+        "99": "HDMI0_SDA",
+        "100": "HDMI0_SCL"
+      }
+    },
+    "nets": {
+      "7": "GND",
+      "8": "GND",
+      "13": "GND",
+      "14": "GND",
+      "19": "GND",
+      "20": "GND",
+      "25": "GND",
+      "26": "GND",
+      "31": "GND",
+      "32": "GND",
+      "37": "GND",
+      "38": "GND",
+      "44": "GND",
+      "50": "GND",
+      "55": "GND",
+      "56": "GND",
+      "61": "GND",
+      "62": "GND",
+      "67": "GND",
+      "68": "GND",
+      "73": "GND",
+      "74": "GND",
+      "79": "GND",
+      "80": "GND",
+      "85": "GND",
+      "86": "GND",
+      "91": "GND",
+      "92": "GND",
+      "97": "GND",
+      "98": "GND",
+      "2": "GND",
+      "6": "PCIE_PWR_EN",
+      "9": "PCIE_RESET_N",
+      "10": "HOST_CLK_P",
+      "12": "HOST_CLK_N",
+      "16": "HOST_RX_N",
+      "18": "HOST_RX_P",
+      "22": "HOST_TX_P",
+      "24": "HOST_TX_N"
+    },
+    "uuid": "4dccac5b-cd30-57dc-b085-34b5e872da7e",
+    "sheet": "01_cm5",
+    "sym": "CM5_Connector_J2",
+    "value": "10164227-1004A1RLF"
+  },
+  "U1": {
+    "ref": "U1",
+    "lcsc": "C500767",
+    "part": {
+      "name": "PI7C9X2G404SLBFDEX",
+      "fp": "LQFP-128_L14.0-W14.0-P0.40-LS16.0-BL-EP5.8",
+      "pins": {
+        "1": "VDDR",
+        "2": "VSS",
+        "3": "VDDC",
+        "4": "VSS",
+        "5": "DWNRST_L[1]",
+        "6": "DWNRST_L[2]",
+        "7": "DWNRST_L[3]",
+        "8": "VDDR",
+        "9": "TEST1",
+        "10": "PERST_L",
+        "11": "VSS",
+        "12": "VSS",
+        "13": "VDDCAUX",
+        "14": "VDDCAUX",
+        "15": "VAUX",
+        "16": "TEST2",
+        "17": "TEST3",
+        "18": "VC1_EN",
+        "19": "PRSNT[1]",
+        "20": "PRSNT[2]",
+        "21": "PRSNT[3]",
+        "22": "TEST4",
+        "23": "VDDC",
+        "24": "RXPOLINV_DIS",
+        "25": "TEST5",
+        "26": "SMBCLK",
+        "27": "SMBDATA",
+        "28": "PWR_SAV",
+        "29": "VDDC",
+        "30": "VSS",
+        "31": "VDDC",
+        "32": "VSS",
+        "33": "SLOTCLK",
+        "34": "VSS",
+        "35": "GPIO[1]",
+        "36": "GPIO[0]",
+        "37": "GPIO[2]",
+        "38": "GPIO[3]",
+        "39": "GPIO[4]",
+        "40": "VDDC",
+        "41": "VSS",
+        "42": "GPIO[5]",
+        "43": "GPIO[6]",
+        "44": "GPIO[7]",
+        "45": "SLOT_IMP[1]",
+        "46": "SLOT_IMP[2]",
+        "47": "SLOT_IMP[3]",
+        "48": "NC",
+        "49": "VDDR",
+        "50": "VSS",
+        "51": "TEST6",
+        "52": "NC",
+        "53": "PL_512B",
+        "54": "NC",
+        "55": "VDDC",
+        "56": "VSS",
+        "57": "NC",
+        "58": "NC",
+        "59": "NC",
+        "60": "CLKBUF_PD",
+        "61": "VSS",
+        "62": "VDDC",
+        "63": "VSS",
+        "64": "VDDR",
+        "65": "VDDC",
+        "66": "VSS",
+        "67": "PORTSTATUS[0]",
+        "68": "PORTSTATUS[1]",
+        "69": "PORTSTATUS[2]",
+        "70": "EECLK",
+        "71": "EEPD",
+        "72": "SCAN_EN",
+        "73": "REFCLKI_N",
+        "74": "REFCLKI_P",
+        "75": "REFCLKO_N[3]",
+        "76": "REFCLKO_P[3]",
+        "77": "REFCLKO_N[2]",
+        "78": "REFCLKO_P[2]",
+        "79": "CVDDR",
+        "80": "REFCLKO_N[1]",
+        "81": "REFCLKO_P[1]",
+        "82": "CVDDR",
+        "83": "REFCLKO_N[0]",
+        "84": "CVDDR",
+        "85": "REFCLKO_P[0]",
+        "86": "IREF",
+        "87": "VSS",
+        "88": "TDO",
+        "89": "TCK",
+        "90": "VSS",
+        "91": "VDDC",
+        "92": "TMS",
+        "93": "TDI",
+        "94": "TRST_L",
+        "95": "VSS",
+        "96": "VDDR",
+        "97": "PERP[1]",
+        "98": "PERN[1]",
+        "99": "AVDD",
+        "100": "PETP[1]",
+        "101": "PETN[1]",
+        "102": "PERP[2]",
+        "103": "PERN[2]",
+        "104": "VSS",
+        "105": "AVDD",
+        "106": "PETP[2]",
+        "107": "PETN[2]",
+        "108": "AVDD",
+        "109": "CGND",
+        "110": "REFCLKP",
+        "111": "REFCLKN",
+        "112": "CGND",
+        "113": "AVDDH",
+        "114": "NC",
+        "115": "REXT_GND",
+        "116": "REXT",
+        "117": "PETN[3]",
+        "118": "PETP[3]",
+        "119": "AVDD",
+        "120": "VSS",
+        "121": "PERN[3]",
+        "122": "PERP[3]",
+        "123": "PETN[0]",
+        "124": "PETP[0]",
+        "125": "AVDD",
+        "126": "VSS",
+        "127": "PERN[0]",
+        "128": "PERP[0]",
+        "129": "EP"
+      }
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND",
+      "3": "SW_1V0",
+      "4": "GND",
+      "8": "CM_3V3",
+      "11": "GND",
+      "12": "GND",
+      "13": "SW_1V0",
+      "14": "SW_1V0",
+      "15": "CM_3V3",
+      "23": "SW_1V0",
+      "29": "SW_1V0",
+      "30": "GND",
+      "31": "SW_1V0",
+      "32": "GND",
+      "34": "GND",
+      "40": "SW_1V0",
+      "41": "GND",
+      "49": "CM_3V3",
+      "50": "GND",
+      "55": "SW_1V0",
+      "56": "GND",
+      "61": "GND",
+      "62": "SW_1V0",
+      "63": "GND",
+      "64": "CM_3V3",
+      "65": "SW_1V0",
+      "66": "GND",
+      "79": "CM_3V3",
+      "82": "CM_3V3",
+      "84": "CM_3V3",
+      "87": "GND",
+      "90": "GND",
+      "91": "SW_1V0",
+      "95": "GND",
+      "96": "CM_3V3",
+      "99": "SW_1V0",
+      "104": "GND",
+      "105": "SW_1V0",
+      "108": "SW_1V0",
+      "109": "GND",
+      "112": "GND",
+      "113": "CM_3V3",
+      "115": "GND",
+      "119": "SW_1V0",
+      "120": "GND",
+      "125": "SW_1V0",
+      "126": "GND",
+      "129": "GND",
+      "10": "PCIE_RESET_N",
+      "128": "HOST_TX_N",
+      "127": "HOST_TX_P",
+      "124": "SW_TX0_P",
+      "123": "SW_TX0_N",
+      "74": "HOST_CLK_P",
+      "73": "HOST_CLK_N",
+      "110": "SW_REF_P",
+      "111": "SW_REF_N",
+      "85": "CLK0_P_RAW",
+      "83": "CLK0_N_RAW",
+      "81": "CLK1_P_RAW",
+      "80": "CLK1_N_RAW",
+      "78": "CLK2_P_RAW",
+      "77": "CLK2_N_RAW",
+      "5": "SSD1_RESET_N",
+      "6": "SSD2_RESET_N",
+      "97": "SSD1_TX_P",
+      "98": "SSD1_TX_N",
+      "100": "SW_TX1_P",
+      "101": "SW_TX1_N",
+      "102": "SSD2_TX_P",
+      "103": "SSD2_TX_N",
+      "106": "SW_TX2_P",
+      "107": "SW_TX2_N",
+      "86": "SW_IREF",
+      "116": "SW_REXT",
+      "19": "GND",
+      "20": "GND",
+      "21": "CM_3V3",
+      "33": "SW_SLOTCLK",
+      "26": "SW_SMBCLK",
+      "27": "SW_SMBDATA",
+      "9": "SW_TEST1",
+      "16": "SW_TEST2",
+      "17": "SW_TEST3",
+      "22": "SW_TEST4",
+      "25": "SW_TEST5",
+      "51": "SW_TEST6",
+      "28": "SW_PWR_SAVE",
+      "92": "SW_TMS",
+      "94": "SW_TRST_N"
+    },
+    "uuid": "92d520b1-d891-5d39-b880-1a37ef8385c0",
+    "sheet": "02_pcie",
+    "sym": "PI7C9X2G404SLBFDEX",
+    "value": "PI7C9X2G404SLBFDEX"
+  },
+  "C1": {
+    "ref": "C1",
+    "lcsc": "C16772",
+    "part": {
+      "name": "C_C16772",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_TX0_P",
+      "2": "HOST_RX_P"
+    },
+    "uuid": "bdfc29dd-3ac3-51a7-a2ff-1d56cedd64ef",
+    "sheet": "02_pcie",
+    "sym": "C_C16772",
+    "value": "220n / 16V"
+  },
+  "C2": {
+    "ref": "C2",
+    "lcsc": "C16772",
+    "part": {
+      "name": "C_C16772",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_TX0_N",
+      "2": "HOST_RX_N"
+    },
+    "uuid": "a84932cb-0870-5ee4-95db-8ed9cba8b8fa",
+    "sheet": "02_pcie",
+    "sym": "C_C16772",
+    "value": "220n / 16V"
+  },
+  "C3": {
+    "ref": "C3",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_TX1_P",
+      "2": "SSD1_RX_P"
+    },
+    "uuid": "fd8f65e8-0a93-5353-8fc9-594bb9a8cb23",
+    "sheet": "02_pcie",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C4": {
+    "ref": "C4",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_TX1_N",
+      "2": "SSD1_RX_N"
+    },
+    "uuid": "ea2b8133-db7b-5e82-b583-e68ba1bab4e5",
+    "sheet": "02_pcie",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C5": {
+    "ref": "C5",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_TX2_P",
+      "2": "SSD2_RX_P"
+    },
+    "uuid": "58c2d395-60a2-5264-8b6a-814a4eb750c7",
+    "sheet": "02_pcie",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C6": {
+    "ref": "C6",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_TX2_N",
+      "2": "SSD2_RX_N"
+    },
+    "uuid": "41c871b3-df53-5067-9531-6c53d5b537be",
+    "sheet": "02_pcie",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C7": {
+    "ref": "C7",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CLK0_P_TERM",
+      "2": "SW_REF_P"
+    },
+    "uuid": "b26fcaae-ea46-5113-8967-f1f8246e9aa1",
+    "sheet": "02_pcie",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C8": {
+    "ref": "C8",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CLK0_N_TERM",
+      "2": "SW_REF_N"
+    },
+    "uuid": "a5851f03-b8af-58f0-9430-e703abb8d8d9",
+    "sheet": "02_pcie",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "R1": {
+    "ref": "R1",
+    "lcsc": "C22840",
+    "part": {
+      "name": "R_C22840",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_REXT",
+      "2": "GND"
+    },
+    "uuid": "6623cfee-13a5-542e-ab25-63d67da2caf6",
+    "sheet": "02_pcie",
+    "sym": "R_C22840",
+    "value": "1.43k"
+  },
+  "R2": {
+    "ref": "R2",
+    "lcsc": "C23181",
+    "part": {
+      "name": "R_C23181",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_IREF",
+      "2": "GND"
+    },
+    "uuid": "aee58158-ff5a-5d21-8723-1803cfea29c3",
+    "sheet": "02_pcie",
+    "sym": "R_C23181",
+    "value": "475"
+  },
+  "R3": {
+    "ref": "R3",
+    "lcsc": "C25120",
+    "part": {
+      "name": "R_C25120",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK0_P_RAW",
+      "2": "GND"
+    },
+    "uuid": "c612bcb6-e9f7-5b83-b310-c9f3230cafc3",
+    "sheet": "02_pcie",
+    "sym": "R_C25120",
+    "value": "49.9"
+  },
+  "R4": {
+    "ref": "R4",
+    "lcsc": "C25120",
+    "part": {
+      "name": "R_C25120",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK0_N_RAW",
+      "2": "GND"
+    },
+    "uuid": "2efca49a-e85c-587c-a10a-a250ceb85d60",
+    "sheet": "02_pcie",
+    "sym": "R_C25120",
+    "value": "49.9"
+  },
+  "R5": {
+    "ref": "R5",
+    "lcsc": "C25120",
+    "part": {
+      "name": "R_C25120",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK1_P_RAW",
+      "2": "GND"
+    },
+    "uuid": "8cb0ad9f-9aa7-5712-9bf6-76c3eeb942a0",
+    "sheet": "02_pcie",
+    "sym": "R_C25120",
+    "value": "49.9"
+  },
+  "R6": {
+    "ref": "R6",
+    "lcsc": "C25120",
+    "part": {
+      "name": "R_C25120",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK1_N_RAW",
+      "2": "GND"
+    },
+    "uuid": "5e66ed55-d92e-5ae7-8298-bd03943ab151",
+    "sheet": "02_pcie",
+    "sym": "R_C25120",
+    "value": "49.9"
+  },
+  "R7": {
+    "ref": "R7",
+    "lcsc": "C25120",
+    "part": {
+      "name": "R_C25120",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK2_P_RAW",
+      "2": "GND"
+    },
+    "uuid": "428449f8-7902-5aef-8dd2-d75aa6a82e76",
+    "sheet": "02_pcie",
+    "sym": "R_C25120",
+    "value": "49.9"
+  },
+  "R8": {
+    "ref": "R8",
+    "lcsc": "C25120",
+    "part": {
+      "name": "R_C25120",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK2_N_RAW",
+      "2": "GND"
+    },
+    "uuid": "b2d5a7a7-1135-56e0-ac12-3597b81ac141",
+    "sheet": "02_pcie",
+    "sym": "R_C25120",
+    "value": "49.9"
+  },
+  "R9": {
+    "ref": "R9",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TEST1",
+      "2": "CM_3V3"
+    },
+    "uuid": "65d90a53-80fe-5d53-940a-23dafaebf65c",
+    "sheet": "02_pcie",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R10": {
+    "ref": "R10",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TEST2",
+      "2": "CM_3V3"
+    },
+    "uuid": "a1bd5da5-f8da-5e7b-9753-aaf518507eb5",
+    "sheet": "02_pcie",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R11": {
+    "ref": "R11",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_SLOTCLK",
+      "2": "CM_3V3"
+    },
+    "uuid": "7483b14c-7f8f-5253-9553-2a925404c34c",
+    "sheet": "02_pcie",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R12": {
+    "ref": "R12",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_SMBCLK",
+      "2": "CM_3V3"
+    },
+    "uuid": "e8fe1a25-3922-5217-bffb-33ee8d4a345a",
+    "sheet": "02_pcie",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R13": {
+    "ref": "R13",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_SMBDATA",
+      "2": "CM_3V3"
+    },
+    "uuid": "1f1d8f11-ff3a-5f78-be78-cc3bf3f7c7ac",
+    "sheet": "02_pcie",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R14": {
+    "ref": "R14",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TEST3",
+      "2": "GND"
+    },
+    "uuid": "fbe5ea13-e1af-5e7b-b982-d6db5fad0483",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R15": {
+    "ref": "R15",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TEST4",
+      "2": "GND"
+    },
+    "uuid": "beb4ecd1-a000-5280-9a80-2ffe802a4764",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R16": {
+    "ref": "R16",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TEST5",
+      "2": "GND"
+    },
+    "uuid": "a76976f2-d761-563e-ad6d-a32c95bc0d49",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R17": {
+    "ref": "R17",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TEST6",
+      "2": "GND"
+    },
+    "uuid": "50847b62-5443-50be-8bc9-11f5af0f15e2",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R18": {
+    "ref": "R18",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_PWR_SAVE",
+      "2": "GND"
+    },
+    "uuid": "9f8a5eb1-38de-59a3-ac6e-572500addcb6",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R19": {
+    "ref": "R19",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TMS",
+      "2": "GND"
+    },
+    "uuid": "2110ef92-7600-56f9-a9f7-17f8b4f8a234",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R20": {
+    "ref": "R20",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_TRST_N",
+      "2": "GND"
+    },
+    "uuid": "61773185-f866-5c6b-92f3-2d560e18cf4c",
+    "sheet": "02_pcie",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R21": {
+    "ref": "R21",
+    "lcsc": "C25106",
+    "part": {
+      "name": "R_C25106",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK0_P_RAW",
+      "2": "CLK0_P_TERM"
+    },
+    "uuid": "093cb8aa-ec14-5a78-9b4e-9cc36c308be7",
+    "sheet": "02_pcie",
+    "sym": "R_C25106",
+    "value": "33.2"
+  },
+  "R22": {
+    "ref": "R22",
+    "lcsc": "C25106",
+    "part": {
+      "name": "R_C25106",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK0_N_RAW",
+      "2": "CLK0_N_TERM"
+    },
+    "uuid": "413356b4-8702-5e47-b290-7bb73713b0c5",
+    "sheet": "02_pcie",
+    "sym": "R_C25106",
+    "value": "33.2"
+  },
+  "R23": {
+    "ref": "R23",
+    "lcsc": "C25106",
+    "part": {
+      "name": "R_C25106",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK1_P_RAW",
+      "2": "CLK1_P_TERM"
+    },
+    "uuid": "61bedf24-e1b9-5c37-813c-7acf2bd25b83",
+    "sheet": "02_pcie",
+    "sym": "R_C25106",
+    "value": "33.2"
+  },
+  "R24": {
+    "ref": "R24",
+    "lcsc": "C25106",
+    "part": {
+      "name": "R_C25106",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK1_N_RAW",
+      "2": "CLK1_N_TERM"
+    },
+    "uuid": "dccba532-ec3b-5336-8fb2-0d017fe7b536",
+    "sheet": "02_pcie",
+    "sym": "R_C25106",
+    "value": "33.2"
+  },
+  "R25": {
+    "ref": "R25",
+    "lcsc": "C25106",
+    "part": {
+      "name": "R_C25106",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK2_P_RAW",
+      "2": "CLK2_P_TERM"
+    },
+    "uuid": "b7043877-c237-58e1-ac14-6e7afda9af3c",
+    "sheet": "02_pcie",
+    "sym": "R_C25106",
+    "value": "33.2"
+  },
+  "R26": {
+    "ref": "R26",
+    "lcsc": "C25106",
+    "part": {
+      "name": "R_C25106",
+      "fp": "R_0402_1005Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CLK2_N_RAW",
+      "2": "CLK2_N_TERM"
+    },
+    "uuid": "1a6ee3aa-d2b7-5275-9b0a-dbb422ed0dfb",
+    "sheet": "02_pcie",
+    "sym": "R_C25106",
+    "value": "33.2"
+  },
+  "U2": {
+    "ref": "U2",
+    "lcsc": "C141836",
+    "part": {
+      "name": "TLV62569DBVR",
+      "fp": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+      "pins": {
+        "1": "EN",
+        "2": "GND",
+        "3": "SW",
+        "4": "VIN",
+        "5": "FB"
+      }
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND",
+      "3": "CORE_SW",
+      "4": "SYS_5V",
+      "5": "CORE_FB"
+    },
+    "uuid": "5cb53783-2cb7-5ff6-8702-87f3b1347315",
+    "sheet": "03_aux_power",
+    "sym": "TLV62569DBVR",
+    "value": "TLV62569DBVR"
+  },
+  "L1": {
+    "ref": "L1",
+    "lcsc": "C88211",
+    "part": {
+      "name": "VLS252010HBX-1R0M-1",
+      "fp": "IND-SMD_L2.5-W2.0-1",
+      "pins": {
+        "2": "2",
+        "1": "1"
+      }
+    },
+    "nets": {
+      "1": "CORE_SW",
+      "2": "SW_1V0"
+    },
+    "uuid": "e05ed9b0-4ff5-5ef4-b966-e1ee3c4f4310",
+    "sheet": "03_aux_power",
+    "sym": "VLS252010HBX-1R0M-1",
+    "value": "1uH / 3A"
+  },
+  "R27": {
+    "ref": "R27",
+    "lcsc": "C25811",
+    "part": {
+      "name": "R_C25811",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "CORE_FB"
+    },
+    "uuid": "4be9fa1f-daa4-516d-8104-e69090c6e878",
+    "sheet": "03_aux_power",
+    "sym": "R_C25811",
+    "value": "200k"
+  },
+  "R28": {
+    "ref": "R28",
+    "lcsc": "C23024",
+    "part": {
+      "name": "R_C23024",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CORE_FB",
+      "2": "GND"
+    },
+    "uuid": "f47603dc-0f8c-5e90-a6fb-6d7ac7ee221a",
+    "sheet": "03_aux_power",
+    "sym": "R_C23024",
+    "value": "300k"
+  },
+  "C9": {
+    "ref": "C9",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "253c8ffa-d004-5545-8641-1f8b30d07693",
+    "sheet": "03_aux_power",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C10": {
+    "ref": "C10",
+    "lcsc": "C14860",
+    "part": {
+      "name": "C_C14860",
+      "fp": "C_1206_3216Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "ea733aad-0567-555a-8b4d-a3bb8cc9d3f4",
+    "sheet": "03_aux_power",
+    "sym": "C_C14860",
+    "value": "10u / 50V"
+  },
+  "C11": {
+    "ref": "C11",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "36463ba3-54f1-56c4-810f-a3962248c3b2",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "1"
+  },
+  "C12": {
+    "ref": "C12",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "283e44e7-1422-565b-803f-7da019703c7e",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "3"
+  },
+  "C13": {
+    "ref": "C13",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "5fedd1cf-d454-553c-894d-39707892ffdd",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "8"
+  },
+  "C14": {
+    "ref": "C14",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "c20610ba-2752-515f-87c1-6a99e2867fad",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "13"
+  },
+  "C15": {
+    "ref": "C15",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "8b5752b2-047a-586b-9e8f-0033ff34cce1",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "14"
+  },
+  "C16": {
+    "ref": "C16",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "04d41dbf-8269-5f21-aa47-f0d996c364b8",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "15"
+  },
+  "C17": {
+    "ref": "C17",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "62371175-61ed-51e1-8946-7a857f082f41",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "23"
+  },
+  "C18": {
+    "ref": "C18",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "006d0abf-0c22-5113-b154-38ac44b800af",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "29"
+  },
+  "C19": {
+    "ref": "C19",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "eeb52e50-9326-58c7-91f1-0be8875a4d75",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "31"
+  },
+  "C20": {
+    "ref": "C20",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "82dc9e75-829b-5af7-9499-0d8fb7cb2189",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "40"
+  },
+  "C21": {
+    "ref": "C21",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "2b264fbf-65c6-5dd1-bfee-80b31da0c2a4",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "49"
+  },
+  "C22": {
+    "ref": "C22",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "3efbaf8d-c175-530e-a986-8e23b48e594f",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "55"
+  },
+  "C23": {
+    "ref": "C23",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "3f923081-abe4-5945-b4b6-8dd0377abc78",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "62"
+  },
+  "C24": {
+    "ref": "C24",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "f822ee55-0c2e-50a5-98ab-b45f5f698b52",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "64"
+  },
+  "C25": {
+    "ref": "C25",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "2340c289-f78a-553c-ae4d-9ce6a27480ef",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "65"
+  },
+  "C26": {
+    "ref": "C26",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "128bc972-af6c-5bcd-b41a-f8746f88a0a7",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "79"
+  },
+  "C27": {
+    "ref": "C27",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "1c91a006-0c30-5ad5-9c0d-b40bb439c19f",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "82"
+  },
+  "C28": {
+    "ref": "C28",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "c72b7216-e5f0-5b7a-aee7-436766b85b98",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "84"
+  },
+  "C29": {
+    "ref": "C29",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "2fe438ab-382e-5159-86e5-cc23a6330ad7",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "91"
+  },
+  "C30": {
+    "ref": "C30",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "afc7f6e6-85f0-59ce-be96-ada11057b2a1",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "96"
+  },
+  "C31": {
+    "ref": "C31",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "3939af3d-fcdb-5028-84b2-708a422a1d27",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "99"
+  },
+  "C32": {
+    "ref": "C32",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "63923e1f-b9a3-5010-95a9-1087791d50cf",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "105"
+  },
+  "C33": {
+    "ref": "C33",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "40d891c8-3af9-5722-bd04-6ce98e4b5a83",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "108"
+  },
+  "C34": {
+    "ref": "C34",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "e89de521-84c5-5416-bd5c-b4763a1a6dc6",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "113"
+  },
+  "C35": {
+    "ref": "C35",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "f6339623-7c1a-5690-a17f-fb5ca26498a0",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "119"
+  },
+  "C36": {
+    "ref": "C36",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SW_1V0",
+      "2": "GND"
+    },
+    "uuid": "62a61049-9a87-5d1b-bbb1-449ca6da393a",
+    "sheet": "03_aux_power",
+    "sym": "C_C1525",
+    "value": "100n / 16V",
+    "near": "U1",
+    "supply_pin": "125"
+  },
+  "J3": {
+    "ref": "J3",
+    "lcsc": "C590854",
+    "part": {
+      "name": "1-2199230-5",
+      "fp": "PCIE-SMD_75P-P0.50_1-2199230-5",
+      "pins": {
+        "1": "GND",
+        "74": "3V3",
+        "3": "GND",
+        "72": "3V3",
+        "5": "5",
+        "70": "3V3",
+        "7": "7",
+        "68": "68",
+        "9": "GND",
+        "11": "11",
+        "13": "13",
+        "15": "GND",
+        "17": "17",
+        "58": "58",
+        "19": "19",
+        "56": "56",
+        "21": "GND",
+        "54": "PEWAKE#",
+        "23": "23",
+        "52": "CLKREQ#",
+        "25": "25",
+        "50": "PERST#",
+        "27": "GND",
+        "48": "48",
+        "29": "29",
+        "46": "46",
+        "31": "31",
+        "44": "44",
+        "33": "GND",
+        "42": "42",
+        "35": "35",
+        "40": "40",
+        "37": "37",
+        "38": "38",
+        "39": "GND",
+        "36": "36",
+        "41": "PERp0",
+        "34": "34",
+        "43": "PERn0",
+        "32": "32",
+        "45": "GND",
+        "30": "30",
+        "47": "PETp0",
+        "28": "28",
+        "49": "PETn0",
+        "26": "26",
+        "51": "GND",
+        "24": "24",
+        "53": "REFCLKp",
+        "22": "22",
+        "55": "REFCLKn",
+        "20": "20",
+        "57": "GND",
+        "18": "3V3",
+        "16": "3V3",
+        "14": "3V3",
+        "12": "3V3",
+        "10": "DAS_DSS#",
+        "67": "67",
+        "8": "8",
+        "69": "69",
+        "6": "6",
+        "71": "GND",
+        "4": "3V3",
+        "73": "GND",
+        "2": "3V3",
+        "75": "GND",
+        "76": "GND",
+        "77": "GND"
+      }
+    },
+    "nets": {
+      "1": "GND",
+      "3": "GND",
+      "9": "GND",
+      "15": "GND",
+      "21": "GND",
+      "27": "GND",
+      "33": "GND",
+      "39": "GND",
+      "45": "GND",
+      "51": "GND",
+      "57": "GND",
+      "71": "GND",
+      "73": "GND",
+      "75": "GND",
+      "76": "GND",
+      "77": "GND",
+      "2": "SSD1_3V3",
+      "4": "SSD1_3V3",
+      "12": "SSD1_3V3",
+      "14": "SSD1_3V3",
+      "16": "SSD1_3V3",
+      "18": "SSD1_3V3",
+      "70": "SSD1_3V3",
+      "72": "SSD1_3V3",
+      "74": "SSD1_3V3",
+      "41": "SSD1_RX_P",
+      "43": "SSD1_RX_N",
+      "47": "SSD1_TX_P",
+      "49": "SSD1_TX_N",
+      "53": "CLK1_P_TERM",
+      "55": "CLK1_N_TERM",
+      "50": "SSD1_RESET_N"
+    },
+    "uuid": "3b4dd08c-efe2-520b-a229-72c48b10f240",
+    "sheet": "04_nvme",
+    "sym": "1-2199230-5",
+    "value": "1-2199230-5"
+  },
+  "C37": {
+    "ref": "C37",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "GND"
+    },
+    "uuid": "d0198467-0837-52f8-89a1-fa3e7d20dc7c",
+    "sheet": "04_nvme",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C38": {
+    "ref": "C38",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "GND"
+    },
+    "uuid": "92f2f04d-29b5-575f-95d6-7ab44e7717c4",
+    "sheet": "04_nvme",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C39": {
+    "ref": "C39",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "GND"
+    },
+    "uuid": "0de5aa48-3a60-5829-aa18-c9a19faecd8f",
+    "sheet": "04_nvme",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "J4": {
+    "ref": "J4",
+    "lcsc": "C590854",
+    "part": {
+      "name": "1-2199230-5",
+      "fp": "PCIE-SMD_75P-P0.50_1-2199230-5",
+      "pins": {
+        "1": "GND",
+        "74": "3V3",
+        "3": "GND",
+        "72": "3V3",
+        "5": "5",
+        "70": "3V3",
+        "7": "7",
+        "68": "68",
+        "9": "GND",
+        "11": "11",
+        "13": "13",
+        "15": "GND",
+        "17": "17",
+        "58": "58",
+        "19": "19",
+        "56": "56",
+        "21": "GND",
+        "54": "PEWAKE#",
+        "23": "23",
+        "52": "CLKREQ#",
+        "25": "25",
+        "50": "PERST#",
+        "27": "GND",
+        "48": "48",
+        "29": "29",
+        "46": "46",
+        "31": "31",
+        "44": "44",
+        "33": "GND",
+        "42": "42",
+        "35": "35",
+        "40": "40",
+        "37": "37",
+        "38": "38",
+        "39": "GND",
+        "36": "36",
+        "41": "PERp0",
+        "34": "34",
+        "43": "PERn0",
+        "32": "32",
+        "45": "GND",
+        "30": "30",
+        "47": "PETp0",
+        "28": "28",
+        "49": "PETn0",
+        "26": "26",
+        "51": "GND",
+        "24": "24",
+        "53": "REFCLKp",
+        "22": "22",
+        "55": "REFCLKn",
+        "20": "20",
+        "57": "GND",
+        "18": "3V3",
+        "16": "3V3",
+        "14": "3V3",
+        "12": "3V3",
+        "10": "DAS_DSS#",
+        "67": "67",
+        "8": "8",
+        "69": "69",
+        "6": "6",
+        "71": "GND",
+        "4": "3V3",
+        "73": "GND",
+        "2": "3V3",
+        "75": "GND",
+        "76": "GND",
+        "77": "GND"
+      }
+    },
+    "nets": {
+      "1": "GND",
+      "3": "GND",
+      "9": "GND",
+      "15": "GND",
+      "21": "GND",
+      "27": "GND",
+      "33": "GND",
+      "39": "GND",
+      "45": "GND",
+      "51": "GND",
+      "57": "GND",
+      "71": "GND",
+      "73": "GND",
+      "75": "GND",
+      "76": "GND",
+      "77": "GND",
+      "2": "SSD2_3V3",
+      "4": "SSD2_3V3",
+      "12": "SSD2_3V3",
+      "14": "SSD2_3V3",
+      "16": "SSD2_3V3",
+      "18": "SSD2_3V3",
+      "70": "SSD2_3V3",
+      "72": "SSD2_3V3",
+      "74": "SSD2_3V3",
+      "41": "SSD2_RX_N",
+      "43": "SSD2_RX_P",
+      "47": "SSD2_TX_P",
+      "49": "SSD2_TX_N",
+      "53": "CLK2_P_TERM",
+      "55": "CLK2_N_TERM",
+      "50": "SSD2_RESET_N"
+    },
+    "uuid": "6c148ea3-e823-5343-b038-ecb5771ff053",
+    "sheet": "04_nvme",
+    "sym": "1-2199230-5",
+    "value": "1-2199230-5"
+  },
+  "C40": {
+    "ref": "C40",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "GND"
+    },
+    "uuid": "f3d1ab88-4c1a-5f04-9d8e-f396d27f795b",
+    "sheet": "04_nvme",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C41": {
+    "ref": "C41",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "GND"
+    },
+    "uuid": "611e48df-1b59-5bc5-806f-cb25fa543e1c",
+    "sheet": "04_nvme",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C42": {
+    "ref": "C42",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "GND"
+    },
+    "uuid": "da29180b-c38a-5fb8-b3ad-e39cce8334ba",
+    "sheet": "04_nvme",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "U3": {
+    "ref": "U3",
+    "lcsc": "C2071517",
+    "part": {
+      "name": "AP64501SP-13",
+      "fp": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1",
+      "pins": {
+        "1": "BST",
+        "2": "VIN",
+        "3": "EN",
+        "4": "SS",
+        "5": "FB",
+        "6": "COMP",
+        "7": "GND",
+        "8": "SW",
+        "9": "EP"
+      }
+    },
+    "nets": {
+      "1": "U3_BST",
+      "2": "VIN_OR",
+      "3": "MAIN_EN",
+      "4": "U3_SS",
+      "5": "U3_FB",
+      "6": "U3_COMP",
+      "7": "GND",
+      "8": "U3_SW",
+      "9": "GND"
+    },
+    "uuid": "e023e595-bd9f-5697-bf8b-db1c97abffa2",
+    "sheet": "05_regulators",
+    "sym": "AP64501SP-13",
+    "value": "AP64501SP-13"
+  },
+  "L2": {
+    "ref": "L2",
+    "lcsc": "C2847540",
+    "part": {
+      "name": "MDA7050-3R3M",
+      "fp": "IND-SMD_L7.3-W6.6",
+      "pins": {
+        "2": "2",
+        "1": "1"
+      }
+    },
+    "nets": {
+      "1": "U3_SW",
+      "2": "SYS_5V"
+    },
+    "uuid": "f47f94cf-1f9e-5677-8388-517685c36f59",
+    "sheet": "05_regulators",
+    "sym": "MDA7050-3R3M",
+    "value": "3.3uH / 8A"
+  },
+  "C43": {
+    "ref": "C43",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U3_BST",
+      "2": "U3_SW"
+    },
+    "uuid": "31ab3008-bb2d-57a6-9910-c9f9d0208028",
+    "sheet": "05_regulators",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C44": {
+    "ref": "C44",
+    "lcsc": "C1589",
+    "part": {
+      "name": "C_C1589",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U3_SS",
+      "2": "GND"
+    },
+    "uuid": "724505c1-420e-56fb-89d9-27d2b34327fe",
+    "sheet": "05_regulators",
+    "sym": "C_C1589",
+    "value": "10n"
+  },
+  "R29": {
+    "ref": "R29",
+    "lcsc": "C22783",
+    "part": {
+      "name": "R_C22783",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "U3_FB"
+    },
+    "uuid": "6b3fb74a-9a43-510e-8c23-6d85d1ed513a",
+    "sheet": "05_regulators",
+    "sym": "R_C22783",
+    "value": "115k"
+  },
+  "R30": {
+    "ref": "R30",
+    "lcsc": "C25961",
+    "part": {
+      "name": "R_C25961",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "U3_FB",
+      "2": "GND"
+    },
+    "uuid": "1fab869c-9a1b-557c-803c-56711fb2f842",
+    "sheet": "05_regulators",
+    "sym": "R_C25961",
+    "value": "22.1k"
+  },
+  "R31": {
+    "ref": "R31",
+    "lcsc": "C22880",
+    "part": {
+      "name": "R_C22880",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "U3_COMP",
+      "2": "U3_COMP_RC"
+    },
+    "uuid": "503d8a49-48ad-53b4-938b-c8b64d2e1baa",
+    "sheet": "05_regulators",
+    "sym": "R_C22880",
+    "value": "15.8k"
+  },
+  "C45": {
+    "ref": "C45",
+    "lcsc": "C84713",
+    "part": {
+      "name": "C_C84713",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U3_COMP_RC",
+      "2": "GND"
+    },
+    "uuid": "cffef095-8e6b-50cd-ab0f-3d5f5c0591c2",
+    "sheet": "05_regulators",
+    "sym": "C_C84713",
+    "value": "2.7n"
+  },
+  "C46": {
+    "ref": "C46",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "7a442b9a-1fea-5d32-ab49-7681c178ed77",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C47": {
+    "ref": "C47",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "b1603dd6-8a2b-50a0-9e58-9ebfeb2d0b5a",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C48": {
+    "ref": "C48",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "41d40ffe-250d-5882-8e91-c66f6004b82e",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C49": {
+    "ref": "C49",
+    "lcsc": "C14860",
+    "part": {
+      "name": "C_C14860",
+      "fp": "C_1206_3216Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "VIN_OR",
+      "2": "GND"
+    },
+    "uuid": "9302c438-ef75-57ae-babe-36d0ce945342",
+    "sheet": "05_regulators",
+    "sym": "C_C14860",
+    "value": "10u / 50V"
+  },
+  "U4": {
+    "ref": "U4",
+    "lcsc": "C2071517",
+    "part": {
+      "name": "AP64501SP-13",
+      "fp": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1",
+      "pins": {
+        "1": "BST",
+        "2": "VIN",
+        "3": "EN",
+        "4": "SS",
+        "5": "FB",
+        "6": "COMP",
+        "7": "GND",
+        "8": "SW",
+        "9": "EP"
+      }
+    },
+    "nets": {
+      "1": "U4_BST",
+      "2": "VIN_OR",
+      "3": "PCIE_PWR_EN",
+      "4": "U4_SS",
+      "5": "U4_FB",
+      "6": "U4_COMP",
+      "7": "GND",
+      "8": "U4_SW",
+      "9": "GND"
+    },
+    "uuid": "7b300fbf-0733-58e2-a64e-fe10c85a3a47",
+    "sheet": "05_regulators",
+    "sym": "AP64501SP-13",
+    "value": "AP64501SP-13"
+  },
+  "L3": {
+    "ref": "L3",
+    "lcsc": "C2847540",
+    "part": {
+      "name": "MDA7050-3R3M",
+      "fp": "IND-SMD_L7.3-W6.6",
+      "pins": {
+        "2": "2",
+        "1": "1"
+      }
+    },
+    "nets": {
+      "1": "U4_SW",
+      "2": "SSD1_3V3"
+    },
+    "uuid": "e7fbcf27-e045-5d57-8b25-db79d0fdb635",
+    "sheet": "05_regulators",
+    "sym": "MDA7050-3R3M",
+    "value": "3.3uH / 8A"
+  },
+  "C50": {
+    "ref": "C50",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U4_BST",
+      "2": "U4_SW"
+    },
+    "uuid": "45998933-d9db-5092-92dc-0121917af0a6",
+    "sheet": "05_regulators",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C51": {
+    "ref": "C51",
+    "lcsc": "C1589",
+    "part": {
+      "name": "C_C1589",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U4_SS",
+      "2": "GND"
+    },
+    "uuid": "8802a2fa-bd6f-5791-91c6-a79f84f670ee",
+    "sheet": "05_regulators",
+    "sym": "C_C1589",
+    "value": "10n"
+  },
+  "R32": {
+    "ref": "R32",
+    "lcsc": "C23098",
+    "part": {
+      "name": "R_C23098",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "U4_FB"
+    },
+    "uuid": "c69f56c4-1765-5927-9c0e-c721902c7951",
+    "sheet": "05_regulators",
+    "sym": "R_C23098",
+    "value": "69.8k"
+  },
+  "R33": {
+    "ref": "R33",
+    "lcsc": "C25961",
+    "part": {
+      "name": "R_C25961",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "U4_FB",
+      "2": "GND"
+    },
+    "uuid": "8a4985aa-064c-552a-80f2-8e0a16392daf",
+    "sheet": "05_regulators",
+    "sym": "R_C25961",
+    "value": "22.1k"
+  },
+  "R34": {
+    "ref": "R34",
+    "lcsc": "C22855",
+    "part": {
+      "name": "R_C22855",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "U4_COMP",
+      "2": "U4_COMP_RC"
+    },
+    "uuid": "1df4b980-1a7b-5e78-a651-355ee775e855",
+    "sheet": "05_regulators",
+    "sym": "R_C22855",
+    "value": "10.5k"
+  },
+  "C52": {
+    "ref": "C52",
+    "lcsc": "C84713",
+    "part": {
+      "name": "C_C84713",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U4_COMP_RC",
+      "2": "GND"
+    },
+    "uuid": "ceb14b9c-728c-5955-8aea-9a20476998e7",
+    "sheet": "05_regulators",
+    "sym": "C_C84713",
+    "value": "2.7n"
+  },
+  "C53": {
+    "ref": "C53",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "GND"
+    },
+    "uuid": "74c33f7f-2300-58c6-8863-864d05570b00",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C54": {
+    "ref": "C54",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "GND"
+    },
+    "uuid": "589a681d-a8c5-512f-a56e-64bd0320a7b4",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C55": {
+    "ref": "C55",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD1_3V3",
+      "2": "GND"
+    },
+    "uuid": "670d479b-204f-5449-b5ca-e073b10ec8fc",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C56": {
+    "ref": "C56",
+    "lcsc": "C14860",
+    "part": {
+      "name": "C_C14860",
+      "fp": "C_1206_3216Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "VIN_OR",
+      "2": "GND"
+    },
+    "uuid": "e63df553-d92b-5e5e-96ec-033a85d9c757",
+    "sheet": "05_regulators",
+    "sym": "C_C14860",
+    "value": "10u / 50V"
+  },
+  "U5": {
+    "ref": "U5",
+    "lcsc": "C2071517",
+    "part": {
+      "name": "AP64501SP-13",
+      "fp": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1",
+      "pins": {
+        "1": "BST",
+        "2": "VIN",
+        "3": "EN",
+        "4": "SS",
+        "5": "FB",
+        "6": "COMP",
+        "7": "GND",
+        "8": "SW",
+        "9": "EP"
+      }
+    },
+    "nets": {
+      "1": "U5_BST",
+      "2": "VIN_OR",
+      "3": "PCIE_PWR_EN",
+      "4": "U5_SS",
+      "5": "U5_FB",
+      "6": "U5_COMP",
+      "7": "GND",
+      "8": "U5_SW",
+      "9": "GND"
+    },
+    "uuid": "47ae49d3-c39b-560c-80ef-baf9dddfc780",
+    "sheet": "05_regulators",
+    "sym": "AP64501SP-13",
+    "value": "AP64501SP-13"
+  },
+  "L4": {
+    "ref": "L4",
+    "lcsc": "C2847540",
+    "part": {
+      "name": "MDA7050-3R3M",
+      "fp": "IND-SMD_L7.3-W6.6",
+      "pins": {
+        "2": "2",
+        "1": "1"
+      }
+    },
+    "nets": {
+      "1": "U5_SW",
+      "2": "SSD2_3V3"
+    },
+    "uuid": "59728fff-a385-5e08-ac67-94829d06ae85",
+    "sheet": "05_regulators",
+    "sym": "MDA7050-3R3M",
+    "value": "3.3uH / 8A"
+  },
+  "C57": {
+    "ref": "C57",
+    "lcsc": "C1525",
+    "part": {
+      "name": "C_C1525",
+      "fp": "C_0402_1005Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U5_BST",
+      "2": "U5_SW"
+    },
+    "uuid": "b2ed98c0-4368-5ed4-9546-cb2d023d76a4",
+    "sheet": "05_regulators",
+    "sym": "C_C1525",
+    "value": "100n / 16V"
+  },
+  "C58": {
+    "ref": "C58",
+    "lcsc": "C1589",
+    "part": {
+      "name": "C_C1589",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U5_SS",
+      "2": "GND"
+    },
+    "uuid": "2d67e552-9058-5c25-ac76-ae17568c532a",
+    "sheet": "05_regulators",
+    "sym": "C_C1589",
+    "value": "10n"
+  },
+  "R35": {
+    "ref": "R35",
+    "lcsc": "C23098",
+    "part": {
+      "name": "R_C23098",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "U5_FB"
+    },
+    "uuid": "727037a9-7aa3-52af-b4a7-a8f91a705964",
+    "sheet": "05_regulators",
+    "sym": "R_C23098",
+    "value": "69.8k"
+  },
+  "R36": {
+    "ref": "R36",
+    "lcsc": "C25961",
+    "part": {
+      "name": "R_C25961",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "U5_FB",
+      "2": "GND"
+    },
+    "uuid": "c61fb171-2e80-5674-8362-0389e27f2ee4",
+    "sheet": "05_regulators",
+    "sym": "R_C25961",
+    "value": "22.1k"
+  },
+  "R37": {
+    "ref": "R37",
+    "lcsc": "C22855",
+    "part": {
+      "name": "R_C22855",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "U5_COMP",
+      "2": "U5_COMP_RC"
+    },
+    "uuid": "7f3b3cd0-6bf4-5f38-815e-2c30494c49b8",
+    "sheet": "05_regulators",
+    "sym": "R_C22855",
+    "value": "10.5k"
+  },
+  "C59": {
+    "ref": "C59",
+    "lcsc": "C84713",
+    "part": {
+      "name": "C_C84713",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "U5_COMP_RC",
+      "2": "GND"
+    },
+    "uuid": "0a0c3cf8-ab06-598b-983c-2dfe0dc93290",
+    "sheet": "05_regulators",
+    "sym": "C_C84713",
+    "value": "2.7n"
+  },
+  "C60": {
+    "ref": "C60",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "GND"
+    },
+    "uuid": "be849598-f35e-5d02-97fc-606254f87da0",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C61": {
+    "ref": "C61",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "GND"
+    },
+    "uuid": "07c774ef-5546-5e30-8839-9fbefe3f20f6",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C62": {
+    "ref": "C62",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SSD2_3V3",
+      "2": "GND"
+    },
+    "uuid": "0e8815c4-5b9d-5277-b1c2-4d12646be2eb",
+    "sheet": "05_regulators",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "C63": {
+    "ref": "C63",
+    "lcsc": "C14860",
+    "part": {
+      "name": "C_C14860",
+      "fp": "C_1206_3216Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "VIN_OR",
+      "2": "GND"
+    },
+    "uuid": "6cc38fd9-ba91-565f-bd96-c9754b061469",
+    "sheet": "05_regulators",
+    "sym": "C_C14860",
+    "value": "10u / 50V"
+  },
+  "J5": {
+    "ref": "J5",
+    "lcsc": "C7428653",
+    "part": {
+      "name": "DC-005D-2.0-PU-SP",
+      "fp": "DC-IN-TH_DC-005D-2.0-PU-SP",
+      "pins": {
+        "4": "4",
+        "2": "2",
+        "3": "3"
+      }
+    },
+    "nets": {
+      "4": "BARREL_RAW",
+      "2": "GND"
+    },
+    "uuid": "360d7031-3857-515a-b560-dabb678ac06b",
+    "sheet": "06_inputs",
+    "sym": "DC-005D-2.0-PU-SP",
+    "value": "DC-005D-2.0-PU-SP(UL)"
+  },
+  "D1": {
+    "ref": "D1",
+    "lcsc": "C123946",
+    "part": {
+      "name": "SS54_C123946",
+      "fp": "SMA_L4.4-W2.8-LS5.4-RD",
+      "pins": {
+        "2": "A",
+        "1": "K"
+      }
+    },
+    "nets": {
+      "2": "BARREL_IN",
+      "1": "VIN_OR"
+    },
+    "uuid": "e2305e09-4685-5270-a2d8-a22be2a25dde",
+    "sheet": "06_inputs",
+    "sym": "SS54_C123946",
+    "value": "SS54"
+  },
+  "D2": {
+    "ref": "D2",
+    "lcsc": "C123820",
+    "part": {
+      "name": "SMBJ26A_C123820",
+      "fp": "SMB_L4.6-W3.6-LS5.3-RD",
+      "pins": {
+        "2": "A",
+        "1": "C"
+      }
+    },
+    "nets": {
+      "2": "GND",
+      "1": "BARREL_IN"
+    },
+    "uuid": "75772148-cbfa-5b57-891b-3a99f35b6cb6",
+    "sheet": "06_inputs",
+    "sym": "SMBJ26A_C123820",
+    "value": "SMBJ26A"
+  },
+  "R38": {
+    "ref": "R38",
+    "lcsc": "C25803",
+    "part": {
+      "name": "R_C25803",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "VIN_OR",
+      "2": "MAIN_EN"
+    },
+    "uuid": "ae36ee7e-e404-5759-bba2-aaeddf2b577f",
+    "sheet": "06_inputs",
+    "sym": "R_C25803",
+    "value": "100k"
+  },
+  "R39": {
+    "ref": "R39",
+    "lcsc": "C25961",
+    "part": {
+      "name": "R_C25961",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "MAIN_EN",
+      "2": "GND"
+    },
+    "uuid": "b7694528-768e-5de3-b270-c7d4c50c65e0",
+    "sheet": "06_inputs",
+    "sym": "R_C25961",
+    "value": "22.1k"
+  },
+  "J6": {
+    "ref": "J6",
+    "lcsc": "C165948",
+    "part": {
+      "name": "TYPE-C-31-M-12",
+      "fp": "USB-C_SMD-TYPE-C-31-M-12_1",
+      "pins": {
+        "A1B12": "GND",
+        "A4B9": "VBUS",
+        "B8": "SBU2",
+        "A5": "CC1",
+        "B7": "DN2",
+        "A6": "DP1",
+        "A7": "DN1",
+        "B6": "DP2",
+        "A8": "SBU1",
+        "B5": "CC2",
+        "B4A9": "VBUS",
+        "B1A12": "GND",
+        "4": "EH",
+        "3": "EH",
+        "2": "EH",
+        "1": "EH"
+      }
+    },
+    "nets": {
+      "A1B12": "GND",
+      "B1A12": "GND",
+      "1": "GND",
+      "2": "GND",
+      "3": "GND",
+      "4": "GND",
+      "A4B9": "USB_PD_VBUS",
+      "B4A9": "USB_PD_VBUS",
+      "A5": "PD_CC1",
+      "B5": "PD_CC2"
+    },
+    "uuid": "2a9154eb-d8ce-576c-82f5-2c00302aa016",
+    "sheet": "06_inputs",
+    "sym": "TYPE-C-31-M-12",
+    "value": "TYPE-C-31-M-12"
+  },
+  "U6": {
+    "ref": "U6",
+    "lcsc": "C970725",
+    "part": {
+      "name": "CH224K",
+      "fp": "ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP",
+      "pins": {
+        "1": "VDD",
+        "2": "CFG2",
+        "3": "CFG3",
+        "4": "DP",
+        "5": "DM",
+        "6": "CC2",
+        "7": "CC1",
+        "8": "VBUS",
+        "9": "CFG1",
+        "10": "PG",
+        "11": "GND"
+      }
+    },
+    "nets": {
+      "1": "PD_VDD",
+      "2": "PD_VDD",
+      "3": "GND",
+      "6": "PD_CC2",
+      "7": "PD_CC1",
+      "8": "PD_SENSE",
+      "9": "GND",
+      "10": "PD_GOOD_N",
+      "11": "GND"
+    },
+    "uuid": "e4a6dae1-15f4-5b48-a002-9e1d39a6c641",
+    "sheet": "06_inputs",
+    "sym": "CH224K",
+    "value": "CH224K"
+  },
+  "R40": {
+    "ref": "R40",
+    "lcsc": "C2074262",
+    "part": {
+      "name": "R_C2074262",
+      "fp": "R_1206_3216Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "USB_PD_VBUS",
+      "2": "PD_VDD"
+    },
+    "uuid": "e19c4065-7b83-5fa9-a0da-23180e93f34c",
+    "sheet": "06_inputs",
+    "sym": "R_C2074262",
+    "value": "1k / 0.5W"
+  },
+  "C64": {
+    "ref": "C64",
+    "lcsc": "C29936",
+    "part": {
+      "name": "C_C29936",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "PD_VDD",
+      "2": "GND"
+    },
+    "uuid": "6fb088c3-b539-5850-8c2e-06b6220813b0",
+    "sheet": "06_inputs",
+    "sym": "C_C29936",
+    "value": "1u / 25V"
+  },
+  "R41": {
+    "ref": "R41",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "USB_PD_VBUS",
+      "2": "PD_SENSE"
+    },
+    "uuid": "12eaad96-7a04-5b3e-8fa0-2d95f9b9b55a",
+    "sheet": "06_inputs",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "Q1": {
+    "ref": "Q1",
+    "lcsc": "C15127",
+    "part": {
+      "name": "AO3401A",
+      "fp": "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+      "pins": {
+        "3": "D",
+        "1": "G",
+        "2": "S"
+      }
+    },
+    "nets": {
+      "1": "PD_GATE",
+      "2": "USB_PD_VBUS",
+      "3": "USB_PD_SWITCHED"
+    },
+    "uuid": "989a3fdf-c348-57eb-9da7-8de166f9fe39",
+    "sheet": "06_inputs",
+    "sym": "AO3401A",
+    "value": "AO3401A"
+  },
+  "R42": {
+    "ref": "R42",
+    "lcsc": "C25803",
+    "part": {
+      "name": "R_C25803",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "USB_PD_VBUS",
+      "2": "PD_GATE"
+    },
+    "uuid": "0ef1736e-2fcb-55c2-8c1a-3fe98fa6d339",
+    "sheet": "06_inputs",
+    "sym": "R_C25803",
+    "value": "100k"
+  },
+  "R43": {
+    "ref": "R43",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "PD_GATE",
+      "2": "PD_GATE_SINK"
+    },
+    "uuid": "66cb13ce-979b-5be2-ab04-f23e4b37658b",
+    "sheet": "06_inputs",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "D3": {
+    "ref": "D3",
+    "lcsc": "C2103",
+    "part": {
+      "name": "BZT52C10",
+      "fp": "SOD-123_L2.8-W1.8-LS3.7-RD",
+      "pins": {
+        "2": "A",
+        "1": "K"
+      }
+    },
+    "nets": {
+      "1": "USB_PD_VBUS",
+      "2": "PD_GATE"
+    },
+    "uuid": "c18c20cf-27be-52be-9a19-00cf9d501377",
+    "sheet": "06_inputs",
+    "sym": "BZT52C10",
+    "value": "10V gate clamp"
+  },
+  "D4": {
+    "ref": "D4",
+    "lcsc": "C123946",
+    "part": {
+      "name": "SS54_C123946",
+      "fp": "SMA_L4.4-W2.8-LS5.4-RD",
+      "pins": {
+        "2": "A",
+        "1": "K"
+      }
+    },
+    "nets": {
+      "2": "USB_PD_SWITCHED",
+      "1": "VIN_OR"
+    },
+    "uuid": "a66bd9d6-8b28-50ff-a5c5-8282dfd57d3f",
+    "sheet": "06_inputs",
+    "sym": "SS54_C123946",
+    "value": "SS54"
+  },
+  "C65": {
+    "ref": "C65",
+    "lcsc": "C29936",
+    "part": {
+      "name": "C_C29936",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "USB_PD_VBUS",
+      "2": "GND"
+    },
+    "uuid": "b23fd270-1185-5eb0-846c-6c3a131108aa",
+    "sheet": "06_inputs",
+    "sym": "C_C29936",
+    "value": "1u / 25V"
+  },
+  "C66": {
+    "ref": "C66",
+    "lcsc": "C14860",
+    "part": {
+      "name": "C_C14860",
+      "fp": "C_1206_3216Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "VIN_OR",
+      "2": "GND"
+    },
+    "uuid": "b27c0e50-1ddf-55fb-af34-002d4030a5a6",
+    "sheet": "06_inputs",
+    "sym": "C_C14860",
+    "value": "10u / 50V"
+  },
+  "J8": {
+    "ref": "J8",
+    "lcsc": "C19724762",
+    "part": {
+      "name": "HR913180AE",
+      "fp": "RJ45-TH_HR913180AE",
+      "pins": {
+        "21": "SHELL",
+        "22": "SHELL",
+        "17": "LEDG+",
+        "18": "LEDG-",
+        "19": "LEDY+G-",
+        "20": "LEDY-G+",
+        "13": "VC1+",
+        "14": "VC1-",
+        "15": "VC2+",
+        "16": "VC2-",
+        "7": "MDCT4",
+        "1": "MDCT3",
+        "6": "MDCT2",
+        "12": "MDCT1",
+        "9": "MD4-",
+        "8": "MD4+",
+        "2": "MD3-",
+        "3": "MD3+",
+        "5": "MD2-",
+        "4": "MD2+",
+        "10": "MD1-",
+        "11": "MD1+"
+      }
+    },
+    "nets": {
+      "21": "GND",
+      "22": "GND",
+      "11": "ETH0_P",
+      "10": "ETH0_N",
+      "4": "ETH1_P",
+      "5": "ETH1_N",
+      "3": "ETH2_P",
+      "2": "ETH2_N",
+      "8": "ETH3_P",
+      "9": "ETH3_N",
+      "12": "ETH_CT0",
+      "6": "ETH_CT1",
+      "1": "ETH_CT2",
+      "7": "ETH_CT3",
+      "13": "POE_VA1",
+      "14": "POE_VA2",
+      "15": "POE_VB1",
+      "16": "POE_VB2",
+      "17": "ETH_LED_A",
+      "18": "ETH_LED_ACT_N",
+      "19": "ETH_LED_Y",
+      "20": "ETH_LED_LINK_N"
+    },
+    "uuid": "981bb93f-11de-5cd5-abba-a01838d9db0b",
+    "sheet": "07_ethernet_poe",
+    "sym": "HR913180AE",
+    "value": "HR913180AE"
+  },
+  "C67": {
+    "ref": "C67",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "ETH_CT0",
+      "2": "GND"
+    },
+    "uuid": "59524808-8cc5-5ba7-bdec-d388e95ad7a5",
+    "sheet": "07_ethernet_poe",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C68": {
+    "ref": "C68",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "ETH_CT1",
+      "2": "GND"
+    },
+    "uuid": "b41ea54c-b41b-5813-be12-fe94069a120f",
+    "sheet": "07_ethernet_poe",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C69": {
+    "ref": "C69",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "ETH_CT2",
+      "2": "GND"
+    },
+    "uuid": "bee39c19-c60b-56da-809f-321cae960f62",
+    "sheet": "07_ethernet_poe",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C70": {
+    "ref": "C70",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "ETH_CT3",
+      "2": "GND"
+    },
+    "uuid": "d0aef44a-f906-57ee-b316-2ec98f5f5cdf",
+    "sheet": "07_ethernet_poe",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "R44": {
+    "ref": "R44",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "ETH_LED_A"
+    },
+    "uuid": "5441926d-4ab2-5b7a-81d8-bb470c073bda",
+    "sheet": "07_ethernet_poe",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R45": {
+    "ref": "R45",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "ETH_LED_Y"
+    },
+    "uuid": "6ae5ecb2-b7a3-57e4-80f1-e383dc31f3b0",
+    "sheet": "07_ethernet_poe",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "U7": {
+    "ref": "U7",
+    "lcsc": "C2848082",
+    "part": {
+      "name": "WC_PD60B120A_CANDIDATE",
+      "fp": "WC_PD60B120A_MECHANICAL_REVIEW",
+      "pins": {
+        "1": "VA1",
+        "2": "VA2",
+        "3": "VB1",
+        "4": "VB2",
+        "5": "VOUT-",
+        "6": "VOUT-",
+        "7": "VOUT+",
+        "8": "VOUT+",
+        "9": "SUPPORT_NC",
+        "10": "SUPPORT_NC"
+      }
+    },
+    "nets": {
+      "1": "POE_VA1",
+      "2": "POE_VA2",
+      "3": "POE_VB1",
+      "4": "POE_VB2",
+      "5": "GND",
+      "6": "GND",
+      "7": "POE_12V",
+      "8": "POE_12V"
+    },
+    "uuid": "c86b1252-0647-55f9-b69d-4ae15beb668f",
+    "sheet": "07_ethernet_poe",
+    "sym": "WC_PD60B120A_CANDIDATE",
+    "value": "WC-PD60B120A"
+  },
+  "D5": {
+    "ref": "D5",
+    "lcsc": "C123946",
+    "part": {
+      "name": "SS54_C123946",
+      "fp": "SMA_L4.4-W2.8-LS5.4-RD",
+      "pins": {
+        "2": "A",
+        "1": "K"
+      }
+    },
+    "nets": {
+      "2": "POE_12V",
+      "1": "VIN_OR"
+    },
+    "uuid": "3cec7261-3550-59d8-bcc8-b7970a9734c8",
+    "sheet": "07_ethernet_poe",
+    "sym": "SS54_C123946",
+    "value": "SS54"
+  },
+  "C71": {
+    "ref": "C71",
+    "lcsc": "C14860",
+    "part": {
+      "name": "C_C14860",
+      "fp": "C_1206_3216Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "POE_12V",
+      "2": "GND"
+    },
+    "uuid": "4619ff56-5afc-5aa8-bb2e-b03daa55b9d2",
+    "sheet": "07_ethernet_poe",
+    "sym": "C_C14860",
+    "value": "10u / 50V"
+  },
+  "J9": {
+    "ref": "J9",
+    "lcsc": "C91145",
+    "part": {
+      "name": "TF-01A",
+      "fp": "TF-SMD_TF-01A",
+      "pins": {
+        "1": "DAT2(RSV)",
+        "2": "CDDAT3(CS)",
+        "3": "CMD(DI)",
+        "4": "VDD",
+        "5": "CLK(SCLK)",
+        "6": "VSS",
+        "7": "DAT0(D0)",
+        "8": "DAT1(RSV)",
+        "13": "GND",
+        "10": "GND",
+        "11": "GND",
+        "12": "GND",
+        "9": "CD"
+      }
+    },
+    "nets": {
+      "1": "SD_DAT2",
+      "2": "SD_DAT3",
+      "3": "SD_CMD",
+      "4": "SD_3V3",
+      "5": "SD_CLK",
+      "6": "GND",
+      "7": "SD_DAT0",
+      "8": "SD_DAT1",
+      "10": "GND",
+      "11": "GND",
+      "12": "GND",
+      "13": "GND"
+    },
+    "uuid": "8ab06e66-841a-5cdf-b484-8e63c65fb063",
+    "sheet": "08_sd_uart",
+    "sym": "TF-01A",
+    "value": "TF-01A"
+  },
+  "U8": {
+    "ref": "U8",
+    "lcsc": "C250547",
+    "part": {
+      "name": "RT9742GGJ5",
+      "fp": "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR",
+      "pins": {
+        "1": "VOUT",
+        "2": "GND",
+        "3": "~{FLG}",
+        "4": "EN/~{EN}",
+        "5": "VIN"
+      }
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "GND",
+      "4": "SD_PWR_EN",
+      "5": "CM_3V3"
+    },
+    "uuid": "b101f4ee-2af4-5dbd-9feb-160619227a53",
+    "sheet": "08_sd_uart",
+    "sym": "RT9742GGJ5",
+    "value": "RT9742GGJ5"
+  },
+  "C72": {
+    "ref": "C72",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "299eca45-1e32-5fc5-a6ea-b75a16eb3e94",
+    "sheet": "08_sd_uart",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C73": {
+    "ref": "C73",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "GND"
+    },
+    "uuid": "099c3b3c-6825-5dfc-bad6-dd8fd52d4e2f",
+    "sheet": "08_sd_uart",
+    "sym": "C_C45783",
+    "value": "22u / 25V"
+  },
+  "R46": {
+    "ref": "R46",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "SD_CMD"
+    },
+    "uuid": "e834756b-1b96-50d4-b9b9-91c2b3741062",
+    "sheet": "08_sd_uart",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "R47": {
+    "ref": "R47",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "SD_DAT0"
+    },
+    "uuid": "dd85225f-ea4a-5a16-9e88-c8a053baf9b0",
+    "sheet": "08_sd_uart",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "R48": {
+    "ref": "R48",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "SD_DAT1"
+    },
+    "uuid": "f15c1b25-6211-53fc-892d-2c43f9090da4",
+    "sheet": "08_sd_uart",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "R49": {
+    "ref": "R49",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "SD_DAT2"
+    },
+    "uuid": "20f2a855-f80b-5e95-b037-ca6800a1e1cf",
+    "sheet": "08_sd_uart",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "R50": {
+    "ref": "R50",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "SD_3V3",
+      "2": "SD_DAT3"
+    },
+    "uuid": "2959d185-2f04-50f8-9ecc-17d53d6bfad9",
+    "sheet": "08_sd_uart",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "J7": {
+    "ref": "J7",
+    "lcsc": "C165948",
+    "part": {
+      "name": "TYPE-C-31-M-12",
+      "fp": "USB-C_SMD-TYPE-C-31-M-12_1",
+      "pins": {
+        "A1B12": "GND",
+        "A4B9": "VBUS",
+        "B8": "SBU2",
+        "A5": "CC1",
+        "B7": "DN2",
+        "A6": "DP1",
+        "A7": "DN1",
+        "B6": "DP2",
+        "A8": "SBU1",
+        "B5": "CC2",
+        "B4A9": "VBUS",
+        "B1A12": "GND",
+        "4": "EH",
+        "3": "EH",
+        "2": "EH",
+        "1": "EH"
+      }
+    },
+    "nets": {
+      "A1B12": "GND",
+      "B1A12": "GND",
+      "1": "GND",
+      "2": "GND",
+      "3": "GND",
+      "4": "GND",
+      "A4B9": "UART_VBUS",
+      "B4A9": "UART_VBUS",
+      "A5": "UART_CC1",
+      "B5": "UART_CC2",
+      "A6": "UART_USB_P",
+      "B6": "UART_USB_P",
+      "A7": "UART_USB_N",
+      "B7": "UART_USB_N"
+    },
+    "uuid": "11a02475-f1ab-5ace-bb1b-d73763f77d9d",
+    "sheet": "08_sd_uart",
+    "sym": "TYPE-C-31-M-12",
+    "value": "TYPE-C-31-M-12"
+  },
+  "U9": {
+    "ref": "U9",
+    "lcsc": "C2846043",
+    "part": {
+      "name": "CH343P",
+      "fp": "TQFN-16_L3.0-W3.0-P0.50-BL-EP1.7",
+      "pins": {
+        "1": "VIO",
+        "2": "GND",
+        "3": "VDD5",
+        "4": "TXD",
+        "5": "RXD",
+        "6": "V3",
+        "7": "UD+",
+        "8": "UD-",
+        "9": "VBUS",
+        "10": "~{ACT}",
+        "11": "DCD",
+        "12": "DTRTNOW",
+        "13": "RTS",
+        "14": "DSR",
+        "15": "CTS",
+        "16": "RI",
+        "17": "EP"
+      }
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND",
+      "3": "UART_VBUS",
+      "4": "UART_TX_BRIDGE",
+      "5": "UART_RX_BRIDGE",
+      "6": "UART_V3",
+      "7": "UART_USB_P",
+      "8": "UART_USB_N",
+      "9": "UART_VBUS",
+      "17": "GND"
+    },
+    "uuid": "070c1fb9-3f92-5784-ace0-d80a15acc314",
+    "sheet": "08_sd_uart",
+    "sym": "CH343P",
+    "value": "CH343P"
+  },
+  "U10": {
+    "ref": "U10",
+    "lcsc": "C7519",
+    "part": {
+      "name": "USBLC6-2SC6",
+      "fp": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+      "pins": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6"
+      }
+    },
+    "nets": {
+      "1": "UART_USB_P",
+      "2": "GND",
+      "3": "UART_USB_N",
+      "4": "UART_USB_N",
+      "5": "UART_VBUS",
+      "6": "UART_USB_P"
+    },
+    "uuid": "036db0b3-44cf-5c5a-9792-a48c5c108e66",
+    "sheet": "08_sd_uart",
+    "sym": "USBLC6-2SC6",
+    "value": "USBLC6-2SC6"
+  },
+  "R51": {
+    "ref": "R51",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "UART_CC1",
+      "2": "GND"
+    },
+    "uuid": "d35e6d08-d5f4-5caf-b5aa-3af2b7cc8d2e",
+    "sheet": "08_sd_uart",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R52": {
+    "ref": "R52",
+    "lcsc": "C23186",
+    "part": {
+      "name": "R_C23186",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "UART_CC2",
+      "2": "GND"
+    },
+    "uuid": "6d757b30-9133-5c7a-93e0-fa0f06fc42b6",
+    "sheet": "08_sd_uart",
+    "sym": "R_C23186",
+    "value": "5.1k"
+  },
+  "R53": {
+    "ref": "R53",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "UART_TX_BRIDGE",
+      "2": "UART_RX_CM"
+    },
+    "uuid": "223f6fd5-51bd-53b4-8b3b-41496419ebdf",
+    "sheet": "08_sd_uart",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "R54": {
+    "ref": "R54",
+    "lcsc": "C23138",
+    "part": {
+      "name": "R_C23138",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "UART_TX_CM",
+      "2": "UART_RX_BRIDGE"
+    },
+    "uuid": "84b48a3a-e9f6-53aa-bfc1-bb95aba9644f",
+    "sheet": "08_sd_uart",
+    "sym": "R_C23138",
+    "value": "330"
+  },
+  "C74": {
+    "ref": "C74",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "UART_VBUS",
+      "2": "GND"
+    },
+    "uuid": "86283784-7b16-5122-a8fd-fff103d2ae8b",
+    "sheet": "08_sd_uart",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C75": {
+    "ref": "C75",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "UART_V3",
+      "2": "GND"
+    },
+    "uuid": "21434a8d-b8be-5276-8bb3-bf173cd75d1b",
+    "sheet": "08_sd_uart",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C76": {
+    "ref": "C76",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "CM_3V3",
+      "2": "GND"
+    },
+    "uuid": "ef3d2e1c-e8fb-56d4-80e5-2779372873dd",
+    "sheet": "08_sd_uart",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "C77": {
+    "ref": "C77",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "e23781e5-a5ba-549e-9c84-cafdafa0bb0d",
+    "sheet": "03_aux_power",
+    "sym": "C_C45783",
+    "value": "22u / 25V",
+    "near": "J1"
+  },
+  "C78": {
+    "ref": "C78",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "00a1fcb8-5a0b-582b-a213-dbf7b9d1e27f",
+    "sheet": "03_aux_power",
+    "sym": "C_C45783",
+    "value": "22u / 25V",
+    "near": "J1"
+  },
+  "C79": {
+    "ref": "C79",
+    "lcsc": "C45783",
+    "part": {
+      "name": "C_C45783",
+      "fp": "C_0805_2012Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "SYS_5V",
+      "2": "GND"
+    },
+    "uuid": "128a40d9-cefa-5ca6-be0d-61292b76cca0",
+    "sheet": "03_aux_power",
+    "sym": "C_C45783",
+    "value": "22u / 25V",
+    "near": "J1"
+  },
+  "H1": {
+    "ref": "H1",
+    "lcsc": "C5301773",
+    "part": {
+      "name": "Spacer_SMTSOM225BTR",
+      "fp": "YIYUAN_SMTSOM225BTR",
+      "pins": {
+        "1": "CHASSIS_GND"
+      }
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "uuid": "3bc9014a-c740-5926-a81e-e87df8c38b98",
+    "sheet": "04_nvme",
+    "sym": "Spacer_SMTSOM225BTR",
+    "value": "M2 spacer / 2.5mm"
+  },
+  "H2": {
+    "ref": "H2",
+    "lcsc": "C5301773",
+    "part": {
+      "name": "Spacer_SMTSOM225BTR",
+      "fp": "YIYUAN_SMTSOM225BTR",
+      "pins": {
+        "1": "CHASSIS_GND"
+      }
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "uuid": "e2e89471-c752-5077-9f18-1ab457c1e272",
+    "sheet": "04_nvme",
+    "sym": "Spacer_SMTSOM225BTR",
+    "value": "M2 spacer / 2.5mm"
+  },
+  "H3": {
+    "ref": "H3",
+    "lcsc": "C19626599",
+    "part": {
+      "name": "Spacer_SMTSOM240BTR",
+      "fp": "YIYUAN_SMTSOM240BTR",
+      "pins": {
+        "1": "CHASSIS_GND"
+      }
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "uuid": "a93d0006-df5a-5339-bd95-4ee6b7410159",
+    "sheet": "01_cm5",
+    "sym": "Spacer_SMTSOM240BTR",
+    "value": "M2 spacer / 4mm"
+  },
+  "H4": {
+    "ref": "H4",
+    "lcsc": "C19626599",
+    "part": {
+      "name": "Spacer_SMTSOM240BTR",
+      "fp": "YIYUAN_SMTSOM240BTR",
+      "pins": {
+        "1": "CHASSIS_GND"
+      }
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "uuid": "d65fd75c-c0cd-5f2d-be20-a2e64b561595",
+    "sheet": "01_cm5",
+    "sym": "Spacer_SMTSOM240BTR",
+    "value": "M2 spacer / 4mm"
+  },
+  "H5": {
+    "ref": "H5",
+    "lcsc": "C19626599",
+    "part": {
+      "name": "Spacer_SMTSOM240BTR",
+      "fp": "YIYUAN_SMTSOM240BTR",
+      "pins": {
+        "1": "CHASSIS_GND"
+      }
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "uuid": "f2ba01b7-c3ca-5dc3-b1e9-6a440d718564",
+    "sheet": "01_cm5",
+    "sym": "Spacer_SMTSOM240BTR",
+    "value": "M2 spacer / 4mm"
+  },
+  "H6": {
+    "ref": "H6",
+    "lcsc": "C19626599",
+    "part": {
+      "name": "Spacer_SMTSOM240BTR",
+      "fp": "YIYUAN_SMTSOM240BTR",
+      "pins": {
+        "1": "CHASSIS_GND"
+      }
+    },
+    "nets": {
+      "1": "GND"
+    },
+    "uuid": "33b4cb63-dfe0-5ab2-ad45-7bad1d6f64e7",
+    "sheet": "01_cm5",
+    "sym": "Spacer_SMTSOM240BTR",
+    "value": "M2 spacer / 4mm"
+  },
+  "F1": {
+    "ref": "F1",
+    "lcsc": "C48467",
+    "part": {
+      "name": "0451005.MRL",
+      "fp": "FUSE-SMD_L6.1-W2.6",
+      "pins": {
+        "1": "1",
+        "2": "2"
+      }
+    },
+    "nets": {
+      "1": "BARREL_RAW",
+      "2": "BARREL_IN"
+    },
+    "uuid": "a1a2b183-b1e0-56e4-aafb-9004db81e48b",
+    "sheet": "06_inputs",
+    "sym": "0451005.MRL",
+    "value": "5A / 125V fast fuse"
+  },
+  "Q2": {
+    "ref": "Q2",
+    "lcsc": "C53444",
+    "part": {
+      "name": "MMBT3906LT1G",
+      "fp": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+      "pins": {
+        "1": "B",
+        "2": "E",
+        "3": "C"
+      }
+    },
+    "nets": {
+      "1": "PD_PNP_BASE",
+      "2": "PD_VDD",
+      "3": "PD_GATE_ENABLE"
+    },
+    "uuid": "4d860961-8e82-537a-8494-cb448beac11e",
+    "sheet": "06_inputs",
+    "sym": "MMBT3906LT1G",
+    "value": "MMBT3906LT1G"
+  },
+  "Q3": {
+    "ref": "Q3",
+    "lcsc": "C8545",
+    "part": {
+      "name": "2N7002",
+      "fp": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+      "pins": {
+        "3": "D",
+        "1": "G",
+        "2": "S"
+      }
+    },
+    "nets": {
+      "1": "PD_GATE_ENABLE",
+      "2": "GND",
+      "3": "PD_GATE_SINK"
+    },
+    "uuid": "5debef23-93f4-5b4f-8237-fd1e3b99ba9e",
+    "sheet": "06_inputs",
+    "sym": "2N7002",
+    "value": "2N7002"
+  },
+  "R55": {
+    "ref": "R55",
+    "lcsc": "C98220",
+    "part": {
+      "name": "R_C98220",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "PD_PNP_BASE",
+      "2": "PD_GOOD_N"
+    },
+    "uuid": "9df3d569-6f9c-5e30-8aa7-344633953fdd",
+    "sheet": "06_inputs",
+    "sym": "R_C98220",
+    "value": "10k"
+  },
+  "R56": {
+    "ref": "R56",
+    "lcsc": "C25803",
+    "part": {
+      "name": "R_C25803",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "PD_PNP_BASE",
+      "2": "PD_VDD"
+    },
+    "uuid": "312f4507-0d13-53c5-8a98-729d8ffe8584",
+    "sheet": "06_inputs",
+    "sym": "R_C25803",
+    "value": "100k"
+  },
+  "R57": {
+    "ref": "R57",
+    "lcsc": "C25803",
+    "part": {
+      "name": "R_C25803",
+      "fp": "R_0603_1608Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "PD_GATE_ENABLE",
+      "2": "GND"
+    },
+    "uuid": "f386c3d8-152d-5be9-8273-1908ecad5ae8",
+    "sheet": "06_inputs",
+    "sym": "R_C25803",
+    "value": "100k"
+  },
+  "C80": {
+    "ref": "C80",
+    "lcsc": "C1591",
+    "part": {
+      "name": "C_C1591",
+      "fp": "C_0603_1608Metric",
+      "pins": {
+        "1": "C1",
+        "2": "C2"
+      },
+      "kind": "C"
+    },
+    "nets": {
+      "1": "PD_GATE",
+      "2": "USB_PD_VBUS"
+    },
+    "uuid": "066d1521-85c9-52b7-8ed8-ccb427db4229",
+    "sheet": "06_inputs",
+    "sym": "C_C1591",
+    "value": "100n / 50V"
+  },
+  "R58": {
+    "ref": "R58",
+    "lcsc": "C2074262",
+    "part": {
+      "name": "R_C2074262",
+      "fp": "R_1206_3216Metric",
+      "pins": {
+        "1": "R1",
+        "2": "R2"
+      },
+      "kind": "R"
+    },
+    "nets": {
+      "1": "POE_12V",
+      "2": "GND"
+    },
+    "uuid": "280d9ca1-8db2-5970-91e6-b7ad09d221d7",
+    "sheet": "07_ethernet_poe",
+    "sym": "R_C2074262",
+    "value": "1k / 0.5W"
+  }
+}

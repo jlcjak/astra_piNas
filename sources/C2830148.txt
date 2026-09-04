@@ -1,0 +1,213 @@
+MSUSBLC6-2SC6
+Product specification
+                                                                                 MSUSBLC6-2SC6
+
+      Description
+      The MSUSBLC6-2SC6 are monolithic application specific devices dedicated to ESD protection of high speed
+       interfaces, such as USB 2.0, Ethernet links and video lines.The very low line capacitance secures a high le
+      vel of signal integrity without compromising in protecting sensitive chips against the most stringently characteri
+      zed ESD strikes.
+
+
+
+
+      Features and benefits                                      Application information
+         ESD Protect for 2 high-speed I/O channels                 Video Graphics Cards
+         Provide ESD protechtion for each channel to               USB2.0 Power and Data lines protechtion
+          IEC 61000-4-2(ESD)±30kV(air),±30kV(contact)               10/100/1000 Ethernet
+         Low Working Voltage: 5.0V                                 Notebooks and PC Computers
+         Low Capacitance: 0.8pF (I/O-GND)                          IEEE 1394 Firewire Ports
+         Low Clamping Voltage                                      Portable electronics
+         Response time is typically < 1 ns                         SIM ports
+         Array of surge rated diodes with internal equivalent
+          TVS diodes
+         Small package saves board space
+         RoHS compliant
+
+
+
+
+      Reference News
+               SOT23-6                            Graphic symbol                                Marking
+
+
+
+
+                                                                                                UL26
+
+
+
+
+Copyright© Msksemi Incorporated                                                                          www.msksemi.com
+                                                                              MSUSBLC6-2SC6
+
+       Maximum Ratings (T = 25 °C, unless otherwise specified)
+                                     OP
+
+
+
+
+                                  Parameter                                 Symbol              Value             Unit
+
+         Peak Pulse Power (Tp = 8/20μs)                                       PPPM                78              W
+
+         Rated Peak Pulse Current (Tp = 8/20μs)                               IPPM                 6               A
+
+         ESD voltage IEC 61000-4-2 (air discharge)                            VESD                30              kV
+
+         ESD voltage IEC 61000-4-2 (contact discharge)                        VESD                30              kV
+
+         Maximum lead temperature for soldering during 10s                        TL              260             °C
+
+         Storage Temperature Range                                            Tstg            -55 to +150         °C
+
+         Operating Temperature Range                                          TOP             -40 to +125         °C
+
+
+
+
+       Electrical Characteristics (T = 25 °C, unless otherwise specified)
+                                              OP
+
+
+
+
+                   Parameter                  Symbol     Min       Typ    Max          Unit            Condition
+
+         Reverse Working Voltage               VRWM          --     --      5.0         V
+
+         Breakdown Voltage                         VBR       6.5    --      9.0         V               IT=1mA
+
+         Leakage Current ILeak                      IR       --     --    100          nA               VRWM=5V
+
+         Clamping Voltage(I/O-GND)                 VC        --    11.0   13.0          V        IPP=6A,Tp=8/20μs
+
+         Clamping Voltage(VDD-GND)                 VC        --    11.0   13.0          V        IPP=8A,Tp=8/20μs
+
+                                                                                                  VR=0V, f=1MHz I/O
+         Junction Capacitance                      Cj        --    0.4      0.5        pF            to I/O
+
+                                                                                                  VR=0V, f=1MHz I/O
+         Junction Capacitance                      Cj        --    0.8      1.0        pF           to GND
+
+
+
+
+Copyright© Msksemi Incorporated                                                                             www.msksemi.com
+                                                     MSUSBLC6-2SC6
+
+      TypicalCharacteristics
+
+
+
+
+                  IEC61000−4−2 Waveform   IEC 61000-4-5 Waveform( 8/20µs pulse)
+
+
+
+
+Copyright© Msksemi Incorporated                                               www.msksemi.com
+                                                               MSUSBLC6-2SC6
+     6273DFNDJH2XWOLQH'LPHQVLRQV
+
+
+
+
+                                                   Dimensions In Millimeters   Dimensions In Inches
+                                          Symbol
+                                                       Min.          Max.       Min.           Max.
+                                           A          1.050         1.250      0.041          0.049
+                                           A1         0.000         0.100      0.000          0.004
+                                           A2         1.050         1.150      0.041          0.045
+                                           b          0.300         0.500      0.012          0.020
+                                           c          0.100         0.200      0.004          0.008
+                                           D          2.820         3.020      0.111          0.119
+                                           E1         1.500         1.700      0.059          0.067
+                                           E          2.650         2.950      0.104          0.116
+                                            e              0.950(BSC)               0.037(BSC)
+                                           e1         1.800         2.000      0.071          0.079
+                                            L         0.300         0.600      0.012          0.024
+                                                       0°            8°         0°             8°
+
+
+
+
+     627 6XJJHVWHG3DG/D\RXW
+
+
+
+
+     REEL SPECIFICATION
+
+                      P/N              PKG                                     QTY
+
+                 MSUSBLC6-2SC6        SOT-23-6                                 3000
+
+
+
+
+Copyright© Msksemi Incorporated                                                            www.msksemi.com
+                                                                                       MSUSBLC6-2SC6
+
+                                                             Attention
+
+
+
+  ■ Any and all MSKSEMI Semiconductor products described or contained herein do not                     have specifications   that can
+
+  handle applications that require extremely high levels of reliability, such as life-support   systems, aircraft's control systems, or
+
+  other applications whose failure can be reasonably expected to result in serious physical and/or material damage. Consult with
+
+  your MSKSEMI Semiconductor representative          nearest    you before using any MSKSEMI Semiconductor products described
+
+  or contained herein in such applications.
+
+  ■ MSKSEMI Semiconductor assumes no responsibility for equipment failures that result from using products               at values that
+
+  exceed, even momentarily, rated values (such as maximum ratings, operating condition ranges, or other parameters) listed in
+
+  products specificationsof any andall MSKSEMI Semiconductor products described orcontained herein.
+  ■ Specifications of any and all MSKSEMI Semiconductor products described or contained herein stipulate the
+  performance, characteristics, and functions of the described products in the independent state, and are not guarantees of the
+
+  performance, characteristics, and functions of the described products as mounted in the customer’s products or equipment. To
+
+  verify symptoms and states that cannot be evaluated in an independent device, the customer should always evaluate and test
+
+  devices mounted in the customer’sproducts orequipment.
+
+  ■ MSKSEMI Semiconductor. strives to supply high-quality high-reliability products. However, any and all semiconductor
+  products fail with someprobability. It is possiblethat these probabilistic failures could give rise to accidents or events that could
+
+  endanger human lives, that could give rise to smoke or fire, or that could cause damage to other property. When designing
+
+  equipment, adopt safety measures so that these kinds of accidents          or events cannot occur. Such measures include but are
+
+  not limited to protective circuits anderror prevention circuitsfor safedesign, redundant design, and structural design.
+
+  ■ In the event that any or all MSKSEMI Semiconductor products(including technical data, services) described             or contained
+
+  herein are controlled under any of applicable local export control laws and regulations, such products must not be exported
+
+  without obtaining the export license from theauthorities     concerned    in accordance with the above law.
+  ■ No part of this publication may be reproduced or transmitted in any form or by any means, electronic or
+  mechanical, including photocopying and recording, or any information storage or retrieval system, or otherwise, without the prior
+
+  written permission of MSKSEMI Semiconductor.
+
+  ■    Information (including circuit diagrams and circuit parameters) herein is for example only ; it is not guaranteed for volume
+
+  production. MSKSEMI Semiconductor believes information herein is accurate and              reliable, but no guarantees are made or
+
+  implied regarding its use or any infringementsof intellectual property rights or other rightsof third parties.
+  ■    Any and all information described or contained herein are subject to change without notice due to
+  product/technology improvement, etc. Whendesigning equipment, referto the "Delivery Specification" for the MSKSEMI
+
+  Semiconductor productthat you intend to use.
+
+
+
+
+Copyright© Msksemi Incorporated                                                                                    www.msksemi.com
+

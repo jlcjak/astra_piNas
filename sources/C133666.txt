@@ -1,0 +1,536 @@
+                                                                                                      SMBJ
+
+                                                                                                    Transil™
+
+Features
+■   Peak pulse power:
+    – 600 W (10/1000 μs)                                                       A
+    – 4 kW (8/20 µs)
+■   Stand off voltage range: from 5 V to 188 V
+■   Unidirectional and bidirectional types                         K
+■   Low leakage current:                                           Unidirectional         Bidirectional
+    – 0.2 µA at 25 °C                                                           SMB
+    – 1 µA at 85 °C                                                       (JEDEC DO-214AA)
+
+■   Operating Tj max: 150 °C
+■   High power capability at Tj max:
+    – 515 W (10/1000 µs)
+■   JEDEC registered package outline                    Description
+                                                        The SMBJ Transil series has been designed to
+Complies with the following standards
+                                                        protect sensitive equipment against electrostatic
+■   IEC 61000-4-2 level 4:                              discharges according to IEC 61000-4-2, and
+    – 15 kV (air discharge)                             MIL STD 883, method 3015, and electrical over
+    – 8 kV (contact discharge)                          stress according to IEC 61000-4-4 and 5. These
+                                                        devices are more generally used against surges
+■   IEC 61000-4-5
+                                                        below 600 W (10/1000 μs).
+■   MIL STD 883G, method 3015-7 Class 3B:
+                                                        Planar technology makes these devices suitable
+    – 25 kV HBM (human body model)
+                                                        for high-end equipment and SMPS where low
+■   Resin meets UL 94, V0                               leakage current and high junction temperature are
+■   MIL-STD-750, method 2026 soldererability            required to provide reliability and stability over
+                                                        time.
+■   EIA STD RS-481 and IEC 60286-3 packing
+■   IPC 7531 footprint                                  SMBJ are packaged in SMB (SMB footprint in
+                                                        accordance with IPC 7531 standard).
+
+
+
+
+                                                        TM: Transil is a trademark of STMicroelectronics
+
+
+
+October 2010                                 Doc ID 5616 Rev 10                                                 1/10
+                                                                                                           www.st.com   10
+Characteristics                                                                                                                               SMBJ
+
+
+1                 Characteristics
+
+Table 1.         Absolute maximum ratings (Tamb = 25 °C)
+  Symbol                                          Parameter                                                       Value                   Unit
+
+    PPP         Peak pulse power dissipation (1)                                      Tj initial = Tamb            600                        W
+    Tstg        Storage temperature range                                                                    -65 to +150                      °C
+       Tj       Operating junction temperature range                                                         -55 to +150                      °C
+       TL       Maximum lead temperature for soldering during 10 s.                                                260                        °C
+1. For a surge greater than the maximum values, the diode will fail in short-circuit.
+
+Table 2.         Thermal resistances
+    Symbol                                            Parameter                                                   Value                  Unit
+
+    Rth(j-l)      Junction to leads                                                                                20                    °C/W
+    Rth(j-a)      Junction to ambient on recommended pad layout                                                   100                    °C/W
+
+Figure 1.         Electrical characteristics - definitions
+                                                                            I                                      I
+
+            Symbol Parameter                                               IF                                     IPP
+            VRM    Stand-off voltage                      Unidirectional
+
+            VBR    Breakdown voltage
+            VCL    Clamping voltage                                                                                IR
+                                                          VCL VBR VRM                 VF     V
+            IRM    Leakage current @ VRM                                                             VCLVBR VRM   IRM                     V
+            IPP    Peak pulse current                                           IRM                                     IRM   VRMVBR VCL
+                                                                                 IR
+            αT     Voltage temperature coefficient                                                                       IR
+
+            VF     Forward voltage drop
+            RD     Dynamic resistance                                           IPP                                     IPP
+                                                                                                                              Bidirectional
+
+
+
+
+Figure 2.         Pulse definition for electrical characteristics
+                                            % Ipp
+                                                            Repetitive pulse current
+                                                            tr = rise time (µs)
+                                      100                   tp = pulse duration time (µs)
+
+
+                                       50
+
+
+
+                                        0                                                             t
+                                                 tr         tp
+
+
+
+
+2/10                                                    Doc ID 5616 Rev 10
+SMBJ                                                                                                         Characteristics
+
+
+Table 3.       Electrical characteristics - parameter values (Tamb = 25 °C)
+                                                                   VCL @IPP    RD (2)         VCL @IPP       RD (2)
+                      IRM max@VRM             VBR @IR (1)                                                                αT (3)
+                                                                  10/1000 µs 10/1000 µs        8/20 µs      8/20 µs
+  Order code
+                    25 °C 85 °C             min     typ           max                        max                         max
+
+                           µA         V      V             mA      V      A(4)         Ω       V     A(4)       Ω      10-4/ °C
+
+SMBJ5.0A/CA           20        50   5.0    6.4    6.74     10     9.2     68        0.031   13.4    298     0.021        5.7
+SMBJ6.0A/CA           20        50   6.0    6.7    7.05     10    10.3     61        0.048   13.7    290     0.022        5.9
+SMBJ6.5A/CA           20        50   6.5    7.2    7.58     10    11.2     56        0.058   14.5    276     0.024        6.1
+SMBJ8.5A/CA           20        50   8.5    9.4     9.9     1     14.4    41.7       0.096   19.5    205     0.044        7.3
+SMBJ10A/CA           0.2        1    10     11.1 11.7       1      17      37        0.127   21.7    184     0.051        7.8
+SMBJ12A/CA           0.2        1    12     13.3    14      1     19.9     31        0.168   25.3    157     0.068        8.3
+SMBJ13A/CA           0.2        1    13     14.4 15.2       1     21.5     29        0.191   27.2    147     0.076        8.4
+SMBJ15A/CA           0.2        1    15     16.7 17.6       1     24.4    25.1       0.236   32.5    123     0.114        8.8
+SMBJ16A/CA           0.2        1    16     17.8 18.7       1      26     23.1       0.276   34.4    116     0.127        8.8
+SMBJ18A/CA           0.2        1    18     20.0 21.1       1     29.2    21.5       0.328   39.3    102     0.168        9.2
+SMBJ20A/CA           0.2        1    20     22.2 23.4       1     32.4    19.4       0.404   42.8     93     0.196        9.4
+SMBJ22A/CA           0.2        1    22     24.4 25.7       1     35.5    17.7       0.481   48.3     83     0.257        9.6
+SMBJ24A/CA           0.2        1    24     26.7 28.1       1     38.9     16        0.587    50      80     0.256        9.6
+SMBJ26A/CA           0.2        1    26     28.9 30.4       1     42.1    14.9       0.683   53.5     75     0.288        9.7
+SMBJ28A/CA           0.2        1    28     31.1 32.7       1     45.4    13.8       0.802    59      68     0.363        9.8
+SMBJ30A/CA           0.2        1    30     33.3 35.1       1     48.4     13        0.888   64.3     62     0.443        9.9
+SMBJ33A/CA           0.2        1    33     36.7 38.6       1     53.3    11.8       1.08    69.7     57     0.512       10.0
+SMBJ36A/CA           0.2        1    36     40.0 42.1       1     58.1    10.3       1.35     76      52     0.611       10.0
+SMBJ40A/CA           0.2        1    40     44.4 46.7       1     64.5    9.7        1.59     84      48     0.728       10.1
+SMBJ48A/CA           0.2        1    48     53.3 56.1       1     77.4    8.1        2.28     100     40      1.03       10.3
+SMBJ58A/CA           0.2        1    58     64.4 67.8       1     93.6    6.7        3.34     121     33      1.51       10.4
+SMBJ70A/CA           0.2        1    70     77.8 81.9       1     113     5.5        4.91     146     27      2.22       10.5
+SMBJ85A/CA           0.2        1    85      94     99      1     137     4.6        7.18     178    22.5     3.29       10.6
+SMBJ100A/CA          0.2        1    100    111     117     1     162     3.8        10.3     212     19      4.69       10.7
+SMBJ130A/CA          0.2        1    130    144     152     1     209       3        16.5     265     15      7.03       10.8
+SMBJ154A/CA          0.2        1    154    171     180     1     246     2.4        23.8     317    12.6     10.2       10.8
+SMBJ170A/CA          0.2        1    170    189     199     1     275     2.2        30.0     353    11.3     12.7       10.8
+SMBJ188A/CA          0.2        1    188    209     220     1     328       2        48.5     388    10.3     15.2       10.8
+1. Pulse test : tp < 50 ms
+2. To calculate maximum clamping voltage at other surge level,use the following formula: VCLmax = VCL - RD x (IPP - IPPappli)
+   where IPPappli is the surge current in the application
+3. To calculate VBR or VCL versus junction temperature, use the following formulas:
+   VBR @ TJ = VBR @ 25°C x (1 + αT x (TJ – 25))
+   VCL @ TJ = VCL @ 25°C x (1 + αT x (TJ – 25))
+4. Surge capability given for both directions for unidirectional and bidirectional types.
+
+
+
+
+                                                         Doc ID 5616 Rev 10                                                     3/10
+Characteristics                                                                                                                                          SMBJ
+
+
+Figure 3.             Peak pulse power dissipation                                  Figure 4.                Peak pulse power versus
+                      versus initial junction temperature                                                    exponential pulse duration
+                                                                                                             (Tj initial = 25 °C)
+       Ppp (W)                                                                                     PPP(kW)
+ 700                                                                                       100.0
+                                                                                                                                         Tj initial = 25 °C
+ 600
+
+
+ 500
+                                                                                            10.0
+
+ 400
+
+
+ 300
+                                                                                             1.0
+ 200
+
+
+ 100
+                                                Tj(°C)                                                                   tP(ms)
+   0                                                                                         0.1
+       0         25        50      75    100        125     150            175               1.0E-03          1.0E-02    1.0E-01    1.0E+00             1.0E+01
+
+
+
+
+Figure 5.             Clamping voltage versus peak pulse current (exponential waveform, maximum values)
+                        I PP(A )
+       1000.0
+                            T j initial=25 °C
+
+
+
+
+           100.0
+
+
+
+
+            10.0                                                                                                                      8/20 µs
+
+
+
+                                                                                                                                    10/1000 µs
+             1.0
+
+
+                                                 SMBJ5.0A        SMBJ12A         SMBJ24A           SMBJ40A     SMBJ85A   SMBJ188A
+                                                                                                                                    10 ms
+
+
+                                                                                                                                    V CL(V)
+             0.1
+                       1                                    10                                                    100                             1000
+
+
+
+
+4/10                                                             Doc ID 5616 Rev 10
+SMBJ                                                                                                                                                                               Characteristics
+
+
+Figure 6.                 Junction capacitance versus           Figure 7.                                                            Junction capacitance versus
+                          reverse applied voltage for                                                                                reverse applied voltage for
+                          unidirectional types (typical values)                                                                      bidirectional types (typical values)
+             C(pF)                                                                                                   C(pF)
+ 10000                                                                                                      10000
+                                                                                     F=1 MHz                                                                                               F=1 MHz
+                                                                                  Vosc=30 mVRMS                                                                                         Vosc=30 mVRMS
+                                                                                     Tj=25 °C                                                                                              Tj=25 °C
+                                                                                                                                                 SMBJ5.0CA
+                                        SMBJ5.0A
+  1000                                                                                                       1000                                        SMBJ12CA
+
+                                                    SMBJ12A
+                                                                                                                                                                  SMBJ24CA
+
+                                                             SMBJ24A                                                                                                   SMBJ40CA
+
+   100                                                            SMBJ40A                                     100                                                                  SMBJ85CA
+
+                                                                          SMBJ85A                                                                                                        SMBJ188CA
+
+
+                                           VR(V)                                      SMBJ188A                                                                 VR(V)
+       10                                                                                                      10
+             1                           10                            100                          1000            1                            10                          100                           1000
+
+
+
+Figure 8.                 Peak forward voltage drop                                                        Figure 9.                 Relative variation of thermal
+                          versus peak forward current                                                                                impedance, junction to ambient,
+                          (typical values)                                                                                           versus pulse duration
+                 IFM(A)                                                                                            Zth(j-a) / Rth(j-a)
+ 1.0E+02                                                                                                    1.00
+                                                                                                                        Recommended pad layout
+                                                                                                                        PCB FR4, copper thickness = 35 µm
+
+
+ 1.0E+01
+                           Tj =125 °C
+
+
+                                                Tj =25 °C
+ 1.0E+00                                                                                                    0.10
+
+
+
+
+ 1.0E-01
+
+
+                                                                             VFM(V)
+                                                                                                                                                                                                   tP(s)
+ 1.0E-02                                                                                                    0.01
+             0.0           0.5            1.0            1.5            2.0             2.5          3.0     1.0E-03           1.0E-02        1.0E-01     1.0E+00      1.0E+01        1.0E+02          1.0E+03
+
+
+
+Figure 10. Thermal resistance, junction to                                                                 Figure 11. Leakage current versus junction
+           ambient, versus copper surface                                                                             temperature (typical values)
+           under each lead
+        Rth(J-A)(°C/W)                                                                                                  IR (nA)
+ 110                                                                                                        1.E+03
+                                                             PCB FR4, copper thickness = 35 µm
+ 100
+                                                                                                                             VR=VRM
+  90                                                                                                                        VRM < 10 V
+
+  80                                                                                                        1.E+02
+
+  70
+  60
+                                                                                                            1.E+01
+  50
+  40
+  30
+                                                                                                            1.E+00
+                                                                                                                                                   VR=VRM
+  20
+                                                                                                                                                  VRM ≥ 10 V
+  10                                                                                                                                                                                          Tj(°C)
+                                                    SCU(cm²)
+   0                                                                                                        1.E-01
+       0.0         0.5    1.0     1.5         2.0      2.5       3.0     3.5      4.0         4.5    5.0             25                  50             75             100              125                150
+
+
+
+
+                                                                                          Doc ID 5616 Rev 10                                                                                                5/10
+Ordering information scheme                                                                    SMBJ
+
+
+2         Ordering information scheme
+
+          Figure 12. Ordering information scheme
+
+
+                                                               SM   B   J   85   CA   -   TR
+
+
+                     Surface mount
+
+                     Peak pulse power
+                     B = 600 W Transil in SMB
+                     Stand off voltage
+                     85 = 85 V
+                     Type
+                     A = Unidirectional
+                     CA = Bidirectional
+                     Delivery mode
+                     TR = Tape and reel
+
+
+
+
+6/10                                      Doc ID 5616 Rev 10
+SMBJ                                                                                           Package information
+
+
+3      Package information
+
+       ●        Case: JEDEC DO-214AA molded plastic over planar junction
+       ●        Terminals: solder plated - solderable per MIL-STD-750, Method 2026
+       ●        Polarity: for unidirectional types the band indicates cathode
+       ●        Flammability: epoxy is rated UL94V-0
+       ●        RoHS package
+       In order to meet environmental requirements, ST offers these devices in different grades of
+       ECOPACK® packages, depending on their level of environmental compliance. ECOPACK®
+       specifications, grade definitions and product status are available at: www.st.com.
+       ECOPACK® is an ST trademark.
+
+       Table 4.         SMB dimensions
+                                                                                               Dimensions
+                          E1
+                                                                      Ref.         Millimeters                 Inches
+
+                                                                                 Min.         Max.         Min.          Max.
+                                         D
+                                                                      A1         1.90         2.45        0.075          0.096
+                                                                      A2         0.05         0.20        0.002          0.008
+                                                                       b         1.95         2.20        0.077          0.087
+                           E
+                                                                       c         0.15         0.40        0.006          0.016
+                                                 A1                    D         3.30         3.95        0.130          0.156
+
+           C                                    A2
+                                                                       E         5.10         5.60        0.201          0.220
+
+                                 L                          b
+                                                                      E1         4.05         4.60        0.159          0.181
+
+                                                                       L         0.75         1.50        0.030          0.059
+
+       Figure 13. Footprint dimensions                          Figure 14. Marking layout(1)
+                  in mm (inches)
+
+
+                1.62     2.60       1.62
+               (0.064) (0.102)    (0.064)                                  Cathode bar ( unidirectional devices only )
+
+
+
+                                                                                                     e: ECOPACK compliance
+                                                   2.18                               e
+                                                                                                     XXX: Marking
+                                                  (0.086)
+                                                                      x x x                          Z: Manufacturing location
+                                                                                                     Y: Year
+                                                                                                     WW: week
+                                                                      z y ww
+                          5.84
+                        (0.23)
+
+
+       1. Marking layout can vary according to assembly location.
+
+
+
+
+                                             Doc ID 5616 Rev 10                                                            7/10
+Package information                                                         SMBJ
+
+
+          Table 5.    Marking
+                Order code      Marking              Order code   Marking
+
+           SMBJ5.0A-TR           BUZ           SMBJ5.0CA-TR        BBZ
+           SMBJ6.0A-TR           BUA           SMBJ6.0CA-TR        BBA
+           SMBJ6.5A-TR           BUB           SMBJ6.5CA-TR        BBB
+           SMBJ8.5A-TR           BUC           SMBJ8.5CA-TR        BBC
+           SMBJ10A-TR            BUD           SMBJ10CA-TR         BBD
+           SMBJ12A-TR            BUE           SMBJ12CA-TR         BBE
+           SMBJ13A-TR            BUF           SMBJ13CA-TR         BBF
+           SMBJ15A-TR            BUG           SMBJ15CA-TR         BBG
+           SMBJ16A-TR            CUG           SMBJ16CA-TR         CBG
+           SMBJ18A-TR            BUH           SMBJ18CA-TR         BBH
+           SMBJ20A-TR             BUI          SMBJ20CA-TR          BBI
+           SMBJ22A-TR            BVA           SMBJ22CA-TR         CBH
+           SMBJ24A-TR            BUJ           SMBJ24CA-TR         BBJ
+           SMBJ26A-TR            BUK           SMBJ26CA-TR         BBK
+           SMBJ28A-TR            BUL           SMBJ28CA-TR         BBL
+           SMBJ30A-TR            BUM           SMBJ30CA-TR         BBM
+           SMBJ33A-TR            BUN           SMBJ33CA-TR         BBN
+           SMBJ36A-TR            CUN           SMBJ36CA-TR         CBN
+           SMBJ40A-TR            CUJ           SMBJ40CA-TR         CBJ
+           SMBJ43A-TR            CUW           SMBJ43CA-TR         CBW
+           SMBJ48A-TR            BUW           SMBJ48CA-TR         BBW
+           SMBJ58A-TR            BUO           SMBJ58CA-TR         BBO
+           SMBJ70A-TR            CUM           SMBJ70CA-TR         CBM
+           SMBJ85A-TR            BUQ           SMBJ85CA-TR         BBQ
+           SMBJ100A-TR           CUQ           SMBJ100CA-TR        CBQ
+           SMBJ130A-TR           BUS           SMBJ130CA-TR        BBS
+           SMBJ154A-TR           BUT           SMBJ154CA-TR        BBT
+           SMBJ170A-TR           BUU           SMBJ170CA-TR        BBU
+           SMBJ188A-TR           BUV           SMBJ188CA-TR        BBV
+
+
+
+
+8/10                            Doc ID 5616 Rev 10
+SMBJ                                                                                        Ordering information
+
+
+4      Ordering information
+
+       Table 6.       Order codes
+            Order code                   Marking             Package       Weight      Base qty      Delivery mode
+
+       SMBJxxxA/CA-TR(1) See Table 5 on page 8                 SMB          0.11 g        2500        Tape and reel
+       1. Where xxx is nominal value of VBR and A or CA indicates unidirectional or bidirectional version. See
+          Table 3 for list of available devices and their order codes
+
+
+
+
+5      Revision history
+
+       Table 7.       Document revision history
+              Date              Revision                                      Changes
+
+            Oct-2001                 4         Previous issue
+                                               Reformatted to current template. Added directional (uni and bi)
+          10-Feb-2005                5
+                                               indications to graphics. Added ECOPACK statement.
+          16-Nov-2006                6         Add part numbers SMBJ36A-TR and SMBJ36CA-TR in Table 3.
+                                               Reformatted to current standards. Updated ECOPACK
+          14-May-2009                7
+                                               statement. Added part number SMBJ43CA/A
+          17-Sep-2009                8         Document updated for low leakage current.
+           09-Jul-2010               9         Changed timescale in Figure 9.
+          20-Oct-2010               10         Updated Figure 13.
+
+
+
+
+                                            Doc ID 5616 Rev 10                                                   9/10
+                                                                                                                                        SMBJ
+
+
+
+
+                                                           Please Read Carefully:
+
+
+Information in this document is provided solely in connection with ST products. STMicroelectronics NV and its subsidiaries (“ST”) reserve the
+right to make changes, corrections, modifications or improvements, to this document, and the products and services described herein at any
+time, without notice.
+All ST products are sold pursuant to ST’s terms and conditions of sale.
+Purchasers are solely responsible for the choice, selection and use of the ST products and services described herein, and ST assumes no
+liability whatsoever relating to the choice, selection or use of the ST products and services described herein.
+No license, express or implied, by estoppel or otherwise, to any intellectual property rights is granted under this document. If any part of this
+document refers to any third party products or services it shall not be deemed a license grant by ST for the use of such third party products
+or services, or any intellectual property contained therein or considered as a warranty covering the use in any manner whatsoever of such
+third party products or services or any intellectual property contained therein.
+
+
+UNLESS OTHERWISE SET FORTH IN ST’S TERMS AND CONDITIONS OF SALE ST DISCLAIMS ANY EXPRESS OR IMPLIED
+WARRANTY WITH RESPECT TO THE USE AND/OR SALE OF ST PRODUCTS INCLUDING WITHOUT LIMITATION IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (AND THEIR EQUIVALENTS UNDER THE LAWS
+OF ANY JURISDICTION), OR INFRINGEMENT OF ANY PATENT, COPYRIGHT OR OTHER INTELLECTUAL PROPERTY RIGHT.
+UNLESS EXPRESSLY APPROVED IN WRITING BY AN AUTHORIZED ST REPRESENTATIVE, ST PRODUCTS ARE NOT
+RECOMMENDED, AUTHORIZED OR WARRANTED FOR USE IN MILITARY, AIR CRAFT, SPACE, LIFE SAVING, OR LIFE SUSTAINING
+APPLICATIONS, NOR IN PRODUCTS OR SYSTEMS WHERE FAILURE OR MALFUNCTION MAY RESULT IN PERSONAL INJURY,
+DEATH, OR SEVERE PROPERTY OR ENVIRONMENTAL DAMAGE. ST PRODUCTS WHICH ARE NOT SPECIFIED AS "AUTOMOTIVE
+GRADE" MAY ONLY BE USED IN AUTOMOTIVE APPLICATIONS AT USER’S OWN RISK.
+
+
+Resale of ST products with provisions different from the statements and/or technical features set forth in this document shall immediately void
+any warranty granted by ST for the ST product or service described herein and shall not create or extend in any manner whatsoever, any
+liability of ST.
+
+
+                          ST and the ST logo are trademarks or registered trademarks of ST in various countries.
+
+                         Information in this document supersedes and replaces all information previously supplied.
+
+         The ST logo is a registered trademark of STMicroelectronics. All other names are the property of their respective owners.
+
+
+                                               © 2010 STMicroelectronics - All rights reserved
+
+
+                                                   STMicroelectronics group of companies
+ Australia - Belgium - Brazil - Canada - China - Czech Republic - Finland - France - Germany - Hong Kong - India - Israel - Italy - Japan -
+   Malaysia - Malta - Morocco - Philippines - Singapore - Spain - Sweden - Switzerland - United Kingdom - United States of America
+                                                                 www.st.com
+
+
+
+
+10/10                                                       Doc ID 5616 Rev 10
+

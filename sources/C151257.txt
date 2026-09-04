@@ -1,0 +1,541 @@
+                                                                                          TVS Diodes
+                                                                                          Surface Mount – 600 W > SMBJ series
+
+SMBJ Series                                                                                                                                                       RoHS                    Pb e3
+
+
+
+                                                                                                                 Description
+
+                                                                                                                 The SMBJ series is designed specifically to protect
+          Uni-directional                                                                                        sensitive electronic equipment from voltage transients
+                                                                                                                 induced by lightning and other transient voltage events.
+
+
+                                                                                                                 Features
+                                                                                      Bi-directional
+                                                                                                                 • 600 W peak pulse power           • UL Recognized compound
+                                                                                                                     capability at 10/1000 μs         meeting flammability
+                                                                                                                     waveform, repetition rate        rating V-0
+                                                                                                                     (duty cycles):0.01 %           • Matte tin lead–free plated
+                                                                                                                 • For surface mounted              • Halogen free and RoHS
+  Agency Approvals                                                                                                   applications to optimize         compliant
+                                                                                                                     board space
+                                                                                                                                                    • Pb-free E3 means 2nd
+     Agency                                         Agency File Number                                           • Low dynamic resistance             level interconnect is Pb-
+                                                                                                                 • Typical failure mode is           free and the terminal finish
+                                                             E230531
+                                                                                                                    short from over-specified         material is tin(Sn) (IPC/
+                                                                                                                    voltage or current                JEDEC J-STD-609A.01)
+  Maximum Ratings and Thermal Characteristics
+                                                                                                                 • IEC-61000-4-2 ESD 30            • Recognized to UL 497B
+  (TA=25OC unless otherwise noted)
+                                                                                                                    kV(Air), 30 kV (Contact)          as an Isolated Loop Circuit
+                                                                                                                 • ESD protection of data            Protector
+                           Parameter                                    Symbol           Value           Unit
+                                                                                                                    lines in accordance with        • Products manufactured
+  Peak Pulse Power Dissipation(Fig.2)                                                                               IEC 61000-4-2                     outside China are available
+  by 10/1000 µs Test Waveform(Fig.4) (Note                                 PPPM            600             W
+  1),(Note 2)-Single Die Parts                                                                                   • Whisker test is conducted         ( parts with an E suffix
+  Peak Pulse Power Dissipation(Fig.2)                                                                               based on JEDEC                    ). See “Ordering and
+  by 10/1000us Test Waveform(Fig.4) (Note 1),                              PPPM            800             W        JESD201A per its table 4a         Packaging Options “
+  (Note 2)-Stacked Die Parts (Note 5)                                                                               and 4c pass Class 1 and           section for details
+  Power Dissipation on Infinite Heat Sink at TL
+                                                                            PD             5.0             W        Class 2
+  = 50OC
+  Peak Forward Surge Current, 8.3ms Single Half                                                                  • VBR @ TJ= VBR @ 25
+                                                                            IFSM           100             A
+  Sine Wave (Note 3)                                                                                                °C x (1+αT x (TJ - 25))
+  Maximum Instantaneous Forward Voltage at 50                                                                       (αT:Temperature
+                                                                            VF          3.5 / 5.0          V
+  A for Unidirectional Only (Note 4)
+                                                                                                                    Coefficient, typical value is
+  Operating Temperature Range                                                TJ       -65 to 150           °C
+                                                                                                                    0.1%)
+  Storage Temperature Range                                                TSTG       -65 to 175           °C
+  Typical Thermal Resistance Junction to Lead                              RƟJL             20           °C/W
+  Typical Thermal Resistance Junction to
+                                                                           RƟJA            100           °C/W
+  Ambient
+
+Notes:
+1. Non-repetitive current pulse , per Fig. 4 and derated above TJ (initial) =25 OC per Fig. 3.
+2. Mounted on copper pad area of 0.2 x 0.2” (5.0 x 5.0 mm) to each terminal.
+3. Measured on 8.3 ms single half sine wave or equivalent square wave for unidirectional device only, duty
+cycle = 4 per minute maximum.
+4. VF < 3.5 V for single die parts and VF < 5.0 V for stacked-die parts.
+5. For stacked die component details, please refer to part numbers labeled by * in Electrical Characteristics.
+
+
+  Functional Diagram                                                                                             Applications
+
+                                                                                                                 TVS components are ideal for the protection of I/O
+                                                                                                                 Interfaces, VCC bus and other vulnerable circuits used in
+                                                                                                                 Telecom, Computer, Industrial and Consumer electronic
+                                                 Bi-directional                                                  applications.
+
+
+                 Cathode                                                                 Anode
+
+                                                 Uni-directional
+
+
+
+
+                                                                                                                                                                               © 2025 Littelfuse, Inc.
+                                                                                                                                                Specifications are subject to change without notice.
+                                                                                                                                                                             Revised: JC.07/04/25 v4.
+                                                                                             TVS Diodes
+                                                                                             Surface Mount – 600 W > SMBJ series
+
+
+
+
+  Electrical Characteristics (T =25°C unless otherwise noted)
+                                                         A
+
+
+
+
+                                                                                                Breakdown                    Test        Maximum                  Maximum
+                                                                          Reverse                                                                    Maximum                         Maximum       Agency
+       Part                    Part                   Marking                                   Voltage VBR               Current        Clamping                  Reverse
+                                                                         Stand off                                                                      Peak                        Temperature Approval
+     Number                   Number                                                            (Volts) @ IT                             Voltage VC               Leakage IR
+                                                                         Voltage VR                                            IT                   Pulse Current                   coefficient of
+      (Uni)                     (Bi)                                                                                                       @ Ipp                    @ VR
+                                                                           (Volts)                                                                     Ipp (A)                        VBR (%/C)
+                                                    UNI         BI                            MIN           MAX             (mA)             (V)                     (µA)
+  SMBJ5.0A                 SMBJ5.0CA                KE         AE              5.0             6.40          7.00             10             9.2        65.3          800                 0.041                X
+  SMBJ6.0A                 SMBJ6.0CA                KG         AG              6.0             6.67          7.37             10            10.3        58.3          800                 0.046                X
+  SMBJ6.5A                 SMBJ6.5CA                KK         AK              6.5             7.22          7.98             10            11.2        53.6          500                 0.052                X
+   SMBJ7.0A                 SMBJ7.0CA               KM         AM              7.0             7.78          8.60             10            12.0        50.0          200                 0.058                X
+   SMBJ7.5A                 SMBJ7.5CA               KP         AP              7.5             8.33          9.21              1            12.9        46.6          100                 0.061                X
+  SMBJ8.0A                 SMBJ8.0CA                KR         AR              8.0             8.89          9.83              1            13.6        44.2           50                 0.064                X
+  SMBJ8.5A                 SMBJ8.5CA                KT         AT              8.5             9.44         10.40              1            14.4        41.7           20                 0.066                X
+  SMBJ9.0A                 SMBJ9.0CA                KV         AV              9.0            10.00         11.10              1            15.4        39.0           10                 0.069                X
+   SMBJ10A                  SMBJ10CA                KX         AX             10.0            11.10         12.30              1            17.0        35.3            5                 0.071                X
+   SMBJ11A                  SMBJ11CA                KZ         AZ             11.0            12.20         13.50              1            18.2        33.0            1                 0.074                X
+   SMBJ12A                  SMBJ12CA                LE         BE             12.0            13.30         14.70              1            19.9        30.2            1                 0.075                X
+   SMBJ13A                  SMBJ13CA                LG         BG             13.0            14.40         15.90              1            21.5        28.0            1                 0.076                X
+   SMBJ14A                  SMBJ14CA                LK         BK             14.0            15.60         17.20              1            23.2        25.9            1                 0.080                X
+   SMBJ15A                  SMBJ15CA                LM         BM             15.0            16.70         18.50              1            24.4        24.6            1                 0.083                X
+   SMBJ16A                  SMBJ16CA                LP         BP             16.0            17.80         19.70              1            26.0        23.1            1                 0.084                X
+   SMBJ17A                  SMBJ17CA                LR         BR             17.0            18.90         20.90              1            27.6        21.8            1                 0.085                X
+   SMBJ18A                  SMBJ18CA                LT         BT             18.0            20.00         22.10              1            29.2        20.6            1                 0.088                X
+   SMBJ20A                  SMBJ20CA                LV         BV             20.0            22.20         24.50              1            32.4        18.6            1                 0.091                X
+   SMBJ22A                  SMBJ22CA                LX         BX             22.0            24.40         26.90              1            35.5        16.9            1                 0.092                X
+   SMBJ24A                  SMBJ24CA                LZ         BZ             24.0            26.70         29.50              1            38.9        15.5            1                 0.092                X
+   SMBJ26A                  SMBJ26CA                ME         CE             26.0            28.90         31.90              1            42.1        14.3            1                 0.093                X
+   SMBJ28A                  SMBJ28CA                MG         CG             28.0            31.10         34.40              1            45.4        13.3            1                 0.094                X
+   SMBJ30A                  SMBJ30CA                MK         CK             30.0            33.30         36.80              1            48.4        12.4            1                 0.096                X
+   SMBJ33A                  SMBJ33CA                MM         CM             33.0            36.70         40.60              1            53.3        11.3            1                 0.097                X
+   SMBJ36A                  SMBJ36CA                MP         CP             36.0            40.00         44.20              1            58.1        10.4            1                 0.098                X
+   SMBJ40A                  SMBJ40CA                MR         CR             40.0            44.40         49.10              1            64.5         9.3            1                 0.099                X
+   SMBJ43A                  SMBJ43CA                MT         CT             43.0            47.80         52.80              1            69.4         8.7            1                 0.100                X
+   SMBJ45A                  SMBJ45CA                MV         CV             45.0            50.00         55.30              1            72.7         8.3            1                 0.101                X
+   SMBJ48A                  SMBJ48CA                MX         CX             48.0            53.30         58.90              1            77.4         7.8            1                 0.101                X
+   SMBJ51A                  SMBJ51CA                MZ         CZ             51.0            56.70         62.70              1            82.4         7.3            1                 0.101                X
+   SMBJ54A                  SMBJ54CA                NE         DE             54.0            60.00         66.30              1            87.1         6.9            1                 0.102                X
+   SMBJ58A                  SMBJ58CA                NG         DG             58.0            64.40         71.20              1            93.6         6.5            1                 0.103                X
+   SMBJ60A                  SMBJ60CA                NK         DK             60.0            66.70         73.70              1            96.8         6.2            1                 0.103                X
+   SMBJ64A                  SMBJ64CA                NM         DM             64.0            71.10         78.60              1           103.0         5.9            1                 0.104                X
+   SMBJ70A                  SMBJ70CA                NP         DP             70.0            77.80         86.00              1           113.0         5.3            1                 0.105                X
+   SMBJ75A                  SMBJ75CA                NR         DR             75.0            83.30         92.10              1           121.0         5.0            1                 0.106                X
+   SMBJ78A                  SMBJ78CA                NT         DT             78.0            86.70         95.80              1           126.0         4.8            1                 0.106                X
+   SMBJ85A                  SMBJ85CA                NV         DV             85.0            94.40        104.00              1           137.0         4.4            1                 0.106                X
+   SMBJ90A                  SMBJ90CA                NX         DX             90.0           100.00        111.00              1           146.0         4.1            1                 0.107                X
+  SMBJ100A                 SMBJ100CA                NZ         DZ            100.0           111.00        123.00              1           162.0         3.7            1                 0.107                X
+  SMBJ110A                 SMBJ110CA                PE         EE            110.0           122.00        135.00              1           177.0         3.4            1                 0.107                X
+  SMBJ120A                 SMBJ120CA                PG         EG            120.0           133.00        147.00              1           193.0         3.1            1                 0.108                X
+  SMBJ130A                 SMBJ130CA                PK         EK            130.0           144.00        159.00              1           209.0         2.9            1                 0.108                X
+  SMBJ150A                 SMBJ150CA                PM         EM            150.0           167.00        185.00              1           243.0         2.5            1                 0.108                X
+  SMBJ160A                 SMBJ160CA                PP         EP            160.0           178.00        197.00              1           259.0         2.3            1                 0.108                X
+  SMBJ170A                 SMBJ170CA                PR         ER            170.0           189.00        209.00              1           275.0         2.2            1                 0.108                X
+  SMBJ180A                 SMBJ180CA                PT         ET            180.0           201.00        222.00              1           292.0         2.1            1                 0.108                X
+  SMBJ188A                 SMBJ188CA                PB         EB            188.0           209.00        231.00              1           304.0         2.0            1                 0.110                X
+  SMBJ200A                 SMBJ200CA                PV         EV            200.0           224.00        247.00              1           324.0         1.9            1                 0.110                X
+  SMBJ220A                 SMBJ220CA                PX         EX            220.0           246.00        272.00              1           356.0         1.7            1                 0.110                X
+  SMBJ250A                 SMBJ250CA                PZ         EZ            250.0           279.00        309.00              1           405.0         1.5            1                 0.110                X
+  SMBJ300A*                SMBJ300CA*               QE         FE            300.0           335.00        371.00              1           486.0         1.7            1                 0.112                X
+  SMBJ350A*                SMBJ350CA*               QG         FG            350.0           391.00        432.00              1           567.0         1.5            1                 0.112                X
+  SMBJ400A*                SMBJ400CA*               QK         FK            400.0           447.00        494.00              1           648.0         1.3            1                 0.112                X
+  SMBJ440A*                SMBJ440CA*               QM         FM            440.0           492.00        543.00              1           713.0         1.1            1                 0.112                X
+Notes:
+For bidirectional type having VR of 10 volts and less, the IR limit is double and for stack-die parts, use * to label the part number.
+For uni-directional 5 V to 250 V, bi-directional 5 V to 250 V, add “-E” to the part number for COO Ex-China Site.
+
+
+
+
+                                                                                                                                                                                                 © 2025 Littelfuse, Inc.
+                                                                                                                                                                  Specifications are subject to change without notice.
+                                                                                                                                                                                               Revised: JC.07/04/25 v4.
+                                                              TVS Diodes
+                                                              Surface Mount – 600 W > SMBJ series
+
+
+
+ I-V Curve Characteristics
+
+
+                      Uni-directional                                                                            Bi-directional
+                                                                                                                                    Ipp
+
+
+
+
+                                                                                                                                    IT
+                                                                                                           Vc VBR VR                IR
+                      Vc VBR VR                                                                                                                                                V
+                                                               V                                                                          IR               VR VBR Vc
+                                                  IR VF                                                                                   IT
+                                                  IT
+
+
+
+
+                                                                                                                                          Ipp
+                                                  Ipp
+
+
+
+PPPM Peak Pulse Power Dissipation (IPP x VC) -- Max power dissipation
+VR Stand-off Voltage -- Maximum voltage that can be applied to the TVS without operation
+VBR Breakdown Voltage -- Maximum voltage that flows though the TVS at a specified test current (IT)
+VC Clamping Voltage -- Peak voltage measured across the TVS at a specified IPPM (peak impulse current)
+IR Reverse Leakage Current -- Current measured at VR
+VF Forward Voltage Drop for Uni-directional
+
+
+ Ratings and Characteristic Curves (T =25°C unless otherwise noted)
+                                                          A
+
+
+
+
+ Figure 1 - TVS Transients Clamping Waveform                                Figure 2 - Typical Peak Pulse Power Rating
+
+                                                                                                           100
+                                                                                                                                                                         TJ initial = Tamb
+
+
+
+
+                                                                              PPPM-Peak Pulse Power (kW)
+                              Transient Voltage
+
+
+
+
+ Voltage or Current
+                                                                                                           10                                   stacked-die, 800W
+                                                                                                                                                at 10/1000µs, 25°C
+
+
+
+                                                                                                             1         Single die,600W
+                                                                                                                       at 10/1000µs, 25°C
+
+
+
+                                                                                                           0.1
+                                                                                                              0.001          0.01                  0.1                  1                    10
+                                  Current Through TVS
+                                                                                                                                          td-Pulse Width (ms)
+                                                              Time
+
+
+
+
+                                                                                                                                                                           © 2025 Littelfuse, Inc.
+                                                                                                                                            Specifications are subject to change without notice.
+                                                                                                                                                                         Revised: JC.07/04/25 v4.
+                                                                                                                                              TVS Diodes
+                                                                                                                                              Surface Mount – 600 W > SMBJ series
+
+
+
+Ratings and Characteristic Curves (T =25°C unless otherwise noted) (Continued)                                               A
+
+
+
+
+Figure 3 - Peak Pulse Power Derating Curve                                                                                                                  Figure 4 - Pulse Waveform
+
+                                                                                  100                                                                                                                         150
+
+
+
+
+                                        Peak Pulse Power (PPP) or Current (IPP)
+                                                                                                                                                                                                                         tr=10µsec               TJ=25°C
+
+
+
+
+                                                                                                                                                                           IPPM- Peak Pulse Current, % IRSM
+                                                                                                                                                                                                                                                 Pulse Width(td) is defined
+                                                                                  80                                                                                                                                                             as the point where the peak
+                                                                                                                                                                                                                                                 current decays to 50% of IPPM
+                                                                                                                                                                                                                             Peak Value
+                                                                                                                                                                                                              100            IPPM
+                                                                                  60
+
+
+
+
+                                              Derating in Percentage %
+                                                                                                                                                                                                                                     Half Value
+                                                                                  40
+                                                                                                                                                                                                                                            ( )
+                                                                                                                                                                                                                                     IPPM IPPM
+                                                                                                                                                                                                                                                 2
+
+
+                                                                                  20
+                                                                                                                                                                                                              50                                 10/1000µsec. Waveform
+                                                                                                                                                                                                                                                 as defined by R.E.A
+
+
+                                                                                   0
+                                                                                         0   25      50       75     100  125 150         175                                                                           td
+                                                                                               TJ - Initial Junction Temperature (ºC)                                                                          0
+                                                                                                                                                                                                                    0        1.0          2.0               3.0                  4.0
+                                                                                                                                                                                                                                     t-Time (ms)
+
+
+
+
+                                                                                                                                                            Figure 6 - Maximum Non-Repetitive Peak Forward
+Figure 5 - Typical Junction Capacitance
+                                                                                                                                                                       Surge Current Uni-Directional Only
+
+                                                                                                                                                                                                              120
+                                        10000.00
+
+
+
+
+                                                                                                                                                                IFSM - Peak Forward Surge Current (A)
+                                                                                                                 Uni-direconal V=0V
+                                                                                                                                                                                                              100
+                                            1000.00                                                                         Bi-direconal V=0V
+                                                                                                                                                                                                               80
+
+
+                               Cj(pf)                100.00                                                                                                                                                    60
+                                                                                                               Uni-direconal
+                                                                                                               Bi-direconal
+                                                                                                                                                                                                               40
+                                                                                                                   V=VR
+                                                              10.00
+                                                                                                                                                                                                               20
+
+                                                                       1.00
+                                                                                                                                                                                                                0
+                                                                           1.00                        10.00           100.00                   1000.00
+                                                                                                                                                                                                                    1                       10                                    100
+                                                                                                   VBR—Reverse Breakdown Voltage(V)
+                                                                                                                                                                                                                             Number of Cycles at 60 Hz
+
+
+
+
+Figure 7 - Peak Forward Voltage Drop vs Peak Forward
+           Current (Typical Values)
+
+                               100.0
+                                                                             Single die
+
+
+
+
+IF - Peak Forward Current(A)
+                                10.0                                                               Stacked-die
+
+
+
+
+                                  1.0
+
+
+
+
+                                  0.1
+                                                 0.0                                   1.0   2.0     3.0     4.0      5.0     6.0       7.0     8.0   9.0
+                                                                                                      VF - Peak Forward Voltage(V)
+
+                                                                                                                                                                                                                                                                    © 2025 Littelfuse, Inc.
+                                                                                                                                                                                                                                     Specifications are subject to change without notice.
+                                                                                                                                                                                                                                                                  Revised: JC.07/04/25 v4.
+                                                                      TVS Diodes
+                                                                      Surface Mount – 600 W > SMBJ series
+
+
+
+Soldering Parameters
+
+Reflow Condition                                               Lead–free assembly
+              - Temperature Min (Ts(min))                      150°C                                                                                             tp
+                                                                                                          TP
+Pre Heat      - Temperature Max (Ts(max))                      200°C
+                                                                                                                                                    Ramp-up                           Critical Zone
+              - Time (min to max) (ts)                         60 – 120 secs                              TL
+                                                                                                                                                                                         TL to TP
+                                                                                                                                                                          tL
+Average ramp up rate (Liquidus Temp (TL) to peak               3°C/second max
+
+
+
+                                                                                    Temperature (T)
+                                                                                                      Ts(max)
+TS(max) to TL - Ramp-up Rate                                   3°C/second max
+                                                                                                                                                                                 Ramp-down
+              - Temperature (TL) (Liquidus)                    217°C                                  Ts(min)
+Reflow                                                                                                                      ts
+              - Time (min to max) (tL)                         60 – 150 seconds                                           Preheat
+
+
+Peak Temperature (TP)                                          260+0/-5 °C
+                                                                                                        25˚C
+Time within 5°C of actual peak Temperature (tp)                30 seconds max                                               t 25˚C to Peak
+                                                                                                                                              Time (t)
+Ramp-down Rate                                                 6°C/second max
+Time 25°C to peak Temperature (TP)                             8 minutes Max.
+Do not exceed                                                  260°C
+                                                                                    Environmental Specifications
+
+
+Physical Specifications                                                             High Temp Voltage                       100 % DC reverse voltage rated 150 °C,
+                                                                                    Blocking (HTRB)                         1008 hours JEDEC, JESD22-A-108
+Weight            0.003 ounce, 0.093 grams
+                  JEDEC DO214AA. Molded plastic body over glass                                                             80 % breakdown voltage (+85 °C) 85
+Case                                                                                Biased Temp &
+                  passivated junction                                                                                       %RH, 1008 hours JEDEC, JESD22-A-101
+                  Uni-directional products are denoted with
+Polarity                                                                            Unbiased Highly
+                  a cathode band                                                                                            96 hours at TA = 130 °C/85 %RH. JEDEC,
+                                                                                    Accelerated
+Terminal          Matte Tin-plated leads, Solderable per JESD22-B102                Stress Test (UHAST)                     JESD22-A-118
+
+                                                                                                                            -55 °C to +150 °C, 15 min. dwell, 1000
+                                                                                    Temp Cycling (TC)
+                                                                                                                            cycles. JEDEC, JESD22-A104
+                                                                                                                            85 %RH, +85 °C, 168 hours, 3 reflow
+                                                                                    Moisture Sensitivity
+                                                                                    Level (MSL)
+                                                                                                                            cycles (+260 °C Peak). JEDEC, JEDEC-J-
+                                                                                                                            STD-020, Level 1
+                                                                                    Resistance to Solder                    +260 °C, 30 seconds JEDEC, JEDEC
+                                                                                    Heat (RSH)                              JESD22-A-111
+
+
+Dimensions
+
+                          DO-214AA (SMB J-Bend)                                                                                  Inches                                   Millimeters
+                                                                                        Dimensions
+                                        Cathode Band                                                                Min                       Max                 Min                 Max
+                                        (for Uni-directional products only)                                 A       0.076                    0.086               1.930               2.200
+                                                                                                            B       0.160                    0.187               4.060               4.750
+                                                                                                            C       0.130                    0.155               3.300               3.940
+                  A                                               C                                         D       0.078                    0.103               1.990               2.610
+                                                                                                            E       0.030                    0.060               0.760               1.520
+                                                                                                            F         -                      0.008                    -              0.203
+                                             B                                                              G       0.205                    0.220               5.210               5.590
+                                                                                                            H       0.006                    0.012               0.152               0.305
+                                                             H                                                  I   0.089                       -                2.260                   -
+                  D                                                                                         J       0.085                       -                2.160                   -
+                                                                                                            K         -                      0.107                    -              2.740
+                                                                                                            L       0.085                       -                2.160                   -
+                                                  F
+                      E                      G
+
+                            J              K             L
+
+
+              I
+
+                                 Solder Pads                                                                                                                                © 2025 Littelfuse, Inc.
+                                (all dimensions in mm)                                                                                       Specifications are subject to change without notice.
+                                                                                                                                                                          Revised: JC.07/04/25 v4.
+                                                                                        TVS Diodes
+                                                                                        Surface Mount – 600 W > SMBJ series
+
+
+
+  Part Numbering System                                                                                                   Part Marking System
+
+                  SMBJ              XXX C A
+                                                               Manufacture Site/ COO                                                                                     Cathode Band
+                                                                Blank : China + Ex-China                                                                                 (for uni-directional products only)
+                                                                -E : Ex-China
+
+
+                                                          5% VBR Voltage Tolerance
+                                                                                                                                       F                                Littelfuse Logo
+
+
+
+
+                                              VR Voltage
+                                                        Bi-Directional
+                                                                                                                                                 XX
+                                                                                                                                              YMXXX
+                                                                                                                                                                          Marking Code
+
+                                                                                                                                                                         Trace Code Marking
+                               Series                                                                                                                                     Y:Year Code
+                                                                                                                                                                          M: Month Code
+                                                                                                                                                                          XXX: Lot Code
+
+
+
+
+  Ordering and Packaging Optionsrdering and Packaging Options
+
+    Part number               Component Package                      Quantity                        Packaging Option                             Packaging Specification                      Manufacture Site/ COO
+
+     SMBJxxxXX                        DO-214AA                          3000              Tape & Reel - 12mm tape/13” reel                              EIA STD RS-481                             China + Ex-China
+ SMBJxxxXX-E(1)(2)                    DO-214AA                          3000              Tape & Reel - 12mm tape/13” reel                              EIA STD RS-481                                 Ex-China
+  Footnote:
+  1. Uni-directional products voltage range from 5 V to 250 V.
+  2. Bi-directional products voltage range from 5 V to 250 V.
+
+
+  Tape and Reel Specification
+
+
+                     0.157
+                      (4.0)
+
+
+    0.47
+   (12.0)                                                                                                                                                                                                                Cathode
+
+
+                                        0.315                                               0.059 DIA           Cover tape
+                                        (8.0)                                               (1.5)
+
+                                                13.0 (330)
+                                                                                               Dimensions are in inches
+     0.80 (20.2)                                                                               (and millimeters).
+Arbor Hole Dia.
+
+
+                                                                                                Direction of Feed
+       0.49
+      (12.5)
+
+
+                                                                           Label
+
+
+
+
+Disclaimer Notice - Information furnished is believed to be accurate and reliable. However, users should independently evaluate the suitability of and test each product selected for their own applications. Littelfuse products are
+not designed for, and may not be used in, all applications. Read complete Disclaimer Notice at: www.littelfuse.com/disclaimer-electronics.
+                                                                                                                                                                                                                 © 2025 Littelfuse, Inc.
+                                                                                                                                                                             Specifications are subject to change without notice.
+                                                                                                                                                                                                              Revised: JC.07/04/25 v4.
+

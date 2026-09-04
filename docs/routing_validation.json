@@ -1,6 +1,6 @@
 {
   "pcb": "astra_piNas.kicad_pcb",
-  "pcb_sha256": "2db074109a6283911c26a3dc7f367133a730e5dbd06374e56e6ac0732f2b46cd",
+  "pcb_sha256": "fd833c338e9434ecb97d58ff42da7cc4f7e287abc61ec0572f99c57eb6de9322",
   "outline_mm": [
     100,
     120
@@ -10,7 +10,7 @@
   "track_segments": 2408,
   "through_vias": 692,
   "footprints": 176,
-  "local_board_models_checked": 29,
+  "local_board_models_checked": 167,
   "ground_reference_layers_have_no_tracks": true,
   "high_speed_tracks_are_on_outer_layers": true,
   "retained_track_net_assignments_unchanged": true,
@@ -37,5 +37,11 @@
     "Footprint doesn't match symbol's footprint filters",
     "Footprint component type doesn't match footprint pads"
   ],
-  "checked_utc": "2026-09-04T23:21:47.003859+00:00"
+  "checked_utc": "2026-09-04T23:21:47.003859+00:00",
+  "model_only_update": {
+    "previous_pcb_sha256": "2db074109a6283911c26a3dc7f367133a730e5dbd06374e56e6ac0732f2b46cd",
+    "updated_utc": "2026-09-04T23:50:44.518494+00:00",
+    "geometry_and_connectivity_unchanged": true,
+    "passives_with_models": 142
+  }
 }

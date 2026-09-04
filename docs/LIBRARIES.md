@@ -14,7 +14,7 @@
 | YIYUAN SMTSOM225BTR and SMTSOM240BTR spacers | Custom footprints from the YIYUAN family drawing, M2 row: 6.2 mm minimum solder land and 3.73 mm finished hole. Plated holes selected (the drawing permits plating); four separate paste sectors avoid paste over the holes. Heights 2.5 and 4 mm. Verified LCSC pages C5301773 and C19626599. |
 | WC-PD60B120A | **Incomplete custom candidate footprint.** The eight electrical pins use dimensions from the module drawing; support pins 9/10 are deliberately absent because their X position is not dimensioned. The body envelope is for placement only. Do not fabricate. |
 
-Available imported WRL/STEP files are stored under `lib/astra_piNas.3dshapes`. Missing optional 3D models were not replaced with guessed geometry. A full assembled CM5/SSD/heatsink model is not provided. All existing model links resolve locally; stock-library models were removed from vendored footprints when not included.
+Available imported WRL/STEP files are stored under `lib/astra_piNas.3dshapes`. Missing optional 3D models were not replaced with guessed geometry. A full assembled CM5/SSD/heatsink model is not provided. All existing model links resolve locally; all 138 resistors and capacitors now link to seven vendored KiCad STEP package models, alongside the existing four inductor models. The generic resistor/capacitor models are visual package representations, not manufacturer-specific height or clearance certification. Their original copyright headers are preserved; see [KiCad model license](../lib/astra_piNas.3dshapes/KICAD-MODELS-LICENSE.md). Model links are present in both the board and local footprint library.
 
 ## Primary technical sources
 

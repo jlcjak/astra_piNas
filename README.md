@@ -34,6 +34,10 @@ The main project files above are the current design. Local routing experiments, 
 
 **Board views**
 
+Slightly angled 3D views of both sides, with project-local passive models:
+
+[![Angled top and bottom 3D views](docs/images/board-3d-overview.png)](docs/images/board-3d-overview.png)
+
 Top and bottom placement views:
 
 | Top | Bottom |
